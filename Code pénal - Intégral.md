@@ -1,5 +1,5 @@
 # Code pénal  
-Version Consolidée au 1995-02-05
+Version Consolidée au 1995-02-09
 ## Contenu: 
   - [Partie législative (art. 111-1 à 521-2)](#1)
     - [Livre Ier : Dispositions générales (art. 111-1 à 133-17)](#2)
@@ -183,7 +183,7 @@ Version Consolidée au 1995-02-05
             - [Paragraphe 1 : De la concussion (art. 432-10)](#180)
             - [Paragraphe 2 : De la corruption passive et du trafic d'influence commis par des personnes exerçant une fonction publique (art. 432-11)](#181)
             - [Paragraphe 3 : De la prise illégale d'intérêts (art. 432-12 à 432-13)](#182)
-            - [Paragraphe 4 : Des atteintes à la liberté d'accès et à l'égalité des candidats dans les marchés publics. (art. 432-14)](#183)
+            - [Paragraphe 4 : Des atteintes à la liberté d'accès et à l'égalité des candidats dans les marchés publics et les délégations de service public (art. 432-14)](#183)
             - [Paragraphe 5 : De la soustraction et du détournement de biens (art. 432-15 à 432-16)](#184)
           - [Section 4 : Peines complémentaires (art. 432-17)](#185)
         - [Chapitre III : Des atteintes à l'administration publique commises par les particuliers (art. 433-1 à 433-25)](#186)
@@ -7651,13 +7651,12 @@ _Cite_:
 
 ###### Article 132-57
 
-Toute juridiction ayant prononcé hors la présence du prévenu, pour un délit de droit commun, une condamnation comportant un
-emprisonnement ferme de six mois au plus peut, lorsque cette condamnation n'est plus susceptible de faire l'objet d'une voie
-de recours par le condamné, ordonner qu'il sera sursis à l'exécution de cette peine et que le condamné accomplira, au profit
-d'une collectivité publique, d'un établissement public ou d'une association, un travail d'intérêt général non rémunéré d'une
-durée qui ne pourra être inférieure à quarante heures ni supérieure à deux cent-quarante heures. L'exécution de l'obligation
-d'accomplir un travail d'intérêt général est soumise aux prescriptions du troisième alinéa de l'article 132-54 et des
-articles 132-55 et 132-56.
+Toute juridiction ayant prononcé, pour un délit de droit commun, une condamnation comportant un emprisonnement ferme de six
+mois au plus peut, lorsque cette condamnation n'est plus susceptible de faire l'objet d'une voie de recours par le condamné,
+ordonner qu'il sera sursis à l'exécution de cette peine et que le condamné accomplira, au profit d'une collectivité publique,
+d'un établissement public ou d'une association, un travail d'intérêt général non rémunéré d'une durée qui ne pourra être
+inférieure à quarante heures ni supérieure à deux cent-quarante heures. L'exécution de l'obligation d'accomplir un travail
+d'intérêt général est soumise aux prescriptions du troisième alinéa de l'article 132-54 et des articles 132-55 et 132-56.
 
 **Liens relatifs à cet article**
 
@@ -7681,7 +7680,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°92-1336 du 16 décembre 1992 - art. 352 () JORF 23 décembre 1992 en vigueur le 1er mars 1994
+  - Loi n°95-125 du 8 février 1995 - art. 45 () JORF 9 février 1995
 
 _Cite_:
 
@@ -21715,17 +21714,17 @@ _Codifié par_:
   - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
 
 
-##### Paragraphe 4 : Des atteintes à la liberté d'accès et à l'égalité des candidats dans les marchés publics.<a id=183></a>
+##### Paragraphe 4 : Des atteintes à la liberté d'accès et à l'égalité des candidats dans les marchés publics et les délégations de service public<a id=183></a>
 
 ###### Article 432-14
 
-Est puni de deux ans d'emprisonnement et de 200 000 F d'amende le fait, par une personne dépositaire de l'autorité publique
-ou chargée d'une mission de service public ou investie d'un mandat électif public ou exerçant les fonctions de représentant,
-administrateur ou agent de l'Etat, d'un établissement public n'ayant pas le caractère industriel ou commercial, d'une
-collectivité territoriale ou d'un de ses établissements publics ou d'une société d'économie mixte, ou par toute personne
-agissant pour le compte de l'une de celles susvisées, de procurer ou de tenter de procurer à autrui un avantage injustifié
-par un acte contraire aux dispositions législatives ou réglementaires ayant pour objet de garantir la liberté d'accès et
-l'égalité des candidats dans les marchés passés par l'Etat et les collectivités ou organismes mentionnés plus haut.
+Est puni de deux ans d'emprisonnement et de 200 000 F d'amende le fait par une personne dépositaire de l'autorité publique ou
+chargée d'une mission de service public ou investie d'un mandat électif public ou exerçant les fonctions de représentant,
+administrateur ou agent de l'Etat, des collectivités territoriales, des établissements publics, des sociétés d'économie mixte
+d'intérêt national chargées d'une mission de service public et des sociétés d'économie mixte locales ou par toute personne
+agissant pour le compte de l'une de celles susmentionnées de procurer ou de tenter de procurer à autrui un avantage
+injustifié par un acte contraire aux dispositions législatives ou réglementaires ayant pour objet de garantir la liberté
+d'accès et l'égalité des candidats dans les marchés publics et les délégations de service public.
 
 **Liens relatifs à cet article**
 
@@ -21743,6 +21742,10 @@ _Codifié par_:
 
   - SPEC_APPLI: Loi n°92-686 1992-07-22 art. 1
   - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
+
+_Modifié par_:
+
+  - Loi n°95-127 du 8 février 1995 - art. 10 () JORF 9 février 1995
 
 
 ##### Paragraphe 5 : De la soustraction et du détournement de biens<a id=184></a>
