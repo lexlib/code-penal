@@ -1,5 +1,5 @@
 # Code pénal  
-Version Consolidée au 2004-08-07
+Version Consolidée au 2004-08-11
 ## Contenu: 
   - [Partie législative (art. 111-1 à 727-3)](#1)
     - [Livre Ier : Dispositions générales (art. 111-1 à 133-17)](#2)
@@ -13780,8 +13780,9 @@ _Cite_:
 ###### Article 223-8
 
 Le fait de pratiquer ou de faire pratiquer sur une personne une recherche biomédicale sans avoir recueilli le consentement
-libre, éclairé et exprès de l'intéressé, des titulaires de l'autorité parentale ou du tuteur dans les cas prévus par les
-dispositions du code de la santé publique est puni de trois ans d'emprisonnement et de 45000 euros d'amende.
+libre, éclairé et exprès de l'intéressé, des titulaires de l'autorité parentale ou du tuteur ou d'autres personnes, autorités
+ou organes désignés pour consentir à la recherche ou pour l'autoriser, dans les cas prévus par les dispositions du code de la
+santé publique est puni de trois ans d'emprisonnement et de 45 000 euros d'amende.
 
 Les mêmes peines sont applicables lorsque la recherche biomédicale est pratiquée alors que le consentement a été retiré.
 
@@ -13796,7 +13797,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2004-800 du 6 août 2004 - art. 5 () JORF 7 août 2004
+  - Loi n°2004-806 du 9 août 2004 - art. 94 () JORF 11 août 2004
 
 _Cité par_:
 
