@@ -1,5 +1,5 @@
 # Code pénal  
-Version Consolidée au 2004-03-10
+Version Consolidée au 2004-06-22
 ## Contenu: 
   - [Partie législative (art. 111-1 à 727-3)](#1)
     - [Livre Ier : Dispositions générales (art. 111-1 à 133-17)](#2)
@@ -25,7 +25,7 @@ Version Consolidée au 2004-03-10
             - [Sous-section 1 : Des peines criminelles et correctionnelles (art. 131-37 à 131-39)](#22)
             - [Sous-section 2 : Des peines contraventionnelles (art. 131-40 à 131-44)](#23)
             - [Sous-section 3 : Du contenu et des modalités d'application de certaines peines (art. 131-45 à 131-49)](#24)
-        - [Chapitre II : Du régime des peines (art. 132-1 à 132-78)](#25)
+        - [Chapitre II : Du régime des peines (art. 132-1 à 132-79)](#25)
           - [Section 1 : Dispositions générales (art. 132-2 à 132-23)](#26)
             - [Sous-section 1 : Des peines applicables en cas de concours d'infractions (art. 132-2 à 132-7)](#27)
             - [Sous-section 2 : Des peines applicables en cas de récidive (art. 132-8 à 132-16-2)](#28)
@@ -51,7 +51,7 @@ Version Consolidée au 2004-03-10
               - [Paragraphe 2 : De l'ajournement simple (art. 132-60 à 132-62)](#48)
               - [Paragraphe 3 : De l'ajournement avec mise à l'épreuve (art. 132-63 à 132-65)](#49)
               - [Paragraphe 4 : De l'ajournement avec injonction (art. 132-66 à 132-70)](#50)
-          - [Section 3 : De la définition de certaines circonstances entraînant l'aggravation, la diminution ou l'exemption des peines (art. 132-71 à 132-78)](#51)
+          - [Section 3 : De la définition de certaines circonstances entraînant l'aggravation, la diminution ou l'exemption des peines (art. 132-71 à 132-79)](#51)
         - [Chapitre III : De l'extinction des peines et de l'effacement des condamnations (art. 133-1 à 133-17)](#52)
           - [Section 1 : De la prescription (art. 133-2 à 133-6)](#53)
           - [Section 2 : De la grâce (art. 133-7 à 133-8)](#54)
@@ -2471,7 +2471,8 @@ _Cite_:
 Lorsque la loi le prévoit, un crime ou un délit peut être sanctionné d'une ou de plusieurs peines complémentaires qui,
 frappant les personnes physiques, emportent interdiction, déchéance, incapacité ou retrait d'un droit, injonction de soins ou
 obligation de faire, immobilisation ou confiscation d'un objet, fermeture d'un établissement ou affichage de la décision
-prononcée ou diffusion de celle-ci soit par la presse écrite, soit par tout moyen de communication audiovisuelle.
+prononcée ou diffusion de celle-ci soit par la presse écrite, soit par tout moyen de communication au public par voie
+électronique.
 
 **Liens relatifs à cet article**
 
@@ -2495,14 +2496,13 @@ _Codifié par_:
 
   - Loi n°92-683 1992-07-22
 
-**Liens**:
-
-  - SPEC_APPLI: Loi n°92-683 1992-07-22 art. 1
-  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
-
 _Modifié par_:
 
-  - Loi n°98-468 du 17 juin 1998 - art. 5 () JORF 18 juin 1998
+  - Loi n°2004-575 du 21 juin 2004 - art. 2 () JORF 22 juin 2004
+
+**Liens**:
+
+  - SPEC_APPLI: Loi n°2004-575 du 21 juin 2004 art. 57 I : Champ d'application
 
 
 ###### Article 131-11
@@ -4334,9 +4334,9 @@ loi qui réprime l'infraction, l'affichage ne peut excéder deux mois. En cas de
 affiches apposées, il est de nouveau procédé à l'affichage aux frais de la personne reconnue coupable de ces faits.
 
 La diffusion de la décision est faite par le Journal officiel de la République française, par une ou plusieurs autres
-publications de presse, ou par un ou plusieurs services de communication audiovisuelle. Les publications ou les services de
-communication audiovisuelle chargés de cette diffusion sont désignés par la juridiction. Ils ne peuvent s'opposer à cette
-diffusion.
+publications de presse, ou par un ou plusieurs services de communication au public par voie électronique. Les publications ou
+les services de communication au public par voie électronique chargés de cette diffusion sont désignés par la juridiction.
+Ils ne peuvent s'opposer à cette diffusion.
 
 **Liens relatifs à cet article**
 
@@ -4626,10 +4626,13 @@ _Codifié par_:
 
   - Loi n°92-683 1992-07-22
 
+_Modifié par_:
+
+  - Loi n°2004-575 du 21 juin 2004 - art. 2 () JORF 22 juin 2004
+
 **Liens**:
 
-  - SPEC_APPLI: Loi n°92-683 1992-07-22 art. 1
-  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
+  - SPEC_APPLI: Loi n°2004-575 du 21 juin 2004 art. 57 I : Champ d'application
 
 
 ###### Article 131-35-1
@@ -5485,7 +5488,7 @@ fonds par le tireur auprès du tiré ou ceux qui sont certifiés ou d'utiliser d
 8° La confiscation de la chose qui a servi ou était destinée à commettre l'infraction ou de la chose qui en est le produit ;
 
 9° L'affichage de la décision prononcée ou la diffusion de celle-ci soit par la presse écrite, soit par tout moyen de
-communication audiovisuelle.
+communication au public par voie électronique.
 
 Les peines définies aux 1° et 3° ci-dessus ne sont pas applicables aux personnes morales de droit public dont la
 responsabilité pénale est susceptible d'être engagée. Elles ne sont pas non plus applicables aux partis ou groupements
@@ -5897,14 +5900,13 @@ _Codifié par_:
 
   - Loi n°92-683 1992-07-22
 
-**Liens**:
-
-  - SPEC_APPLI: Loi n°92-683 1992-07-22 art. 1
-  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
-
 _Modifié par_:
 
-  - Loi n°2001-504 du 12 juin 2001 - art. 14 () JORF 13 juin 2001
+  - Loi n°2004-575 du 21 juin 2004 - art. 2 () JORF 22 juin 2004
+
+**Liens**:
+
+  - SPEC_APPLI: Loi n°2004-575 du 21 juin 2004 art. 57 I : Champ d'application
 
 
 ##### Sous-section 2 : Des peines contraventionnelles<a id=23></a>
@@ -9474,6 +9476,54 @@ _Cité par_:
   - Code de procédure pénale - art. 181 (VT)
   - Code de procédure pénale - art. 215 (V)
   - Code de procédure pénale - art. 706-63-1 (VD)
+
+
+###### Article 132-79
+
+Lorsqu'un moyen de cryptologie au sens de l'article 29 de la loi n° 2004-575 du 21 juin 2004 pour la confiance dans
+l'économie numérique a été utilisé pour préparer ou commettre un crime ou un délit, ou pour en faciliter la préparation ou la
+commission, le maximum de la peine privative de liberté encourue est relevé ainsi qu'il suit : 
+
+1° Il est porté à la réclusion criminelle à perpétuité lorsque l'infraction est punie de trente ans de réclusion
+criminelle ; 
+
+2° Il est porté à trente ans de réclusion criminelle lorsque l'infraction est punie de vingt ans de réclusion criminelle ; 
+
+3° Il est porté à vingt ans de réclusion criminelle lorsque l'infraction est punie de quinze ans de réclusion criminelle ; 
+
+4° Il est porté à quinze ans de réclusion criminelle lorsque l'infraction est punie de dix ans d'emprisonnement ; 
+
+5° Il est porté à dix ans d'emprisonnement lorsque l'infraction est punie de sept ans d'emprisonnement ; 
+
+6° Il est porté à sept ans d'emprisonnement lorsque l'infraction est punie de cinq ans d'emprisonnement ; 
+
+7° Il est porté au double lorsque l'infraction est punie de trois ans d'emprisonnement au plus. 
+
+Les dispositions du présent article ne sont toutefois pas applicables à l'auteur ou au complice de l'infraction qui, à la
+demande des autorités judiciaires ou administratives, leur a remis la version en clair des messages chiffrés ainsi que les
+conventions secrètes nécessaires au déchiffrement.
+
+**Liens relatifs à cet article**
+
+**Liens**:
+
+  - SPEC_APPLI: Loi n°2004-575 du 21 juin 2004 art. 57 I : Champ d'application
+
+_Codifié par_:
+
+  - Loi n°92-683 1992-07-22
+
+_Cite_:
+
+  - Loi n°2004-575 du 21 juin 2004 - art. 29 (V)
+
+_Créé par_:
+
+  - Loi n°2004-575 du 21 juin 2004 - art. 37 () JORF 22 juin 2004
+
+_Cité par_:
+
+  - Code de procédure pénale - art. 398-1 (VD)
 
 
 #### Chapitre III : De l'extinction des peines et de l'effacement des condamnations<a id=52></a>
@@ -19206,10 +19256,10 @@ _Modifié par_:
 
 Le fait, en vue de sa diffusion, de fixer, d'enregistrer ou de transmettre l'image ou la représentation d'un mineur lorsque
 cette image ou cette représentation présente un caractère pornographique est puni de trois ans d'emprisonnement et de 45000
-euros d'amende.
+euros d'amende. La tentative est punie des mêmes peines.
 
-Le fait de diffuser une telle image ou représentation, par quelque moyen que ce soit, de l'importer ou de l'exporter, de la
-faire importer ou de la faire exporter, est puni des mêmes peines.
+Le fait d'offrir ou de diffuser une telle image ou représentation, par quelque moyen que ce soit, de l'importer ou de
+l'exporter, de la faire importer ou de la faire exporter, est puni des mêmes peines.
 
 Les peines sont portées à cinq ans d'emprisonnement et à 75000 euros d'amende lorsqu'il a été utilisé, pour la diffusion de
 l'image ou de la représentation du mineur à destination d'un public non déterminé, un réseau de télécommunications.
@@ -19253,7 +19303,11 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2004-204 du 9 mars 2004 - art. 6 () JORF 10 mars 2004
+  - Loi n°2004-575 du 21 juin 2004 - art. 44 () JORF 22 juin 2004
+
+**Liens**:
+
+  - SPEC_APPLI: Loi n°2004-575 du 21 juin 2004 art. 57 I : Champ d'application
 
 
 ###### Article 227-24
@@ -22866,10 +22920,10 @@ _Cite_:
 ###### Article 323-1
 
 Le fait d'accéder ou de se maintenir, frauduleusement, dans tout ou partie d'un système de traitement automatisé de données
-est puni d'un an d'emprisonnement et de 15000 euros d'amende.
+est puni de deux ans d'emprisonnement et de 30000 euros d'amende.
 
 Lorsqu'il en est résulté soit la suppression ou la modification de données contenues dans le système, soit une altération du
-fonctionnement de ce système, la peine est de deux ans d'emprisonnement et de 30000 euros d'amende.
+fonctionnement de ce système, la peine est de trois ans d'emprisonnement et de 45000 euros d'amende.
 
 **Liens relatifs à cet article**
 
@@ -22877,14 +22931,9 @@ _Codifié par_:
 
   - Loi n°92-685 1992-07-22
 
-**Liens**:
-
-  - SPEC_APPLI: Loi n°92-685 1992-07-22 art. 1
-  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
-
 _Modifié par_:
 
-  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+  - Loi n°2004-575 du 21 juin 2004 - art. 45 () JORF 22 juin 2004
 
 _Cité par_:
 
@@ -22896,32 +22945,35 @@ _Cité par_:
   - Code pénal - art. 323-3-1 (V)
   - Code pénal - art. 323-4-1 (V)
 
+**Liens**:
+
+  - SPEC_APPLI: Loi n°2004-575 du 21 juin 2004 art. 57 I : Champ d'application
+
 
 ###### Article 323-2
 
-Le fait d'entraver ou de fausser le fonctionnement d'un système de traitement automatisé de données est puni de trois ans
-d'emprisonnement et de 45000 euros d'amende.
+Le fait d'entraver ou de fausser le fonctionnement d'un système de traitement automatisé de données est puni de cinq ans
+d'emprisonnement et de 75000 euros d'amende.
 
 **Liens relatifs à cet article**
+
+**Liens**:
+
+  - SPEC_APPLI: Loi n°2004-575 du 21 juin 2004 art. 57 I : Champ d'application
 
 _Codifié par_:
 
   - Loi n°92-685 1992-07-22
 
-**Liens**:
-
-  - SPEC_APPLI: Loi n°92-685 1992-07-22 art. 1
-  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
-
 _Modifié par_:
 
-  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+  - Loi n°2004-575 du 21 juin 2004 - art. 45 () JORF 22 juin 2004
 
 
 ###### Article 323-3
 
 Le fait d'introduire frauduleusement des données dans un système de traitement automatisé ou de supprimer ou de modifier
-frauduleusement les données qu'il contient est puni de trois ans d'emprisonnement et de 45000 euros d'amende.
+frauduleusement les données qu'il contient est puni de cinq ans d'emprisonnement et de 75000 euros d'amende.
 
 **Liens relatifs à cet article**
 
@@ -22929,36 +22981,64 @@ _Codifié par_:
 
   - Loi n°92-685 1992-07-22
 
-**Liens**:
-
-  - SPEC_APPLI: Loi n°92-685 1992-07-22 art. 1
-  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
-
 _Modifié par_:
 
-  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+  - Loi n°2004-575 du 21 juin 2004 - art. 45 () JORF 22 juin 2004
+
+**Liens**:
+
+  - SPEC_APPLI: Loi n°2004-575 du 21 juin 2004 art. 57 I : Champ d'application
+
+
+###### Article 323-3-1
+
+Le fait, sans motif légitime, d'importer, de détenir, d'offrir, de céder ou de mettre à disposition un équipement, un
+instrument, un programme informatique ou toute donnée conçus ou spécialement adaptés pour commettre une ou plusieurs des
+infractions prévues par les articles 323-1 à 323-3 est puni des peines prévues respectivement pour l'infraction elle-même ou
+pour l'infraction la plus sévèrement réprimée.
+
+**Liens relatifs à cet article**
+
+**Liens**:
+
+  - SPEC_APPLI: Loi n°2004-575 du 21 juin 2004 art. 57 I : Champ d'application
+
+_Codifié par_:
+
+  - Loi n°92-685 1992-07-22
+
+_Créé par_:
+
+  - Loi n°2004-575 du 21 juin 2004 - art. 46 () JORF 22 juin 2004
+
+_Cite_:
+
+  - Code pénal 323-1 à 323-3
 
 
 ###### Article 323-4
 
 La participation à un groupement formé ou à une entente établie en vue de la préparation, caractérisée par un ou plusieurs
-faits matériels, d'une ou de plusieurs des infractions prévues par les articles 323-1 à 323-3 est punie des peines prévues
+faits matériels, d'une ou de plusieurs des infractions prévues par les articles 323-1 à 323-3-1 est punie des peines prévues
 pour l'infraction elle-même ou pour l'infraction la plus sévèrement réprimée.
 
 **Liens relatifs à cet article**
+
+**Liens**:
+
+  - SPEC_APPLI: Loi n°2004-575 du 21 juin 2004 art. 57 I : Champ d'application
 
 _Codifié par_:
 
   - Loi n°92-685 1992-07-22
 
-**Liens**:
+_Modifié par_:
 
-  - SPEC_APPLI: Loi n°92-685 1992-07-22 art. 1
-  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
+  - Loi n°2004-575 du 21 juin 2004 - art. 46 () JORF 22 juin 2004
 
 _Cite_:
 
-  - Code pénal 323-1 à 323-3
+  - Code pénal 323-1 à 323-3-1
 
 
 ###### Article 323-5
@@ -23036,22 +23116,25 @@ _Cite_:
 
 ###### Article 323-7
 
-La tentative des délits prévus par les articles 323-1 à 323-3 est punie des mêmes peines.
+La tentative des délits prévus par les articles 323-1 à 323-3-1 est punie des mêmes peines.
 
 **Liens relatifs à cet article**
+
+**Liens**:
+
+  - SPEC_APPLI: Loi n°2004-575 du 21 juin 2004 art. 57 I : Champ d'application
 
 _Codifié par_:
 
   - Loi n°92-685 1992-07-22
 
-**Liens**:
+_Modifié par_:
 
-  - SPEC_APPLI: Loi n°92-685 1992-07-22 art. 1
-  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
+  - Loi n°2004-575 du 21 juin 2004 - art. 46 () JORF 22 juin 2004
 
 _Cite_:
 
-  - Code pénal 323-1 à 323-3
+  - Code pénal 323-1 à 323-3-1
 
 
 #### Chapitre IV : Du blanchiment<a id=153></a>
