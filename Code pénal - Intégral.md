@@ -1,7 +1,7 @@
 # Code pénal  
-Version Consolidée au 1996-07-23
+Version Consolidée au 1997-01-01
 ## Contenu: 
-  - [Partie législative (art. 111-1 à 727-3)](#1)
+  - [Partie législative (art. 111-1 à 716-5)](#1)
     - [Livre Ier : Dispositions générales (art. 111-1 à 133-17)](#2)
       - [Titre Ier : De la loi pénale (art. 111-1 à 113-12)](#3)
         - [Chapitre Ier : Des principes généraux (art. 111-1 à 111-5)](#4)
@@ -231,7 +231,7 @@ Version Consolidée au 1996-07-23
     - [Livre VII : Dispositions applicables dans les territoires d'outre-mer et dans la collectivité territoriale de Mayotte. (art. 711-1 à 727-3)](#228)
       - [Titre Ier : Dispositions applicables dans les territoires d'outre-mer. (art. 711-1 à 717-3)](#229)
         - [Chapitre Ier : Dispositions générales. (art. 711-1 à 711-4)](#230)
-        - [Chapitre II : Adaptation du livre Ier. (art. 712-1 à 712-3)](#231)
+        - [Chapitre II : Adaptation du livre Ier. (art. 712-1 à 712-2)](#231)
         - [Chapitre III : Adaptation du livre II. (art. 713-1 à 713-6)](#232)
         - [Chapitre IV : Adaptation du livre III. (art. 714-1)](#233)
         - [Chapitre V : Adaptation du livre IV. (art. 715-1 à 715-5)](#234)
@@ -239,119 +239,125 @@ Version Consolidée au 1996-07-23
         - [Chapitre VII : Dispositions diverses. (art. 717-1 à 717-3)](#236)
       - [Titre II : Dispositions applicables dans la collectivité territoriale de Mayotte. (art. 721-1 à 727-3)](#237)
         - [Chapitre Ier : Dispositions générales. (art. 721-1 à 721-2)](#238)
-        - [Chapitre II : Adaptation du livre Ier. (art. 722-1 à 722-2)](#239)
+        - [Chapitre II : Adaptation du livre Ier. (art. 722-1)](#239)
         - [Chapitre III : Adaptation du livre II. (art. 723-1 à 723-6)](#240)
         - [Chapitre IV : Adaptation du livre III. (art. 724-1)](#241)
         - [Chapitre V : Adaptation du livre IV. (art. 725-1 à 725-6)](#242)
         - [Chapitre VI : Adaptation du livre V. (art. 726-1 à 726-15)](#243)
         - [Chapitre VII : Dispositions diverses. (art. 727-1 à 727-3)](#244)
-  - [Partie réglementaire - Décrets en Conseil d'Etat (art. R131-1 à R655-1)](#245)
-    - [Livre Ier : Dispositions générales (art. R131-1 à R133-2)](#246)
-      - [Titre III : Des peines (art. R131-1 à R133-2)](#247)
-        - [Chapitre Ier : De la nature des peines (art. R131-1 à R131-36)](#248)
-          - [Section 1 : Des peines applicables aux personnes physiques (art. R131-1 à R131-34)](#249)
-            - [Sous-section 1 : De la suspension du permis de conduire, de l'interdiction de conduire certains véhicules et de l'immobilisation de véhicule (art. R131-1 à R131-11)](#250)
-              - [Paragraphe 1 : De la suspension du permis de conduire. (art. R131-1 à R131-2)](#251)
-              - [Paragraphe 2 : De l'interdiction de conduire certains véhicules. (art. R131-3 à R131-4)](#252)
-              - [Paragraphe 3 : De l'immobilisation de véhicule. (art. R131-5 à R131-11)](#253)
-            - [Sous-section 2 : Du travail d'intérêt général (art. R131-12 à R131-34)](#254)
-              - [Paragraphe 1 : Des modalités d'habilitation des associations et d'établissement de la liste des travaux d'intérêt général (art. R131-12 à R131-22)](#255)
-                - [A. : Des modalités d'habilitation des associations. (art. R131-12 à R131-16)](#256)
-                - [B. : De l'établissement de la liste des travaux d'intérêt général. (art. R131-17 à R131-20)](#257)
-                - [C. : Dispositions diverses. (art. R131-21 à R131-22)](#258)
-              - [Paragraphe 2 : De l'exécution du travail d'intérêt général (art. R131-23 à R131-34)](#259)
-                - [A. : De la décision du juge de l'application des peines fixant les modalités d'exécution du travail d'intérêt général (art. R131-23 à R131-28)](#260)
-                - [B. : Du contrôle de l'exécution du travail d'intérêt général (art. R131-29 à R131-34)](#261)
-          - [Section 2 : Des peines applicables aux personnes morales. (art. R131-35 à R131-36)](#262)
-        - [Chapitre III : De l'extinction des peines et de l'effacement des condamnations (art. R133-1 à R133-2)](#263)
-          - [Section 2 : De la grâce (art. R133-1 à R133-2)](#264)
-    - [Livre II : Des crimes et délits contre les personnes (art. R226-1 à R226-12)](#265)
-      - [Titre II : Des atteintes à la personne humaine (art. R226-1 à R226-12)](#266)
-        - [Chapitre VI : Des atteintes à la personnalité (art. R226-1 à R226-12)](#267)
-          - [Section 1 : De l'atteinte à la vie privée (art. R226-1 à R226-12)](#268)
-    - [Livre III : Des crimes et délits contre les biens (art. R321-1 à R321-12)](#269)
-      - [Titre II : Des autres atteintes aux biens (art. R321-1 à R321-12)](#270)
-        - [Chapitre Ier : Du recel et des infractions assimilées ou voisines (art. R321-1 à R321-12)](#271)
-          - [Section 2 : Des infractions assimilées au recel ou voisines de celui-ci (art. R321-1 à R321-12)](#272)
-            - [Sous-section 1 : Dispositions relatives aux personnes dont l'activité professionnelle comporte la vente ou l'échange de certains objets mobiliers (art. R321-1 à R321-8)](#273)
-            - [Sous-section 2 : Dispositions concernant les manifestations publiques en vue de la vente ou de l'échange de certains objets mobiliers (art. R321-9 à R321-12)](#274)
-    - [Livre IV : Des crimes et délits contre la nation, l'Etat et la paix publique (art. R413-1 à R431-2)](#275)
-      - [Titre Ier : Des atteintes aux intérêts fondamentaux de la nation (art. R413-1 à R413-6)](#276)
-        - [Chapitre III : Des autres atteintes à la défense nationale (art. R413-1 à R413-6)](#277)
-          - [Section 1 : Des atteintes à la sécurité des forces armées et aux zones protégées intéressant la défense nationale (art. R413-1 à R413-5)](#278)
-          - [Section 2 : Des atteintes au secret de la défense nationale (art. R413-6)](#279)
-      - [Titre III : Des atteintes à l'autorité de l'Etat (art. R431-1 à R431-2)](#280)
-        - [Chapitre Ier : Des atteintes à la paix publique (art. R431-1 à R431-2)](#281)
-          - [Section 2 : De la participation délictueuse à un attroupement. (art. R431-1 à R431-2)](#282)
-    - [Livre V : Des autres crimes et délits (art. R511-1)](#283)
-      - [Chapitre Ier : Des sévices graves ou actes de cruauté envers les animaux (art. R511-1)](#284)
-    - [Livre VI : Des contraventions (art. R610-1 à R655-1)](#285)
-      - [Titre Ier : Dispositions générales (art. R610-1 à R610-5)](#286)
-      - [Titre II : Des contraventions contre les personnes (art. R621-1 à R625-9)](#287)
-        - [Chapitre Ier : Des contraventions de la 1re classe contre les personnes (art. R621-1 à R621-2)](#288)
-          - [Section 1 : De la diffamation et de l'injure non publiques (art. R621-1 à R621-2)](#289)
-        - [Chapitre II : Des contraventions de la 2e classe contre les personnes (art. R622-1 à R622-2)](#290)
-          - [Section 1 : Des atteintes involontaires à l'intégrité de la personne n'ayant entraîné aucune incapacité totale de travail (art. R622-1)](#291)
-          - [Section 2 : De la divagation d'animaux dangereux (art. R622-2)](#292)
-        - [Chapitre III : Des contraventions de la 3e classe contre les personnes (art. R623-1 à R623-4)](#293)
-          - [Section 1 : Des menaces de violences (art. R623-1)](#294)
-          - [Section 2 : Des bruits ou tapages injurieux ou nocturnes (art. R623-2)](#295)
-          - [Section 3 : De l'excitation d'animaux dangereux (art. R623-3)](#296)
-          - [Section 4 : De la violation des dispositions réglementant le commerce de certains matériels susceptibles d'être utilisés pour porter atteinte à l'intimité de la vie privée (art. R623-4)](#297)
-        - [Chapitre IV : Des contraventions de la 4e classe contre les personnes (art. R624-1 à R624-6)](#298)
-          - [Section 1 : Des violences légères (art. R624-1)](#299)
-          - [Section 2 : De la diffusion de messages contraires à la décence (art. R624-2)](#300)
-          - [Section 3 : De la diffamation et de l'injure non publiques présentant un caractère raciste ou discriminatoire (art. R624-3 à R624-6)](#301)
-        - [Chapitre V : Des contraventions de la 5e classe contre les personnes (art. R625-1 à R625-9)](#302)
-          - [Section 1 : Des violences (art. R625-1)](#303)
-          - [Section 2 : Des atteintes involontaires à l'intégrité de la personne (art. R625-2 à R625-6)](#304)
-          - [Section 3 : De la provocation non publique à la discrimination, à la haine ou à la violence raciales. (art. R625-7)](#305)
-          - [Section 4 : Du racolage. (art. R625-8)](#306)
-          - [Section 5 : De la violation des dispositions réglementant le commerce de certains matériels susceptibles d'être utilisés pour porter atteinte à l'intimité de la vie privée (art. R625-9)](#307)
-      - [Titre III : Des contraventions contre les biens (art. R631-1 à R635-8)](#308)
-        - [Chapitre Ier : Des contraventions de la 1re classe contre les biens (art. R631-1)](#309)
-          - [Section unique : Des menaces de destruction, de dégradation ou de détérioration n'entraînant qu'un dommage léger (art. R631-1)](#310)
-        - [Chapitre II : Des contraventions de la 2e classe contre les biens (art. R632-1)](#311)
-          - [Section unique : De l'abandon d'ordures, déchets, matériaux ou autres objets. (art. R632-1)](#312)
-        - [Chapitre III : Des contraventions de la 3e classe contre les biens (art. R633-1 à R633-5)](#313)
-          - [Section 1 : De la violation des dispositions réglementant la vente ou l'échange de certains objets mobiliers (art. R633-1 à R633-4)](#314)
-          - [Section 2 : De la violation des dispositions concernant les manifestations publiques en vue de la vente ou de l'échange de certains objets mobiliers (art. R633-5)](#315)
-        - [Chapitre IV : Des contraventions de la 4e classe contre les biens (art. R634-1)](#316)
-          - [Section 1 : Des menaces de destruction, de dégradation ou de détérioration ne présentant pas de danger pour les personnes (art. R634-1)](#317)
-        - [Chapitre V : Des contraventions de la 5e classe contre les biens (art. R635-1 à R635-8)](#318)
-          - [Section 1 : Des destructions, dégradations et détériorations dont il n'est résulté qu'un dommage léger (art. R635-1)](#319)
-          - [Section 2 : De la vente forcée par correspondance (art. R635-2)](#320)
-          - [Section 3 : De la violation des dispositions réglementant la vente ou l'échange de certains objets mobiliers (art. R635-3 à R635-7)](#321)
-          - [Section 4 : De l'abandon d'épaves de véhicules ou d'ordures, déchets, matériaux et autres objets transportés dans un véhicule (art. R635-8)](#322)
-      - [Titre IV : Des contraventions contre la nation, l'Etat ou la paix publique (art. R641-1 à R645-12)](#323)
-        - [Chapitre Ier : Des contraventions de la 1re classe contre la nation, l'Etat ou la paix publique (art. R641-1)](#324)
-          - [Section unique : De l'abandon d'armes ou d'objets dangereux (art. R641-1)](#325)
-        - [Chapitre II : Des contraventions de la 2e classe contre la nation, l'Etat ou la paix publique (art. R642-1 à R642-4)](#326)
-          - [Section 1 : Du défaut de réponse à une réquisition des autorités judiciaires ou administratives (art. R642-1)](#327)
-          - [Section 2 : Des atteintes à la monnaie (art. R642-2 à R642-4)](#328)
-        - [Chapitre III : Des contraventions de la 3e classe contre la nation, l'Etat ou la paix publique (art. R643-1 à R643-2)](#329)
-          - [Section 1 : De l'usurpation de signes réservés à l'autorité publique (art. R643-1)](#330)
-          - [Section 2 : De l'utilisation de poids ou mesures différents de ceux établis par les lois et règlements en vigueur (art. R643-2)](#331)
-        - [Chapitre IV : Des contraventions de la 4e classe contre la nation, l'Etat ou la paix publique (art. R644-1 à R644-3)](#332)
-          - [Section 1 : De l'accès sans autorisation à un terrain, une construction, un engin ou un appareil militaires (art. R644-1)](#333)
-          - [Section 2 : Des entraves à la libre circulation sur la voie publique (art. R644-2)](#334)
-          - [Section 3 : De la violation des dispositions réglementant les professions exercées dans les lieux publics (art. R644-3)](#335)
-        - [Chapitre V : Des contraventions de la 5e classe contre la nation, l'Etat ou la paix publique (art. R645-1 à R645-12)](#336)
-          - [Section 1 : Du port ou de l'exhibition d'uniformes, insignes ou emblèmes rappelant ceux d'organisations ou de personnes responsables de crimes contre l'humanité (art. R645-1)](#337)
-          - [Section 2 : Des dessins, levés ou enregistrements effectués sans autorisation dans une zone d'interdiction fixée par l'autorité militaire (art. R645-2)](#338)
-          - [Section 3 : Des atteintes à l'état civil des personnes (art. R645-3 à R645-6)](#339)
-          - [Section 4 : De la soustraction d'une pièce produite en justice (art. R645-7)](#340)
-          - [Section 5 : De l'utilisation d'un document délivré par une administration publique comportant des mentions devenues incomplètes ou inexactes (art. R645-8)](#341)
-          - [Section 6 : Du refus de restitution de signes monétaires contrefaits ou falsifiés (art. R645-9)](#342)
-          - [Section 7 : De l'altération ou de la contrefaçon des timbres-poste ou des timbres émis par l'administration des finances (art. R645-10 à R645-11)](#343)
-          - [Section 8 : De l'intrusion dans les établissements scolaires (art. R645-12)](#344)
-      - [Titre V : Des autres contraventions (art. R653-1 à R655-1)](#345)
-        - [Chapitre III : Des contraventions de la 3e classe (art. R653-1)](#346)
-          - [Section unique : Des atteintes involontaires à la vie ou à l'intégrité d'un animal (art. R653-1)](#347)
-        - [Chapitre IV : Des contraventions de la 4e classe (art. R654-1)](#348)
-          - [Section unique : Des mauvais traitements envers un animal (art. R654-1)](#349)
-        - [Chapitre V : Des contraventions de la 5e classe (art. R655-1)](#350)
-          - [Section unique : Des atteintes volontaires à la vie d'un animal (art. R655-1)](#351)
+    - [Livre VII : Dispositions applicables dans les territoires d'outre-mer, en Nouvelle-Calédonie et dans la collectivité territoriale de Mayotte. (art. 716-12)](#245)
+      - [Titre Ier : Dispositions applicables dans les territoires d'outre-mer et en Nouvelle-Calédonie. (art. 716-12)](#246)
+        - [Chapitre VI : Adaptation du livre V. (art. 716-12)](#247)
+    - [Livre VII : Dispositions applicables dans les territoires d'outre-mer dans la collectivité territoriale de Mayotte. (art. 716-5)](#248)
+      - [Titre Ier : Dispositions applicables dans les territoires d'outre-mer. (art. 716-5)](#249)
+        - [Chapitre VI : Adaptation du livre V. (art. 716-5)](#250)
+  - [Partie réglementaire - Décrets en Conseil d'Etat (art. R131-1 à R655-1)](#251)
+    - [Livre Ier : Dispositions générales (art. R131-1 à R133-2)](#252)
+      - [Titre III : Des peines (art. R131-1 à R133-2)](#253)
+        - [Chapitre Ier : De la nature des peines (art. R131-1 à R131-36)](#254)
+          - [Section 1 : Des peines applicables aux personnes physiques (art. R131-1 à R131-34)](#255)
+            - [Sous-section 1 : De la suspension du permis de conduire, de l'interdiction de conduire certains véhicules et de l'immobilisation de véhicule (art. R131-1 à R131-11)](#256)
+              - [Paragraphe 1 : De la suspension du permis de conduire. (art. R131-1 à R131-2)](#257)
+              - [Paragraphe 2 : De l'interdiction de conduire certains véhicules. (art. R131-3 à R131-4)](#258)
+              - [Paragraphe 3 : De l'immobilisation de véhicule. (art. R131-5 à R131-11)](#259)
+            - [Sous-section 2 : Du travail d'intérêt général (art. R131-12 à R131-34)](#260)
+              - [Paragraphe 1 : Des modalités d'habilitation des associations et d'établissement de la liste des travaux d'intérêt général (art. R131-12 à R131-22)](#261)
+                - [A. : Des modalités d'habilitation des associations. (art. R131-12 à R131-16)](#262)
+                - [B. : De l'établissement de la liste des travaux d'intérêt général. (art. R131-17 à R131-20)](#263)
+                - [C. : Dispositions diverses. (art. R131-21 à R131-22)](#264)
+              - [Paragraphe 2 : De l'exécution du travail d'intérêt général (art. R131-23 à R131-34)](#265)
+                - [A. : De la décision du juge de l'application des peines fixant les modalités d'exécution du travail d'intérêt général (art. R131-23 à R131-28)](#266)
+                - [B. : Du contrôle de l'exécution du travail d'intérêt général (art. R131-29 à R131-34)](#267)
+          - [Section 2 : Des peines applicables aux personnes morales. (art. R131-35 à R131-36)](#268)
+        - [Chapitre III : De l'extinction des peines et de l'effacement des condamnations (art. R133-1 à R133-2)](#269)
+          - [Section 2 : De la grâce (art. R133-1 à R133-2)](#270)
+    - [Livre II : Des crimes et délits contre les personnes (art. R226-1 à R226-12)](#271)
+      - [Titre II : Des atteintes à la personne humaine (art. R226-1 à R226-12)](#272)
+        - [Chapitre VI : Des atteintes à la personnalité (art. R226-1 à R226-12)](#273)
+          - [Section 1 : De l'atteinte à la vie privée (art. R226-1 à R226-12)](#274)
+    - [Livre III : Des crimes et délits contre les biens (art. R321-1 à R321-12)](#275)
+      - [Titre II : Des autres atteintes aux biens (art. R321-1 à R321-12)](#276)
+        - [Chapitre Ier : Du recel et des infractions assimilées ou voisines (art. R321-1 à R321-12)](#277)
+          - [Section 2 : Des infractions assimilées au recel ou voisines de celui-ci (art. R321-1 à R321-12)](#278)
+            - [Sous-section 1 : Dispositions relatives aux personnes dont l'activité professionnelle comporte la vente ou l'échange de certains objets mobiliers (art. R321-1 à R321-8)](#279)
+            - [Sous-section 2 : Dispositions concernant les manifestations publiques en vue de la vente ou de l'échange de certains objets mobiliers (art. R321-9 à R321-12)](#280)
+    - [Livre IV : Des crimes et délits contre la nation, l'Etat et la paix publique (art. R413-1 à R431-2)](#281)
+      - [Titre Ier : Des atteintes aux intérêts fondamentaux de la nation (art. R413-1 à R413-6)](#282)
+        - [Chapitre III : Des autres atteintes à la défense nationale (art. R413-1 à R413-6)](#283)
+          - [Section 1 : Des atteintes à la sécurité des forces armées et aux zones protégées intéressant la défense nationale (art. R413-1 à R413-5)](#284)
+          - [Section 2 : Des atteintes au secret de la défense nationale (art. R413-6)](#285)
+      - [Titre III : Des atteintes à l'autorité de l'Etat (art. R431-1 à R431-2)](#286)
+        - [Chapitre Ier : Des atteintes à la paix publique (art. R431-1 à R431-2)](#287)
+          - [Section 2 : De la participation délictueuse à un attroupement. (art. R431-1 à R431-2)](#288)
+    - [Livre V : Des autres crimes et délits (art. R511-1)](#289)
+      - [Chapitre Ier : Des sévices graves ou actes de cruauté envers les animaux (art. R511-1)](#290)
+    - [Livre VI : Des contraventions (art. R610-1 à R655-1)](#291)
+      - [Titre Ier : Dispositions générales (art. R610-1 à R610-5)](#292)
+      - [Titre II : Des contraventions contre les personnes (art. R621-1 à R625-9)](#293)
+        - [Chapitre Ier : Des contraventions de la 1re classe contre les personnes (art. R621-1 à R621-2)](#294)
+          - [Section 1 : De la diffamation et de l'injure non publiques (art. R621-1 à R621-2)](#295)
+        - [Chapitre II : Des contraventions de la 2e classe contre les personnes (art. R622-1 à R622-2)](#296)
+          - [Section 1 : Des atteintes involontaires à l'intégrité de la personne n'ayant entraîné aucune incapacité totale de travail (art. R622-1)](#297)
+          - [Section 2 : De la divagation d'animaux dangereux (art. R622-2)](#298)
+        - [Chapitre III : Des contraventions de la 3e classe contre les personnes (art. R623-1 à R623-4)](#299)
+          - [Section 1 : Des menaces de violences (art. R623-1)](#300)
+          - [Section 2 : Des bruits ou tapages injurieux ou nocturnes (art. R623-2)](#301)
+          - [Section 3 : De l'excitation d'animaux dangereux (art. R623-3)](#302)
+          - [Section 4 : De la violation des dispositions réglementant le commerce de certains matériels susceptibles d'être utilisés pour porter atteinte à l'intimité de la vie privée (art. R623-4)](#303)
+        - [Chapitre IV : Des contraventions de la 4e classe contre les personnes (art. R624-1 à R624-6)](#304)
+          - [Section 1 : Des violences légères (art. R624-1)](#305)
+          - [Section 2 : De la diffusion de messages contraires à la décence (art. R624-2)](#306)
+          - [Section 3 : De la diffamation et de l'injure non publiques présentant un caractère raciste ou discriminatoire (art. R624-3 à R624-6)](#307)
+        - [Chapitre V : Des contraventions de la 5e classe contre les personnes (art. R625-1 à R625-9)](#308)
+          - [Section 1 : Des violences (art. R625-1)](#309)
+          - [Section 2 : Des atteintes involontaires à l'intégrité de la personne (art. R625-2 à R625-6)](#310)
+          - [Section 3 : De la provocation non publique à la discrimination, à la haine ou à la violence raciales. (art. R625-7)](#311)
+          - [Section 4 : Du racolage. (art. R625-8)](#312)
+          - [Section 5 : De la violation des dispositions réglementant le commerce de certains matériels susceptibles d'être utilisés pour porter atteinte à l'intimité de la vie privée (art. R625-9)](#313)
+      - [Titre III : Des contraventions contre les biens (art. R631-1 à R635-8)](#314)
+        - [Chapitre Ier : Des contraventions de la 1re classe contre les biens (art. R631-1)](#315)
+          - [Section unique : Des menaces de destruction, de dégradation ou de détérioration n'entraînant qu'un dommage léger (art. R631-1)](#316)
+        - [Chapitre II : Des contraventions de la 2e classe contre les biens (art. R632-1)](#317)
+          - [Section unique : De l'abandon d'ordures, déchets, matériaux ou autres objets. (art. R632-1)](#318)
+        - [Chapitre III : Des contraventions de la 3e classe contre les biens (art. R633-1 à R633-5)](#319)
+          - [Section 1 : De la violation des dispositions réglementant la vente ou l'échange de certains objets mobiliers (art. R633-1 à R633-4)](#320)
+          - [Section 2 : De la violation des dispositions concernant les manifestations publiques en vue de la vente ou de l'échange de certains objets mobiliers (art. R633-5)](#321)
+        - [Chapitre IV : Des contraventions de la 4e classe contre les biens (art. R634-1)](#322)
+          - [Section 1 : Des menaces de destruction, de dégradation ou de détérioration ne présentant pas de danger pour les personnes (art. R634-1)](#323)
+        - [Chapitre V : Des contraventions de la 5e classe contre les biens (art. R635-1 à R635-8)](#324)
+          - [Section 1 : Des destructions, dégradations et détériorations dont il n'est résulté qu'un dommage léger (art. R635-1)](#325)
+          - [Section 2 : De la vente forcée par correspondance (art. R635-2)](#326)
+          - [Section 3 : De la violation des dispositions réglementant la vente ou l'échange de certains objets mobiliers (art. R635-3 à R635-7)](#327)
+          - [Section 4 : De l'abandon d'épaves de véhicules ou d'ordures, déchets, matériaux et autres objets transportés dans un véhicule (art. R635-8)](#328)
+      - [Titre IV : Des contraventions contre la nation, l'Etat ou la paix publique (art. R641-1 à R645-12)](#329)
+        - [Chapitre Ier : Des contraventions de la 1re classe contre la nation, l'Etat ou la paix publique (art. R641-1)](#330)
+          - [Section unique : De l'abandon d'armes ou d'objets dangereux (art. R641-1)](#331)
+        - [Chapitre II : Des contraventions de la 2e classe contre la nation, l'Etat ou la paix publique (art. R642-1 à R642-4)](#332)
+          - [Section 1 : Du défaut de réponse à une réquisition des autorités judiciaires ou administratives (art. R642-1)](#333)
+          - [Section 2 : Des atteintes à la monnaie (art. R642-2 à R642-4)](#334)
+        - [Chapitre III : Des contraventions de la 3e classe contre la nation, l'Etat ou la paix publique (art. R643-1 à R643-2)](#335)
+          - [Section 1 : De l'usurpation de signes réservés à l'autorité publique (art. R643-1)](#336)
+          - [Section 2 : De l'utilisation de poids ou mesures différents de ceux établis par les lois et règlements en vigueur (art. R643-2)](#337)
+        - [Chapitre IV : Des contraventions de la 4e classe contre la nation, l'Etat ou la paix publique (art. R644-1 à R644-3)](#338)
+          - [Section 1 : De l'accès sans autorisation à un terrain, une construction, un engin ou un appareil militaires (art. R644-1)](#339)
+          - [Section 2 : Des entraves à la libre circulation sur la voie publique (art. R644-2)](#340)
+          - [Section 3 : De la violation des dispositions réglementant les professions exercées dans les lieux publics (art. R644-3)](#341)
+        - [Chapitre V : Des contraventions de la 5e classe contre la nation, l'Etat ou la paix publique (art. R645-1 à R645-12)](#342)
+          - [Section 1 : Du port ou de l'exhibition d'uniformes, insignes ou emblèmes rappelant ceux d'organisations ou de personnes responsables de crimes contre l'humanité (art. R645-1)](#343)
+          - [Section 2 : Des dessins, levés ou enregistrements effectués sans autorisation dans une zone d'interdiction fixée par l'autorité militaire (art. R645-2)](#344)
+          - [Section 3 : Des atteintes à l'état civil des personnes (art. R645-3 à R645-6)](#345)
+          - [Section 4 : De la soustraction d'une pièce produite en justice (art. R645-7)](#346)
+          - [Section 5 : De l'utilisation d'un document délivré par une administration publique comportant des mentions devenues incomplètes ou inexactes (art. R645-8)](#347)
+          - [Section 6 : Du refus de restitution de signes monétaires contrefaits ou falsifiés (art. R645-9)](#348)
+          - [Section 7 : De l'altération ou de la contrefaçon des timbres-poste ou des timbres émis par l'administration des finances (art. R645-10 à R645-11)](#349)
+          - [Section 8 : De l'intrusion dans les établissements scolaires (art. R645-12)](#350)
+      - [Titre V : Des autres contraventions (art. R653-1 à R655-1)](#351)
+        - [Chapitre III : Des contraventions de la 3e classe (art. R653-1)](#352)
+          - [Section unique : Des atteintes involontaires à la vie ou à l'intégrité d'un animal (art. R653-1)](#353)
+        - [Chapitre IV : Des contraventions de la 4e classe (art. R654-1)](#354)
+          - [Section unique : Des mauvais traitements envers un animal (art. R654-1)](#355)
+        - [Chapitre V : Des contraventions de la 5e classe (art. R655-1)](#356)
+          - [Section unique : Des atteintes volontaires à la vie d'un animal (art. R655-1)](#357)
 # Partie législative<a id=1></a>
 
 ## Livre Ier : Dispositions générales<a id=2></a>
@@ -27599,9 +27605,9 @@ _Codifié par_:
 
   - Ordonnance 96-267 1996-03-28
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°96-267 du 28 mars 1996 - art. 1 () JORF 31 mars 1996 en vigueur le 1er mai 1996
+  - Loi n°96-1240 du 30 décembre 1996 - art. 2 () JORF 1er janvier 1997
 
 _Cite_:
 
@@ -27632,42 +27638,13 @@ _Codifié par_:
 
   - Ordonnance 96-267 1996-03-28
 
-_Créé par_:
-
-  - Ordonnance n°96-267 du 28 mars 1996 - art. 1 () JORF 31 mars 1996 en vigueur le 1er mai 1996
-
-_Cite_:
-
-  - Code pénal - art. 131-35 (M)
-
-
-###### Article 712-3
-
-Le 7° de l'article 132-45 est rédigé comme suit :
-
-" 7° S'abstenir de conduire certains véhicules terrestres pour la conduite desquels un permis est nécessaire. "
-
-**Liens relatifs à cet article**
-
-**Liens**:
-
-  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
-
-_Codifié par_:
-
-  - Ordonnance 96-267 1996-03-28
-
-_Créé par_:
-
-  - Ordonnance n°96-267 du 28 mars 1996 - art. 1 () JORF 31 mars 1996 en vigueur le 1er mai 1996
-
-_Abrogé par_:
+_Modifié par_:
 
   - Loi n°96-1240 du 30 décembre 1996 - art. 2 () JORF 1er janvier 1997
 
 _Cite_:
 
-  - Code pénal - art. 132-45 (M)
+  - Code pénal - art. 131-35 (M)
 
 
 #### Chapitre III : Adaptation du livre II.<a id=232></a>
@@ -28256,8 +28233,7 @@ L'article 511-8 est ainsi rédigé :
 
 " Art. 511-8. - Le fait de procéder à la distribution ou à la cession d'organes, de tissus, de cellules et produits humains
 en vue d'un don sans qu'aient été respectées les règles de sécurité sanitaires exigées par les dispositions applicables
-localement ou, à défaut, celles dont la pratique médicale a consacré la nécessité, est puni de deux ans d'emprisonnement et
-de 200 000 F d'amende. "
+localement est puni de deux ans d'emprisonnement et de 200 000 F d'amende. "
 
 **Liens relatifs à cet article**
 
@@ -28271,9 +28247,9 @@ _Codifié par_:
 
   - Ordonnance 96-267 1996-03-28
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°96-267 du 28 mars 1996 - art. 1 () JORF 31 mars 1996 en vigueur le 1er mai 1996
+  - Loi n°96-1240 du 30 décembre 1996 - art. 3 () JORF 1er janvier 1997
 
 _Cité par_:
 
@@ -28291,48 +28267,6 @@ _Nouveaux textes_:
 _Cite_:
 
   - Code pénal - art. 511-8 (M)
-
-
-###### Article 716-5
-
-L'article 511-11 est ainsi rédigé :
-
-" Art. 511-11. - Le fait de recueillir ou de prélever des gamètes sur une personne vivante en vue d'une assistance médicale à
-la procréation sans procéder aux tests de dépistage des maladies transmissibles exigés en vertu de la réglementation
-applicable localement ou, à défaut, ceux dont la pratique médicale a consacré la nécessité, est puni de deux ans
-d'emprisonnement et de 200 000 F d'amende. "
-
-**Liens relatifs à cet article**
-
-**Liens**:
-
-  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
-  - PILOTE_SUIVEUR: Code de la santé publique - art. L1525-12 (Ab)
-  - PILOTE_SUIVEUR: Code de la santé publique - art. L1543-12 (Ab)
-
-_Codifié par_:
-
-  - Ordonnance 96-267 1996-03-28
-
-_Créé par_:
-
-  - Ordonnance n°96-267 du 28 mars 1996 - art. 1 () JORF 31 mars 1996 en vigueur le 1er mai 1996
-
-_Cité par_:
-
-  - Code de la santé publique - art. L1525-12 (M)
-  - Code de la santé publique - art. L1533-12 (T)
-  - Code de la santé publique - art. L1543-12 (M)
-
-_Nouveaux textes_:
-
-  - Code de la santé publique - art. L1525-12 (V)
-  - Code de la santé publique - art. L1533-12 (T)
-  - Code de la santé publique - art. L1543-12 (V)
-
-_Cite_:
-
-  - Code pénal - art. 511-11 (M)
 
 
 ###### Article 716-6
@@ -28515,7 +28449,8 @@ expérimentation sur l'embryon.
 
 " L'alinéa précédent n'est pas applicable à une étude réalisée, à titre exceptionnel, à des fins médicales à condition
 qu'elle ne porte pas atteinte à l'embryon et qu'elle concerne l'embryon issu d'un couple ayant donné son consentement par
-écrit. "
+écrit, après avis conforme d'une commission constituée dans les conditions fixées par la réglementation applicable
+localement. "
 
 **Liens relatifs à cet article**
 
@@ -28529,9 +28464,9 @@ _Codifié par_:
 
   - Ordonnance 96-267 1996-03-28
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°96-267 du 28 mars 1996 - art. 1 () JORF 31 mars 1996 en vigueur le 1er mai 1996
+  - Loi n°96-1240 du 30 décembre 1996 - art. 5 () JORF 1er janvier 1997
 
 _Cité par_:
 
@@ -28590,57 +28525,6 @@ _Cite_:
   - Code pénal - art. 511-20 (M)
 
 
-###### Article 716-12
-
-L'article 511-21 est ainsi rédigé :
-
-" Art. 511-21. - Le fait de procéder à un diagnostic préimplantatoire sans que soit attestée, par un médecin exerçant son
-activité dans un établissement mentionné à l'article 511-20, la forte probabilité pour le couple de donner naissance à un
-enfant atteint d'une maladie génétique reconnue comme incurable au moment du diagnostic, est puni de deux ans
-d'emprisonnement et de 200 000 F d'amende.
-
-" Est puni des mêmes peines le fait de procéder à un diagnostic préimplantatoire :
-
-" 1° Sans avoir recueilli par écrit le consentement des deux membres du couple ;
-
-" 2° Ou à d'autres fins que de rechercher l'affection, de la prévenir et de la traiter ;
-
-" 3° Ou hors d'un établissement autorisé à cet effet. "
-
-**Liens relatifs à cet article**
-
-**Liens**:
-
-  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
-  - PILOTE_SUIVEUR: Code de la santé publique - art. L2422-6 (Ab)
-  - PILOTE_SUIVEUR: Code de la santé publique - art. L2441-6 (Ab)
-
-_Codifié par_:
-
-  - Ordonnance 96-267 1996-03-28
-
-_Créé par_:
-
-  - Ordonnance n°96-267 du 28 mars 1996 - art. 1 () JORF 31 mars 1996 en vigueur le 1er mai 1996
-
-_Cité par_:
-
-  - Code de la santé publique - art. L2422-6 (M)
-  - Code de la santé publique - art. L2431-5 (M)
-  - Code de la santé publique - art. L2441-6 (M)
-
-_Nouveaux textes_:
-
-  - Code de la santé publique - art. L2422-6 (V)
-  - Code de la santé publique - art. L2431-5 (Ab)
-  - Code de la santé publique - art. L2441-6 (V)
-
-_Cite_:
-
-  - Code pénal - art. 511-20 (M)
-  - Code pénal - art. 511-21 (M)
-
-
 ###### Article 716-13
 
 L'article 511-22 est ainsi rédigé :
@@ -28691,9 +28575,9 @@ couple bénéficiaire n'est pas composé d'un homme et d'une femme vivants, en �
 la preuve d'une vie commune d'au moins deux ans et ayant préalablement consenti au transfert des embryons ou à l'insémination
 artificielle.
 
-" Est puni des mêmes peines le fait de procéder à des activités d'assistance médicale en vue d'un objet autre que de remédier
-à une infertilité dont le caractère pathologique a été médicalement diagnostiqué ou d'éviter la transmission à un enfant
-d'une maladie d'une particulière gravité. "
+" Est puni des mêmes peines le fait de procéder à des activités d'assistance médicale à la procréation en vue d'un objet
+autre que de remédier à une infertilité dont le caractère pathologique a été médicalement diagnostiqué ou d'éviter la
+transmission à un enfant d'une maladie d'une particulière gravité. "
 
 **Liens relatifs à cet article**
 
@@ -28707,9 +28591,9 @@ _Codifié par_:
 
   - Ordonnance 96-267 1996-03-28
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°96-267 du 28 mars 1996 - art. 1 () JORF 31 mars 1996 en vigueur le 1er mai 1996
+  - Loi n°96-1240 du 30 décembre 1996 - art. 7 () JORF 1er janvier 1997
 
 _Cité par_:
 
@@ -28733,8 +28617,8 @@ _Cite_:
 L'article 511-25 est ainsi rédigé :
 
 " Art. 511-25. - Le fait de procéder au transfert d'un embryon sans avoir pris connaissance des résultats des tests de
-dépistage de maladies infectieuses exigés en application des dispositions en vigueur localement ou, à défaut, de ceux dont la
-pratique médicale a consacré la nécessité est puni de deux ans d'emprisonnement et de 200 000 F d'amende. "
+dépistage de maladies infectieuses exigés en application des dispositions en vigueur localement est puni de deux ans
+d'emprisonnement et de 200 000 F d'amende. "
 
 **Liens relatifs à cet article**
 
@@ -28748,9 +28632,9 @@ _Codifié par_:
 
   - Ordonnance 96-267 1996-03-28
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°96-267 du 28 mars 1996 - art. 1 () JORF 31 mars 1996 en vigueur le 1er mai 1996
+  - Loi n°96-1240 du 30 décembre 1996 - art. 8 () JORF 1er janvier 1997
 
 _Cité par_:
 
@@ -28978,38 +28862,7 @@ _Créé par_:
 
 ###### Article 722-1
 
-L'article 131-23 est rédigé comme suit :
-
-" Art. 131-23. - Le travail d'intérêt général est soumis aux prescriptions législatives et réglementaires applicables
-localement relatives au travail de nuit, à l'hygiène, à la sécurité ainsi qu'au travail des femmes et des jeunes
-travailleurs. Le travail d'intérêt général peut se cumuler avec l'exercice de l'activité professionnelle. "
-
-**Liens relatifs à cet article**
-
-**Liens**:
-
-  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
-
-_Codifié par_:
-
-  - Ordonnance 96-267 1996-03-28
-
-_Créé par_:
-
-  - Ordonnance n°96-267 du 28 mars 1996 - art. 1 () JORF 31 mars 1996 en vigueur le 1er mai 1996
-
-_Cité par_:
-
-  - Loi n°2004-204 du 9 mars 2004 - art. 216 (V)
-
-_Cite_:
-
-  - Code pénal - art. 131-23 (V)
-
-
-###### Article 722-2
-
-Le 7° de l'article 132-45 est rédigé comme suit :
+Le 7° de l'article 132-45 est ainsi rédigé :
 
 " 7° S'abstenir de conduire certains véhicules terrestres pour la conduite desquels un permis est nécessaire. "
 
@@ -29023,13 +28876,13 @@ _Codifié par_:
 
   - Ordonnance 96-267 1996-03-28
 
-_Créé par_:
-
-  - Ordonnance n°96-267 du 28 mars 1996 - art. 1 () JORF 31 mars 1996 en vigueur le 1er mai 1996
-
-_Abrogé par_:
+_Modifié par_:
 
   - Loi n°96-1240 du 30 décembre 1996 - art. 9 () JORF 1er janvier 1997
+
+_Cité par_:
+
+  - Loi n°2004-204 du 9 mars 2004 - art. 216 (V)
 
 _Cite_:
 
@@ -29571,7 +29424,7 @@ _Cite_:
 L'article 511-7 est ainsi rédigé :
 
 " Art. 511-7. - Le fait de procéder à des prélèvements d'organes ou des transplantations d'organes, à des prélèvements ou des
-greffes de tissus, à la conservation ou à la transformation de tissus ou à la greffe de cellules dans un établissement non
+greffes de tissus, à la conservation ou à la transformation de tissus ou à la greffe de cellules hors d'un établissement
 autorisé à cet effet est puni de deux ans d'emprisonnement et de 200 000 F d'amende. "
 
 **Liens relatifs à cet article**
@@ -29581,13 +29434,13 @@ autorisé à cet effet est puni de deux ans d'emprisonnement et de 200 000 F d'a
   - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
   - PILOTE_SUIVEUR: Code de la santé publique - art. L1517-9 (V)
 
+_Modifié par_:
+
+  - Loi n°96-1240 1999-12-30 art. 10 JORF 1er janvier 1997
+
 _Codifié par_:
 
   - Ordonnance 96-267 1996-03-28
-
-_Créé par_:
-
-  - Ordonnance n°96-267 du 28 mars 1996 - art. 1 () JORF 31 mars 1996 en vigueur le 1er mai 1996
 
 _Cité par_:
 
@@ -29608,8 +29461,7 @@ L'article 511-8 est ainsi rédigé :
 
 " Art. 511-8. - Le fait de procéder à la distribution ou à la cession d'organes, de tissus, de cellules et produits humains
 en vue d'un don sans qu'aient été respectées les règles de sécurité sanitaires exigées par les dispositions applicables
-localement ou, à défaut, celles dont la pratique médicale a consacré la nécessité, est puni de deux ans d'emprisonnement et
-de 200 000 F d'amende. "
+localement est puni de deux ans d'emprisonnement et de 200 000 F d'amende. "
 
 **Liens relatifs à cet article**
 
@@ -29622,9 +29474,9 @@ _Codifié par_:
 
   - Ordonnance 96-267 1996-03-28
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°96-267 du 28 mars 1996 - art. 1 () JORF 31 mars 1996 en vigueur le 1er mai 1996
+  - Loi n°96-1240 du 30 décembre 1996 - art. 11 () JORF 1er janvier 1997
 
 _Cité par_:
 
@@ -29645,8 +29497,7 @@ L'article 511-11 est ainsi rédigé :
 
 " Art. 511-11. - Le fait de recueillir ou de prélever des gamètes sur une personne vivante en vue d'une assistance médicale à
 la procréation sans procéder aux tests de dépistage des maladies transmissibles exigés en vertu de la réglementation
-applicable localement ou, à défaut, ceux dont la pratique médicale a consacré la nécessité, est puni de deux ans
-d'emprisonnement et de 200 000 F d'amende. "
+applicable localement est puni de deux ans d'emprisonnement et de 200 000 F d'amende. "
 
 **Liens relatifs à cet article**
 
@@ -29659,10 +29510,6 @@ _Codifié par_:
 
   - Ordonnance 96-267 1996-03-28
 
-_Créé par_:
-
-  - Ordonnance n°96-267 du 28 mars 1996 - art. 1 () JORF 31 mars 1996 en vigueur le 1er mai 1996
-
 _Cité par_:
 
   - Code de la santé publique - art. L1517-11 (MMN)
@@ -29674,6 +29521,10 @@ _Nouveaux textes_:
 _Cite_:
 
   - Code pénal - art. 511-11 (M)
+
+_Modifié par_:
+
+  - Loi n°96-124 1996-12-30 art. 12 JORF 1er janvier 1997
 
 
 ###### Article 726-6
@@ -29839,7 +29690,7 @@ expérimentation sur l'embryon.
 
 " L'alinéa précédent n'est pas applicable à une étude réalisée, à titre exceptionnel, à des fins médicales à condition
 qu'elle ne porte pas atteinte à l'embryon et qu'elle concerne l'embryon issu d'un couple ayant donné son consentement par
-écrit. "
+écrit, après avis conforme d'une commission constituée dans les conditions fixées par décret en Conseil d'Etat. "
 
 **Liens relatifs à cet article**
 
@@ -29852,9 +29703,9 @@ _Codifié par_:
 
   - Ordonnance 96-267 1996-03-28
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°96-267 du 28 mars 1996 - art. 1 () JORF 31 mars 1996 en vigueur le 1er mai 1996
+  - Loi n°96-1240 du 30 décembre 1996 - art. 13 () JORF 1er janvier 1997
 
 _Cité par_:
 
@@ -29912,8 +29763,8 @@ L'article 511-21 est ainsi rédigé :
 
 " Art. 511-21. - Le fait de procéder à un diagnostic préimplantatoire sans que soit attestée, par un médecin exerçant son
 activité dans un établissement mentionné à l'article 511-20, la forte probabilité, pour le couple, de donner naissance à un
-enfant atteint d'une maladie génétique reconnue comme incurable au moment du diagnostic est puni de deux ans d'emprisonnement
-et de 200 000 F d'amende.
+enfant atteint d'une maladie génétique d'une particulière gravité reconnue comme incurable au moment du diagnostic est puni
+de deux ans d'emprisonnement et de 200 000 F d'amende.
 
 " Est puni des mêmes peines le fait de procéder à un diagnostic préimplantatoire :
 
@@ -29934,9 +29785,9 @@ _Codifié par_:
 
   - Ordonnance 96-267 1996-03-28
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°96-267 du 28 mars 1996 - art. 1 () JORF 31 mars 1996 en vigueur le 1er mai 1996
+  - Loi n°96-1240 du 30 décembre 1996 - art. 14 () JORF 1er janvier 1997
 
 _Cité par_:
 
@@ -29999,9 +29850,9 @@ couple bénéficiaire n'est pas composé d'un homme et d'une femme vivants, en �
 la preuve d'une vie commune d'au moins deux ans et ayant préalablement consenti au transfert des embryons ou à l'insémination
 artificielle.
 
-" Est puni des mêmes peines le fait de procéder à des activités d'assistance médicale en vue d'un objet autre que de remédier
-à une infertilité dont le caractère pathologique a été médicalement diagnostiqué ou d'éviter la transmission à un enfant
-d'une maladie d'une particulière gravité. "
+" Est puni des mêmes peines le fait de procéder à des activités d'assistance médicale à la procréation en vue d'un objet
+autre que de remédier à une infertilité dont le caractère pathologique a été médicalement diagnostiqué ou d'éviter la
+transmission à un enfant d'une maladie d'une particulière gravité. "
 
 **Liens relatifs à cet article**
 
@@ -30014,9 +29865,9 @@ _Codifié par_:
 
   - Ordonnance 96-267 1996-03-28
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°96-267 du 28 mars 1996 - art. 1 () JORF 31 mars 1996 en vigueur le 1er mai 1996
+  - Loi n°96-1240 du 30 décembre 1996 - art. 15 () JORF 1er janvier 1997
 
 _Cité par_:
 
@@ -30037,8 +29888,8 @@ _Cite_:
 L'article 511-25 est ainsi rédigé :
 
 " Art. 511-25. - Le fait de procéder au transfert d'un embryon sans avoir pris connaissance des résultats des tests de
-dépistage de maladies infectieuses exigés en application des dispositions en vigueur localement ou, à défaut, de ceux dont la
-pratique médicale a consacré la nécessité, est puni de deux ans d'emprisonnement et de 200 000 F d'amende. "
+dépistage de maladies infectieuses exigés en application des dispositions en vigueur localement est puni de deux ans
+d'emprisonnement et de 200 000 F d'amende. "
 
 **Liens relatifs à cet article**
 
@@ -30051,9 +29902,9 @@ _Codifié par_:
 
   - Ordonnance 96-267 1996-03-28
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°96-267 du 28 mars 1996 - art. 1 () JORF 31 mars 1996 en vigueur le 1er mai 1996
+  - Loi n°96-1240 du 30 décembre 1996 - art. 16 () JORF 1er janvier 1997
 
 _Cité par_:
 
@@ -30175,19 +30026,123 @@ _Cite_:
   - Code pénal - art. 131-39 (MMN)
 
 
-# Partie réglementaire - Décrets en Conseil d'Etat<a id=245></a>
+## Livre VII : Dispositions applicables dans les territoires d'outre-mer, en Nouvelle-Calédonie et dans la collectivité territoriale de Mayotte.<a id=245></a>
 
-## Livre Ier : Dispositions générales<a id=246></a>
+### Titre Ier : Dispositions applicables dans les territoires d'outre-mer et en Nouvelle-Calédonie.<a id=246></a>
 
-### Titre III : Des peines<a id=247></a>
+#### Chapitre VI : Adaptation du livre V.<a id=247></a>
 
-#### Chapitre Ier : De la nature des peines<a id=248></a>
+###### Article 716-12
 
-##### Section 1 : Des peines applicables aux personnes physiques<a id=249></a>
+L'article 511-21 est ainsi rédigé :
 
-##### Sous-section 1 : De la suspension du permis de conduire, de l'interdiction de conduire certains véhicules et de l'immobilisation de véhicule<a id=250></a>
+" Art. 511-21. - Le fait de procéder à un diagnostic préimplantatoire sans que soit attestée, par un médecin exerçant son
+activité dans un établissement mentionné à l'article 511-20, la forte probabilité pour le couple de donner naissance à un
+enfant atteint d'une maladie génétique d'une particulière gravité reconnue comme incurable au moment du diagnostic, est puni
+de deux ans d'emprisonnement et de 200 000 F d'amende.
 
-##### Paragraphe 1 : De la suspension du permis de conduire.<a id=251></a>
+" Est puni des mêmes peines le fait de procéder à un diagnostic préimplantatoire :
+
+" 1° Sans avoir recueilli par écrit le consentement des deux membres du couple ;
+
+" 2° Ou à d'autres fins que de rechercher l'affection, de la prévenir et de la traiter ;
+
+" 3° Ou hors d'un établissement autorisé à cet effet. "
+
+**Liens relatifs à cet article**
+
+**Liens**:
+
+  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
+  - PILOTE_SUIVEUR: Code de la santé publique - art. L2422-6 (Ab)
+  - PILOTE_SUIVEUR: Code de la santé publique - art. L2441-6 (Ab)
+
+_Codifié par_:
+
+  - Ordonnance 96-267 1996-03-28
+
+_Cité par_:
+
+  - Code de la santé publique - art. L2422-6 (M)
+  - Code de la santé publique - art. L2431-5 (M)
+  - Code de la santé publique - art. L2441-6 (M)
+
+_Nouveaux textes_:
+
+  - Code de la santé publique - art. L2422-6 (V)
+  - Code de la santé publique - art. L2431-5 (Ab)
+  - Code de la santé publique - art. L2441-6 (V)
+
+_Cite_:
+
+  - Code pénal - art. 511-20 (M)
+  - Code pénal - art. 511-21 (M)
+
+_Modifié par_:
+
+  - Loi n°96-1240 1996-12-31 art. 6 JORF 1er janvier 1997
+
+
+## Livre VII : Dispositions applicables dans les territoires d'outre-mer dans la collectivité territoriale de Mayotte.<a id=248></a>
+
+### Titre Ier : Dispositions applicables dans les territoires d'outre-mer.<a id=249></a>
+
+#### Chapitre VI : Adaptation du livre V.<a id=250></a>
+
+###### Article 716-5
+
+L'article 511-11 est ainsi rédigé :
+
+" Art. 511-11. - Le fait de recueillir ou de prélever des gamètes sur une personne vivante en vue d'une assistance médicale à
+la procréation sans procéder aux tests de dépistage des maladies transmissibles exigés en vertu de la réglementation
+applicable localement est puni de deux ans d'emprisonnement et de 200 000 F d'amende. "
+
+**Liens relatifs à cet article**
+
+**Liens**:
+
+  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
+  - PILOTE_SUIVEUR: Code de la santé publique - art. L1525-12 (Ab)
+  - PILOTE_SUIVEUR: Code de la santé publique - art. L1543-12 (Ab)
+
+_Codifié par_:
+
+  - Ordonnance 96-267 1996-03-28
+
+_Modifié par_:
+
+  - Loi n°96-1240 du 30 décembre 1996 - art. 4 () JORF 1er janvier 1997
+
+_Cité par_:
+
+  - Code de la santé publique - art. L1525-12 (M)
+  - Code de la santé publique - art. L1533-12 (T)
+  - Code de la santé publique - art. L1543-12 (M)
+
+_Nouveaux textes_:
+
+  - Code de la santé publique - art. L1525-12 (V)
+  - Code de la santé publique - art. L1533-12 (T)
+  - Code de la santé publique - art. L1543-12 (V)
+
+_Cite_:
+
+  - Code pénal - art. 511-11 (M)
+
+
+# Partie réglementaire - Décrets en Conseil d'Etat<a id=251></a>
+
+## Livre Ier : Dispositions générales<a id=252></a>
+
+### Titre III : Des peines<a id=253></a>
+
+#### Chapitre Ier : De la nature des peines<a id=254></a>
+
+##### Section 1 : Des peines applicables aux personnes physiques<a id=255></a>
+
+##### Sous-section 1 : De la suspension du permis de conduire, de l'interdiction de conduire certains véhicules et de l'immobilisation de véhicule<a id=256></a>
+
+##### Paragraphe 1 : De la suspension du permis de conduire.<a id=257></a>
 
 ###### Article R131-1
 
@@ -30258,7 +30213,7 @@ _Cite_:
   - Code de la route R123
 
 
-##### Paragraphe 2 : De l'interdiction de conduire certains véhicules.<a id=252></a>
+##### Paragraphe 2 : De l'interdiction de conduire certains véhicules.<a id=258></a>
 
 ###### Article R131-3
 
@@ -30328,7 +30283,7 @@ _Cite_:
   - Code de la route R123
 
 
-##### Paragraphe 3 : De l'immobilisation de véhicule.<a id=253></a>
+##### Paragraphe 3 : De l'immobilisation de véhicule.<a id=259></a>
 
 ###### Article R131-5
 
@@ -30459,11 +30414,11 @@ _Codifié par_:
   - Décret n°93-726 1993-03-29
 
 
-##### Sous-section 2 : Du travail d'intérêt général<a id=254></a>
+##### Sous-section 2 : Du travail d'intérêt général<a id=260></a>
 
-##### Paragraphe 1 : Des modalités d'habilitation des associations et d'établissement de la liste des travaux d'intérêt général<a id=255></a>
+##### Paragraphe 1 : Des modalités d'habilitation des associations et d'établissement de la liste des travaux d'intérêt général<a id=261></a>
 
-##### A. : Des modalités d'habilitation des associations.<a id=256></a>
+##### A. : Des modalités d'habilitation des associations.<a id=262></a>
 
 ###### Article R131-12
 
@@ -30606,7 +30561,7 @@ _Codifié par_:
   - Décret n°93-726 1993-03-29
 
 
-##### B. : De l'établissement de la liste des travaux d'intérêt général.<a id=257></a>
+##### B. : De l'établissement de la liste des travaux d'intérêt général.<a id=263></a>
 
 ###### Article R131-17
 
@@ -30706,7 +30661,7 @@ _Codifié par_:
   - Décret n°93-726 1993-03-29
 
 
-##### C. : Dispositions diverses.<a id=258></a>
+##### C. : Dispositions diverses.<a id=264></a>
 
 ###### Article R131-21
 
@@ -30743,9 +30698,9 @@ _Codifié par_:
   - Décret n°93-726 1993-03-29
 
 
-##### Paragraphe 2 : De l'exécution du travail d'intérêt général<a id=259></a>
+##### Paragraphe 2 : De l'exécution du travail d'intérêt général<a id=265></a>
 
-##### A. : De la décision du juge de l'application des peines fixant les modalités d'exécution du travail d'intérêt général<a id=260></a>
+##### A. : De la décision du juge de l'application des peines fixant les modalités d'exécution du travail d'intérêt général<a id=266></a>
 
 ###### Article R131-23
 
@@ -30876,7 +30831,7 @@ _Cite_:
   - Code de la santé publique - art. L10 (Ab)
 
 
-##### B. : Du contrôle de l'exécution du travail d'intérêt général<a id=261></a>
+##### B. : Du contrôle de l'exécution du travail d'intérêt général<a id=267></a>
 
 ###### Article R131-29
 
@@ -30978,7 +30933,7 @@ _Codifié par_:
   - Décret n°93-726 1993-03-29
 
 
-##### Section 2 : Des peines applicables aux personnes morales.<a id=262></a>
+##### Section 2 : Des peines applicables aux personnes morales.<a id=268></a>
 
 ###### Article R131-35
 
@@ -31057,9 +31012,9 @@ _Nouveaux textes_:
   - Code pénal art. R131-46
 
 
-#### Chapitre III : De l'extinction des peines et de l'effacement des condamnations<a id=263></a>
+#### Chapitre III : De l'extinction des peines et de l'effacement des condamnations<a id=269></a>
 
-##### Section 2 : De la grâce<a id=264></a>
+##### Section 2 : De la grâce<a id=270></a>
 
 ###### Article R133-1
 
@@ -31101,13 +31056,13 @@ _Créé par_:
   - Décret n°95-152 du 7 février 1995 - art. 1 () JORF 14 février 1995
 
 
-## Livre II : Des crimes et délits contre les personnes<a id=265></a>
+## Livre II : Des crimes et délits contre les personnes<a id=271></a>
 
-### Titre II : Des atteintes à la personne humaine<a id=266></a>
+### Titre II : Des atteintes à la personne humaine<a id=272></a>
 
-#### Chapitre VI : Des atteintes à la personnalité<a id=267></a>
+#### Chapitre VI : Des atteintes à la personnalité<a id=273></a>
 
-##### Section 1 : De l'atteinte à la vie privée<a id=268></a>
+##### Section 1 : De l'atteinte à la vie privée<a id=274></a>
 
 ###### Article R226-1
 
@@ -31483,15 +31438,15 @@ _Cite_:
   - Code pénal - art. R226-7 (V)
 
 
-## Livre III : Des crimes et délits contre les biens<a id=269></a>
+## Livre III : Des crimes et délits contre les biens<a id=275></a>
 
-### Titre II : Des autres atteintes aux biens<a id=270></a>
+### Titre II : Des autres atteintes aux biens<a id=276></a>
 
-#### Chapitre Ier : Du recel et des infractions assimilées ou voisines<a id=271></a>
+#### Chapitre Ier : Du recel et des infractions assimilées ou voisines<a id=277></a>
 
-##### Section 2 : Des infractions assimilées au recel ou voisines de celui-ci<a id=272></a>
+##### Section 2 : Des infractions assimilées au recel ou voisines de celui-ci<a id=278></a>
 
-##### Sous-section 1 : Dispositions relatives aux personnes dont l'activité professionnelle comporte la vente ou l'échange de certains objets mobiliers<a id=273></a>
+##### Sous-section 1 : Dispositions relatives aux personnes dont l'activité professionnelle comporte la vente ou l'échange de certains objets mobiliers<a id=279></a>
 
 ###### Article R321-1
 
@@ -31746,7 +31701,7 @@ _Cité par_:
   - Code pénal - art. R633-3 (V)
 
 
-##### Sous-section 2 : Dispositions concernant les manifestations publiques en vue de la vente ou de l'échange de certains objets mobiliers<a id=274></a>
+##### Sous-section 2 : Dispositions concernant les manifestations publiques en vue de la vente ou de l'échange de certains objets mobiliers<a id=280></a>
 
 ###### Article R321-9
 
@@ -31838,13 +31793,13 @@ _Codifié par_:
   - Décret n°93-726 1993-03-29
 
 
-## Livre IV : Des crimes et délits contre la nation, l'Etat et la paix publique<a id=275></a>
+## Livre IV : Des crimes et délits contre la nation, l'Etat et la paix publique<a id=281></a>
 
-### Titre Ier : Des atteintes aux intérêts fondamentaux de la nation<a id=276></a>
+### Titre Ier : Des atteintes aux intérêts fondamentaux de la nation<a id=282></a>
 
-#### Chapitre III : Des autres atteintes à la défense nationale<a id=277></a>
+#### Chapitre III : Des autres atteintes à la défense nationale<a id=283></a>
 
-##### Section 1 : Des atteintes à la sécurité des forces armées et aux zones protégées intéressant la défense nationale<a id=278></a>
+##### Section 1 : Des atteintes à la sécurité des forces armées et aux zones protégées intéressant la défense nationale<a id=284></a>
 
 ###### Article R413-1
 
@@ -31983,7 +31938,7 @@ _Cité par_:
   - Code pénal - art. R413-5-1 (V)
 
 
-##### Section 2 : Des atteintes au secret de la défense nationale<a id=279></a>
+##### Section 2 : Des atteintes au secret de la défense nationale<a id=285></a>
 
 ###### Article R413-6
 
@@ -32013,11 +31968,11 @@ _Créé par_:
   - Décret n°94-167 du 25 février 1994 - art. 16 () JORF 26 février 1994 en vigueur le 1er mars 1994
 
 
-### Titre III : Des atteintes à l'autorité de l'Etat<a id=280></a>
+### Titre III : Des atteintes à l'autorité de l'Etat<a id=286></a>
 
-#### Chapitre Ier : Des atteintes à la paix publique<a id=281></a>
+#### Chapitre Ier : Des atteintes à la paix publique<a id=287></a>
 
-##### Section 2 : De la participation délictueuse à un attroupement.<a id=282></a>
+##### Section 2 : De la participation délictueuse à un attroupement.<a id=288></a>
 
 ###### Article R431-1
 
@@ -32097,9 +32052,9 @@ _Cite_:
   - Code pénal - art. 431-3
 
 
-## Livre V : Des autres crimes et délits<a id=283></a>
+## Livre V : Des autres crimes et délits<a id=289></a>
 
-### Chapitre Ier : Des sévices graves ou actes de cruauté envers les animaux<a id=284></a>
+### Chapitre Ier : Des sévices graves ou actes de cruauté envers les animaux<a id=290></a>
 
 ###### Article R511-1
 
@@ -32128,9 +32083,9 @@ _Codifié par_:
   - Décret n°93-726 1993-03-29
 
 
-## Livre VI : Des contraventions<a id=285></a>
+## Livre VI : Des contraventions<a id=291></a>
 
-### Titre Ier : Dispositions générales<a id=286></a>
+### Titre Ier : Dispositions générales<a id=292></a>
 
 ###### Article R610-1
 
@@ -32249,11 +32204,11 @@ _Cité par_:
   - Code général des collectivités territoriales - art. R2512-15-12 (VT)
 
 
-### Titre II : Des contraventions contre les personnes<a id=287></a>
+### Titre II : Des contraventions contre les personnes<a id=293></a>
 
-#### Chapitre Ier : Des contraventions de la 1re classe contre les personnes<a id=288></a>
+#### Chapitre Ier : Des contraventions de la 1re classe contre les personnes<a id=294></a>
 
-##### Section 1 : De la diffamation et de l'injure non publiques<a id=289></a>
+##### Section 1 : De la diffamation et de l'injure non publiques<a id=295></a>
 
 ###### Article R621-1
 
@@ -32299,9 +32254,9 @@ _Cité par_:
   - Code de procédure pénale - art. R41-11 (V)
 
 
-#### Chapitre II : Des contraventions de la 2e classe contre les personnes<a id=290></a>
+#### Chapitre II : Des contraventions de la 2e classe contre les personnes<a id=296></a>
 
-##### Section 1 : Des atteintes involontaires à l'intégrité de la personne n'ayant entraîné aucune incapacité totale de travail<a id=291></a>
+##### Section 1 : Des atteintes involontaires à l'intégrité de la personne n'ayant entraîné aucune incapacité totale de travail<a id=297></a>
 
 ###### Article R622-1
 
@@ -32338,7 +32293,7 @@ _Cite_:
   - Code pénal - art. R625-3 (M)
 
 
-##### Section 2 : De la divagation d'animaux dangereux<a id=292></a>
+##### Section 2 : De la divagation d'animaux dangereux<a id=298></a>
 
 ###### Article R622-2
 
@@ -32365,9 +32320,9 @@ _Cité par_:
   - Code de procédure pénale - art. R48-1 (V)
 
 
-#### Chapitre III : Des contraventions de la 3e classe contre les personnes<a id=293></a>
+#### Chapitre III : Des contraventions de la 3e classe contre les personnes<a id=299></a>
 
-##### Section 1 : Des menaces de violences<a id=294></a>
+##### Section 1 : Des menaces de violences<a id=300></a>
 
 ###### Article R623-1
 
@@ -32390,7 +32345,7 @@ _Cite_:
   - Code pénal - art. 222-17 (V)
 
 
-##### Section 2 : Des bruits ou tapages injurieux ou nocturnes<a id=295></a>
+##### Section 2 : Des bruits ou tapages injurieux ou nocturnes<a id=301></a>
 
 ###### Article R623-2
 
@@ -32420,7 +32375,7 @@ _Cité par_:
   - Code de procédure pénale - art. R48-1 (V)
 
 
-##### Section 3 : De l'excitation d'animaux dangereux<a id=296></a>
+##### Section 3 : De l'excitation d'animaux dangereux<a id=302></a>
 
 ###### Article R623-3
 
@@ -32446,7 +32401,7 @@ _Cité par_:
   - Code de procédure pénale - art. R15-33-29-3 (V)
 
 
-##### Section 4 : De la violation des dispositions réglementant le commerce de certains matériels susceptibles d'être utilisés pour porter atteinte à l'intimité de la vie privée<a id=297></a>
+##### Section 4 : De la violation des dispositions réglementant le commerce de certains matériels susceptibles d'être utilisés pour porter atteinte à l'intimité de la vie privée<a id=303></a>
 
 ###### Article R623-4
 
@@ -32476,9 +32431,9 @@ _Cite_:
   - Code pénal - art. R226-3 (M)
 
 
-#### Chapitre IV : Des contraventions de la 4e classe contre les personnes<a id=298></a>
+#### Chapitre IV : Des contraventions de la 4e classe contre les personnes<a id=304></a>
 
-##### Section 1 : Des violences légères<a id=299></a>
+##### Section 1 : Des violences légères<a id=305></a>
 
 ###### Article R624-1
 
@@ -32518,7 +32473,7 @@ _Cite_:
   - Code pénal - art. 222-13 (V)
 
 
-##### Section 2 : De la diffusion de messages contraires à la décence<a id=300></a>
+##### Section 2 : De la diffusion de messages contraires à la décence<a id=306></a>
 
 ###### Article R624-2
 
@@ -32559,7 +32514,7 @@ _Cite_:
   - Code pénal - art. 131-41 (V)
 
 
-##### Section 3 : De la diffamation et de l'injure non publiques présentant un caractère raciste ou discriminatoire<a id=301></a>
+##### Section 3 : De la diffamation et de l'injure non publiques présentant un caractère raciste ou discriminatoire<a id=307></a>
 
 ###### Article R624-3
 
@@ -32667,9 +32622,9 @@ _Cite_:
   - Code pénal - art. R624-4 (M)
 
 
-#### Chapitre V : Des contraventions de la 5e classe contre les personnes<a id=302></a>
+#### Chapitre V : Des contraventions de la 5e classe contre les personnes<a id=308></a>
 
-##### Section 1 : Des violences<a id=303></a>
+##### Section 1 : Des violences<a id=309></a>
 
 ###### Article R625-1
 
@@ -32719,7 +32674,7 @@ _Cite_:
   - Code pénal - art. 222-13 (V)
 
 
-##### Section 2 : Des atteintes involontaires à l'intégrité de la personne<a id=304></a>
+##### Section 2 : Des atteintes involontaires à l'intégrité de la personne<a id=310></a>
 
 ###### Article R625-2
 
@@ -32862,7 +32817,7 @@ _Cite_:
   - Code pénal - art. R625-2 (V)
 
 
-##### Section 3 : De la provocation non publique à la discrimination, à la haine ou à la violence raciales.<a id=305></a>
+##### Section 3 : De la provocation non publique à la discrimination, à la haine ou à la violence raciales.<a id=311></a>
 
 ###### Article R625-7
 
@@ -32916,7 +32871,7 @@ _Cite_:
   - Code pénal - art. 132-15 (V)
 
 
-##### Section 4 : Du racolage.<a id=306></a>
+##### Section 4 : Du racolage.<a id=312></a>
 
 ###### Article R625-8
 
@@ -32962,7 +32917,7 @@ _Cite_:
   - Code pénal - art. 132-11 (M)
 
 
-##### Section 5 : De la violation des dispositions réglementant le commerce de certains matériels susceptibles d'être utilisés pour porter atteinte à l'intimité de la vie privée<a id=307></a>
+##### Section 5 : De la violation des dispositions réglementant le commerce de certains matériels susceptibles d'être utilisés pour porter atteinte à l'intimité de la vie privée<a id=313></a>
 
 ###### Article R625-9
 
@@ -33011,11 +32966,11 @@ _Cite_:
   - Code pénal - art. R226-3 (M)
 
 
-### Titre III : Des contraventions contre les biens<a id=308></a>
+### Titre III : Des contraventions contre les biens<a id=314></a>
 
-#### Chapitre Ier : Des contraventions de la 1re classe contre les biens<a id=309></a>
+#### Chapitre Ier : Des contraventions de la 1re classe contre les biens<a id=315></a>
 
-##### Section unique : Des menaces de destruction, de dégradation ou de détérioration n'entraînant qu'un dommage léger<a id=310></a>
+##### Section unique : Des menaces de destruction, de dégradation ou de détérioration n'entraînant qu'un dommage léger<a id=316></a>
 
 ###### Article R631-1
 
@@ -33056,9 +33011,9 @@ _Cite_:
   - Code pénal - art. 322-13 (MMN)
 
 
-#### Chapitre II : Des contraventions de la 2e classe contre les biens<a id=311></a>
+#### Chapitre II : Des contraventions de la 2e classe contre les biens<a id=317></a>
 
-##### Section unique : De l'abandon d'ordures, déchets, matériaux ou autres objets.<a id=312></a>
+##### Section unique : De l'abandon d'ordures, déchets, matériaux ou autres objets.<a id=318></a>
 
 ###### Article R632-1
 
@@ -33097,9 +33052,9 @@ _Cite_:
   - Code pénal - art. R635-8 (M)
 
 
-#### Chapitre III : Des contraventions de la 3e classe contre les biens<a id=313></a>
+#### Chapitre III : Des contraventions de la 3e classe contre les biens<a id=319></a>
 
-##### Section 1 : De la violation des dispositions réglementant la vente ou l'échange de certains objets mobiliers<a id=314></a>
+##### Section 1 : De la violation des dispositions réglementant la vente ou l'échange de certains objets mobiliers<a id=320></a>
 
 ###### Article R633-1
 
@@ -33208,7 +33163,7 @@ _Cite_:
   - Code pénal - art. R633-3
 
 
-##### Section 2 : De la violation des dispositions concernant les manifestations publiques en vue de la vente ou de l'échange de certains objets mobiliers<a id=315></a>
+##### Section 2 : De la violation des dispositions concernant les manifestations publiques en vue de la vente ou de l'échange de certains objets mobiliers<a id=321></a>
 
 ###### Article R633-5
 
@@ -33240,9 +33195,9 @@ _Cite_:
   - Code pénal 321-7, R321-9, R321-10, 121-2, 134-41
 
 
-#### Chapitre IV : Des contraventions de la 4e classe contre les biens<a id=316></a>
+#### Chapitre IV : Des contraventions de la 4e classe contre les biens<a id=322></a>
 
-##### Section 1 : Des menaces de destruction, de dégradation ou de détérioration ne présentant pas de danger pour les personnes<a id=317></a>
+##### Section 1 : Des menaces de destruction, de dégradation ou de détérioration ne présentant pas de danger pour les personnes<a id=323></a>
 
 ###### Article R634-1
 
@@ -33283,9 +33238,9 @@ _Cite_:
   - Code pénal - art. 322-13 (MMN)
 
 
-#### Chapitre V : Des contraventions de la 5e classe contre les biens<a id=318></a>
+#### Chapitre V : Des contraventions de la 5e classe contre les biens<a id=324></a>
 
-##### Section 1 : Des destructions, dégradations et détériorations dont il n'est résulté qu'un dommage léger<a id=319></a>
+##### Section 1 : Des destructions, dégradations et détériorations dont il n'est résulté qu'un dommage léger<a id=325></a>
 
 ###### Article R635-1
 
@@ -33348,7 +33303,7 @@ _Cite_:
   - Code pénal - art. 132-15 (V)
 
 
-##### Section 2 : De la vente forcée par correspondance<a id=320></a>
+##### Section 2 : De la vente forcée par correspondance<a id=326></a>
 
 ###### Article R635-2
 
@@ -33404,7 +33359,7 @@ _Cite_:
   - Code pénal - art. 132-15 (V)
 
 
-##### Section 3 : De la violation des dispositions réglementant la vente ou l'échange de certains objets mobiliers<a id=321></a>
+##### Section 3 : De la violation des dispositions réglementant la vente ou l'échange de certains objets mobiliers<a id=327></a>
 
 ###### Article R635-3
 
@@ -33538,7 +33493,7 @@ _Cite_:
   - Code pénal - art. R635-3 (V)
 
 
-##### Section 4 : De l'abandon d'épaves de véhicules ou d'ordures, déchets, matériaux et autres objets transportés dans un véhicule<a id=322></a>
+##### Section 4 : De l'abandon d'épaves de véhicules ou d'ordures, déchets, matériaux et autres objets transportés dans un véhicule<a id=328></a>
 
 ###### Article R635-8
 
@@ -33591,11 +33546,11 @@ _Cite_:
   - Code pénal - art. 132-15 (V)
 
 
-### Titre IV : Des contraventions contre la nation, l'Etat ou la paix publique<a id=323></a>
+### Titre IV : Des contraventions contre la nation, l'Etat ou la paix publique<a id=329></a>
 
-#### Chapitre Ier : Des contraventions de la 1re classe contre la nation, l'Etat ou la paix publique<a id=324></a>
+#### Chapitre Ier : Des contraventions de la 1re classe contre la nation, l'Etat ou la paix publique<a id=330></a>
 
-##### Section unique : De l'abandon d'armes ou d'objets dangereux<a id=325></a>
+##### Section unique : De l'abandon d'armes ou d'objets dangereux<a id=331></a>
 
 ###### Article R641-1
 
@@ -33617,9 +33572,9 @@ _Codifié par_:
   - Décret n°93-726 1993-03-29
 
 
-#### Chapitre II : Des contraventions de la 2e classe contre la nation, l'Etat ou la paix publique<a id=326></a>
+#### Chapitre II : Des contraventions de la 2e classe contre la nation, l'Etat ou la paix publique<a id=332></a>
 
-##### Section 1 : Du défaut de réponse à une réquisition des autorités judiciaires ou administratives<a id=327></a>
+##### Section 1 : Du défaut de réponse à une réquisition des autorités judiciaires ou administratives<a id=333></a>
 
 ###### Article R642-1
 
@@ -33639,7 +33594,7 @@ _Codifié par_:
   - Décret n°93-726 1993-03-29
 
 
-##### Section 2 : Des atteintes à la monnaie<a id=328></a>
+##### Section 2 : Des atteintes à la monnaie<a id=334></a>
 
 ###### Article R642-2
 
@@ -33758,9 +33713,9 @@ _Cite_:
   - Code pénal - art. 442-13 (M)
 
 
-#### Chapitre III : Des contraventions de la 3e classe contre la nation, l'Etat ou la paix publique<a id=329></a>
+#### Chapitre III : Des contraventions de la 3e classe contre la nation, l'Etat ou la paix publique<a id=335></a>
 
-##### Section 1 : De l'usurpation de signes réservés à l'autorité publique<a id=330></a>
+##### Section 1 : De l'usurpation de signes réservés à l'autorité publique<a id=336></a>
 
 ###### Article R643-1
 
@@ -33798,7 +33753,7 @@ _Cite_:
   - Code pénal - art. 433-15 (M)
 
 
-##### Section 2 : De l'utilisation de poids ou mesures différents de ceux établis par les lois et règlements en vigueur<a id=331></a>
+##### Section 2 : De l'utilisation de poids ou mesures différents de ceux établis par les lois et règlements en vigueur<a id=337></a>
 
 ###### Article R643-2
 
@@ -33833,9 +33788,9 @@ _Cite_:
   - Code pénal - art. 131-41 (V)
 
 
-#### Chapitre IV : Des contraventions de la 4e classe contre la nation, l'Etat ou la paix publique<a id=332></a>
+#### Chapitre IV : Des contraventions de la 4e classe contre la nation, l'Etat ou la paix publique<a id=338></a>
 
-##### Section 1 : De l'accès sans autorisation à un terrain, une construction, un engin ou un appareil militaires<a id=333></a>
+##### Section 1 : De l'accès sans autorisation à un terrain, une construction, un engin ou un appareil militaires<a id=339></a>
 
 ###### Article R644-1
 
@@ -33868,7 +33823,7 @@ _Cite_:
   - Code pénal - art. 413-5 (V)
 
 
-##### Section 2 : Des entraves à la libre circulation sur la voie publique<a id=334></a>
+##### Section 2 : Des entraves à la libre circulation sur la voie publique<a id=340></a>
 
 ###### Article R644-2
 
@@ -33901,7 +33856,7 @@ _Cité par_:
   - Code pénal - art. R633-6 (V)
 
 
-##### Section 3 : De la violation des dispositions réglementant les professions exercées dans les lieux publics<a id=335></a>
+##### Section 3 : De la violation des dispositions réglementant les professions exercées dans les lieux publics<a id=341></a>
 
 ###### Article R644-3
 
@@ -33937,9 +33892,9 @@ _Cite_:
   - Code pénal - art. 131-41 (V)
 
 
-#### Chapitre V : Des contraventions de la 5e classe contre la nation, l'Etat ou la paix publique<a id=336></a>
+#### Chapitre V : Des contraventions de la 5e classe contre la nation, l'Etat ou la paix publique<a id=342></a>
 
-##### Section 1 : Du port ou de l'exhibition d'uniformes, insignes ou emblèmes rappelant ceux d'organisations ou de personnes responsables de crimes contre l'humanité<a id=337></a>
+##### Section 1 : Du port ou de l'exhibition d'uniformes, insignes ou emblèmes rappelant ceux d'organisations ou de personnes responsables de crimes contre l'humanité<a id=343></a>
 
 ###### Article R645-1
 
@@ -33999,7 +33954,7 @@ _Cité par_:
   - Code de procédure pénale - art. R40-25 (V)
 
 
-##### Section 2 : Des dessins, levés ou enregistrements effectués sans autorisation dans une zone d'interdiction fixée par l'autorité militaire<a id=338></a>
+##### Section 2 : Des dessins, levés ou enregistrements effectués sans autorisation dans une zone d'interdiction fixée par l'autorité militaire<a id=344></a>
 
 ###### Article R645-2
 
@@ -34035,7 +33990,7 @@ _Cite_:
   - Code pénal - art. 132-11 (V)
 
 
-##### Section 3 : Des atteintes à l'état civil des personnes<a id=339></a>
+##### Section 3 : Des atteintes à l'état civil des personnes<a id=345></a>
 
 ###### Article R645-3
 
@@ -34161,7 +34116,7 @@ _Cité par_:
   - Code pénal - art. R711-1 (V)
 
 
-##### Section 4 : De la soustraction d'une pièce produite en justice<a id=340></a>
+##### Section 4 : De la soustraction d'une pièce produite en justice<a id=346></a>
 
 ###### Article R645-7
 
@@ -34193,7 +34148,7 @@ _Cite_:
   - Code pénal - art. 132-15 (V)
 
 
-##### Section 5 : De l'utilisation d'un document délivré par une administration publique comportant des mentions devenues incomplètes ou inexactes<a id=341></a>
+##### Section 5 : De l'utilisation d'un document délivré par une administration publique comportant des mentions devenues incomplètes ou inexactes<a id=347></a>
 
 ###### Article R645-8
 
@@ -34233,7 +34188,7 @@ _Codifié par_:
   - Décret n°93-726 1993-03-29
 
 
-##### Section 6 : Du refus de restitution de signes monétaires contrefaits ou falsifiés<a id=342></a>
+##### Section 6 : Du refus de restitution de signes monétaires contrefaits ou falsifiés<a id=348></a>
 
 ###### Article R645-9
 
@@ -34289,7 +34244,7 @@ _Cité par_:
   - Code monétaire et financier - art. R162-4 (V)
 
 
-##### Section 7 : De l'altération ou de la contrefaçon des timbres-poste ou des timbres émis par l'administration des finances<a id=343></a>
+##### Section 7 : De l'altération ou de la contrefaçon des timbres-poste ou des timbres émis par l'administration des finances<a id=349></a>
 
 ###### Article R645-10
 
@@ -34376,7 +34331,7 @@ _Cite_:
   - Code pénal - art. 132-15 (V)
 
 
-##### Section 8 : De l'intrusion dans les établissements scolaires<a id=344></a>
+##### Section 8 : De l'intrusion dans les établissements scolaires<a id=350></a>
 
 ###### Article R645-12
 
@@ -34413,11 +34368,11 @@ _Cite_:
   - Code pénal - art. 132-11 (M)
 
 
-### Titre V : Des autres contraventions<a id=345></a>
+### Titre V : Des autres contraventions<a id=351></a>
 
-#### Chapitre III : Des contraventions de la 3e classe<a id=346></a>
+#### Chapitre III : Des contraventions de la 3e classe<a id=352></a>
 
-##### Section unique : Des atteintes involontaires à la vie ou à l'intégrité d'un animal<a id=347></a>
+##### Section unique : Des atteintes involontaires à la vie ou à l'intégrité d'un animal<a id=353></a>
 
 ###### Article R653-1
 
@@ -34448,9 +34403,9 @@ _Cité par_:
   - Code de procédure pénale - art. R15-33-29-3 (V)
 
 
-#### Chapitre IV : Des contraventions de la 4e classe<a id=348></a>
+#### Chapitre IV : Des contraventions de la 4e classe<a id=354></a>
 
-##### Section unique : Des mauvais traitements envers un animal<a id=349></a>
+##### Section unique : Des mauvais traitements envers un animal<a id=355></a>
 
 ###### Article R654-1
 
@@ -34488,9 +34443,9 @@ _Cite_:
   - Code pénal - art. 521-1 (V)
 
 
-#### Chapitre V : Des contraventions de la 5e classe<a id=350></a>
+#### Chapitre V : Des contraventions de la 5e classe<a id=356></a>
 
-##### Section unique : Des atteintes volontaires à la vie d'un animal<a id=351></a>
+##### Section unique : Des atteintes volontaires à la vie d'un animal<a id=357></a>
 
 ###### Article R655-1
 
