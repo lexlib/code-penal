@@ -1,5 +1,5 @@
 # Code pénal  
-Version Consolidée au 1997-05-30
+Version Consolidée au 1997-07-13
 ## Contenu: 
   - [Partie législative (art. 111-1 à 716-5)](#1)
     - [Livre Ier : Dispositions générales (art. 111-1 à 133-17)](#2)
@@ -30941,7 +30941,11 @@ _Créé par_:
 
 ###### Article R226-1
 
-La liste d'appareils prévue par l'article 226-3 est établie par arrêté ministériel.
+La liste d'appareils prévue par l'article 226-3 est établie par arrêté du Premier ministre. 
+
+Par dérogation aux dispositions de l'article 1er du décret n° 97-34 du 15 janvier 1997 relatif à la déconcentration des
+décisions administratives individuelles, les autorisations prévues aux articles R. 226-3 et R. 226-7 sont délivrées par le
+Premier ministre.
 
 **Liens relatifs à cet article**
 
@@ -30952,6 +30956,15 @@ La liste d'appareils prévue par l'article 226-3 est établie par arrêté minis
 _Codifié par_:
 
   - Décret n°93-726 1993-03-29
+
+_Cite_:
+
+  - Décret n°97-34 du 15 janvier 1997 - art. 1 (V)
+  - Code pénal - art. 226-3 (V)
+
+_Modifié par_:
+
+  - Décret n°97-757 du 10 juillet 1997 - art. 1 () JORF 13 juillet 1997
 
 _Cité par_:
 
@@ -30964,32 +30977,46 @@ _Cité par_:
   - Code pénal - art. R226-7 (M)
   - Code pénal - art. R625-9 (V)
 
-_Cite_:
-
-  - Code pénal - art. 226-3 (V)
-
 
 ###### Article R226-2
 
-Cet arrêté est pris par le ministre chargé des télécommunications après avis d'une commission consultative placée auprès de
-lui et comprenant :
+Il est institué auprès du Premier ministre une commission consultative composée comme suit :
 
-1° Un représentant du ministre chargé des télécommunications, président ;
+1° Le secrétaire général de la défense nationale ou son représentant, président ;
 
-2° Un représentant du ministre de l'intérieur ;
+2° Un représentant du ministre de la justice ;
 
-3° Un représentant du ministre de la défense ;
+3° Un représentant du ministre de l'intérieur ;
 
-4° Un représentant du ministre chargé des douanes ;
+4° Un représentant du ministre de la défense ;
 
-5° Un représentant du ministre chargé de l'industrie ;
+5° Un représentant du ministre chargé des douanes ;
 
-6° Quatre personnalités choisies en raison de leur compétence désignées par le ministre chargé des télécommunications.
+6° Un représentant du ministre chargé de l'industrie ;
+
+7° Un représentant du ministre chargé des télécommunications ;
+
+8° Un représentant de la Commission nationale de contrôle des interceptions de sécurité ;
+
+9° Un représentant du directeur général de l'Agence nationale des fréquences ;
+
+10° Deux personnalités choisies en raison de leur compétence, désignées par le Premier ministre.
 
 La commission peut entendre, à titre d'expert, toute personne compétente.
 
-Elle est saisie pour avis de tout projet de modification de la liste mentionnée ci-dessus. Elle peut également formuler des
-propositions de modification de cette liste.
+Elle est saisie pour avis des projets d'arrêtés pris en application des articles R. 226-1 et R. 226-10. Elle peut formuler
+des propositions de modification de ces arrêtés.
+
+Elle est également consultée sur les demandes d'autorisation présentées en application des articles R. 226-3 et R. 226-7.
+
+Le secrétariat de la commission est assuré par le secrétariat général de la défense nationale.
+
+**Nota:**
+
+Décret n° 2009-619 du 6 juin 2009 article 1 : Les dispositions réglementaires instituant les commissions administratives à
+caractère consultatif dont la liste est annexée au présent décret sont prorogées pour une durée de cinq ans (Commission
+consultative chargée d'émettre un avis sur les matériels susceptibles de porter atteinte à l'intimité de la vie privée et au
+secret des correspondances).
 
 **Liens relatifs à cet article**
 
@@ -31000,6 +31027,11 @@ propositions de modification de cette liste.
 _Codifié par_:
 
   - Décret n°93-726 1993-03-29
+
+_Modifié par_:
+
+  - Décret n°97-757 du 10 juillet 1997 - art. 2 () JORF 13 juillet 1997
+  - Décret n°2009-1657 du 24 décembre 2009 - art. 5 (VD)
 
 _Cité par_:
 
@@ -31017,17 +31049,23 @@ _Cité par_:
   - Code pénal - art. R226-3 (V)
   - Code pénal - art. R226-7 (V)
 
+_Cite_:
+
+  - Code pénal - art. R226-1 (M)
+
 
 ###### Article R226-3
 
 La fabrication, l'importation, l'exposition, l'offre, la location ou la vente de tout appareil figurant sur la liste
-mentionnée à l'article R. 226-1 est soumise à une autorisation délivrée par le ministre chargé des télécommunications.
+mentionnée à l'article R. 226-1 est soumise à une autorisation délivrée par le Premier ministre, après avis de la commission
+mentionnée à l'article R. 226-2.
 
 **Liens relatifs à cet article**
 
 **Liens**:
 
   - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
+  - SPEC_APPLI: Décret n°97-1184 du 19 décembre 1997 - art. 1 (V)
 
 _Codifié par_:
 
@@ -31053,10 +31091,14 @@ _Cité par_:
   - Code pénal - art. R623-4 (V)
   - Code pénal - art. R625-9 (V)
 
+_Modifié par_:
+
+  - Décret n°97-757 du 10 juillet 1997 - art. 3 () JORF 13 juillet 1997
+
 
 ###### Article R226-4
 
-La demande d'autorisation est déposée auprès du ministre chargé des télécommunications. Elle comporte pour chaque type
+La demande d'autorisation est déposée auprès du secrétaire général de la défense nationale. Elle comporte pour chaque type
 d'appareil :
 
 1° Le nom et l'adresse du demandeur, s'il est une personne physique, ou sa dénomination et son siège, s'il est une personne
@@ -31082,10 +31124,19 @@ _Codifié par_:
 
   - Décret n°93-726 1993-03-29
 
+_Modifié par_:
+
+  - Décret n°97-757 du 10 juillet 1997 - art. 4 () JORF 13 juillet 1997
+  - Décret n°2009-1657 du 24 décembre 2009 - art. 5 (VD)
+
 _Cité par_:
 
   - Décret n°97-757 du 10 juillet 1997 - art. 10 (V)
   - Arrêté du 15 janvier 1998 - art. 2 (V)
+
+_Cite_:
+
+  - Code pénal - art. R226-3 (M)
 
 
 ###### Article R226-5
@@ -31112,7 +31163,7 @@ _Cite_:
 ###### Article R226-6
 
 Chaque appareil fabriqué, importé, exposé, offert, loué ou vendu doit porter la référence du type correspondant à la demande
-d'identification et un numéro d'identification individuel.
+d'autorisation et un numéro d'identification individuel.
 
 **Liens relatifs à cet article**
 
@@ -31124,6 +31175,10 @@ _Codifié par_:
 
   - Décret n°93-726 1993-03-29
 
+_Modifié par_:
+
+  - Décret n°97-757 du 10 juillet 1997 - art. 5 () JORF 13 juillet 1997
+
 _Cité par_:
 
   - Décret n°97-757 du 10 juillet 1997 - art. 10 (V)
@@ -31133,13 +31188,14 @@ _Cité par_:
 ###### Article R226-7
 
 L'acquisition ou la détention de tout appareil figurant sur la liste mentionnée à l'article R. 226-1 est soumise à une
-autorisation délivrée par le ministre chargé des télécommunications.
+autorisation délivrée par le Premier ministre, après avis de la commission mentionnée à l'article R. 226-2.
 
 **Liens relatifs à cet article**
 
 **Liens**:
 
   - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
+  - SPEC_APPLI: Décret n°97-1184 du 19 décembre 1997 - art. 1 (V)
 
 _Codifié par_:
 
@@ -31161,10 +31217,14 @@ _Cité par_:
   - Code pénal - art. R226-2 (V)
   - Code pénal - art. R226-9 (M)
 
+_Modifié par_:
+
+  - Décret n°97-757 du 10 juillet 1997 - art. 6 () JORF 13 juillet 1997
+
 
 ###### Article R226-8
 
-La demande d'autorisation est déposée auprès du ministre chargé des télécommunications. Elle comporte pour chaque type
+La demande d'autorisation est déposée auprès du secrétaire général de la défense nationale. Elle comporte pour chaque type
 d'appareil :
 
 1° Le nom et l'adresse du demandeur, s'il est une personne physique, ou sa dénomination et son siège, s'il est une personne
@@ -31172,7 +31232,10 @@ morale ;
 
 2° Le type de l'appareil et le nombre d'appareils pour la détention desquels l'autorisation est demandée ;
 
-3° L'utilisation prévue.
+3° L'utilisation prévue ;
+
+4° L'engagement de se soumettre aux contrôles nécessaires à la vérification du respect des indications fournies dans la
+demande d'autorisation.
 
 **Liens relatifs à cet article**
 
@@ -31183,6 +31246,11 @@ morale ;
 _Codifié par_:
 
   - Décret n°93-726 1993-03-29
+
+_Modifié par_:
+
+  - Décret n°97-757 du 10 juillet 1997 - art. 7 () JORF 13 juillet 1997
+  - Décret n°2009-1657 du 24 décembre 2009 - art. 5 (VD)
 
 _Cité par_:
 
@@ -31221,10 +31289,10 @@ _Cite_:
 
 Les titulaires de l'une des autorisations mentionnées à l'article R. 226-3 ne peuvent proposer, céder, louer ou vendre les
 appareils figurant sur la liste prévue à l'article R. 226-1 qu'aux titulaires de l'une des autorisations mentionnées à
-l'article R. 226-3 ou à l'article R. 226-7.
+l'article R. 226-3 ou à l'article R. 226-7. 
 
 Ils tiennent un registre retraçant l'ensemble des opérations relatives à ces matériels. Le modèle de ce registre est
-déterminé par arrêté conjoint du ministre de l'intérieur et du ministre chargé des télécommunications.
+déterminé par arrêté du Premier ministre, pris après avis de la commission mentionnée à l'article R. 226-2.
 
 **Liens relatifs à cet article**
 
@@ -31244,6 +31312,16 @@ _Cité par_:
   - Code pénal - art. R226-2 (V)
   - Code pénal - art. R623-4 (V)
   - Code pénal - art. R625-9 (V)
+
+_Modifié par_:
+
+  - Décret n°97-757 du 10 juillet 1997 - art. 8 () JORF 13 juillet 1997
+
+_Cite_:
+
+  - Code pénal - art. R226-1 (V)
+  - Code pénal - art. R226-3 (V)
+  - Code pénal - art. R226-7 (V)
 
 
 ###### Article R226-11
