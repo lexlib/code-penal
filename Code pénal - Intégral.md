@@ -1,5 +1,5 @@
 # Code pénal  
-Version Consolidée au 1996-07-06
+Version Consolidée au 1996-07-23
 ## Contenu: 
   - [Partie législative (art. 111-1 à 727-3)](#1)
     - [Livre Ier : Dispositions générales (art. 111-1 à 133-17)](#2)
@@ -167,7 +167,7 @@ Version Consolidée au 1996-07-06
           - [Section 2 : Des atteintes au secret de la défense nationale (art. 413-9 à 413-12)](#164)
         - [Chapitre IV : Dispositions particulières (art. 414-1 à 414-9)](#165)
       - [Titre II : Du terrorisme (art. 421-1 à 422-5)](#166)
-        - [Chapitre Ier : Des actes de terrorisme (art. 421-1 à 421-4)](#167)
+        - [Chapitre Ier : Des actes de terrorisme (art. 421-1 à 421-5)](#167)
         - [Chapitre II : Dispositions particulières (art. 422-1 à 422-5)](#168)
       - [Titre III : Des atteintes à l'autorité de l'Etat (art. 431-1 à 434-46)](#169)
         - [Chapitre Ier : Des atteintes à la paix publique (art. 431-1 à 431-21)](#170)
@@ -191,7 +191,7 @@ Version Consolidée au 1996-07-06
           - [Section 4 : Peines complémentaires (art. 432-17)](#188)
         - [Chapitre III : Des atteintes à l'administration publique commises par les particuliers (art. 433-1 à 433-25)](#189)
           - [Section 1 : De la corruption active et du trafic d'influence commis par les particuliers (art. 433-1 à 433-2)](#190)
-          - [Section 2 : Des actes d'intimidation commis contre les personnes exerçant une fonction publique. (art. 433-3)](#191)
+          - [Section 2 : Des menaces et actes d'intimidation commis contre les personnes exerçant une fonction publique (art. 433-3)](#191)
           - [Section 3 : De la soustraction et du détournement de biens contenus dans un dépôt public (art. 433-4)](#192)
           - [Section 4 : De l'outrage (art. 433-5)](#193)
           - [Section 5 : De la rébellion (art. 433-6 à 433-10)](#194)
@@ -8357,6 +8357,10 @@ Est assimilé à une arme tout objet qui, présentant avec l'arme définie au pr
 une confusion, est utilisé pour menacer de tuer ou de blesser ou est destiné, par celui qui en est porteur, à menacer de tuer
 ou de blesser.
 
+L'utilisation d'un animal pour tuer, blesser ou menacer est assimilée à l'usage d'une arme. En cas de condamnation du
+propriétaire de l'animal ou si le propriétaire est inconnu, le tribunal peut décider de remettre l'animal à une oeuvre de
+protection animale reconnue d'utilité publique ou déclarée, laquelle pourra librement en disposer.
+
 **Liens relatifs à cet article**
 
 _Cité par_:
@@ -8374,6 +8378,11 @@ _Codifié par_:
 
   - SPEC_APPLI: Loi n°92-683 1992-07-22 art. 1
   - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
+  - SPEC_APPLI: Loi n°96-647 du 22 juillet 1996 - art. 27 (M)
+
+_Modifié par_:
+
+  - Loi n°96-647 du 22 juillet 1996 - art. 19 () JORF 23 juillet 1996
 
 
 #### Chapitre III : De l'extinction des peines et de l'effacement des condamnations<a id=52></a>
@@ -9159,7 +9168,8 @@ Le meurtre est puni de la réclusion criminelle à perpétuité lorsqu'il est co
 3° Sur une personne dont la particulière vulnérabilité, due à son âge, à une maladie, à une infirmité, à une déficience
 physique ou psychique ou à un état de grossesse, est apparente ou connue de son auteur ;
 
-4° Sur un magistrat, un juré, un avocat, un officier public ou ministériel ou toute autre personne dépositaire de l'autorité
+4° Sur un magistrat, un juré, un avocat, un officier public ou ministériel, un militaire de la gendarmerie, un fonctionnaire
+de la police nationale, des douanes, de l'administration pénitentiaire ou toute autre personne dépositaire de l'autorité
 publique ou chargée d'une mission de service public, dans l'exercice ou à l'occasion de l'exercice de ses fonctions ou de sa
 mission, lorsque la qualité de la victime est apparente ou connue de l'auteur ;
 
@@ -9183,10 +9193,11 @@ _Codifié par_:
 
   - SPEC_APPLI: Loi n°92-684 1992-07-22 art. 1
   - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
+  - SPEC_APPLI: Loi n°96-647 du 22 juillet 1996 - art. 27 (M)
 
 _Modifié par_:
 
-  - Loi n°94-89 du 1 février 1994 - art. 6 () JORF 2 février 1994 en vigueur le 1er mars 1994
+  - Loi n°96-647 du 22 juillet 1996 - art. 13 () JORF 23 juillet 1996
 
 _Cité par_:
 
@@ -9570,7 +9581,8 @@ physique ou psychique ou à un état de grossesse, est apparente ou connue de so
 
 3° Sur un ascendant légitime ou naturel ou sur les père ou mère adoptifs ;
 
-4° Sur un magistrat, un juré, un avocat, un officier public ou ministériel ou toute autre personne dépositaire de l'autorité
+4° Sur un magistrat, un juré, un avocat, un officier public ou ministériel, un militaire de la gendarmerie, un fonctionnaire
+de la police nationale, des douanes, de l'administration pénitentiaire ou toute autre personne dépositaire de l'autorité
 publique ou chargée d'une mission de service public, dans l'exercice ou à l'occasion de l'exercice de ses fonctions ou de sa
 mission, lorsque la qualité de la victime est apparente ou connue de l'auteur ;
 
@@ -9608,10 +9620,11 @@ _Codifié par_:
 
   - SPEC_APPLI: Loi n°92-684 1992-07-22 art. 1
   - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
+  - SPEC_APPLI: Loi n°96-647 du 22 juillet 1996 - art. 27 (M)
 
-_Anciens textes_:
+_Modifié par_:
 
-  - CODE PENAL - art. 333-1 (Ab)
+  - Loi n°96-647 du 22 juillet 1996 - art. 13 () JORF 23 juillet 1996
 
 _Cité par_:
 
@@ -9755,7 +9768,8 @@ physique ou psychique ou à un état de grossesse, est apparente ou connue de so
 
 3° Sur un ascendant légitime ou naturel ou sur les père ou mère adoptifs ;
 
-4° Sur un magistrat, un juré, un avocat, un officier public ou ministériel, ou toute autre personne dépositaire de l'autorité
+4° Sur un magistrat, un juré, un avocat, un officier public ou ministériel, un militaire de la gendarmerie, un fonctionnaire
+de la police nationale, des douanes, de l'administration pénitentiaire ou toute autre personne dépositaire de l'autorité
 publique ou chargée d'une mission de service public, dans l'exercice ou à l'occasion de l'exercice de ses fonctions ou de sa
 mission, lorsque la qualité de la victime est apparente ou connue de l'auteur ;
 
@@ -9812,6 +9826,11 @@ _Codifié par_:
 
   - SPEC_APPLI: Loi n°92-684 1992-07-22 art. 1
   - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
+  - SPEC_APPLI: Loi n°96-647 du 22 juillet 1996 - art. 27 (M)
+
+_Modifié par_:
+
+  - Loi n°96-647 du 22 juillet 1996 - art. 13 () JORF 23 juillet 1996
 
 _Cite_:
 
@@ -9868,7 +9887,8 @@ physique ou psychique ou à un état de grossesse, est apparente ou connue de so
 
 3° Sur un ascendant légitime ou naturel ou sur les père ou mère adoptifs ;
 
-4° Sur un magistrat, un juré, un avocat, un officier public ou ministériel ou toute autre personne dépositaire de l'autorité
+4° Sur un magistrat, un juré, un avocat, un officier public ou ministériel, un militaire de la gendarmerie, un fonctionnaire
+de la police nationale, des douanes, de l'administration pénitentiaire ou toute autre personne dépositaire de l'autorité
 publique ou chargée d'une mission de service public, dans l'exercice ou à l'occasion de l'exercice de ses fonctions ou de sa
 mission, lorsque la qualité de la victime est apparente ou connue de l'auteur ;
 
@@ -9927,6 +9947,11 @@ _Codifié par_:
 
   - SPEC_APPLI: Loi n°92-684 1992-07-22 art. 1
   - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
+  - SPEC_APPLI: Loi n°96-647 du 22 juillet 1996 - art. 27 (M)
+
+_Modifié par_:
+
+  - Loi n°96-647 du 22 juillet 1996 - art. 13 () JORF 23 juillet 1996
 
 _Cite_:
 
@@ -9973,7 +9998,8 @@ physique ou psychique ou à un état de grossesse, est apparente ou connue de so
 
 3° Sur un ascendant légitime ou naturel ou sur les père ou mère adoptifs ;
 
-4° Sur un magistrat, un juré, un avocat, un officier public ou ministériel ou toute autre personne dépositaire de l'autorité
+4° Sur un magistrat, un juré, un avocat, un officier public ou ministériel, un militaire de la gendarmerie, un fonctionnaire
+de la police nationale, des douanes, de l'administration pénitentiaire ou toute autre personne dépositaire de l'autorité
 publique ou chargée d'une mission de service public, dans l'exercice ou à l'occasion de l'exercice de ses fonctions ou de sa
 mission, lorsque la qualité de la victime est apparente ou connue de l'auteur ;
 
@@ -9993,9 +10019,11 @@ l'occasion de l'exercice de ses fonctions ou de sa mission ;
 
 Les peines encourues sont portées à dix ans d'emprisonnement et à 1 000 000 F d'amende lorsque l'infraction définie à
 l'article 222-11 est commise sur un mineur de quinze ans par un ascendant légitime, naturel ou adoptif ou par toute autre
-personne ayant autorité sur le mineur.
+personne ayant autorité sur le mineur. Les peines sont portées à sept ans d'emprisonnement et 700 000 F d'amende lorsque
+cette infraction est commise dans deux des circonstances prévues aux 1° à 10° du présent article. Les peines sont portées à
+dix ans d'emprisonnement et 1 000 000 F d'amende lorsqu'elle est commise dans trois de ces circonstances.
 
-Les deux premiers alinéas de l'article 132-23 relatif à la période de sûreté sont applicables à l'infraction prévue par le
+Les deux premiers alinéas de l'article 132-23 relatif à la période de sûreté sont applicables aux infractions prévues par le
 précédent alinéa.
 
 **Liens relatifs à cet article**
@@ -10008,6 +10036,7 @@ _Codifié par_:
 
   - SPEC_APPLI: Loi n°92-684 1992-07-22 art. 1
   - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
+  - SPEC_APPLI: Loi n°96-647 du 22 juillet 1996 - art. 27 (M)
 
 _Cité par_:
 
@@ -10033,6 +10062,11 @@ _Cité par_:
   - Code pénal - art. 222-47 (V)
   - Code pénal - art. 222-48-1 (V)
 
+_Modifié par_:
+
+  - Loi n°96-647 du 22 juillet 1996 - art. 13 () JORF 23 juillet 1996
+  - Loi n°96-647 du 22 juillet 1996 - art. 14 () JORF 23 juillet 1996
+
 _Cite_:
 
   - Code pénal - art. 132-23 (M)
@@ -10041,8 +10075,8 @@ _Cite_:
 
 ###### Article 222-13
 
-Les violences n'ayant pas entraîné une incapacité totale de travail pendant plus de huit jours sont punies de trois ans
-d'emprisonnement et de 300 000 F d'amende lorsqu'elles sont commises :
+Les violences ayant entraîné une incapacité de travail inférieure ou égale à huit jours ou n'ayant entraîné aucune incapacité
+de travail sont punies de trois ans d'emprisonnement et de 300 000 F d'amende lorsqu'elles sont commises :
 
 1° Sur un mineur de quinze ans ;
 
@@ -10051,7 +10085,8 @@ physique ou psychique ou à un état de grossesse, est apparente ou connue de le
 
 3° Sur un ascendant légitime ou naturel ou sur les père ou mère adoptifs ;
 
-4° Sur un magistrat, un juré, un avocat, un officier public ou ministériel ou toute autre personne dépositaire de l'autorité
+4° Sur un magistrat, un juré, un avocat, un officier public ou ministériel, un militaire de la gendarmerie, un fonctionnaire
+de la police nationale, des douanes, de l'administration pénitentiaire ou toute autre personne dépositaire de l'autorité
 publique ou chargée d'une mission de service public, dans l'exercice ou à l'occasion de l'exercice de ses fonctions ou de sa
 mission, lorsque la qualité de la victime est apparente ou connue de l'auteur ;
 
@@ -10071,7 +10106,10 @@ l'occasion de l'exercice de ses fonctions ou de sa mission ;
 
 Les peines encourues sont portées à cinq ans d'emprisonnement et à 500 000 F d'amende lorsque l'infraction définie au premier
 alinéa est commise sur un mineur de quinze ans par un ascendant légitime, naturel ou adoptif ou par toute autre personne
-ayant autorité sur le mineur.
+ayant autorité sur le mineur. Les peines sont également portées à cinq ans d'emprisonnement et 500 000 F d'amende lorsque
+cette infraction, ayant entraîné une incapacité totale de travail inférieure ou égale à huit jours, est commise dans deux des
+circonstances prévues aux 1° à 10° du présent article. Les peines sont portées à sept ans d'emprisonnement et 700 000 F
+d'amende lorsqu'elle est commise dans trois de ces circonstances.
 
 **Liens relatifs à cet article**
 
@@ -10083,6 +10121,7 @@ _Codifié par_:
 
   - SPEC_APPLI: Loi n°92-684 1992-07-22 art. 1
   - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
+  - SPEC_APPLI: Loi n°96-647 du 22 juillet 1996 - art. 27 (M)
 
 _Cité par_:
 
@@ -10100,6 +10139,11 @@ _Cité par_:
   - Code pénal - art. 222-48-1 (V)
   - Code pénal - art. R624-1 (V)
   - Code pénal - art. R625-1 (V)
+
+_Modifié par_:
+
+  - Loi n°96-647 du 22 juillet 1996 - art. 13 () JORF 23 juillet 1996
+  - Loi n°96-647 du 22 juillet 1996 - art. 15 () JORF 23 juillet 1996
 
 
 ###### Article 222-14
@@ -18615,7 +18659,8 @@ celle définie au deuxième alinéa du même article de 100 000 F d'amende :
 2° Lorsqu'elle est facilitée par l'état d'une personne dont la particulière vulnérabilité, due à son âge, à une maladie, à
 une infirmité, à une déficience physique ou psychique ou à un état de grossesse, est apparente ou connue de son auteur ;
 
-3° Lorsqu'elle est commise au préjudice d'un magistrat, d'un juré, d'un avocat, d'un officier public ou ministériel ou de
+3° Lorsqu'elle est commise au préjudice d'un magistrat, d'un juré, d'un avocat, d'un officier public ou ministériel, d'un
+militaire de la gendarmerie, d'un fonctionnaire de la police nationale, des douanes, de l'administration pénitentiaire ou de
 toute autre personne dépositaire de l'autorité publique ou chargée d'une mission de service public, en vue d'influencer son
 comportement dans l'exercice de ses fonctions ou de sa mission ;
 
@@ -18635,6 +18680,7 @@ _Codifié par_:
 
   - SPEC_APPLI: Loi n°92-685 1992-07-22 art. 1
   - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
+  - SPEC_APPLI: Loi n°96-647 du 22 juillet 1996 - art. 27 (M)
 
 _Cité par_:
 
@@ -18644,6 +18690,10 @@ _Cité par_:
   - Code pénal - art. 322-15 (M)
   - Code pénal - art. 322-17 (V)
   - Code pénal - art. 322-3-1 (V)
+
+_Modifié par_:
+
+  - Loi n°96-647 du 22 juillet 1996 - art. 13 () JORF 23 juillet 1996
 
 _Cite_:
 
@@ -20826,8 +20876,8 @@ _Cite_:
 
 ###### Article 421-1
 
-Constituent des actes de terrorisme, lorsqu'elles sont en relation avec une entreprise individuelle ou collective ayant pour
-but de troubler gravement l'ordre public par l'intimidation ou la terreur, les infractions suivantes :
+Constituent des actes de terrorisme, lorsqu'elles sont intentionnellement en relation avec une entreprise individuelle ou
+collective ayant pour but de troubler gravement l'ordre public par l'intimidation ou la terreur, les infractions suivantes :
 
 1° Les atteintes volontaires à la vie, les atteintes volontaires à l'intégrité de la personne, l'enlèvement et la
 séquestration ainsi que le détournement d'aéronef, de navire ou de tout autre moyen de transport, définis par le livre II du
@@ -20836,7 +20886,10 @@ présent code ;
 2° Les vols, les extorsions, les destructions, dégradations et détériorations, ainsi que les infractions en matière
 informatique définis par le livre III du présent code ;
 
-3° La fabrication ou la détention de machines, engins meurtriers ou explosifs, définies à l'article 3 de la loi du 19 juin
+3° Les infractions en matière de groupes de combat et de mouvements dissous définies par les articles 431-13 à 431-17 et les
+infractions définies par les articles 434-6 et 441-2 à 441-5 ;
+
+4° La fabrication ou la détention de machines, engins meurtriers ou explosifs, définies à l'article 3 de la loi du 19 juin
 1871 qui abroge le décret du 4 septembre 1870 sur la fabrication des armes de guerre ;
 
 - la production, la vente, l'importation ou l'exportation de substances explosives, définies à l'article 6 de la loi n°
@@ -20846,11 +20899,13 @@ informatique définis par le livre III du présent code ;
 desdites substances, définis à l'article 38 du décret-loi du 18 avril 1939 fixant le régime des matériels de guerre, armes et
 munitions ;
 
-- la détention, le port et le transport d'armes et de munitions des première et quatrième catégories, définis aux articles 31
-et 32 du décret-loi précité ;
+- la détention, le port et le transport d'armes et de munitions des première et quatrième catégories, définis aux articles
+24, 28, 31 et 32 du décret-loi précité ;
 
 - les infractions définies aux articles 1er et 4 de la loi n° 72-467 du 9 juin 1972 interdisant la mise au point, la
 fabrication, la détention, le stockage, l'acquisition et la cession d'armes biologiques ou à base de toxines.
+
+5° Le recel du produit de l'une des infractions prévues aux 1° à 4° ci-dessus.
 
 **Liens relatifs à cet article**
 
@@ -20860,7 +20915,7 @@ _Cite_:
   - Loi n°72-467 du 9 juin 1972 - art. 1 (Ab)
   - Loi n°72-467 du 9 juin 1972 - art. 4 (M)
   - Décret n°1870-09-04
-  - Décret-loi 1939-04-18 art. 38, art. 31, art. 32
+  - Décret-loi 1939-04-18 art. 38, art. 31, art. 32, art. 24, art. 28
   - Loi n°1871-06-19 art. 3
 
 _Cité par_:
@@ -20924,14 +20979,19 @@ _Codifié par_:
 
   - SPEC_APPLI: Loi n°92-686 1992-07-22 art. 1
   - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
+  - SPEC_APPLI: Loi n°96-647 du 22 juillet 1996 - art. 27 (M)
+
+_Modifié par_:
+
+  - Loi n°96-647 du 22 juillet 1996 - art. 1 (V) JORF 23 juillet 1996
 
 
 ###### Article 421-2
 
-Constitue également un acte de terrorisme, lorsqu'il est en relation avec une entreprise individuelle ou collective ayant
-pour but de troubler gravement l'ordre public par l'intimidation ou la terreur, le fait d'introduire dans l'atmosphère, sur
-le sol, dans le sous-sol ou dans les eaux, y compris celles de la mer territoriale, une substance de nature à mettre en péril
-la santé de l'homme ou des animaux ou le milieu naturel.
+Constitue également un acte de terrorisme, lorsqu'il est intentionnellement en relation avec une entreprise individuelle ou
+collective ayant pour but de troubler gravement l'ordre public par l'intimidation ou la terreur, le fait d'introduire dans
+l'atmosphère, sur le sol, dans le sous-sol ou dans les eaux, y compris celles de la mer territoriale, une substance de nature
+à mettre en péril la santé de l'homme ou des animaux ou le milieu naturel.
 
 **Liens relatifs à cet article**
 
@@ -20943,6 +21003,7 @@ _Codifié par_:
 
   - SPEC_APPLI: Loi n°92-686 1992-07-22 art. 1
   - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
+  - SPEC_APPLI: Loi n°96-647 du 22 juillet 1996 - art. 27 (M)
 
 _Cité par_:
 
@@ -20953,25 +21014,68 @@ _Cité par_:
   - Code pénal - art. 421-6 (V)
   - Code pénal - art. 422-3 (M)
 
+_Modifié par_:
+
+  - Loi n°96-647 1996-07-22 art. 2 JORF 23 juillet 1996
+
+
+###### Article 421-2-1
+
+Constitue également un acte de terrorisme le fait de participer à un groupement formé ou à une entente établie en vue de la
+préparation, caractérisée par un ou plusieurs faits matériels, d'un des actes de terrorisme mentionnés aux articles
+précédents.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°92-686 1992-07-22
+
+**Liens**:
+
+  - SPEC_APPLI: Loi n°96-647 du 22 juillet 1996 - art. 27 (M)
+
+_Créé par_:
+
+  - Loi n°96-647 du 22 juillet 1996 - art. 3 () JORF 23 juillet 1996
+
+_Cité par_:
+
+  - Ordonnance n°2004-559 du 17 juin 2004 - art. 4 (VT)
+  - Ordonnance n°2005-649 du 6 juin 2005 - art. 8 (V)
+  - Arrêté du 28 septembre 2011 - art. 2 (V)
+  - Arrêté du 28 septembre 2011 - art. 6 (V)
+  - Arrêté du 2 novembre 2011 - art. 3 (V)
+  - Arrêté du 2 novembre 2011 - art. 4 (V)
+  - Loi n°2016-731 du 3 juin 2016 - art. 7
+  - Code de procédure pénale - art. 689-9 (V)
+  - Code de procédure pénale - art. 706-24-3 (V)
+  - Code de procédure pénale - art. 706-24-4 (V)
+  - Code général des collectivités territoriales - art. L1414-4 (VD)
+  - Code pénal - art. 421-2-4 (V)
+  - Code pénal - art. 421-5 (V)
+  - Code pénal - art. 421-6 (V)
+
 
 ###### Article 421-3
 
-Le maximum de la peine privative de liberté encourue pour les infractions mentionnées aux 1°, 2° et 3° de l'article 421-1 est
-relevé ainsi qu'il suit lorsque ces infractions constituent des actes de terrorisme :
+Le maximum de la peine privative de liberté encourue pour les infractions mentionnées à l'article 421-1 est relevé ainsi
+qu'il suit lorsque ces infractions constituent des actes de terrorisme : 
 
-1° Il est porté à la réclusion criminelle à perpétuité lorsque l'infraction est punie de trente ans de réclusion criminelle ;
+1° Il est porté à la réclusion criminelle à perpétuité lorsque l'infraction est punie de trente ans de réclusion
+criminelle ; 
 
-2° Il est porté à trente ans de réclusion criminelle lorsque l'infraction est punie de vingt ans de réclusion criminelle ;
+2° Il est porté à trente ans de réclusion criminelle lorsque l'infraction est punie de vingt ans de réclusion criminelle ; 
 
-3° Il est porté à vingt ans de réclusion criminelle lorsque l'infraction est punie de quinze ans de réclusion criminelle ;
+3° Il est porté à vingt ans de réclusion criminelle lorsque l'infraction est punie de quinze ans de réclusion criminelle ; 
 
-4° Il est porté à quinze ans de réclusion criminelle lorsque l'infraction est punie de dix ans d'emprisonnement ;
+4° Il est porté à quinze ans de réclusion criminelle lorsque l'infraction est punie de dix ans d'emprisonnement ; 
 
-5° Il est porté à dix ans d'emprisonnement lorsque l'infraction est punie de sept ans d'emprisonnement ;
+5° Il est porté à dix ans d'emprisonnement lorsque l'infraction est punie de sept ans d'emprisonnement ; 
 
-6° Il est porté à sept ans d'emprisonnement lorsque l'infraction est punie de cinq ans d'emprisonnement ;
+6° Il est porté à sept ans d'emprisonnement lorsque l'infraction est punie de cinq ans d'emprisonnement ; 
 
-7° Il est porté au double lorsque l'infraction est punie d'un emprisonnement de trois ans au plus.
+7° Il est porté au double lorsque l'infraction est punie d'un emprisonnement de trois ans au plus. 
 
 Les deux premiers alinéas de l'article 132-23 relatif à la période de sûreté sont applicables aux crimes, ainsi qu'aux délits
 punis de dix ans d'emprisonnement, prévus par le présent article.
@@ -20993,11 +21097,16 @@ _Codifié par_:
 
   - SPEC_APPLI: Loi n°92-686 1992-07-22 art. 1
   - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
+  - SPEC_APPLI: Loi n°96-647 du 22 juillet 1996 - art. 27 (M)
+
+_Modifié par_:
+
+  - Loi n°96-647 du 22 juillet 1996 - art. 4 () JORF 23 juillet 1996
 
 _Cite_:
 
-  - Code pénal - art. 132-23 (M)
-  - Code pénal - art. 421-1 (M)
+  - Code pénal - art. 132-23 (V)
+  - Code pénal - art. 421-1 (V)
 
 
 ###### Article 421-4
@@ -21030,6 +21139,52 @@ _Cite_:
 
   - Code pénal - art. 132-23 (M)
   - Code pénal - art. 421-2 (M)
+
+
+###### Article 421-5
+
+L'acte de terrorisme défini à l'article 421-2-1 est puni de dix ans d'emprisonnement et de 1 500 000 F d'amende.
+
+Les deux premiers alinéas de l'article 132-23 relatif à la période de sûreté sont applicables au délit prévu par le présent
+article.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°92-686 1992-07-22
+
+**Liens**:
+
+  - SPEC_APPLI: Loi n°96-647 du 22 juillet 1996 - art. 27 (M)
+
+_Créé par_:
+
+  - Loi n°96-647 du 22 juillet 1996 - art. 5 () JORF 23 juillet 1996
+
+_Cité par_:
+
+  - Ordonnance n°2004-559 du 17 juin 2004 - art. 4 (VT)
+  - Ordonnance n°2005-649 du 6 juin 2005 - art. 7 (VT)
+  - Ordonnance n°2005-649 du 6 juin 2005 - art. 8 (VD)
+  - Arrêté du 28 septembre 2011 - art. 2 (V)
+  - Arrêté du 28 septembre 2011 - art. 6 (V)
+  - Arrêté du 2 novembre 2011 - art. 3 (V)
+  - Arrêté du 2 novembre 2011 - art. 4 (V)
+  - ORDONNANCE n°2015-899 du 23 juillet 2015 - art. 45 (VT)
+  - Ordonnance n°2016-65 du 29 janvier 2016 - art. 39 (VT)
+  - Code de la commande publique - art. L2141-1 (VD)
+  - Code de la commande publique - art. L2341-1 (VD)
+  - Code de la commande publique - art. L3123-1 (V)
+  - Code de procédure pénale - art. 706-24-3 (M)
+  - Code général des collectivités territoriales - art. L1414-4 (VD)
+  - Code monétaire et financier - art. L561-22 (V)
+  - Code pénal - art. 422-3 (V)
+
+_Cite_:
+
+  - Code pénal - art. 132-23 (M)
+  - Code pénal - art. 421-2-1 (V)
 
 
 #### Chapitre II : Dispositions particulières<a id=168></a>
@@ -21089,8 +21244,8 @@ _Codifié par_:
 
 ###### Article 422-3
 
-Les personnes physiques coupables de l'une des infractions prévues par les articles 421-1 et 421-2 encourent également les
-peines complémentaires suivantes :
+Les personnes physiques coupables de l'une des infractions prévues par le présent titre encourent également les peines
+complémentaires suivantes :
 
 1° L'interdiction des droits civiques, civils et de famille, suivant les modalités prévues par l'article 131-26. Toutefois,
 le maximum de la durée de l'interdiction est porté à quinze ans en cas de crime et à dix ans en cas de délit ;
@@ -21112,14 +21267,11 @@ _Codifié par_:
 
   - SPEC_APPLI: Loi n°92-686 1992-07-22 art. 1
   - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
+  - SPEC_APPLI: Loi n°96-647 du 22 juillet 1996 - art. 27 (M)
 
-_Cite_:
+_Modifié par_:
 
-  - Code pénal - art. 131-26 (V)
-  - Code pénal - art. 131-27 (V)
-  - Code pénal - art. 131-31 (V)
-  - Code pénal - art. 421-1 (M)
-  - Code pénal - art. 421-2 (M)
+  - Loi n°96-647 du 22 juillet 1996 - art. 6 () JORF 23 juillet 1996
 
 
 ###### Article 422-4
@@ -22603,16 +22755,23 @@ _Codifié par_:
   - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
 
 
-##### Section 2 : Des actes d'intimidation commis contre les personnes exerçant une fonction publique.<a id=191></a>
+##### Section 2 : Des menaces et actes d'intimidation commis contre les personnes exerçant une fonction publique<a id=191></a>
 
 ###### Article 433-3
 
-Est puni de dix ans d'emprisonnement et de 1 000 000 F d'amende le fait, d'user de menaces ou de violences ou de commettre
-tout autre acte d'intimidation pour obtenir d'une personne dépositaire de l'autorité publique, chargée d'une mission de
-service public ou investie d'un mandat électif public, soit qu'elle accomplisse ou s'abstienne d'accomplir un acte de sa
-fonction, de sa mission ou de son mandat, ou facilité par sa fonction, sa mission ou son mandat, soit qu'elle abuse de son
-autorité vraie ou supposée en vue de faire obtenir d'une autorité ou d'une administration publique des distinctions, des
-emplois, des marchés ou toute autre décision favorable.
+Est punie de deux ans d'emprisonnement et de 200 000 F d'amende la menace de commettre un crime ou un délit contre les
+personnes ou les biens proférée à l'encontre d'un magistrat, d'un juré, d'un avocat, d'un officier public ou ministériel,
+d'un militaire de la gendarmerie, d'un fonctionnaire de la police nationale, des douanes, de l'administration pénitentiaire
+ou de toute autre personne dépositaire de l'autorité publique ou chargée d'une mission de service public, dans l'exercice ou
+à l'occasion de l'exercice de ses fonctions, lorsqu'elle est soit réitérée, soit matérialisée par un écrit, une image ou tout
+autre objet. La peine est portée à cinq ans d'emprisonnement et 500 000 F d'amende lorsqu'il s'agit d'une menace de mort ou
+d'une menace d'atteinte aux biens dangereuse pour les personnes.
+
+Est puni de dix ans d'emprisonnement et de 1 000 000 F d'amende le fait d'user de menaces, de violences ou de commettre tout
+autre acte d'intimidation pour obtenir d'une personne mentionnée au premier alinéa ou investie d'un mandat électif public
+soit qu'elle accomplisse ou s'abstienne d'accomplir un acte de sa fonction, de sa mission ou de son mandat, ou facilité par
+sa fonction, sa mission ou son mandat, soit qu'elle abuse de son autorité vraie ou supposée en vue de faire obtenir d'une
+autorité ou d'une administration publique des distinctions, des emplois, des marchés ou toute autre décision favorable.
 
 **Liens relatifs à cet article**
 
@@ -22642,6 +22801,11 @@ _Codifié par_:
 
   - SPEC_APPLI: Loi n°92-686 1992-07-22 art. 1
   - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
+  - SPEC_APPLI: Loi n°96-647 du 22 juillet 1996 - art. 27 (M)
+
+_Modifié par_:
+
+  - Loi n°96-647 du 22 juillet 1996 - art. 16 () JORF 23 juillet 1996
 
 
 ##### Section 3 : De la soustraction et du détournement de biens contenus dans un dépôt public<a id=192></a>
@@ -22690,6 +22854,9 @@ fonction dont elle est investie.
 Lorsqu'il est adressé à une personne dépositaire de l'autorité publique, l'outrage est puni de six mois d'emprisonnement et
 de 50 000 F d'amende.
 
+Lorsqu'il est commis en réunion, l'outrage prévu au premier alinéa est puni de six mois d'emprisonnement et de 50 000 F
+d'amende, et l'outrage prévu au deuxième alinéa est puni d'un an d'emprisonnement et de 100 000 F d'amende.
+
 **Liens relatifs à cet article**
 
 _Codifié par_:
@@ -22700,6 +22867,7 @@ _Codifié par_:
 
   - SPEC_APPLI: Loi n°92-686 1992-07-22 art. 1
   - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
+  - SPEC_APPLI: Loi n°96-647 du 22 juillet 1996 - art. 27 (M)
 
 _Cité par_:
 
@@ -22721,6 +22889,10 @@ _Cité par_:
   - Code de procédure pénale - art. 837 (V)
   - Code du travail - art. L8114-2 (V)
   - Code rural - art. L717-6 (V)
+
+_Modifié par_:
+
+  - Loi n°96-647 du 22 juillet 1996 - art. 17 () JORF 23 juillet 1996
 
 
 ##### Section 5 : De la rébellion<a id=194></a>
@@ -23533,17 +23705,18 @@ _Codifié par_:
 
 ###### Article 434-6
 
-Le fait de fournir à la personne auteur ou complice d'un crime un logement, un lieu de retraite, des subsides, des moyens
-d'existence ou tout autre moyen de la soustraire aux recherches ou à l'arrestation est puni de trois ans d'emprisonnement et
-de 300 000 F d'amende. Les peines sont portées à cinq ans d'emprisonnement et à 500 000 F d'amende lorsque l'infraction est
-commise de manière habituelle.
+Le fait de fournir à la personne auteur ou complice d'un crime ou d'un acte de terrorisme puni d'au moins dix ans
+d'emprisonnement un logement, un lieu de retraite, des subsides, des moyens d'existence ou tout autre moyen de la soustraire
+aux recherches ou à l'arrestation est puni de trois ans d'emprisonnement et de 300 000 F d'amende. Les peines sont portées à
+cinq ans d'emprisonnement et à 500 000 F d'amende lorsque l'infraction est commise de manière habituelle.
 
 Sont exceptés des dispositions qui précèdent :
 
 1° Les parents en ligne directe et leurs conjoints, ainsi que les frères et soeurs et leurs conjoints, de l'auteur ou
-complice du crime ;
+complice du crime ou de l'acte de terrorisme ;
 
-2° Le conjoint de l'auteur ou du complice du crime, ou la personne qui vit notoirement en situation maritale avec lui.
+2° Le conjoint de l'auteur ou du complice du crime ou de l'acte de terrorisme, ou la personne qui vit notoirement en
+situation maritale avec lui.
 
 **Liens relatifs à cet article**
 
@@ -23555,6 +23728,11 @@ _Codifié par_:
 
   - SPEC_APPLI: Loi n°92-686 1992-07-22 art. 1
   - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
+  - SPEC_APPLI: Loi n°96-647 du 22 juillet 1996 - art. 27 (M)
+
+_Modifié par_:
+
+  - Loi n°96-647 du 22 juillet 1996 - art. 7 () JORF 23 juillet 1996
 
 _Cité par_:
 
