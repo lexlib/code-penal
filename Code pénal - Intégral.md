@@ -1,5 +1,5 @@
 # Code pénal  
-Version Consolidée au 2004-09-29
+Version Consolidée au 2004-10-01
 ## Contenu: 
   - [Partie législative (art. 111-1 à 727-3)](#1)
     - [Livre Ier : Dispositions générales (art. 111-1 à 133-17)](#2)
@@ -2133,11 +2133,13 @@ Les peines correctionnelles encourues par les personnes physiques sont :
 
 3° Le jour-amende ;
 
-4° Le travail d'intérêt général ;
+4° Le stage de citoyenneté ;
 
-5° Les peines privatives ou restrictives de droits prévues à l'article 131-6 ;
+5° Le travail d'intérêt général ;
 
-6° Les peines complémentaires prévues à l'article 131-10.
+6° Les peines privatives ou restrictives de droits prévues à l'article 131-6 ;
+
+7° Les peines complémentaires prévues à l'article 131-10.
 
 **Liens relatifs à cet article**
 
@@ -2145,10 +2147,9 @@ _Codifié par_:
 
   - Loi n°92-683 1992-07-22
 
-**Liens**:
+_Modifié par_:
 
-  - SPEC_APPLI: Loi n°92-683 1992-07-22 art. 1
-  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
+  - Loi n°2004-204 du 9 mars 2004 - art. 44 () JORF 10 mars 2004 en vigueur le 1er octobre 2004
 
 _Cité par_:
 
@@ -2258,10 +2259,48 @@ _Modifié par_:
   - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 
+###### Article 131-5-1
+
+Lorsqu'un délit est puni d'une peine d'emprisonnement, la juridiction peut, à la place de l'emprisonnement, prescrire que le
+condamné devra accomplir un stage de citoyenneté, dont les modalités, la durée et le contenu sont fixés par décret en Conseil
+d'Etat, et qui a pour objet de lui rappeler les valeurs républicaines de tolérance et de respect de la dignité humaine sur
+lesquelles est fondée la société. La juridiction précise si ce stage, dont le coût ne peut excéder celui des amendes
+contraventionnelles de la 3e classe, doit être effectué aux frais du condamné.
+
+Cette peine ne peut être prononcée contre le prévenu qui la refuse ou n'est pas présent à l'audience.
+
+**Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Ordonnance n°45-174 du 2 février 1945 - art. 20-4-1 (VT)
+  - Code de la sécurité intérieure - art. R317-13 (V)
+  - Code pénal - art. 131-9 (VD)
+  - Code pénal - art. 132-45 (VD)
+  - Code pénal - art. 222-45 (VD)
+  - Code pénal - art. 225-19 (VD)
+  - Code pénal - art. 312-13 (VD)
+  - Code pénal - art. 322-15 (V)
+  - Code pénal - art. 434-41 (V)
+  - Code pénal - art. R131-11-1 (VD)
+  - Code pénal - art. R131-35 (VD)
+  - Code pénal - art. R131-46 (VT)
+  - Code pénal - art. R131-48 (VT)
+  - Code pénal - art. R132-45 (M)
+
+_Codifié par_:
+
+  - Loi n°92-683 du 22 juillet 1992 (V)
+
+_Créé par_:
+
+  - Loi n°2004-204 du 9 mars 2004 - art. 44 () JORF 10 mars 2004 en vigueur le 1er octobre 2004
+
+
 ###### Article 131-6
 
-Lorsqu'un délit est puni d'une peine d'emprisonnement, une ou plusieurs des peines privatives ou restrictives de droits
-suivantes peuvent être prononcées :
+Lorsqu'un délit est puni d'une peine d'emprisonnement, la juridiction peut prononcer, à la place de l'emprisonnement, une ou
+plusieurs des peines privatives ou restrictives de liberté suivantes :
 
 1° La suspension, pour une durée de cinq ans au plus, du permis de conduire, cette suspension pouvant être limitée, selon des
 modalités déterminées par décret en conseil d'Etat, à la conduite en dehors de l'activité professionnelle ; cette limitation
@@ -2289,12 +2328,21 @@ plus ;
 par le tireur auprès du tiré ou ceux qui sont certifiés et d'utiliser des cartes de paiement ;
 
 10° La confiscation de la chose qui a servi ou était destinée à commettre l'infraction ou de la chose qui en est le produit.
-Toutefois, cette confiscation ne peut pas être prononcée en matière de délit de presse.
+Toutefois, cette confiscation ne peut pas être prononcée en matière de délit de presse ;
 
 11° L'interdiction pour une durée de cinq ans au plus d'exercer une activité professionnelle ou sociale dès lors que les
 facilités que procure cette activité ont été sciemment utilisées pour préparer ou commettre l'infraction. Cette interdiction
 n'est toutefois pas applicable à l'exercice d'un mandat électif ou de responsabilités syndicales. Elle n'est pas non plus
-applicable en matière de délit de presse.
+applicable en matière de délit de presse ;
+
+12° L'interdiction, pour une durée de trois ans au plus, de paraître dans certains lieux ou catégories de lieux déterminés
+par la juridiction et dans lesquels l'infraction a été commise ;
+
+13° L'interdiction, pour une durée de trois ans au plus, de fréquenter certains condamnés spécialement désignés par la
+juridiction, notamment les auteurs ou complices de l'infraction ;
+
+14° L'interdiction, pour une durée de trois ans au plus, d'entrer en relation avec certaines personnes spécialement désignées
+par la juridiction, notamment la victime de l'infraction.
 
 **Liens relatifs à cet article**
 
@@ -2333,28 +2381,27 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2003-495 du 12 juin 2003 - art. 5 () JORF 13 juin 2003
+  - Loi n°2004-204 du 9 mars 2004 - art. 44 () JORF 10 mars 2004 en vigueur le 1er octobre 2004
 
 
 ###### Article 131-7
 
-Les peines privatives ou restrictives de droits énumérées à l'article 131-6 peuvent également être prononcées pour les délits
-qui sont punis seulement d'une peine d'amende.
+Les peines privatives ou restrictives de droits énumérées à l'article 131-6 peuvent également être prononcées, à la place de
+l'amende, pour les délits qui sont punis seulement d'une peine d'amende.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Loi n°92-683 1992-07-22
+  - Loi n°92-683 du 22 juillet 1992 (V)
 
-**Liens**:
+_Modifié par_:
 
-  - SPEC_APPLI: Loi n°92-683 1992-07-22 art. 1
-  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
+  - Loi n°2004-204 du 9 mars 2004 - art. 44 () JORF 10 mars 2004 en vigueur le 1er octobre 2004
 
 _Cite_:
 
-  - Code pénal - art. 131-6 (M)
+  - Code pénal - art. 131-6 (V)
 
 _Cité par_:
 
@@ -2433,28 +2480,33 @@ _Codifié par_:
 ###### Article 131-9
 
 L'emprisonnement ne peut être prononcé cumulativement avec une des peines privatives ou restrictives de droits prévues à
-l'article 131-6 ni avec la peine de travail d'intérêt général.
+l'article 131-6 ni avec la peine de travail d'intérêt général. 
 
-Dans le cas de l'article 131-7, l'amende ou le jour-amende ne peuvent être prononcés cumulativement avec une des peines
-privatives ou restrictives de droits prévues à l'article 131-6.
-
-Les peines privatives ou restrictives de droits énumérées à l'article 131-6 peuvent être prononcées cumulativement ; elles ne
-peuvent être prononcées cumulativement avec la peine de travail d'intérêt général.
-
-La peine de travail d'intérêt général et la peine d'amende ou de jours-amende ne peuvent être prononcées cumulativement.
+Lorsqu'elle prononce une ou plusieurs des peines prévues par les articles 131-5-1, 131-6 ou 131-8, la juridiction peut fixer
+la durée maximum de l'emprisonnement ou le montant maximum de l'amende dont le juge de l'application des peines pourra
+ordonner la mise à exécution en tout ou partie, dans des conditions prévues par l'article 712-6 du code de procédure pénale,
+si le condamné ne respecte pas les obligations ou interdictions résultant de la ou des peines prononcées. Le président de la
+juridiction en avertit le condamné après le prononcé de la décision. L'emprisonnement ou l'amende que fixe la juridiction ne
+peuvent excéder les peines encourues pour le délit pour lequel la condamnation est prononcée ni celles prévues par l'article
+434-41 du présent code. Lorsqu'il est fait application des dispositions du présent alinéa, les dispositions de l'article
+434-41 ne sont alors pas applicables. 
 
 La peine de jours-amende ne peut être prononcée cumulativement avec la peine d'amende.
+
+**Nota:**
+
+Loi 2004-204 du 9 mars 2004 art. 207 I : les références à l'article L. 712-6 du code de procédure pénale figurant au présent
+article sont, jusqu'au 1er janvier 2005, remplacées par une référence à l'article 722 du code de procédure pénale.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Loi n°92-683 1992-07-22
+  - Loi n°92-683 du 22 juillet 1992 (V)
 
-**Liens**:
+_Modifié par_:
 
-  - SPEC_APPLI: Loi n°92-683 1992-07-22 art. 1
-  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
+  - Loi n°2004-204 du 9 mars 2004 - art. 44 () JORF 10 mars 2004 en vigueur le 1er octobre 2004
 
 _Cité par_:
 
@@ -2470,8 +2522,11 @@ _Cité par_:
 
 _Cite_:
 
-  - Code pénal - art. 131-6 (M)
-  - Code pénal - art. 131-7 (M)
+  - Code pénal - art. 131-5-1 (V)
+  - Code pénal - art. 131-6 (V)
+  - Code pénal - art. 131-8 (V)
+  - Code pénal - art. 434-41 (V)
+  - CODE DE PROCEDURE PENALE - art. 712-6 (V)
 
 
 ##### Sous-section 3 : Des peines complémentaires encourues pour certains crimes ou délits<a id=17></a>
@@ -2519,18 +2574,26 @@ _Modifié par_:
 
 Lorsqu'un délit est puni d'une ou de plusieurs des peines complémentaires mentionnées à l'article 131-10, la juridiction peut
 ne prononcer que la peine complémentaire ou l'une ou plusieurs des peines complémentaires encourues à titre de peine
-principale.
+principale. 
+
+La juridiction peut alors fixer la durée maximum de l'emprisonnement ou le montant maximum de l'amende dont le juge de
+l'application des peines pourra ordonner la mise à exécution en tout ou partie, dans des conditions prévues par l'article
+712-6 du code de procédure pénale, en cas de violation par le condamné des obligations ou interdictions résultant des peines
+prononcées en application des dispositions du présent article. Le président de la juridiction en avertit le condamné après le
+prononcé de la décision. L'emprisonnement ou l'amende que fixe la juridiction ne peuvent excéder les peines encourues pour le
+délit pour lequel la condamnation est prononcée, ni celles prévues par l'article 434-41 du présent code. Lorsqu'il est fait
+application des dispositions du présent alinéa, les dispositions de l'article 434-41 ne sont pas applicables.
+
+**Nota:**
+
+Loi 2004-204 du 9 mars 2004 art. 207 I : les références à l'article L. 712-6 du code de procédure pénale figurant au présent
+article sont, jusqu'au 1er janvier 2005, remplacées par une référence à l'article 722 du code de procédure pénale.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Loi n°92-683 1992-07-22
-
-**Liens**:
-
-  - SPEC_APPLI: Loi n°92-683 1992-07-22 art. 1
-  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
+  - Loi n°92-683 du 22 juillet 1992 (V)
 
 _Cité par_:
 
@@ -2541,9 +2604,15 @@ _Cité par_:
   - Code de procédure pénale - art. 709-1-3 (VD)
   - Code de procédure pénale - art. D115-3 (VD)
 
+_Modifié par_:
+
+  - Loi n°2004-204 du 9 mars 2004 - art. 44 () JORF 10 mars 2004 en vigueur le 1er octobre 2004
+
 _Cite_:
 
-  - Code pénal - art. 131-10 (M)
+  - Code pénal - art. 131-10 (V)
+  - Code pénal - art. 434-41 (V)
+  - CODE DE PROCEDURE PENALE - art. 712-6 (V)
 
 
 ##### Sous-section 4 : Des peines contraventionnelles<a id=18></a>
@@ -2933,7 +3002,9 @@ plus ;
 6° L'interdiction de conduire certains véhicules terrestres à moteur, y compris ceux pour la conduite desquels le permis de
 conduire n'est pas exigé, pour une durée de trois ans au plus ;
 
-7° L'obligation d'accomplir, à ses frais, un stage de sensibilisation à la sécurité routière.
+7° L'obligation d'accomplir, à ses frais, un stage de sensibilisation à la sécurité routière ;
+
+8° L'obligation d'accomplir, le cas échéant à ses frais, un stage de citoyenneté.
 
 **Liens relatifs à cet article**
 
@@ -2978,8 +3049,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2003-495 du 12 juin 2003 - art. 5 () JORF 13 juin 2003
-  - Loi n°2003-495 du 12 juin 2003 - art. 6 () JORF 13 juin 2003
+  - Loi n°2004-204 du 9 mars 2004 - art. 44 () JORF 10 mars 2004 en vigueur le 1er octobre 2004
 
 
 ###### Article 131-17
@@ -8501,7 +8571,20 @@ condamnation ;
 14° Ne pas détenir ou porter une arme ;
 
 15° En cas d'infraction commise à l'occasion de la conduite d'un véhicule terrestre à moteur, accomplir, à ses frais, un
-stage de sensibilisation à la sécurité routière.
+stage de sensibilisation à la sécurité routière ;
+
+16° S'abstenir de diffuser tout ouvrage ou oeuvre audiovisuelle dont il serait l'auteur ou le co-auteur et qui porterait, en
+tout ou partie, sur l'infraction commise et s'abstenir de toute intervention publique relative à cette infraction ; les
+dispositions du présent alinéa ne sont applicables qu'en cas de condamnation pour crimes ou délits d'atteintes volontaires à
+la vie, d'agressions sexuelles ou d'atteintes sexuelles ; (1)
+
+17° Remettre ses enfants entre les mains de ceux auxquels la garde a été confiée par décision de justice ; (1)
+
+18° Accomplir un stage de citoyenneté.
+
+**Nota:**
+
+NOTA : (1) : Loi 2004-204 du 9 mars 2004 art. 207 II : les 16° et 17° entrent en vigueur le 1er janvier 2005.
 
 **Liens relatifs à cet article**
 
@@ -8559,7 +8642,8 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2003-495 du 12 juin 2003 - art. 6 () JORF 13 juin 2003
+  - Loi n°2004-204 du 9 mars 2004 - art. 176 () JORF 10 mars 2004 en vigueur le 1er octobre 2004
+  - Loi n°2004-204 du 9 mars 2004 - art. 44 () JORF 10 mars 2004 en vigueur le 1er octobre 2004
 
 
 ###### Article 132-46
@@ -13498,7 +13582,9 @@ suivantes :
 2° L'interdiction, suivant les modalités prévues par l'article 131-27, d'exercer une fonction publique ;
 
 3° L'interdiction d'exercer, soit à titre définitif, soit pour une durée de dix ans au plus, une activité professionnelle ou
-bénévole impliquant un contact habituel avec des mineurs.
+bénévole impliquant un contact habituel avec des mineurs ;
+
+4° L'obligation d'accomplir un stage de citoyenneté, selon les modalités prévues par l'article 131-5-1.
 
 **Liens relatifs à cet article**
 
@@ -13506,19 +13592,15 @@ _Codifié par_:
 
   - Loi n°92-684 1992-07-22
 
-**Liens**:
-
-  - SPEC_APPLI: Loi n°92-684 1992-07-22 art. 1
-  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
-
 _Modifié par_:
 
-  - Loi n°98-468 du 17 juin 1998 - art. 12 () JORF 18 juin 1998
+  - Loi n°2004-204 du 9 mars 2004 - art. 44 () JORF 10 mars 2004 en vigueur le 1er octobre 2004
 
 _Cite_:
 
   - Code pénal - art. 131-26 (V)
   - Code pénal - art. 131-27 (V)
+  - Code pénal - art. 131-5-1 (V)
 
 
 ###### Article 222-46
@@ -16403,7 +16485,9 @@ peines complémentaires suivantes :
 4° L'exclusion des marchés publics à titre définitif ou pour une durée de cinq ans au plus ;
 
 5° La confiscation du fonds de commerce destiné à l'hébergement de personnes et ayant servi à commettre l'infraction prévue à
-l'article 225-14.
+l'article 225-14 ;
+
+6° L'obligation d'accomplir un stage de citoyenneté, selon les modalités prévues par l'article 131-5-1.
 
 **Liens relatifs à cet article**
 
@@ -16411,14 +16495,9 @@ _Codifié par_:
 
   - Loi n°92-684 1992-07-22
 
-**Liens**:
-
-  - SPEC_APPLI: Loi n°92-684 1992-07-22 art. 1
-  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
-
 _Modifié par_:
 
-  - Loi n°98-657 du 29 juillet 1998 - art. 124 () JORF 31 juillet 1998
+  - Loi n°2004-204 du 9 mars 2004 - art. 44 () JORF 10 mars 2004 en vigueur le 1er octobre 2004
 
 _Cité par_:
 
@@ -16433,6 +16512,7 @@ _Cite_:
 
   - Code pénal - art. 131-26 (V)
   - Code pénal - art. 131-35 (M)
+  - Code pénal - art. 131-5-1 (V)
   - Code pénal - art. 225-14 (M)
 
 
@@ -20444,7 +20524,9 @@ ans au plus dans les cas prévus aux articles 311-3 à 311-5 ;
 l'exception des objets susceptibles de restitution ;
 
 5° L'interdiction de séjour, suivant les modalités prévues par l'article 131-31, dans les cas prévus par les articles 311-6 à
-311-10.
+311-10 ;
+
+6° L'obligation d'accomplir un stage de citoyenneté, selon les modalités prévues par l'article 131-5-1.
 
 **Liens relatifs à cet article**
 
@@ -20452,17 +20534,9 @@ _Codifié par_:
 
   - Loi n°92-685 1992-07-22
 
-**Liens**:
+_Modifié par_:
 
-  - SPEC_APPLI: Loi n°92-685 1992-07-22 art. 1
-  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
-
-_Cite_:
-
-  - Code pénal - art. 131-26 (V)
-  - Code pénal - art. 131-27 (V)
-  - Code pénal - art. 131-31 (V)
-  - Code pénal 131-26, 131-27, 311-6 à 311-10, 311-3 à 311-5, 131-31
+  - Loi n°2004-204 du 9 mars 2004 - art. 44 () JORF 10 mars 2004 en vigueur le 1er octobre 2004
 
 
 ###### Article 311-15
@@ -20992,7 +21066,9 @@ plus dans les cas prévus aux articles 312-1, 312-2 et 312-10 ;
 4° La confiscation de la chose qui a servi ou était destinée à commettre l'infraction ou de la chose qui en est le produit, à
 l'exception des objets susceptibles de restitution ;
 
-5° L'interdiction de séjour suivant les modalités prévues par l'article 131-31.
+5° L'interdiction de séjour suivant les modalités prévues par l'article 131-31 ;
+
+6° L'obligation d'accomplir un stage de citoyenneté, selon les modalités de l'article 131-5-1.
 
 **Liens relatifs à cet article**
 
@@ -21000,19 +21076,19 @@ _Codifié par_:
 
   - Loi n°92-685 1992-07-22
 
-**Liens**:
+_Modifié par_:
 
-  - SPEC_APPLI: Loi n°92-685 1992-07-22 art. 1
-  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
+  - Loi n°2004-204 du 9 mars 2004 - art. 44 () JORF 10 mars 2004 en vigueur le 1er octobre 2004
 
 _Cite_:
 
   - Code pénal - art. 131-26 (V)
   - Code pénal - art. 131-31 (V)
+  - Code pénal - art. 131-5-1 (V)
   - Code pénal - art. 312-1 (M)
   - Code pénal - art. 312-10 (M)
   - Code pénal - art. 312-2 (M)
-  - Code pénal 131-26, 312-3 à 312-7, 312-1, 312-2, 312-10, 131-31
+  - Code pénal 131-26, 312-3 à 312-7, 312-1, 312-2, 312-10, 131-31, 131-5-1
 
 
 ###### Article 312-14
@@ -23095,7 +23171,9 @@ ans au plus dans les cas prévus aux articles 322-1, 322-2, 322-3, 322-5, 322-12
 3° L'interdiction de détenir ou de porter, pour une durée de cinq ans au plus, une arme soumise à autorisation ;
 
 4° L'interdiction de séjour, suivant les modalités prévues par l'article 131-31, dans les cas prévus par les articles 322-7 à
-322-10.
+322-10 ;
+
+5° L'obligation d'accomplir un stage de citoyenneté, selon les modalités de l'article 131-5-1.
 
 **Liens relatifs à cet article**
 
@@ -23103,10 +23181,9 @@ _Codifié par_:
 
   - Loi n°92-685 1992-07-22
 
-**Liens**:
+_Modifié par_:
 
-  - SPEC_APPLI: Loi n°92-685 1992-07-22 art. 1
-  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
+  - Loi n°2004-204 du 9 mars 2004 - art. 44 () JORF 10 mars 2004 en vigueur le 1er octobre 2004
 
 _Cité par_:
 
@@ -23120,6 +23197,7 @@ _Cite_:
   - Code pénal - art. 131-26 (V)
   - Code pénal - art. 131-27 (V)
   - Code pénal - art. 131-31 (V)
+  - Code pénal - art. 131-5-1 (V)
   - Code pénal - art. 322-1 (M)
   - Code pénal - art. 322-12 (M)
   - Code pénal - art. 322-13 (MMN)
@@ -23127,7 +23205,7 @@ _Cite_:
   - Code pénal - art. 322-2 (M)
   - Code pénal - art. 322-3 (M)
   - Code pénal - art. 322-5 (M)
-  - Code pénal 131-26, 131-27, 322-6 à 322-10, 322-1, 322-2, 322-3, 322-5, 322-12, 322-13, 322-14, 131-31, 322-7 à 322-10
+  - Code pénal 131-26, 131-27, 322-6 à 322-10, 322-1, 322-2, 322-3, 322-5, 322-12, 322-13, 322-14, 131-31, 322-7 à 322-10, 131-5-1
 
 
 ###### Article 322-15-1
@@ -29494,9 +29572,10 @@ _Cite_:
 
 Est punie de deux ans d'emprisonnement et de 30000 euros d'amende la violation, par le condamné, des obligations ou
 interdictions résultant des peines de suspension ou d'annulation du permis de conduire, d'interdiction de conduire certains
-véhicules terrestres à moteur, d'obligation d'accomplir un stage, d'interdiction de détenir ou de porter une arme, de retrait
-du permis de chasser, d'interdiction d'émettre des chèques ou d'utiliser des cartes de paiement, de fermeture d'établissement
-ou d'exclusion des marchés publics prononcées en application des articles 131-6, 131-10, 131-14, 131-16 ou 131-17.
+véhicules terrestres à moteur, d'interdiction de paraître dans certains lieux ou de rencontrer certaines personnes,
+d'obligation d'accomplir un stage, d'interdiction de détenir ou de porter une arme, de retrait du permis de chasser,
+d'interdiction d'émettre des chèques ou d'utiliser des cartes de paiement, de fermeture d'établissement ou d'exclusion des
+marchés publics prononcées en application des articles 131-5-1, 131-6, 131-10, 131-14, 131-16 ou 131-17.
 
 Est puni des mêmes peines le fait de détruire, détourner ou tenter de détruire ou de détourner un véhicule immobilisé ou un
 véhicule, une arme ou tout autre objet confisqués en application des articles 131-6, 131-10, 131-14 ou 131-16.
@@ -29514,7 +29593,8 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2003-495 du 12 juin 2003 - art. 6 () JORF 13 juin 2003
+  - Loi n°2004-204 2004-03-09 art. 44 XV, XVI JORF 10 mars 2004 en vigueur le 1er octobre 2004
+  - Loi n°2004-204 du 9 mars 2004 - art. 44 () JORF 10 mars 2004 en vigueur le 1er octobre 2004
 
 _Cité par_:
 
@@ -29536,6 +29616,7 @@ _Cite_:
   - Code pénal - art. 131-14 (M)
   - Code pénal - art. 131-16 (M)
   - Code pénal - art. 131-17 (V)
+  - Code pénal - art. 131-5-1 (V)
   - Code pénal - art. 131-6 (M)
 
 
