@@ -1,5 +1,5 @@
 # Code pénal  
-Version Consolidée au 2003-04-15
+Version Consolidée au 2003-06-13
 ## Contenu: 
   - [Partie législative (art. 111-1 à 727-3)](#1)
     - [Livre Ier : Dispositions générales (art. 111-1 à 133-17)](#2)
@@ -28,10 +28,10 @@ Version Consolidée au 2003-04-15
         - [Chapitre II : Du régime des peines (art. 132-1 à 132-77)](#25)
           - [Section 1 : Dispositions générales (art. 132-2 à 132-23)](#26)
             - [Sous-section 1 : Des peines applicables en cas de concours d'infractions (art. 132-2 à 132-7)](#27)
-            - [Sous-section 2 : Des peines applicables en cas de récidive (art. 132-8 à 132-16-1)](#28)
+            - [Sous-section 2 : Des peines applicables en cas de récidive (art. 132-8 à 132-16-2)](#28)
               - [Paragraphe 1 : Personnes physiques (art. 132-8 à 132-11)](#29)
               - [Paragraphe 2 : Personnes morales (art. 132-12 à 132-15)](#30)
-              - [Paragraphe 3 : Dispositions générales (art. 132-16 à 132-16-1)](#31)
+              - [Paragraphe 3 : Dispositions générales (art. 132-16 à 132-16-2)](#31)
             - [Sous-section 3 : Du prononcé des peines. (art. 132-17 à 132-22)](#32)
             - [Sous-section 4 : De la période de sûreté. (art. 132-23)](#33)
           - [Section 2 : Des modes de personnalisation des peines (art. 132-24 à 132-70)](#34)
@@ -2216,7 +2216,9 @@ Lorsqu'un délit est puni d'une peine d'emprisonnement, une ou plusieurs des pei
 suivantes peuvent être prononcées :
 
 1° La suspension, pour une durée de cinq ans au plus, du permis de conduire, cette suspension pouvant être limitée, selon des
-modalités déterminées par décret en conseil d'Etat, à la conduite en dehors de l'activité professionnelle ;
+modalités déterminées par décret en conseil d'Etat, à la conduite en dehors de l'activité professionnelle ; cette limitation
+n'est toutefois pas possible en cas de délit pour lequel la suspension du permis de conduire, encourue à titre de peine
+complémentaire, ne peut pas être limitée à la conduite en dehors de l'activité professionnelle ;
 
 2° L'interdiction de conduire certains véhicules pendant une durée de cinq ans au plus ;
 
@@ -2252,15 +2254,6 @@ _Codifié par_:
 
   - Loi n°92-683 1992-07-22
 
-**Liens**:
-
-  - SPEC_APPLI: Loi n°92-683 1992-07-22 art. 1
-  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
-
-_Modifié par_:
-
-  - Loi n°92-1336 du 16 décembre 1992 - art. 341 () JORF 23 décembre 1992 en vigueur le 1er mars 1994
-
 _Cité par_:
 
   - Loi n°95-884 du 3 août 1995 - art. 8 (V)
@@ -2289,6 +2282,10 @@ _Cité par_:
   - Code rural - art. L915-11 (T)
   - Code rural ancien - art. 276-10 (Ab)
   - Code rural et de la pêche maritime - art. L215-11 (V)
+
+_Modifié par_:
+
+  - Loi n°2003-495 du 12 juin 2003 - art. 5 () JORF 13 juin 2003
 
 
 ###### Article 131-7
@@ -2543,7 +2540,7 @@ Le montant de l'amende est le suivant :
 4° 750 euros au plus pour les contraventions de la 4e classe ;
 
 5° 1500 euros au plus pour les contraventions de la 5e classe, montant qui peut être porté à 3000 euros en cas de récidive
-lorsque le règlement le prévoit.
+lorsque le règlement le prévoit, hors les cas où la loi prévoit que la récidive de la contravention constitue un délit.
 
 **Liens relatifs à cet article**
 
@@ -2768,10 +2765,12 @@ _Codifié par_:
 
   - Loi n°92-683 1992-07-22
 
+_Modifié par_:
+
+  - Loi n°2003-495 du 12 juin 2003 - art. 4 () JORF 13 juin 2003
+
 **Liens**:
 
-  - SPEC_APPLI: Loi n°92-683 1992-07-22 art. 1
-  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
   - SPEC_APPLI: Code de la consommation - art. R*223-1 (M)
   - SPEC_APPLI: Code de la consommation - art. R*223-2 (M)
   - SPEC_APPLI: Code de la consommation - art. R*311-9 (V)
@@ -2789,10 +2788,6 @@ _Codifié par_:
   - TXT_ASSOCIE: Code des ports maritimes - art. R*353-3 (V)
   - TXT_ASSOCIE: Code des ports maritimes - art. R*353-4 (V)
 
-_Modifié par_:
-
-  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
-
 
 ###### Article 131-14
 
@@ -2800,7 +2795,9 @@ Pour toutes les contraventions de la 5e classe, une ou plusieurs des peines priv
 peuvent être prononcées :
 
 1° La suspension, pour une durée d'un an au plus, du permis de conduire, cette suspension pouvant être limitée à la conduite
-en dehors de l'activité professionnelle ;
+en dehors de l'activité professionnelle ; cette limitation n'est toutefois pas possible en cas de contravention pour laquelle
+la suspension du permis de conduire, encourue à titre de peine complémentaire, ne peut pas être limitée à la conduite en
+dehors de l'activité professionnelle ;
 
 2° L'immobilisation, pour une durée de six mois au plus, d'un ou de plusieurs véhicules appartenant au condamné ;
 
@@ -2831,12 +2828,11 @@ _Cité par_:
 
 _Codifié par_:
 
-  - Loi n°92-683 1992-07-22
+  - Loi n°92-683 du 22 juillet 1992 (V)
 
-**Liens**:
+_Modifié par_:
 
-  - SPEC_APPLI: Loi n°92-683 1992-07-22 art. 1
-  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
+  - Loi n°2003-495 du 12 juin 2003 - art. 5 () JORF 13 juin 2003
 
 
 ###### Article 131-15
@@ -2868,7 +2864,7 @@ Le règlement qui réprime une contravention peut prévoir, lorsque le coupable 
 peines complémentaires suivantes :
 
 1° La suspension, pour une durée de trois ans au plus, du permis de conduire, cette suspension pouvant être limitée à la
-conduite en dehors de l'activité professionnelle ;
+conduite en dehors de l'activité professionnelle sauf si le règlement exclut expressément cette limitation ;
 
 2° L'interdiction de détenir ou de porter, pour une durée de trois ans au plus, une arme soumise à autorisation ;
 
@@ -2877,7 +2873,12 @@ conduite en dehors de l'activité professionnelle ;
 4° Le retrait du permis de chasser, avec interdiction de solliciter la délivrance d'un nouveau permis pendant trois ans au
 plus ;
 
-5° La confiscation de la chose qui a servi ou était destinée à commettre l'infraction ou de la chose qui en est le produit.
+5° La confiscation de la chose qui a servi ou était destinée à commettre l'infraction ou de la chose qui en est le produit ;
+
+6° L'interdiction de conduire certains véhicules terrestres à moteur, y compris ceux pour la conduite desquels le permis de
+conduire n'est pas exigé, pour une durée de trois ans au plus ;
+
+7° L'obligation d'accomplir, à ses frais, un stage de sensibilisation à la sécurité routière.
 
 **Liens relatifs à cet article**
 
@@ -2918,10 +2919,10 @@ _Codifié par_:
 
   - Loi n°92-683 1992-07-22
 
-**Liens**:
+_Modifié par_:
 
-  - SPEC_APPLI: Loi n°92-683 1992-07-22 art. 1
-  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
+  - Loi n°2003-495 du 12 juin 2003 - art. 5 () JORF 13 juin 2003
+  - Loi n°2003-495 du 12 juin 2003 - art. 6 () JORF 13 juin 2003
 
 
 ###### Article 131-17
@@ -3055,6 +3056,10 @@ judiciaire sont applicables.
 La chose confisquée est, sauf disposition particulière prévoyant sa destruction ou son attribution, dévolue à l'Etat, mais
 elle demeure grevée, à concurrence de sa valeur, des droits réels licitement constitués au profit de tiers.
 
+Lorsque la chose confisquée est un véhicule qui n'a pas été saisi au cours de la procédure, le condamné doit, sur
+l'injonction qui lui en est faite par le ministère public, remettre ce véhicule au service ou à l'organisme chargé de sa
+destruction ou de son aliénation.
+
 **Liens relatifs à cet article**
 
 _Codifié par_:
@@ -3063,12 +3068,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°92-1336 1992-12-16 art. 342, 343 et 373 JORF 23 décembre 1992 en vigueur le 1er mars 1994
-  - Loi n°92-1336 du 16 décembre 1992 - art. 342 () JORF 23 décembre 1992 en vigueur le 1er mars 1994
-
-**Liens**:
-
-  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
+  - Loi n°2003-495 du 12 juin 2003 - art. 6 () JORF 13 juin 2003
 
 _Cité par_:
 
@@ -3169,6 +3169,10 @@ précédent sont décidées par le juge de l'application des peines dans le ress
 ou, s'il n'a pas en France sa résidence habituelle, par le juge de l'application des peines du tribunal qui a statué en
 première instance.
 
+Lorsque la personne a été condamnée pour un délit prévu par le code de la route ou sur le fondement des articles 221-6-1,
+222-19-1, 222-20-1 et 434-10, elle accomplit de préférence la peine de travail d'intérêt général dans un des établissements
+spécialisés dans l'accueil des blessés de la route.
+
 Au cours du délai prévu par le présent article, le condamné doit satisfaire aux mesures de contrôle déterminées par l'article
 132-55.
 
@@ -3199,18 +3203,17 @@ _Codifié par_:
 
   - Loi n°92-683 1992-07-22
 
-**Liens**:
-
-  - SPEC_APPLI: Loi n°92-683 1992-07-22 art. 1
-  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
-
 _Modifié par_:
 
-  - Loi n°92-1336 du 16 décembre 1992 - art. 344 () JORF 23 décembre 1992 en vigueur le 1er mars 1994
+  - Loi n°2003-495 du 12 juin 2003 - art. 5 () JORF 13 juin 2003
 
 _Cite_:
 
   - Code pénal - art. 132-55 (M)
+  - Code pénal - art. 221-6-1 (V)
+  - Code pénal - art. 222-19-1 (V)
+  - Code pénal - art. 222-20-1 (V)
+  - Code pénal - art. 434-10 (M)
 
 
 ###### Article 131-23
@@ -4483,6 +4486,50 @@ _Codifié par_:
 
   - SPEC_APPLI: Loi n°92-683 1992-07-22 art. 1
   - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
+
+
+###### Article 131-35-1
+
+Lorsqu'elle est encourue à titre de peine complémentaire, l'obligation d'accomplir un stage de sensibilisation à la sécurité
+routière est exécutée aux frais du condamné, dans un délai de six mois à compter de la date à laquelle la condamnation est
+définitive.
+
+L'accomplissement du stage donne lieu à la remise au condamné d'une attestation que celui-ci adresse au procureur de la
+République.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°92-683 1992-07-22
+
+_Créé par_:
+
+  - Loi n°2003-495 du 12 juin 2003 - art. 6 () JORF 13 juin 2003
+
+_Cité par_:
+
+  - Arrêté du 25 février 2004 - art. 1 (V)
+  - Code de la route. - art. R223-8 (M)
+  - Code de la santé publique - art. L3353-3 (VT)
+  - Code de la santé publique - art. L3353-4 (M)
+  - Code de la santé publique - art. L3421-1 (M)
+  - Code de la santé publique - art. L3819-11 (Ab)
+  - Code pénal - art. 131-16 (VD)
+  - Code pénal - art. 131-36 (V)
+  - Code pénal - art. 221-8 (VD)
+  - Code pénal - art. 222-44 (VD)
+  - Code pénal - art. 222-45 (VD)
+  - Code pénal - art. 223-18 (VD)
+  - Code pénal - art. 224-9 (VD)
+  - Code pénal - art. 225-20 (VD)
+  - Code pénal - art. 227-29 (VD)
+  - Code pénal - art. 227-32 (VT)
+  - Code pénal - art. 311-14 (VD)
+  - Code pénal - art. 312-13 (VD)
+  - Code pénal - art. 321-9 (VD)
+  - Code pénal - art. 322-15 (V)
+  - Code pénal - art. R131-11-1 (V)
 
 
 ###### Article 131-36
@@ -6454,6 +6501,10 @@ Dans les cas où le règlement le prévoit, lorsqu'une personne physique, déjà
 de la 5e classe, commet, dans le délai d'un an à compter de l'expiration ou de la prescription de la précédente peine, la
 même contravention, le maximum de la peine d'amende encourue est porté à 3 000 euros.
 
+Dans les cas où la loi prévoit que la récidive d'une contravention de la 5e classe constitue un délit, la récidive est
+constituée si les faits sont commis dans le délai de trois ans à compter de l'expiration ou de la prescription de la
+précédente peine.
+
 **Liens relatifs à cet article**
 
 _Cité par_:
@@ -6857,14 +6908,9 @@ _Codifié par_:
 
   - Loi n°92-683 1992-07-22
 
-**Liens**:
-
-  - SPEC_APPLI: Loi n°92-683 1992-07-22 art. 1
-  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
-
 _Modifié par_:
 
-  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+  - Loi n°2003-495 du 12 juin 2003 - art. 4 () JORF 13 juin 2003
 
 
 ##### Paragraphe 2 : Personnes morales<a id=30></a>
@@ -7233,6 +7279,37 @@ _Créé par_:
 _Cité par_:
 
   - Code de procédure pénale - art. 465-1 (VD)
+
+
+###### Article 132-16-2
+
+Les délits d'homicide involontaire ou d'atteinte involontaire à l'intégrité de la personne commis à l'occasion de la conduite
+d'un véhicule terrestre à moteur prévus par les articles 221-6-1, 222-19-1 et 222-20-1 sont considérés, au regard de la
+récidive, comme une même infraction. 
+
+Les délits prévus par les articles L. 221-2, L. 234-1, L. 235-1 et L. 413-1 du code de la route sont considérés, au regard de
+la récidive, comme une même infraction. Ils sont également assimilés aux délits mentionnés à l'alinéa précédent lorsqu'ils
+constituent le second terme de la récidive.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°92-683 1992-07-22
+
+_Créé par_:
+
+  - Loi n°2003-495 du 12 juin 2003 - art. 4 () JORF 13 juin 2003
+
+_Cite_:
+
+  - Code pénal - art. 221-6-1 (V)
+  - Code pénal - art. 222-19-1 (V)
+  - Code pénal - art. 222-20-1 (V)
+  - Code de la route. - art. L221-2 (V)
+  - Code de la route. - art. L234-1 (V)
+  - Code de la route. - art. L235-1 (V)
+  - Code de la route. - art. L413-1 (V)
 
 
 ##### Sous-section 3 : Du prononcé des peines.<a id=32></a>
@@ -7632,7 +7709,9 @@ _Cité par_:
 En matière correctionnelle ou contraventionnelle, la juridiction peut, pour motif grave d'ordre médical, familial,
 professionnel ou social, décider que la peine d'amende sera, pendant une période n'excédant pas trois ans, exécutée par
 fractions. Il en est de même pour les personnes physiques condamnées à la peine de jours-amende ou à la peine de suspension
-du permis de conduire.
+du permis de conduire ; le fractionnement de la peine de suspension de permis de conduire n'est toutefois pas possible en cas
+de délits ou de contraventions pour lesquels la loi ou le règlement prévoit que cette peine ne peut pas être limitée à la
+conduite en dehors de l'activité professionnelle.
 
 **Liens relatifs à cet article**
 
@@ -7640,10 +7719,9 @@ _Codifié par_:
 
   - Loi n°92-683 1992-07-22
 
-**Liens**:
+_Modifié par_:
 
-  - SPEC_APPLI: Loi n°92-683 1992-07-22 art. 1
-  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
+  - Loi n°2003-495 du 12 juin 2003 - art. 5 () JORF 13 juin 2003
 
 _Cité par_:
 
@@ -8200,18 +8278,16 @@ condamnation ;
 
 13° S'abstenir d'entrer en relation avec certaines personnes, notamment la victime de l'infraction.
 
-14° Ne pas détenir ou porter une arme.
+14° Ne pas détenir ou porter une arme ;
+
+15° En cas d'infraction commise à l'occasion de la conduite d'un véhicule terrestre à moteur, accomplir, à ses frais, un
+stage de sensibilisation à la sécurité routière.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
   - Loi n°92-683 1992-07-22
-
-**Liens**:
-
-  - SPEC_APPLI: Loi n°92-683 1992-07-22 art. 1
-  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
 
 _Cité par_:
 
@@ -8257,6 +8333,10 @@ _Cité par_:
   - Code pénal - art. 722-1 (V)
   - Code pénal - art. 722-2 (Ab)
   - Code pénal - art. R132-45 (V)
+
+_Modifié par_:
+
+  - Loi n°2003-495 du 12 juin 2003 - art. 6 () JORF 13 juin 2003
 
 
 ###### Article 132-46
@@ -10156,6 +10236,79 @@ _Modifié par_:
   - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 
+###### Article 221-6-1
+
+Lorsque la maladresse, l'imprudence, l'inattention, la négligence ou le manquement à une obligation législative ou
+réglementaire de sécurité ou de prudence prévu par l'article 221-6 est commis par le conducteur d'un véhicule terrestre à
+moteur, l'homicide involontaire est puni de cinq ans d'emprisonnement et de 75 000 Euros d'amende.
+
+Les peines sont portées à sept ans d'emprisonnement et à 100 000 Euros d'amende lorsque :
+
+1° Le conducteur a commis une violation manifestement délibérée d'une obligation particulière de sécurité ou de prudence
+prévue par la loi ou le règlement autre que celles mentionnées ci-après ;
+
+2° Le conducteur se trouvait en état d'ivresse manifeste ou était sous l'empire d'un état alcoolique caractérisé par une
+concentration d'alcool dans le sang ou dans l'air expiré égale ou supérieure aux taux fixés par les dispositions législatives
+ou réglementaires du code de la route, ou a refusé de se soumettre aux vérifications prévues par ce code et destinées à
+établir l'existence d'un état alcoolique ;
+
+3° Il résulte d'une analyse sanguine que le conducteur avait fait usage de substances ou de plantes classées comme
+stupéfiants, ou a refusé de se soumettre aux vérifications prévues par le code de la route destinées à établir s'il
+conduisait en ayant fait usage de stupéfiants ;
+
+4° Le conducteur n'était pas titulaire du permis de conduire exigé par la loi ou le règlement ou son permis avait été annulé,
+invalidé, suspendu ou retenu ;
+
+5° Le conducteur a commis un dépassement de la vitesse maximale autorisée égal ou supérieur à 50 km/h ;
+
+6° Le conducteur, sachant qu'il vient de causer ou d'occasionner un accident, ne s'est pas arrêté et a tenté ainsi d'échapper
+à la responsabilité pénale ou civile qu'il peut encourir.
+
+Les peines sont portées à dix ans d'emprisonnement et à 150 000 Euros d'amende lorsque l'homicide involontaire a été commis
+avec deux ou plus des circonstances mentionnées aux 1° et suivants du présent article.
+
+**Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Décret n°85-891 du 16 août 1985 - art. 6 (VT)
+  - Décret n°2007-1167 du 2 août 2007 - art. 23 (V)
+  - Décret n°2007-1167 du 2 août 2007 - art. Annexe (V)
+  - Décret n°2011-2045 du 28 décembre 2011 - art. 2
+  - Arrêté du 31 juillet 2012 - art. 1 (VT)
+  - Ordonnance n°2016-1057 du 3 août 2016 - art. 2-2 (V)
+  - Code de la route. - art. L224-14 (V)
+  - Code de la route. - art. L231-1 (V)
+  - Code de la route. - art. L232-3 (V)
+  - Code de la route. - art. R212-4 (V)
+  - Code de la route. - art. R224-20 (VD)
+  - Code de procédure pénale - art. A38-6 (V)
+  - Code de procédure pénale - art. R40-27 (V)
+  - Code des transports - art. R3113-26 (V)
+  - Code des transports - art. R3211-27 (V)
+  - Code général des impôts, CGI. - art. 1018 A (VT)
+  - Code pénal - art. 131-22 (VD)
+  - Code pénal - art. 132-16-2 (V)
+  - Code pénal - art. 221-8 (VD)
+  - Code pénal - art. 434-10 (V)
+
+_Codifié par_:
+
+  - Loi n°92-684 1992-07-22
+
+_Créé par_:
+
+  - Loi n°2003-495 du 12 juin 2003 - art. 1 () JORF 13 juin 2003
+
+**Liens**:
+
+  - PILOTE_SUIVEUR: Code de la route. - art. L232-1 (V)
+
+_Cite_:
+
+  - Code pénal - art. 221-6 (M)
+
+
 ###### Article 221-7
 
 Les personnes morales peuvent être déclarées responsables pénalement, dans les conditions prévues par l'article 121-2, de
@@ -10203,7 +10356,10 @@ l'exercice ou à l'occasion de l'exercice de laquelle l'infraction a été commi
 2° L'interdiction de détenir ou de porter, pour une durée de cinq ans au plus, une arme soumise à autorisation ;
 
 3° La suspension, pour une durée de cinq ans au plus, du permis de conduire, cette suspension pouvant être limitée à la
-conduite en dehors de l'activité professionnelle ;
+conduite en dehors de l'activité professionnelle ; dans les cas prévus par l'article 221-6-1, la suspension ne peut pas être
+assortie du sursis, même partiellement, et ne peut pas être limitée à la conduite en dehors de l'activité professionnelle ;
+dans les cas prévus par les 1° à 6° et le dernier alinéa de l'article 221-6-1, la durée de cette suspension est de dix ans au
+plus ;
 
 4° L'annulation du permis de conduire avec interdiction de solliciter la délivrance d'un nouveau permis pendant cinq ans au
 plus ;
@@ -10211,7 +10367,24 @@ plus ;
 5° La confiscation d'une ou de plusieurs armes dont le condamné est propriétaire ou dont il a la libre disposition ;
 
 6° Le retrait du permis de chasser avec interdiction de solliciter la délivrance d'un nouveau permis pendant cinq ans au
-plus.
+plus ;
+
+7° Dans les cas prévus par l'article 221-6-1, l'interdiction de conduire certains véhicules terrestres à moteur, y compris
+ceux pour la conduite desquels le permis de conduire n'est pas exigé, pour une durée de cinq ans au plus ;
+
+8° Dans les cas prévus par l'article 221-6-1, l'obligation d'accomplir, à ses frais, un stage de sensibilisation à la
+sécurité routière ;
+
+9° Dans les cas prévus par l'article 221-6-1, l'immobilisation, pendant une durée d'un an au plus, du véhicule dont le
+condamné s'est servi pour commettre l'infraction, s'il en est le propriétaire ;
+
+10° Dans les cas prévus par l'article 221-6-1, la confiscation du véhicule dont le condamné s'est servi pour commettre
+l'infraction, s'il en est le propriétaire.
+
+Toute condamnation pour les délits prévus par les 1° à 6° et le dernier alinéa de l'article 221-6-1 donne lieu de plein droit
+à l'annulation du permis de conduire avec interdiction de solliciter un nouveau permis pendant dix ans au plus. En cas de
+récidive, la durée de l'interdiction est portée de plein droit à dix ans et le tribunal peut, par décision spécialement
+motivée, prévoir que cette interdiction est définitive.
 
 **Liens relatifs à cet article**
 
@@ -10219,11 +10392,10 @@ _Codifié par_:
 
   - Loi n°92-684 1992-07-22
 
-**Liens**:
+_Modifié par_:
 
-  - SPEC_APPLI: Loi n°92-684 1992-07-22 art. 1
-  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
-  - PILOTE_SUIVEUR: Code de la route. - art. L232-1 (V)
+  - Loi n°2003-495 du 12 juin 2003 - art. 5 () JORF 13 juin 2003
+  - Loi n°2003-495 du 12 juin 2003 - art. 6 () JORF 13 juin 2003
 
 _Cité par_:
 
@@ -10233,9 +10405,14 @@ _Cité par_:
   - Code de la défense. - art. L2343-10 (V)
   - Code de la route. - art. L224-15 (Ab)
 
+**Liens**:
+
+  - PILOTE_SUIVEUR: Code de la route. - art. L232-1 (V)
+
 _Cite_:
 
   - Code pénal - art. 131-27 (V)
+  - Code pénal - art. 221-6-1 (V)
 
 
 ###### Article 221-9
@@ -11465,6 +11642,81 @@ _Modifié par_:
   - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 
+###### Article 222-19-1
+
+Lorsque la maladresse, l'imprudence, l'inattention, la négligence ou le manquement à une obligation législative ou
+réglementaire de sécurité ou de prudence prévu par l'article 222-19 est commis par le conducteur d'un véhicule terrestre à
+moteur, l'atteinte involontaire à l'intégrité de la personne ayant entraîné une incapacité totale de travail pendant plus de
+trois mois est punie de trois ans d'emprisonnement et de 45 000 Euros d'amende.
+
+Les peines sont portées à cinq ans d'emprisonnement et à 75 000 Euros d'amende lorsque :
+
+1° Le conducteur a commis une violation manifestement délibérée d'une obligation particulière de prudence ou de sécurité
+prévue par la loi ou le règlement autre que celles mentionnées ci-après ;
+
+2° Le conducteur se trouvait en état d'ivresse manifeste ou était sous l'empire d'un état alcoolique caractérisé par une
+concentration d'alcool dans le sang ou dans l'air expiré égale ou supérieure aux taux fixés par les dispositions législatives
+ou réglementaires du code de la route, ou a refusé de se soumettre aux vérifications prévues par ce code et destinées à
+établir l'existence d'un état alcoolique ;
+
+3° Il résulte d'une analyse sanguine que le conducteur avait fait usage de substances ou de plantes classées comme
+stupéfiants, ou a refusé de se soumettre aux vérifications prévues par le code de la route destinées à établir s'il
+conduisait en ayant fait usage de stupéfiants ;
+
+4° Le conducteur n'était pas titulaire du permis de conduire exigé par la loi ou le règlement ou son permis avait été annulé,
+invalidé, suspendu ou retenu ;
+
+5° Le conducteur a commis un dépassement de la vitesse maximale autorisée égal ou supérieur à 50 km/h ;
+
+6° Le conducteur, sachant qu'il vient de causer ou d'occasionner un accident, ne s'est pas arrêté et a tenté ainsi d'échapper
+à la responsabilité pénale ou civile qu'il peut encourir.
+
+Les peines sont portées à sept ans d'emprisonnement et à 100 000 Euros d'amende lorsque l'atteinte involontaire à l'intégrité
+de la personne a été commise avec deux ou plus des circonstances mentionnées aux 1° et suivants du présent article.
+
+**Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Décret n°85-891 du 16 août 1985 - art. 6 (VT)
+  - Décret n°2007-1167 du 2 août 2007 - art. 23 (V)
+  - Décret n°2007-1167 du 2 août 2007 - art. Annexe (V)
+  - Ordonnance n°2016-1057 du 3 août 2016 - art. 2-2 (V)
+  - Code de la route. - art. L224-14 (V)
+  - Code de la route. - art. L231-1 (V)
+  - Code de la route. - art. L232-3 (V)
+  - Code de la route. - art. R212-4 (V)
+  - Code de la route. - art. R224-20 (VD)
+  - Code de procédure pénale - art. 398-1 (V)
+  - Code de procédure pénale - art. 837 (VD)
+  - Code de procédure pénale - art. A38-6 (V)
+  - Code de procédure pénale - art. R15-33-43 (V)
+  - Code de procédure pénale - art. R40-27 (V)
+  - Code des transports - art. R3113-26 (V)
+  - Code des transports - art. R3211-27 (V)
+  - Code général des impôts, CGI. - art. 1018 A (VT)
+  - Code pénal - art. 131-22 (VD)
+  - Code pénal - art. 132-16-2 (V)
+  - Code pénal - art. 222-44 (VD)
+  - Code pénal - art. 434-10 (V)
+
+_Codifié par_:
+
+  - Loi n°92-684 1992-07-22
+
+_Créé par_:
+
+  - Loi n°2003-495 du 12 juin 2003 - art. 2 () JORF 13 juin 2003
+
+**Liens**:
+
+  - PILOTE_SUIVEUR: Code de la route. - art. L232-2 (V)
+
+_Cite_:
+
+  - Code pénal - art. 222-19 (M)
+
+
 ###### Article 222-20
 
 Le fait de causer à autrui, par la violation manifestement délibérée d'une obligation particulière de sécurité ou de prudence
@@ -11504,6 +11756,78 @@ _Codifié par_:
 _Modifié par_:
 
   - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+
+
+###### Article 222-20-1
+
+Lorsque la maladresse, l'imprudence, l'inattention, la négligence ou le manquement à une obligation législative ou
+réglementaire de sécurité ou de prudence prévu par l'article 222-19 est commis par le conducteur d'un véhicule terrestre à
+moteur, l'atteinte involontaire à l'intégrité de la personne ayant entraîné une incapacité totale de travail d'une durée
+inférieure ou égale à trois mois est punie de deux ans d'emprisonnement et de 30 000 Euros d'amende.
+
+Les peines sont portées à trois ans d'emprisonnement et à 45 000 Euros d'amende lorsque :
+
+1° Le conducteur a commis une violation manifestement délibérée d'une obligation particulière de prudence ou de sécurité
+prévue par la loi ou le règlement autre que celles mentionnées ci-après ;
+
+2° Le conducteur se trouvait en état d'ivresse manifeste ou était sous l'empire d'un état alcoolique caractérisé par une
+concentration d'alcool dans le sang ou dans l'air expiré égale ou supérieure aux taux fixés par les dispositions législatives
+ou réglementaires du code de la route, ou a refusé de se soumettre aux vérifications prévues par ce code et destinées à
+établir l'existence d'un état alcoolique ;
+
+3° Il résulte d'une analyse sanguine que le conducteur avait fait usage de substances ou de plantes classées comme
+stupéfiants, ou a refusé de se soumettre aux vérifications prévues par le code de la route destinées à établir s'il
+conduisait en ayant fait usage de stupéfiants ;
+
+4° Le conducteur n'était pas titulaire du permis de conduire exigé par la loi ou le règlement ou son permis avait été annulé,
+invalidé, suspendu ou retenu ;
+
+5° Le conducteur a commis un dépassement de la vitesse maximale autorisée égal ou supérieur à 50 km/h ;
+
+6° Le conducteur, sachant qu'il vient de causer ou d'occasionner un accident, ne s'est pas arrêté et a tenté ainsi d'échapper
+à la responsabilité pénale ou civile qu'il peut encourir.
+
+Les peines sont portées à cinq ans d'emprisonnement et 75 000 Euros d'amende lorsque l'atteinte involontaire à l'intégrité de
+la personne a été commise avec deux ou plus des circonstances mentionnées aux 1° et suivants du présent article.
+
+**Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Décret n°85-891 du 16 août 1985 - art. 6 (VT)
+  - Décret n°2007-1167 du 2 août 2007 - art. 23 (V)
+  - Ordonnance n°2016-1057 du 3 août 2016 - art. 2-2 (V)
+  - Code de la route. - art. L231-1 (V)
+  - Code de la route. - art. L232-3 (V)
+  - Code de la route. - art. R212-4 (V)
+  - Code de la route. - art. R224-20 (VD)
+  - Code de procédure pénale - art. 398-1 (V)
+  - Code de procédure pénale - art. 837 (VD)
+  - Code de procédure pénale - art. A38-6 (V)
+  - Code de procédure pénale - art. R15-33-43 (V)
+  - Code de procédure pénale - art. R40-27 (V)
+  - Code des transports - art. R3113-26 (V)
+  - Code général des impôts, CGI. - art. 1018 A (VT)
+  - Code pénal - art. 131-22 (VD)
+  - Code pénal - art. 132-16-2 (V)
+  - Code pénal - art. 222-44 (VD)
+  - Code pénal - art. 434-10 (V)
+
+_Codifié par_:
+
+  - Loi n°92-684 1992-07-22
+
+_Créé par_:
+
+  - Loi n°2003-495 du 12 juin 2003 - art. 2 () JORF 13 juin 2003
+
+**Liens**:
+
+  - PILOTE_SUIVEUR: Code de la route. - art. L232-2 (V)
+
+_Cite_:
+
+  - Code pénal - art. 222-19 (M)
 
 
 ###### Article 222-21
@@ -12485,7 +12809,10 @@ l'exercice ou à l'occasion de l'exercice de laquelle l'infraction a été commi
 2° L'interdiction de détenir ou de porter, pour une durée de cinq ans au plus, une arme soumise à autorisation ;
 
 3° La suspension, pour une durée de cinq ans au plus, du permis de conduire, cette suspension pouvant être limitée à la
-conduite en dehors de l'activité professionnelle ;
+conduite en dehors de l'activité professionnelle ; dans les cas prévus par les articles 222-19-1 et 222-20-1, la suspension
+ne peut pas être assortie du sursis, même partiellement, et ne peut pas être limitée à la conduite en dehors de l'activité
+professionnelle ; dans les cas prévus par les 1° à 6° et le dernier alinéa des articles 222-19-1 et 222-20-1, la durée de
+cette suspension est de dix ans au plus ;
 
 4° L'annulation du permis de conduire avec interdiction de solliciter la délivrance d'un nouveau permis pendant cinq ans au
 plus ;
@@ -12494,7 +12821,19 @@ plus ;
 
 6° La confiscation d'une ou plusieurs armes dont le condamné est propriétaire ou dont il a la libre disposition ;
 
-7° La confiscation de la chose qui a servi ou était destinée à commettre l'infraction ou de la chose qui en est le produit.
+7° La confiscation de la chose qui a servi ou était destinée à commettre l'infraction ou de la chose qui en est le produit ;
+
+8° Dans les cas prévus par les articles 222-19-1 et 222-20-1, l'interdiction de conduire certains véhicules terrestres à
+moteur, y compris ceux pour la conduite desquels le permis de conduire n'est pas exigé, pour une durée de cinq ans au plus ;
+
+9° Dans les cas prévus par les articles 222-19-1 et 222-20-1, l'obligation d'accomplir, à leurs frais, un stage de
+sensibilisation à la sécurité routière ;
+
+10° Dans les cas prévus par les articles 222-19-1 et 222-20-1, l'immobilisation, pendant une durée d'un an au plus, du
+véhicule dont le condamné s'est servi pour commettre l'infraction, s'il en est le propriétaire.
+
+Toute condamnation pour les délits prévus par les 1° à 6° et le dernier alinéa de l'article 222-19-1 donne lieu de plein
+droit à l'annulation du permis de conduire avec interdiction de solliciter un nouveau permis pendant dix ans au plus.
 
 **Liens relatifs à cet article**
 
@@ -12502,11 +12841,10 @@ _Codifié par_:
 
   - Loi n°92-684 1992-07-22
 
-**Liens**:
+_Modifié par_:
 
-  - SPEC_APPLI: Loi n°92-684 1992-07-22 art. 1
-  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
-  - PILOTE_SUIVEUR: Code de la route. - art. L232-2 (V)
+  - Loi n°2003-495 du 12 juin 2003 - art. 5 () JORF 13 juin 2003
+  - Loi n°2003-495 du 12 juin 2003 - art. 6 () JORF 13 juin 2003
 
 _Cité par_:
 
@@ -12515,9 +12853,15 @@ _Cité par_:
   - Décret n°2011-1661 du 28 novembre 2011 - art. 3 (V)
   - Code de la route. - art. L224-15 (Ab)
 
+**Liens**:
+
+  - PILOTE_SUIVEUR: Code de la route. - art. L232-2 (V)
+
 _Cite_:
 
   - Code pénal - art. 131-27 (V)
+  - Code pénal - art. 222-19-1 (V)
+  - Code pénal - art. 222-20-1 (V)
 
 
 ###### Article 222-45
@@ -13422,10 +13766,26 @@ l'exercice ou à l'occasion de l'exercice de laquelle l'infraction a été commi
 2° L'interdiction, pour une durée de cinq ans au plus, de détenir ou de porter une arme soumise à autorisation ;
 
 3° La suspension, pour une durée de cinq ans au plus, du permis de conduire, cette suspension pouvant être limitée à la
+conduite en dehors de l'activité professionnelle ; si le délit a été commis à l'occasion de la conduite d'un véhicule
+terrestre à moteur, la suspension ne peut pas être assortie du sursis, même partiellement, et ne peut pas être limitée à la
 conduite en dehors de l'activité professionnelle ;
 
 4° L'annulation du permis de conduire, avec interdiction de solliciter la délivrance d'un nouveau permis pendant cinq ans au
-plus.
+plus ;
+
+5° Lorsque l'infraction a été commise à l'occasion de la conduite d'un véhicule terrestre à moteur, l'interdiction de
+conduire certains véhicules terrestres à moteur, y compris ceux pour la conduite desquels le permis de conduire n'est pas
+exigé, pour une durée de cinq ans au plus ;
+
+6° Lorsque l'infraction a été commise à l'occasion de la conduite d'un véhicule terrestre à moteur, l'obligation d'accomplir,
+à leurs frais, un stage de sensibilisation à la sécurité routière ;
+
+7° Lorsque l'infraction a été commise à l'occasion de la conduite d'un véhicule terrestre à moteur, l'immobilisation, pendant
+une durée d'un an au plus, du véhicule dont le condamné s'est servi pour commettre l'infraction, s'il en est le
+propriétaire ;
+
+8° Lorsque l'infraction a été commise à l'occasion de la conduite d'un véhicule terrestre à moteur, la confiscation du
+véhicule dont le condamné s'est servi pour commettre l'infraction, s'il en est le propriétaire.
 
 **Liens relatifs à cet article**
 
@@ -13433,10 +13793,10 @@ _Codifié par_:
 
   - Loi n°92-684 1992-07-22
 
-**Liens**:
+_Modifié par_:
 
-  - SPEC_APPLI: Loi n°92-684 1992-07-22 art. 1
-  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
+  - Loi n°2003-495 du 12 juin 2003 - art. 5 () JORF 13 juin 2003
+  - Loi n°2003-495 du 12 juin 2003 - art. 6 () JORF 13 juin 2003
 
 _Cite_:
 
@@ -27110,7 +27470,14 @@ Le fait, pour tout conducteur d'un véhicule ou engin terrestre, fluvial ou mari
 d'occasionner un accident, de ne pas s'arrêter et de tenter ainsi d'échapper à la responsabilité pénale ou civile qu'il peut
 avoir encourue, est puni de deux ans d'emprisonnement et de 30000 euros d'amende.
 
-Lorsqu'il y a lieu à l'application des articles 221-6 et 222-19, les peines prévues par ces articles sont portées au double.
+Lorsqu'il y a lieu à l'application des articles 221-6 et 222-19, les peines prévues par ces articles sont portées au double
+hors les cas prévus par les articles 221-6-1, 222-19-1 et 222-20-1.
+
+**Nota:**
+
+Loi 2003-495 du 12 juin 2003 art. 3 III : Les dispositions du deuxième alinéa de l'article 434-10 du code pénal dans sa
+rédaction antérieure à l'entrée en vigueur de la présente loi, demeurent applicables aux infractions commises avant cette
+entrée en vigueur.
 
 **Liens relatifs à cet article**
 
@@ -27136,20 +27503,21 @@ _Codifié par_:
 
   - Loi n°92-686 1992-07-22
 
-**Liens**:
-
-  - SPEC_APPLI: Loi n°92-686 1992-07-22 art. 1
-  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
-  - PILOTE_SUIVEUR: Code de la route. - art. L231-1 (V)
-
 _Modifié par_:
 
-  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+  - Loi n°2003-495 du 12 juin 2003 - art. 3 (V) JORF 13 juin 2003
+
+**Liens**:
+
+  - PILOTE_SUIVEUR: Code de la route. - art. L231-1 (V)
 
 _Cite_:
 
   - Code pénal - art. 221-6 (M)
+  - Code pénal - art. 221-6-1 (V)
   - Code pénal - art. 222-19 (M)
+  - Code pénal - art. 222-19-1 (V)
+  - Code pénal - art. 222-20-1 (V)
 
 
 ###### Article 434-11
@@ -28101,10 +28469,10 @@ _Cite_:
 ###### Article 434-41
 
 Est punie de deux ans d'emprisonnement et de 30000 euros d'amende la violation, par le condamné, des obligations ou
-interdictions résultant des peines de suspension ou d'annulation du permis de conduire, d'interdiction de détenir ou de
-porter une arme, de retrait du permis de chasser, d'interdiction d'émettre des chèques ou d'utiliser des cartes de paiement,
-de fermeture d'établissement ou d'exclusion des marchés publics prononcées en application des articles 131-6, 131-10, 131-14,
-131-16 ou 131-17.
+interdictions résultant des peines de suspension ou d'annulation du permis de conduire, d'interdiction de conduire certains
+véhicules terrestres à moteur, d'obligation d'accomplir un stage, d'interdiction de détenir ou de porter une arme, de retrait
+du permis de chasser, d'interdiction d'émettre des chèques ou d'utiliser des cartes de paiement, de fermeture d'établissement
+ou d'exclusion des marchés publics prononcées en application des articles 131-6, 131-10, 131-14, 131-16 ou 131-17.
 
 Est puni des mêmes peines le fait de détruire, détourner ou tenter de détruire ou de détourner un véhicule immobilisé ou un
 véhicule, une arme ou tout autre objet confisqués en application des articles 131-6, 131-10, 131-14 ou 131-16.
@@ -28120,14 +28488,9 @@ _Codifié par_:
 
   - Loi n°92-686 1992-07-22
 
-**Liens**:
-
-  - SPEC_APPLI: Loi n°92-686 1992-07-22 art. 1
-  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
-
 _Modifié par_:
 
-  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+  - Loi n°2003-495 du 12 juin 2003 - art. 6 () JORF 13 juin 2003
 
 _Cité par_:
 
@@ -28261,7 +28624,7 @@ _Cite_:
 ###### Article 434-45
 
 Les personnes physiques coupables du délit prévu par l'article 434-10 encourent également la suspension, pour une durée de
-cinq ans au plus, du permis de conduire, cette suspension pouvant être limitée à la conduite en dehors de l'activité
+cinq ans au plus, du permis de conduire, cette suspension ne pouvant pas être limitée à la conduite en dehors de l'activité
 professionnelle.
 
 **Liens relatifs à cet article**
@@ -28270,20 +28633,22 @@ _Codifié par_:
 
   - Loi n°92-686 1992-07-22
 
-**Liens**:
+_Modifié par_:
 
-  - SPEC_APPLI: Loi n°92-686 1992-07-22 art. 1
-  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
-  - PILOTE_SUIVEUR: Code de la route. - art. L231-1 (V)
+  - Loi n°2003-495 du 12 juin 2003 - art. 5 () JORF 13 juin 2003
 
 _Cité par_:
 
   - Code de la route. - art. L224-15 (Ab)
   - Code de la route. - art. L231-1 (M)
 
+**Liens**:
+
+  - PILOTE_SUIVEUR: Code de la route. - art. L231-1 (V)
+
 _Cite_:
 
-  - Code pénal - art. 434-10 (M)
+  - Code pénal - art. 434-10 (V)
 
 
 ###### Article 434-46
