@@ -1,14 +1,14 @@
 # Code pénal  
-Version Consolidée au 1995-08-04
+Version Consolidée au 1996-02-27
 ## Contenu: 
   - [Partie législative (art. 111-1 à 521-2)](#1)
     - [Livre Ier : Dispositions générales (art. 111-1 à 133-17)](#2)
-      - [Titre Ier : De la loi pénale (art. 111-1 à 113-11)](#3)
+      - [Titre Ier : De la loi pénale (art. 111-1 à 113-12)](#3)
         - [Chapitre Ier : Des principes généraux (art. 111-1 à 111-5)](#4)
         - [Chapitre II : De l'application de la loi pénale dans le temps (art. 112-1 à 112-4)](#5)
-        - [Chapitre III : De l'application de la loi pénale dans l'espace (art. 113-1 à 113-11)](#6)
+        - [Chapitre III : De l'application de la loi pénale dans l'espace (art. 113-1 à 113-12)](#6)
           - [Section 1 : Des infractions commises ou réputées commises sur le territoire de la République (art. 113-2 à 113-5)](#7)
-          - [Section 2 : Des infractions commises hors du territoire de la République (art. 113-6 à 113-11)](#8)
+          - [Section 2 : Des infractions commises hors du territoire de la République (art. 113-6 à 113-12)](#8)
       - [Titre II : De la responsabilité pénale (art. 121-1 à 122-8)](#9)
         - [Chapitre Ier : Dispositions générales (art. 121-1 à 121-7)](#10)
         - [Chapitre II : Des causes d'irresponsabilité ou d'atténuation de la responsabilité (art. 122-1 à 122-8)](#11)
@@ -820,6 +820,26 @@ _Cite_:
 
   - Code pénal - art. 113-6 (V)
   - Code pénal - art. 113-9 (V)
+
+
+###### Article 113-12
+
+La loi pénale française est applicable aux infractions commises au-delà de la mer territoriale, dès lors que les conventions
+internationales et la loi le prévoient.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°92-683 1992-07-22
+
+**Liens**:
+
+  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
+
+_Créé par_:
+
+  - Loi n°96-151 du 26 février 1996 - art. 9 () JORF 27 février 1996
 
 
 ### Titre II : De la responsabilité pénale<a id=9></a>
