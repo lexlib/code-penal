@@ -1,5 +1,5 @@
 # Code pénal  
-Version Consolidée au 2001-08-25
+Version Consolidée au 2001-09-27
 ## Contenu: 
   - [Partie législative (art. 111-1 à 727-3)](#1)
     - [Livre Ier : Dispositions générales (art. 111-1 à 133-17)](#2)
@@ -34047,6 +34047,9 @@ _Cité par_:
 
 ###### Article R610-2
 
+Les dispositions des troisième et quatrième alinéas de l'article 121-3 sont applicables aux contraventions pour lesquelles le
+règlement exige une faute d'imprudence ou de négligence. 
+
 Le complice d'une contravention au sens du second alinéa de l'article 121-7 est puni conformément à l'article 121-6.
 
 **Liens relatifs à cet article**
@@ -34059,12 +34062,17 @@ _Codifié par_:
 
   - Décret n°93-726 1993-03-29
 
+_Modifié par_:
+
+  - Décret n°2001-883 du 20 septembre 2001 - art. 1 () JORF 27 septembre 2001
+
 _Cité par_:
 
   - Code de l'environnement - art. R173-5 (V)
 
 _Cite_:
 
+  - Code pénal - art. 121-3 (V)
   - Code pénal - art. 121-6 (V)
   - Code pénal - art. 121-7 (V)
 
@@ -34197,8 +34205,9 @@ _Cité par_:
 ###### Article R622-1
 
 Hors le cas prévu par l'article R. 625-3, le fait, par maladresse, imprudence, inattention, négligence ou manquement à une
-obligation de sécurité ou de prudence imposée par la loi ou les règlements, de porter atteinte à l'intégrité d'autrui sans
-qu'il en résulte d'incapacité totale de travail est puni de l'amende prévue pour les contraventions de la 2e classe.
+obligation de sécurité ou de prudence imposée par la loi ou le règlement, dans les conditions et selon les distinctions
+prévues à l'article 121-3, de porter atteinte à l'intégrité d'autrui sans qu'il en résulte d'incapacité totale de travail est
+puni de l'amende prévue pour les contraventions de la 2e classe.
 
 Les personnes coupables de la contravention prévue au présent article encourent également la peine complémentaire de
 confiscation de la chose qui a servi à commettre l'infraction.
@@ -34222,9 +34231,14 @@ _Codifié par_:
 
   - Décret n°93-726 1993-03-29
 
+_Modifié par_:
+
+  - Décret n°2001-883 du 20 septembre 2001 - art. 2 () JORF 27 septembre 2001
+
 _Cite_:
 
   - Code pénal - art. 121-2 (M)
+  - Code pénal - art. 121-3 (M)
   - Code pénal - art. 131-41 (V)
   - Code pénal - art. R625-3 (M)
 
@@ -34615,8 +34629,9 @@ _Cite_:
 ###### Article R625-2
 
 Hors le cas prévu par l'article 222-20, le fait de causer à autrui, par maladresse, imprudence, inattention, négligence ou
-manquement à une obligation de sécurité ou de prudence imposée par la loi ou les règlements, une incapacité totale de travail
-d'une durée inférieure ou égale à trois mois est puni de l'amende prévue pour les contraventions de la 5e classe.
+manquement à une obligation de sécurité ou de prudence imposée par la loi ou le règlement, dans les conditions et selon les
+distinctions prévues à l'article 121-3, une incapacité totale de travail d'une durée inférieure ou égale à trois mois est
+puni de l'amende prévue pour les contraventions de la 5e classe.
 
 **Liens relatifs à cet article**
 
@@ -34627,6 +34642,10 @@ d'une durée inférieure ou égale à trois mois est puni de l'amende prévue po
 _Codifié par_:
 
   - Décret n°93-726 1993-03-29
+
+_Modifié par_:
+
+  - Décret n°2001-883 du 20 septembre 2001 - art. 3 () JORF 27 septembre 2001
 
 _Cité par_:
 
@@ -34641,14 +34660,15 @@ _Cité par_:
 
 _Cite_:
 
+  - Code pénal - art. 121-3 (M)
   - Code pénal - art. 222-20 (M)
 
 
 ###### Article R625-3
 
-Le fait, par un manquement délibéré à une obligation de sécurité ou de prudence imposée par la loi ou les règlements, de
-porter atteinte à l'intégrité d'autrui sans qu'il en résulte d'incapacité totale de travail est puni de l'amende prévue pour
-les contraventions de la 5e classe.
+Le fait, par la violation manifestement délibérée d'une obligation particulière de sécurité ou de prudence prévue par la loi
+ou le règlement, de porter atteinte à l'intégrité d'autrui sans qu'il en résulte d'incapacité totale de travail est puni de
+l'amende prévue pour les contraventions de la 5e classe.
 
 **Liens relatifs à cet article**
 
@@ -34659,6 +34679,10 @@ les contraventions de la 5e classe.
 _Codifié par_:
 
   - Décret n°93-726 1993-03-29
+
+_Modifié par_:
+
+  - Décret n°2001-883 du 20 septembre 2001 - art. 4 () JORF 27 septembre 2001
 
 _Cité par_:
 
