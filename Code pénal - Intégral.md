@@ -1,5 +1,5 @@
 # Code pénal  
-Version Consolidée au 2001-09-27
+Version Consolidée au 2001-11-16
 ## Contenu: 
   - [Partie législative (art. 111-1 à 727-3)](#1)
     - [Livre Ier : Dispositions générales (art. 111-1 à 133-17)](#2)
@@ -168,9 +168,9 @@ Version Consolidée au 2001-09-27
           - [Section 1 : Des atteintes à la sécurité des forces armées et aux zones protégées intéressant la défense nationale (art. 413-1 à 413-8)](#165)
           - [Section 2 : Des atteintes au secret de la défense nationale (art. 413-9 à 413-12)](#166)
         - [Chapitre IV : Dispositions particulières (art. 414-1 à 414-9)](#167)
-      - [Titre II : Du terrorisme (art. 421-1 à 422-5)](#168)
+      - [Titre II : Du terrorisme (art. 421-1 à 422-7)](#168)
         - [Chapitre Ier : Des actes de terrorisme (art. 421-1 à 421-5)](#169)
-        - [Chapitre II : Dispositions particulières (art. 422-1 à 422-5)](#170)
+        - [Chapitre II : Dispositions particulières (art. 422-1 à 422-7)](#170)
       - [Titre III : Des atteintes à l'autorité de l'Etat (art. 431-1 à 435-6)](#171)
         - [Chapitre Ier : Des atteintes à la paix publique (art. 431-1 à 431-21)](#172)
           - [Section 1 : Des entraves à l'exercice des libertés d'expression, du travail, d'association, de réunion ou de manifestation (art. 431-1 à 431-2)](#173)
@@ -13652,7 +13652,7 @@ livrant habituellement à la prostitution ;
 3° D'embaucher, d'entraîner ou de détourner une personne en vue de la prostitution ou d'exercer sur elle une pression pour
 qu'elle se prostitue ou continue à le faire.
 
-Le proxénétisme est puni de cinq ans d'emprisonnement et de 1 000 000 F d'amende.
+Le proxénétisme est puni de sept ans d'emprisonnement et de [*taux*] 1 000 000 F d'amende.
 
 **Liens relatifs à cet article**
 
@@ -13705,10 +13705,11 @@ _Codifié par_:
 
   - SPEC_APPLI: Loi n°92-684 1992-07-22 art. 1
   - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
+  - SPEC_APPLI: Loi n°2001-1062 du 15 novembre 2001 - art. 71 (M)
 
-_Anciens textes_:
+_Modifié par_:
 
-  - CODE PENAL - art. 334 (Ab)
+  - Loi n°2001-1062 du 15 novembre 2001 - art. 60 () JORF 16 novembre 2001
 
 
 ###### Article 225-6
@@ -22287,43 +22288,29 @@ informatique définis par le livre III du présent code ;
 3° Les infractions en matière de groupes de combat et de mouvements dissous définies par les articles 431-13 à 431-17 et les
 infractions définies par les articles 434-6 et 441-2 à 441-5 ;
 
-4° La fabrication ou la détention de machines, engins meurtriers ou explosifs, définies à l'article 3 de la loi du 19 juin
-1871 qui abroge le décret du 4 septembre 1870 sur la fabrication des armes de guerre ;
+4° La fabrication ou la détention de machines, engins meurtriers ou explosifs, définies à l'article L. 2353-4 du code de la
+défense ;
 
-- la production, la vente, l'importation ou l'exportation de substances explosives, définies à l'article 6 de la loi n°
-70-575 du 3 juillet 1970 portant réforme du régime des poudres et substances explosives ;
+- la production, la vente, l'importation ou l'exportation de substances explosives, définies aux articles L. 2353-1, L.
+2353-5 à L. 2353-8 du code de la défense ;
 
 - l'acquisition, la détention, le transport ou le port illégitime de substances explosives ou d'engins fabriqués à l'aide
-desdites substances, définis à l'article 38 du décret-loi du 18 avril 1939 fixant le régime des matériels de guerre, armes et
-munitions ;
+desdites substances, définis à l'article L. 2353-13 du code de la défense ;
 
-- la détention, le port et le transport d'armes et de munitions des première et quatrième catégories, définis aux articles
-24, 28, 31 et 32 du décret-loi précité ;
+- la détention, le port et le transport d'armes et de munitions des première et quatrième catégories, définis aux articles L.
+2339-2, L. 2339-5, L. 2339-8 et L. 2339-9 du code précité.
 
-- les infractions définies aux articles 1er et 4 de la loi n° 72-467 du 9 juin 1972 interdisant la mise au point, la
-fabrication, la détention, le stockage, l'acquisition et la cession d'armes biologiques ou à base de toxines ;
+- les infractions définies aux articles L. 2341-1 et L. 2341-4 du code de la défense ;
 
-- les infractions prévues par les articles 58 et 63 de la loi n° 98-467 du 17 juin 1998 relative à l'application de la
-convention du 13 janvier 1993 sur l'interdiction de la mise au point, de la fabrication, du stockage et de l'emploi des armes
-chimiques et sur leur destruction ;
+- les infractions prévues par les articles L. 2342-57 à L. 2342-62 du code de la défense ;
 
-5° Le recel du produit de l'une des infractions prévues aux 1° à 4° ci-dessus.
+5° Le recel du produit de l'une des infractions prévues aux 1° à 4° ci-dessus ;
+
+6° Les infractions de blanchiment prévues au chapitre IV du titre II du livre III du présent code ;
+
+7° Les délits d'initié prévus à l'article L. 465-1 du code monétaire et financier.
 
 **Liens relatifs à cet article**
-
-_Cite_:
-
-  - Décret n°1870-09-04
-  - Loi n°70-575 du 3 juillet 1970 - art. 6 (M)
-  - Loi n°72-467 du 9 juin 1972 - art. 1 (Ab)
-  - Loi n°72-467 du 9 juin 1972 - art. 4 (M)
-  - Loi n°98-467 du 17 juin 1998 - art. 58 (M)
-  - Loi n°98-467 du 17 juin 1998 - art. 63 (M)
-  - Code pénal - art. 434-6 (M)
-  - Code pénal 431-13 à 431-17, 434-6, 441-2 à 441-5
-  - Convention 1993-01-13, signée à Paris
-  - Décret-loi 1939-04-18 art. 38, art. 24, art. 28, art. 31, art. 32
-  - Loi n°1871-06-19 art. 3
 
 _Cité par_:
 
@@ -22379,15 +22366,29 @@ _Codifié par_:
 
   - Loi n°92-686 1992-07-22
 
-**Liens**:
-
-  - SPEC_APPLI: Loi n°92-686 1992-07-22 art. 1
-  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
-  - SPEC_APPLI: Loi n°96-647 du 22 juillet 1996 - art. 27 (M)
-
 _Modifié par_:
 
-  - Loi n°98-467 du 17 juin 1998 - art. 84 () JORF 18 juin 1998
+  - Loi n°2001-1062 du 15 novembre 2001 - art. 33 () JORF 16 novembre 2001
+
+_Cite_:
+
+  - Code pénal - art. 434-6 (M)
+  - Code pénal 431-13 à 431-17, 434-6, 441-2 à 441-5
+  - Code de la défense. - art. L2339-2 (V)
+  - Code de la défense. - art. L2339-5 (M)
+  - Code de la défense. - art. L2339-8 (V)
+  - Code de la défense. - art. L2339-9 (V)
+  - Code de la défense. - art. L2341-1 (V)
+  - Code de la défense. - art. L2341-4 (V)
+  - Code de la défense. - art. L2342-57 (V)
+  - Code de la défense. - art. L2342-62 (V)
+  - Code de la défense. - art. L2353-1 (V)
+  - Code de la défense. - art. L2353-4 (M)
+  - Code de la défense. - art. L2353-5 (M)
+  - Code de la défense. - art. L2353-8 (M)
+  - Code monétaire et financier - art. L465-1 (M)
+  - Convention 1993-01-13, signée à Paris
+  - Décret n°1870-09-04
 
 
 ###### Article 421-2
@@ -22459,6 +22460,36 @@ _Cité par_:
   - Code pénal - art. 421-2-4 (V)
   - Code pénal - art. 421-5 (V)
   - Code pénal - art. 421-6 (V)
+
+
+###### Article 421-2-2
+
+Constitue également un acte de terrorisme le fait de financer une entreprise terroriste en fournissant, en réunissant ou en
+gérant des fonds, des valeurs ou des biens quelconques ou en donnant des conseils à cette fin, dans l'intention de voir ces
+fonds, valeurs ou biens utilisés ou en sachant qu'ils sont destinés à être utilisés, en tout ou partie, en vue de commettre
+l'un quelconque des actes de terrorisme prévus au présent chapitre, indépendamment de la survenance éventuelle d'un tel acte.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°92-686 1992-07-22
+
+_Créé par_:
+
+  - Loi n°2001-1062 du 15 novembre 2001 - art. 33 () JORF 16 novembre 2001
+
+**Liens**:
+
+  - SPEC_APPLI: Loi n°2001-1062 du 15 novembre 2001 - art. 71 (M)
+
+_Cité par_:
+
+  - Code de procédure pénale - art. 28-1 (V)
+  - Code de procédure pénale - art. 706-17 (MMN)
+  - Code monétaire et financier - art. L561-22 (V)
+  - Code pénal - art. 421-2-3 (V)
+  - Code pénal - art. 421-5 (V)
 
 
 ###### Article 421-3
@@ -22547,10 +22578,13 @@ _Cite_:
 
 ###### Article 421-5
 
-L'acte de terrorisme défini à l'article 421-2-1 est puni de dix ans d'emprisonnement et de 1 500 000 F d'amende.
+Les actes de terrorisme définis aux articles 421-2-1 et 421-2-2 sont punis de dix ans d'emprisonnement et de [*taux*] 1 500
+000 F d'amende.
 
-Les deux premiers alinéas de l'article 132-23 relatif à la période de sûreté sont applicables au délit prévu par le présent
-article.
+La tentative du délit défini à l'article 421-2-2 est punie des mêmes peines.
+
+Les deux premiers alinéas de l'article 132-23 relatif à la période de sûreté sont applicables aux délits prévus par le
+présent article.
 
 **Liens relatifs à cet article**
 
@@ -22561,10 +22595,11 @@ _Codifié par_:
 **Liens**:
 
   - SPEC_APPLI: Loi n°96-647 du 22 juillet 1996 - art. 27 (M)
+  - SPEC_APPLI: Loi n°2001-1062 du 15 novembre 2001 - art. 71 (M)
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°96-647 du 22 juillet 1996 - art. 5 () JORF 23 juillet 1996
+  - Loi n°2001-1062 du 15 novembre 2001 - art. 33 () JORF 16 novembre 2001
 
 _Cité par_:
 
@@ -22586,6 +22621,7 @@ _Cite_:
 
   - Code pénal - art. 132-23 (M)
   - Code pénal - art. 421-2-1 (V)
+  - Code pénal - art. 421-2-2 (V)
 
 
 #### Chapitre II : Dispositions particulières<a id=170></a>
@@ -22731,6 +22767,50 @@ _Cite_:
   - Code pénal - art. 121-2 (M)
   - Code pénal - art. 131-38 (M)
   - Code pénal - art. 131-39 (MMN)
+
+
+###### Article 422-6
+
+Les personnes physiques ou morales reconnues coupables d'actes de terrorisme encourent également la peine complémentaire de
+confiscation de tout ou partie de leurs biens quelle qu'en soit la nature, meubles ou immeubles, divis ou indivis.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°92-686 1992-07-22
+
+_Créé par_:
+
+  - Loi n°2001-1062 du 15 novembre 2001 - art. 33 () JORF 16 novembre 2001
+
+**Liens**:
+
+  - SPEC_APPLI: Loi n°2001-1062 du 15 novembre 2001 - art. 71 (M)
+
+_Cité par_:
+
+  - CODE DE PROCEDURE PENALE - art. 706-24-2 (Ab)
+
+
+###### Article 422-7
+
+Le produit des sanctions financières ou patrimoniales prononcées à l'encontre des personnes reconnues coupables d'actes de
+terrorisme est affecté au fonds de garantie des victimes des actes de terrorisme et d'autres infractions.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°92-686 1992-07-22
+
+_Créé par_:
+
+  - Loi n°2001-1062 du 15 novembre 2001 - art. 33 () JORF 16 novembre 2001
+
+**Liens**:
+
+  - SPEC_APPLI: Loi n°2001-1062 du 15 novembre 2001 - art. 71 (M)
 
 
 ### Titre III : Des atteintes à l'autorité de l'Etat<a id=171></a>
@@ -25476,6 +25556,31 @@ _Cité par_:
   - Code de justice militaire. - art. L222-34 (V)
   - Code de procédure pénale - art. 153 (V)
   - Code de procédure pénale - art. 694-5 (V)
+
+
+###### Article 434-15-2
+
+Est puni de trois ans d'emprisonnement et de 45 000 euros d'amende le fait, pour quiconque ayant connaissance de la
+convention secrète de déchiffrement d'un moyen de cryptologie susceptible d'avoir été utilisé pour préparer, faciliter ou
+commettre un crime ou un délit, de refuser de remettre ladite convention aux autorités judiciaires ou de la mettre en oeuvre,
+sur les réquisitions de ces autorités délivrées en application des titres II et III du livre Ier du code de procédure pénale.
+
+Si le refus est opposé alors que la remise ou la mise en oeuvre de la convention aurait permis d'éviter la commission d'un
+crime ou d'un délit ou d'en limiter les effets, la peine est portée à cinq ans d'emprisonnement et à 75 000 euros d'amende.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°92-686 1992-07-22
+
+_Créé par_:
+
+  - Loi n°2001-1062 du 15 novembre 2001 - art. 31 () JORF 16 novembre 2001
+
+**Liens**:
+
+  - SPEC_APPLI: Loi n°2001-1062 du 15 novembre 2001 - art. 71 (M)
 
 
 ###### Article 434-16
