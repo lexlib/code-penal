@@ -1,5 +1,5 @@
 # Code pénal  
-Version Consolidée au 1996-05-01
+Version Consolidée au 1996-05-08
 ## Contenu: 
   - [Partie législative (art. 111-1 à 727-3)](#1)
     - [Livre Ier : Dispositions générales (art. 111-1 à 133-17)](#2)
@@ -320,7 +320,7 @@ Version Consolidée au 1996-05-01
           - [Section 2 : De la vente forcée par correspondance (art. R635-2)](#317)
           - [Section 3 : De la violation des dispositions réglementant la vente ou l'échange de certains objets mobiliers (art. R635-3 à R635-7)](#318)
           - [Section 4 : De l'abandon d'épaves de véhicules ou d'ordures, déchets, matériaux et autres objets transportés dans un véhicule (art. R635-8)](#319)
-      - [Titre IV : Des contraventions contre la nation, l'Etat ou la paix publique (art. R641-1 à R645-11)](#320)
+      - [Titre IV : Des contraventions contre la nation, l'Etat ou la paix publique (art. R641-1 à R645-12)](#320)
         - [Chapitre Ier : Des contraventions de la 1re classe contre la nation, l'Etat ou la paix publique (art. R641-1)](#321)
           - [Section unique : De l'abandon d'armes ou d'objets dangereux (art. R641-1)](#322)
         - [Chapitre II : Des contraventions de la 2e classe contre la nation, l'Etat ou la paix publique (art. R642-1 à R642-4)](#323)
@@ -333,7 +333,7 @@ Version Consolidée au 1996-05-01
           - [Section 1 : De l'accès sans autorisation à un terrain, une construction, un engin ou un appareil militaires (art. R644-1)](#330)
           - [Section 2 : Des entraves à la libre circulation sur la voie publique (art. R644-2)](#331)
           - [Section 3 : De la violation des dispositions réglementant les professions exercées dans les lieux publics (art. R644-3)](#332)
-        - [Chapitre V : Des contraventions de la 5e classe contre la nation, l'Etat ou la paix publique (art. R645-1 à R645-11)](#333)
+        - [Chapitre V : Des contraventions de la 5e classe contre la nation, l'Etat ou la paix publique (art. R645-1 à R645-12)](#333)
           - [Section 1 : Du port ou de l'exhibition d'uniformes, insignes ou emblèmes rappelant ceux d'organisations ou de personnes responsables de crimes contre l'humanité (art. R645-1)](#334)
           - [Section 2 : Des dessins, levés ou enregistrements effectués sans autorisation dans une zone d'interdiction fixée par l'autorité militaire (art. R645-2)](#335)
           - [Section 3 : Des atteintes à l'état civil des personnes (art. R645-3 à R645-6)](#336)
@@ -341,13 +341,14 @@ Version Consolidée au 1996-05-01
           - [Section 5 : De l'utilisation d'un document délivré par une administration publique comportant des mentions devenues incomplètes ou inexactes (art. R645-8)](#338)
           - [Section 6 : Du refus de restitution de signes monétaires contrefaits ou falsifiés (art. R645-9)](#339)
           - [Section 7 : De l'altération ou de la contrefaçon des timbres-poste ou des timbres émis par l'administration des finances (art. R645-10 à R645-11)](#340)
-      - [Titre V : Des autres contraventions (art. R653-1 à R655-1)](#341)
-        - [Chapitre III : Des contraventions de la 3e classe (art. R653-1)](#342)
-          - [Section unique : Des atteintes involontaires à la vie ou à l'intégrité d'un animal (art. R653-1)](#343)
-        - [Chapitre IV : Des contraventions de la 4e classe (art. R654-1)](#344)
-          - [Section unique : Des mauvais traitements envers un animal (art. R654-1)](#345)
-        - [Chapitre V : Des contraventions de la 5e classe (art. R655-1)](#346)
-          - [Section unique : Des atteintes volontaires à la vie d'un animal (art. R655-1)](#347)
+          - [Section 8 : De l'intrusion dans les établissements scolaires (art. R645-12)](#341)
+      - [Titre V : Des autres contraventions (art. R653-1 à R655-1)](#342)
+        - [Chapitre III : Des contraventions de la 3e classe (art. R653-1)](#343)
+          - [Section unique : Des atteintes involontaires à la vie ou à l'intégrité d'un animal (art. R653-1)](#344)
+        - [Chapitre IV : Des contraventions de la 4e classe (art. R654-1)](#345)
+          - [Section unique : Des mauvais traitements envers un animal (art. R654-1)](#346)
+        - [Chapitre V : Des contraventions de la 5e classe (art. R655-1)](#347)
+          - [Section unique : Des atteintes volontaires à la vie d'un animal (art. R655-1)](#348)
 # Partie législative<a id=1></a>
 
 ## Livre Ier : Dispositions générales<a id=2></a>
@@ -33735,11 +33736,48 @@ _Cite_:
   - Code pénal - art. 132-15 (V)
 
 
-### Titre V : Des autres contraventions<a id=341></a>
+##### Section 8 : De l'intrusion dans les établissements scolaires<a id=341></a>
 
-#### Chapitre III : Des contraventions de la 3e classe<a id=342></a>
+###### Article R645-12
 
-##### Section unique : Des atteintes involontaires à la vie ou à l'intégrité d'un animal<a id=343></a>
+Le fait de pénétrer dans l'enceinte d'un établissement scolaire, public ou privé, sans y être habilité en vertu de
+dispositions législatives ou réglementaires ou y avoir été autorisé par les autorités compétentes est puni de l'amende prévue
+pour les contraventions de la 5e classe.
+
+Les personnes coupables de la contravention prévue au présent article encourent également les peines complémentaires
+suivantes :
+
+1° La confiscation de la chose qui a servi à commettre l'infraction ou de la chose qui en est le produit ;
+
+2° Le travail d'intérêt général pour une durée de vingt à cent vingt heures.
+
+La récidive de la contravention prévue au présent article est réprimée conformément à l'article 132-11.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°96-378 1996-05-06
+
+_Cité par_:
+
+  - Décret n°2001-583 du 5 juillet 2001 - art. 2 (M)
+  - Code de l'éducation - art. R472-1 (V)
+
+_Nouveaux textes_:
+
+  - Code de l'éducation - art. R472-1 (V)
+
+_Cite_:
+
+  - Code pénal - art. 132-11 (M)
+
+
+### Titre V : Des autres contraventions<a id=342></a>
+
+#### Chapitre III : Des contraventions de la 3e classe<a id=343></a>
+
+##### Section unique : Des atteintes involontaires à la vie ou à l'intégrité d'un animal<a id=344></a>
 
 ###### Article R653-1
 
@@ -33770,9 +33808,9 @@ _Cité par_:
   - Code de procédure pénale - art. R15-33-29-3 (V)
 
 
-#### Chapitre IV : Des contraventions de la 4e classe<a id=344></a>
+#### Chapitre IV : Des contraventions de la 4e classe<a id=345></a>
 
-##### Section unique : Des mauvais traitements envers un animal<a id=345></a>
+##### Section unique : Des mauvais traitements envers un animal<a id=346></a>
 
 ###### Article R654-1
 
@@ -33810,9 +33848,9 @@ _Cite_:
   - Code pénal - art. 521-1 (V)
 
 
-#### Chapitre V : Des contraventions de la 5e classe<a id=346></a>
+#### Chapitre V : Des contraventions de la 5e classe<a id=347></a>
 
-##### Section unique : Des atteintes volontaires à la vie d'un animal<a id=347></a>
+##### Section unique : Des atteintes volontaires à la vie d'un animal<a id=348></a>
 
 ###### Article R655-1
 
