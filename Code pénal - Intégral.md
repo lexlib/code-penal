@@ -1,5 +1,5 @@
 # Code pénal  
-Version Consolidée au 1999-03-21
+Version Consolidée au 1999-06-19
 ## Contenu: 
   - [Partie législative (art. 111-1 à 727-3)](#1)
     - [Livre Ier : Dispositions générales (art. 111-1 à 133-17)](#2)
@@ -9432,9 +9432,10 @@ Le meurtre est puni de la réclusion criminelle à perpétuité lorsqu'il est co
 physique ou psychique ou à un état de grossesse, est apparente ou connue de son auteur ;
 
 4° Sur un magistrat, un juré, un avocat, un officier public ou ministériel, un militaire de la gendarmerie, un fonctionnaire
-de la police nationale, des douanes, de l'administration pénitentiaire ou toute autre personne dépositaire de l'autorité
-publique ou chargée d'une mission de service public, dans l'exercice ou à l'occasion de l'exercice de ses fonctions ou de sa
-mission, lorsque la qualité de la victime est apparente ou connue de l'auteur ;
+de la police nationale, des douanes, de l'administration pénitentiaire, un agent d'un exploitant de réseau de transport
+public de voyageurs ou toute autre personne dépositaire de l'autorité publique ou chargée d'une mission de service public,
+dans l'exercice ou à l'occasion de l'exercice de ses fonctions ou de sa mission, lorsque la qualité de la victime est
+apparente ou connue de l'auteur ;
 
 5° Sur un témoin, une victime ou une partie civile, soit pour l'empêcher de dénoncer les faits, de porter plainte ou de
 déposer en justice, soit en raison de sa dénonciation, de sa plainte ou de sa déposition.
@@ -9460,7 +9461,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°96-647 du 22 juillet 1996 - art. 13 () JORF 23 juillet 1996
+  - Loi n°99-505 du 18 juin 1999 - art. 14 () JORF 19 juin 1999
 
 _Cité par_:
 
@@ -9867,9 +9868,10 @@ physique ou psychique ou à un état de grossesse, est apparente ou connue de so
 3° Sur un ascendant légitime ou naturel ou sur les père ou mère adoptifs ;
 
 4° Sur un magistrat, un juré, un avocat, un officier public ou ministériel, un militaire de la gendarmerie, un fonctionnaire
-de la police nationale, des douanes, de l'administration pénitentiaire ou toute autre personne dépositaire de l'autorité
-publique ou chargée d'une mission de service public, dans l'exercice ou à l'occasion de l'exercice de ses fonctions ou de sa
-mission, lorsque la qualité de la victime est apparente ou connue de l'auteur ;
+de la police nationale, des douanes, de l'administration pénitentiaire, un agent d'un exploitant de réseau de transport
+public de voyageurs ou toute autre personne dépositaire de l'autorité publique ou chargée d'une mission de service public,
+dans l'exercice ou à l'occasion de l'exercice de ses fonctions ou de sa mission, lorsque la qualité de la victime est
+apparente ou connue de l'auteur ;
 
 5° Sur un témoin, une victime ou une partie civile, soit pour l'empêcher de dénoncer les faits, de porter plainte ou de
 déposer en justice, soit en raison de sa dénonciation, de sa plainte ou de sa déposition ;
@@ -9909,7 +9911,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°96-647 du 22 juillet 1996 - art. 13 () JORF 23 juillet 1996
+  - Loi n°99-505 du 18 juin 1999 - art. 14 () JORF 19 juin 1999
 
 _Cité par_:
 
@@ -10054,9 +10056,10 @@ physique ou psychique ou à un état de grossesse, est apparente ou connue de so
 3° Sur un ascendant légitime ou naturel ou sur les père ou mère adoptifs ;
 
 4° Sur un magistrat, un juré, un avocat, un officier public ou ministériel, un militaire de la gendarmerie, un fonctionnaire
-de la police nationale, des douanes, de l'administration pénitentiaire ou toute autre personne dépositaire de l'autorité
-publique ou chargée d'une mission de service public, dans l'exercice ou à l'occasion de l'exercice de ses fonctions ou de sa
-mission, lorsque la qualité de la victime est apparente ou connue de l'auteur ;
+de la police nationale, des douanes, de l'administration pénitentiaire, un agent d'un exploitant de réseau de transport
+public de voyageurs ou toute autre personne dépositaire de l'autorité publique ou chargée d'une mission de service public,
+dans l'exercice ou à l'occasion de l'exercice de ses fonctions ou de sa mission, lorsque la qualité de la victime est
+apparente ou connue de l'auteur ;
 
 5° Sur un témoin, une victime ou une partie civile, soit pour l'empêcher de dénoncer les faits, de porter plainte ou de
 déposer en justice, soit en raison de sa dénonciation, de sa plainte ou de sa déposition ;
@@ -10115,7 +10118,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°96-647 du 22 juillet 1996 - art. 13 () JORF 23 juillet 1996
+  - Loi n°99-505 du 18 juin 1999 - art. 14 () JORF 19 juin 1999
 
 _Cite_:
 
@@ -10173,9 +10176,10 @@ physique ou psychique ou à un état de grossesse, est apparente ou connue de so
 3° Sur un ascendant légitime ou naturel ou sur les père ou mère adoptifs ;
 
 4° Sur un magistrat, un juré, un avocat, un officier public ou ministériel, un militaire de la gendarmerie, un fonctionnaire
-de la police nationale, des douanes, de l'administration pénitentiaire ou toute autre personne dépositaire de l'autorité
-publique ou chargée d'une mission de service public, dans l'exercice ou à l'occasion de l'exercice de ses fonctions ou de sa
-mission, lorsque la qualité de la victime est apparente ou connue de l'auteur ;
+de la police nationale, des douanes, de l'administration pénitentiaire, un agent d'un exploitant de réseau de transport
+public de voyageurs ou toute autre personne dépositaire de l'autorité publique ou chargée d'une mission de service public,
+dans l'exercice ou à l'occasion de l'exercice de ses fonctions ou de sa mission, lorsque la qualité de la victime est
+apparente ou connue de l'auteur ;
 
 5° Sur un témoin, une victime ou une partie civile, soit pour l'empêcher de dénoncer les faits, de porter plainte ou de
 déposer en justice, soit en raison de sa dénonciation, de sa plainte ou de sa déposition ;
@@ -10236,7 +10240,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°96-647 du 22 juillet 1996 - art. 13 () JORF 23 juillet 1996
+  - Loi n°99-505 du 18 juin 1999 - art. 14 () JORF 19 juin 1999
 
 _Cite_:
 
@@ -10284,9 +10288,10 @@ physique ou psychique ou à un état de grossesse, est apparente ou connue de so
 3° Sur un ascendant légitime ou naturel ou sur les père ou mère adoptifs ;
 
 4° Sur un magistrat, un juré, un avocat, un officier public ou ministériel, un militaire de la gendarmerie, un fonctionnaire
-de la police nationale, des douanes, de l'administration pénitentiaire ou toute autre personne dépositaire de l'autorité
-publique ou chargée d'une mission de service public, dans l'exercice ou à l'occasion de l'exercice de ses fonctions ou de sa
-mission, lorsque la qualité de la victime est apparente ou connue de l'auteur ;
+de la police nationale, des douanes, de l'administration pénitentiaire, un agent d'un exploitant de réseau de transport
+public de voyageurs ou toute autre personne dépositaire de l'autorité publique ou chargée d'une mission de service public,
+dans l'exercice ou à l'occasion de l'exercice de ses fonctions ou de sa mission, lorsque la qualité de la victime est
+apparente ou connue de l'auteur ;
 
 5° Sur un témoin, une victime ou une partie civile, soit pour l'empêcher de dénoncer les faits, de porter plainte ou de
 déposer en justice, soit en raison de sa dénonciation, de sa plainte ou de sa déposition ;
@@ -10352,7 +10357,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°98-468 du 17 juin 1998 - art. 16 () JORF 18 juin 1998
+  - Loi n°99-505 du 18 juin 1999 - art. 14 () JORF 19 juin 1999
 
 _Cite_:
 
@@ -10373,9 +10378,10 @@ physique ou psychique ou à un état de grossesse, est apparente ou connue de le
 3° Sur un ascendant légitime ou naturel ou sur les père ou mère adoptifs ;
 
 4° Sur un magistrat, un juré, un avocat, un officier public ou ministériel, un militaire de la gendarmerie, un fonctionnaire
-de la police nationale, des douanes, de l'administration pénitentiaire ou toute autre personne dépositaire de l'autorité
-publique ou chargée d'une mission de service public, dans l'exercice ou à l'occasion de l'exercice de ses fonctions ou de sa
-mission, lorsque la qualité de la victime est apparente ou connue de l'auteur ;
+de la police nationale, des douanes, de l'administration pénitentiaire, un agent d'un exploitant de réseau de transport
+public de voyageurs ou toute autre personne dépositaire de l'autorité publique ou chargée d'une mission de service public,
+dans l'exercice ou à l'occasion de l'exercice de ses fonctions ou de sa mission, lorsque la qualité de la victime est
+apparente ou connue de l'auteur ;
 
 5° Sur un témoin, une victime ou une partie civile, soit pour l'empêcher de dénoncer les faits, de porter plainte ou de
 déposer en justice, soit en raison de sa dénonciation, de sa plainte ou de sa déposition ;
@@ -10432,7 +10438,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°98-468 du 17 juin 1998 - art. 16 () JORF 18 juin 1998
+  - Loi n°99-505 du 18 juin 1999 - art. 14 () JORF 19 juin 1999
 
 
 ###### Article 222-14
