@@ -1,5 +1,5 @@
 # Code pénal  
-Version Consolidée au 1997-12-31
+Version Consolidée au 1998-05-12
 ## Contenu: 
   - [Partie législative (art. 111-1 à 716-5)](#1)
     - [Livre Ier : Dispositions générales (art. 111-1 à 133-17)](#2)
@@ -33,7 +33,7 @@ Version Consolidée au 1997-12-31
               - [Paragraphe 3 : Dispositions générales (art. 132-16)](#30)
             - [Sous-section 3 : Du prononcé des peines. (art. 132-17 à 132-22)](#31)
             - [Sous-section 4 : De la période de sûreté. (art. 132-23)](#32)
-          - [Section 2 : Des modes de personnalisation des peines (art. 132-24 à 132-70-1)](#33)
+          - [Section 2 : Des modes de personnalisation des peines (art. 132-24 à 132-70)](#33)
             - [Sous-section 1 : De la semi-liberté. (art. 132-25 à 132-26)](#34)
             - [Sous-section 2 : Du fractionnement des peines (art. 132-27 à 132-28)](#35)
             - [Sous-section 3 : Du sursis simple (art. 132-29 à 132-39)](#36)
@@ -45,12 +45,12 @@ Version Consolidée au 1997-12-31
               - [Paragraphe 3 : De la révocation du sursis avec mise à l'épreuve en cas de nouvelle infraction (art. 132-47 à 132-51)](#42)
               - [Paragraphe 4 : Des effets du sursis avec mise à l'épreuve (art. 132-52 à 132-53)](#43)
             - [Sous-section 5 : Du sursis assorti de l'obligation d'accomplir un travail d'intérêt général (art. 132-54 à 132-57)](#44)
-            - [Sous-section 6 : De la dispense de peine et de l'ajournement (art. 132-58 à 132-70-1)](#45)
+            - [Sous-section 6 : De la dispense de peine et de l'ajournement (art. 132-58 à 132-70)](#45)
               - [Paragraphe 1 : De la dispense de la peine (art. 132-59)](#46)
               - [Paragraphe 2 : De l'ajournement simple (art. 132-60 à 132-62)](#47)
               - [Paragraphe 3 : De l'ajournement avec mise à l'épreuve (art. 132-63 à 132-65)](#48)
               - [Paragraphe 4 : De l'ajournement avec injonction (art. 132-66 à 132-70)](#49)
-              - [Paragraphe 5 : De l'ajournement avec rétention judiciaire. (art. 132-70-1)](#50)
+              - [Paragraphe 5 : De l'ajournement avec rétention judiciaire. (art.  à 132-70)](#50)
           - [Section 3 : De la définition de certaines circonstances entraînant l'aggravation des peines. (art. 132-71 à 132-75)](#51)
         - [Chapitre III : De l'extinction des peines et de l'effacement des condamnations (art. 133-1 à 133-17)](#52)
           - [Section 1 : De la prescription (art. 133-2 à 133-6)](#53)
@@ -3872,20 +3872,26 @@ Lorsque l'interdiction du territoire accompagne une peine privative de liberté 
 pendant le délai d'exécution de la peine. Elle reprend, pour la durée fixée par la décision de condamnation, à compter du
 jour où la privation de liberté a pris fin.
 
-Le tribunal ne peut prononcer que par une décision spécialement motivée au regard de la gravité de l'infraction
-l'interdiction du territoire français à l'encontre :
+Le tribunal ne peut prononcer que par une décision spécialement motivée au regard de la gravité de l'infraction et de la
+situation personnelle et familiale de l'étranger condamné l'interdiction du territoire français, lorsque est en cause :
 
-1° D'un condamné étranger père ou mère d'un enfant français résidant en France, à condition qu'il exerce, même partiellement,
+1° Un condamné étranger père ou mère d'un enfant français résidant en France, à condition qu'il exerce, même partiellement,
 l'autorité parentale à l'égard de cet enfant ou qu'il subvienne effectivement à ses besoins ;
 
-2° D'un condamné étranger marié depuis au moins un an avec un conjoint de nationalité française, à condition que ce mariage
+2° Un condamné étranger marié depuis au moins un an avec un conjoint de nationalité française, à condition que ce mariage
 soit antérieur aux faits ayant entraîné sa condamnation, que la communauté de vie n'ait pas cessé et que le conjoint ait
 conservé la nationalité française ;
 
-3° D'un condamné étranger qui justifie qu'il réside habituellement en France depuis qu'il a atteint au plus l'âge de dix
-ans ;
+3° Un condamné étranger qui justifie qu'il réside habituellement en France depuis qu'il a atteint au plus l'âge de dix ans ;
 
-4° D'un condamné étranger qui justifie qu'il réside régulièrement en France depuis plus de quinze ans.
+4° Un condamné étranger qui justifie qu'il réside habituellement en France depuis plus de quinze ans ;
+
+5° Un condamné étranger titulaire d'une rente d'accident de travail ou de maladie professionnelle servie par un organisme
+français et dont le taux d'incapacité permanente est égal ou supérieur à 20 % ;
+
+6° Un condamné étranger résidant habituellement en France dont l'état de santé nécessite une prise en charge médicale dont le
+défaut pourrait entraîner pour lui des conséquences d'une exceptionnelle gravité, sous réserve qu'il ne puisse bénéficier
+d'un traitement approprié dans le pays dont il est originaire.
 
 **Liens relatifs à cet article**
 
@@ -3972,7 +3978,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°97-396 du 24 avril 1997 - art. 16 () JORF 25 avril 1997
+  - Loi n°98-349 du 11 mai 1998 - art. 37 () JORF 12 mai 1998
 
 
 ###### Article 131-31
@@ -8247,131 +8253,6 @@ _Codifié par_:
 
 ##### Paragraphe 5 : De l'ajournement avec rétention judiciaire.<a id=50></a>
 
-###### Article 132-70-1
-
-I. La juridiction peut, après avoir déclaré le prévenu coupable de l'infraction prévue au deuxième alinéa de l'article 27 de
-l'ordonnance n° 45-2658 du 2 novembre 1945 relative aux conditions d'entrée et de séjour des étrangers en France, ou,
-s'agissant d'un étranger dépourvu des documents de voyage permettant l'exécution d'une mesure d'éloignement, des infractions
-prévues à l'article 19 ou au premier alinéa de l'article 27 de la même ordonnance ou d'une infraction prévue au sixième
-alinéa de l'article 33 de la même ordonnance ajourner le prononcé de la peine en enjoignant au prévenu de présenter à
-l'autorité administrative compétente les documents de voyage permettant l'exécution de la mesure d'éloignement prononcée à
-son encontre ou de communiquer les renseignements permettant cette exécution.
-
-Dans ce cas, la juridiction place le prévenu, par ordonnance, sous le régime de la rétention judiciaire, pour une durée de
-trois mois au plus.
-
-La décision d'ajournement avec rétention est exécutoire par provision.
-
-La juridiction fixe dans sa décision le jour où il sera statué sur la peine.
-
-Lorsqu'elle ajourne le prononcé de la peine, la juridiction informe l'intéressé qu'il peut, pendant la période de rétention,
-demander l'assistance d'un interprète, d'un médecin ou d'un conseil et qu'il peut, s'il le désire, communiquer avec toute
-personne de son choix et recevoir les visites autorisées par le magistrat délégué par le président de la juridiction. Ce
-magistrat ne peut refuser de délivrer un permis de visite à un membre de la famille de la personne retenue que par une
-décision écrite et spécialement motivée au regard des nécessités de la rétention. Il peut, à titre exceptionnel, accorder une
-autorisation de sortie sous escorte. Toute démarche auprès de l'autorité consulaire est facilitée au prévenu.
-
-II.  Le prévenu est maintenu dans des locaux ne relevant pas de l'administration pénitentiaire.
-
-L'état civil des personnes placées en rétention ainsi que les conditions de leur maintien sont mentionnés sur le registre
-prévu par l'article 35 bis de l'ordonnance n° 45-2658 du 2 novembre 1945 précitée.
-
-Pendant la durée du maintien en rétention, le ministère public ainsi que le président de la juridiction dans le ressort de
-laquelle s'exécute la rétention ou un magistrat délégué par lui peuvent se transporter sur les lieux, vérifier les conditions
-de la rétention et se faire communiquer le registre mentionné à l'alinéa précédent.
-
-III.  Si le prévenu se soumet à l'injonction prévue au premier alinéa du I, le ministère public saisit, avant expiration du
-délai d'ajournement, la juridiction, soit d'office, soit sur demande du prévenu ou de son avocat, afin qu'il soit statué sur
-la peine. Il peut aussi saisir la juridiction sur demande de l'autorité administrative.
-
-Le prévenu peut également, au cours du délai d'ajournement, demander la levée de la mesure de rétention, par déclaration au
-greffe de la juridiction.
-
-La demande est constatée et datée par le greffier qui la signe ; elle est également signée par le demandeur ou son avocat. Si
-le demandeur ne peut signer, il en est fait mention par le greffier.
-
-La demande peut également être formulée par déclaration auprès du responsable des locaux dans lesquels s'effectue la mesure
-et selon les modalités prévues à l'alinéa précédent. Ce fonctionnaire l'adresse sans délai, en original ou en copie, au
-greffe de la juridiction précitée.
-
-La juridiction qui a ordonné la rétention peut prononcer d'office sa levée. Dans tous les cas, elle se prononce après
-audition du ministère public, du prévenu ou de son avocat.
-
-Selon qu'elle est du premier ou du second degré, la juridiction rend sa décision dans les dix jours ou dans les vingt jours
-de la réception de la demande ; toutefois, lorsqu'au jour de la réception de cette demande, il n'a pas encore été statué sur
-une précédente demande de levée de la mesure ou sur l'appel d'une précédente décision refusant cette levée, le délai de dix
-ou vingt jours ne commence à courir qu'à compter de la décision rendue par la juridiction compétente ; faute de décision à
-l'expiration de ce délai, il est mis fin à la rétention et le prévenu est mis d'office en liberté.
-
-Lorsque la décision de rejet de la demande est prise par une juridiction du premier degré, l'appel est recevable dans les dix
-jours de la signification de la décision.
-
-La décision de la juridiction est immédiatement exécutoire nonobstant appel ; lorsque le prévenu est maintenu en rétention,
-la cour se prononce dans les vingt jours de l'appel, faute de quoi le prévenu est mis d'office en liberté.
-
-Dans le cas où la mesure de rétention est levée, le prévenu est tenu de répondre à toute convocation des autorités
-compétentes tendant à s'assurer de son identité ou de son maintien à la disposition de la justice, d'informer la juridiction
-de tous ses déplacements et changements d'adresse et de se présenter le jour prévu pour l'audience de renvoi. Lorsque
-l'intéressé se soustrait volontairement à ces obligations, le ministère public saisit la juridiction afin qu'il soit statué
-sur la peine.
-
-Les décisions rendues en matière de rétention n'ont pas pour effet de modifier la date fixée par la juridiction en vertu du
-quatrième alinéa du I.
-
-IV.  A l'audience de renvoi, la juridiction peut soit dispenser le prévenu de peine, soit prononcer la sanction prévue par la
-loi, soit ajourner une nouvelle fois le prononcé de la peine dans les conditions prévues aux premier à quatrième alinéas du
-I.
-
-La décision sur la peine intervient au plus tard trois mois après la première décision d'ajournement.
-
-La durée de la rétention est imputée sur celle de la peine privative de liberté éventuellement prononcée.
-
-Lorsque, à l'audience de renvoi, la juridiction ne prononce pas de peine privative de liberté et qu'il ne peut être procédé à
-l'éloignement immédiat de l'intéressé, celui-ci peut être maintenu dans des locaux ne relevant pas de l'administration
-pénitentiaire, dans les conditions et selon les modalités prévues par l'article 35 bis de l'ordonnance n° 45-2658 du 2
-novembre 1945 précitée.
-
-V.  En cas de rétention suivie d'une relaxe en appel devenue définitive, une indemnité peut être accordée à l'intéressé pour
-le motif et selon les modalités prévues aux articles 149 à 150 du code de procédure pénale.
-
-VI.  Les dispositions du présent article ne sont pas applicables aux mineurs de seize ans.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Ordonnance 45-2658 1945-11-02 art. 19, art. 27, art. 33, art. 35 bis
-  - Ordonnance n°45-2658 du 2 novembre 1945 - art. 19 (M)
-  - Ordonnance n°45-2658 du 2 novembre 1945 - art. 27 (M)
-  - Ordonnance n°45-2658 du 2 novembre 1945 - art. 33 (Ab)
-  - Code de procédure pénale 149 à 150
-
-_Codifié par_:
-
-  - Loi n°92-683 1992-07-22
-
-**Liens**:
-
-  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
-
-_Modifié par_:
-
-  - Loi n°97-396 du 24 avril 1997 - art. 17 () JORF 25 avril 1997
-
-_Abrogé par_:
-
-  - Loi n°98-349 du 11 mai 1998 - art. 44 (V) JORF 12 mai 1998
-
-_Cité par_:
-
-  - Loi n°98-349 du 11 mai 1998 - art. 44 (V)
-  - Code de procédure pénale - art. 397-3-1 (V)
-  - Code de procédure pénale - art. D548 (V)
-  - Code de procédure pénale - art. D549 (V)
-  - Code pénal - art. 711-1 (M)
-  - Code pénal - art. 721-1 (V)
-
-
 ##### Section 3 : De la définition de certaines circonstances entraînant l'aggravation des peines.<a id=51></a>
 
 ###### Article 132-71
@@ -9065,7 +8946,7 @@ _Cite_:
 
 L'interdiction du territoire français peut être prononcée dans les conditions prévues par l'article 131-30, soit à titre
 définitif, soit pour une durée de dix ans au plus, à l'encontre de tout étranger coupable de l'une des infractions définies
-au présent titre. Les dispositions des cinq derniers alinéas de l'article 131-10 ne sont pas applicables.
+au présent titre. Les dispositions des sept derniers alinéas de l'article 131-10 ne sont pas applicables.
 
 **Liens relatifs à cet article**
 
@@ -9080,7 +8961,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°93-1027 du 24 août 1993 - art. 33 () JORF 29 août 1993
+  - Loi n°98-349 du 11 mai 1998 - art. 37 () JORF 12 mai 1998
 
 _Cite_:
 
@@ -11538,7 +11419,7 @@ définitif, soit pour une durée de dix ans au plus, à l'encontre de tout étra
 aux articles 222-1 à 222-8 et 222-10, aux 1° et 2° de l'article 222-14, aux articles 222-23 à 222-26, 222-30, 222-34 à 222-39
 ainsi qu'à l'article 222-15 dans les cas visés au deuxième alinéa de cet article.
 
-Les dispositions des cinq derniers alinéas de l'article 131-30 ne sont pas applicables aux personnes coupables des
+Les dispositions des sept derniers alinéas de l'article 131-30 ne sont pas applicables aux personnes coupables des
 infractions définies aux articles 222-34, 222-35, 222-36 et 222-38.
 
 **Liens relatifs à cet article**
@@ -11554,7 +11435,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°93-1027 du 24 août 1993 - art. 33 () JORF 29 août 1993
+  - Loi n°98-349 du 11 mai 1998 - art. 37 () JORF 12 mai 1998
 
 _Cite_:
 
@@ -20908,7 +20789,7 @@ _Cité par_:
 
 L'interdiction du territoire français peut être prononcée dans les conditions prévues par l'article 131-30, soit à titre
 définitif, soit pour une durée de dix ans au plus, à l'encontre de tout étranger coupable de l'une des infractions définies
-aux chapitres Ier, II et IV du présent titre et aux articles 413-1 à 413-4, 413-10 et 413-11. Les dispositions des cinq
+aux chapitres Ier, II et IV du présent titre et aux articles 413-1 à 413-4, 413-10 et 413-11. Les dispositions des sept
 derniers alinéas de l'article 131-10 ne sont pas applicables.
 
 **Liens relatifs à cet article**
@@ -20924,7 +20805,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°93-1027 du 24 août 1993 - art. 33 () JORF 29 août 1993
+  - Loi n°98-349 du 11 mai 1998 - art. 37 () JORF 12 mai 1998
 
 _Cité par_:
 
@@ -21432,7 +21313,7 @@ _Modifié par_:
 
 L'interdiction du territoire français peut être prononcée dans les conditions prévues par l'article 131-30, soit à titre
 définitif, soit pour une durée de dix ans au plus, à l'encontre de tout étranger coupable de l'une des infractions définies
-au présent titre. Les dispositions des cinq derniers alinéas de l'article 131-10 ne sont pas applicables.
+au présent titre. Les dispositions des sept derniers alinéas de l'article 131-10 ne sont pas applicables.
 
 **Liens relatifs à cet article**
 
@@ -21447,7 +21328,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°93-1027 du 24 août 1993 - art. 33 () JORF 29 août 1993
+  - Loi n°98-349 du 11 mai 1998 - art. 37 () JORF 12 mai 1998
 
 _Cite_:
 
@@ -25830,7 +25711,7 @@ _Codifié par_:
 
 L'interdiction du territoire français peut être prononcée dans les conditions prévues par l'article 131-30, soit à titre
 définitif, soit pour une durée de dix ans au plus, à l'encontre de tout étranger coupable de l'une des infractions définies
-aux articles 442-1 à 442-4. Les dispositions des cinq derniers alinéas de l'article 131-10 ne sont pas applicables.
+aux articles 442-1 à 442-4. Les dispositions des sept derniers alinéas de l'article 131-10 ne sont pas applicables.
 
 **Liens relatifs à cet article**
 
@@ -25845,7 +25726,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°93-1027 du 24 août 1993 - art. 33 () JORF 29 août 1993
+  - Loi n°98-349 du 11 mai 1998 - art. 37 () JORF 12 mai 1998
 
 _Cite_:
 
