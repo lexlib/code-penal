@@ -1,5 +1,5 @@
 # Code pénal  
-Version Consolidée au 2005-03-30
+Version Consolidée au 2005-04-01
 ## Contenu: 
   - [Partie législative (art. 111-1 à 727-3)](#1)
     - [Livre Ier : Dispositions générales (art. 111-1 à 133-17)](#2)
@@ -2633,6 +2633,8 @@ _Cite_:
 
 ###### Article 131-13
 
+Constituent des contraventions les infractions que la loi punit d'une amende n'excédant pas 3 000 euros.
+
 Le montant de l'amende est le suivant :
 
 1° 38 euros au plus pour les contraventions de la 1re classe ;
@@ -2643,8 +2645,14 @@ Le montant de l'amende est le suivant :
 
 4° 750 euros au plus pour les contraventions de la 4e classe ;
 
-5° 1500 euros au plus pour les contraventions de la 5e classe, montant qui peut être porté à 3000 euros en cas de récidive
+5° 1 500 euros au plus pour les contraventions de la 5e classe, montant qui peut être porté à 3 000 euros en cas de récidive
 lorsque le règlement le prévoit, hors les cas où la loi prévoit que la récidive de la contravention constitue un délit.
+
+**Nota:**
+
+Loi n° 2005-47, article 11 : Ces dispositions entrent en vigueur le premier jour du troisième mois suivant sa publication.
+Toutefois, les affaires dont le tribunal de police ou la juridiction de proximité sont régulièrement saisis à cette date
+demeurent de la compétence de ces juridictions.
 
 **Liens relatifs à cet article**
 
@@ -2871,7 +2879,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2003-495 du 12 juin 2003 - art. 4 () JORF 13 juin 2003
+  - Loi n°2005-47 du 26 janvier 2005 - art. 9 () JORF 27 janvier 2005 en vigueur le 1er avril 2005
 
 **Liens**:
 
