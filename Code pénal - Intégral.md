@@ -1,5 +1,5 @@
 # Code pénal  
-Version Consolidée au 2001-12-12
+Version Consolidée au 2002-01-01
 ## Contenu: 
   - [Partie législative (art. 111-1 à 727-3)](#1)
     - [Livre Ier : Dispositions générales (art. 111-1 à 133-17)](#2)
@@ -240,133 +240,131 @@ Version Consolidée au 2001-12-12
         - [Chapitre III : Adaptation du livre II (art. 713-1 à 713-6)](#237)
         - [Chapitre IV : Adaptation du livre III (art. 714-1)](#238)
         - [Chapitre V : Adaptation du livre IV (art. 715-1 à 715-5)](#239)
-        - [Chapitre VI : Adaptation du livre V (art. 716-1-1 à 716-16)](#240)
+        - [Chapitre VI : Adaptation du livre V (art. 716-1 à 716-16)](#240)
         - [Chapitre VII : Dispositions diverses (art. 717-1 à 717-3)](#241)
-      - [Titre Ier : Dispositions applicables dans les territoires d'outre-mer et en Nouvelle-Calédonie (art. 716-8)](#242)
-        - [Chapitre VI : Adaptation du livre V. (art. 716-8)](#243)
-      - [Titre II : Dispositions applicables à Mayotte. (art. 721-1 à 727-3)](#244)
-        - [Chapitre Ier : Dispositions générales (art. 721-1 à 721-2)](#245)
-        - [Chapitre II : Adaptation du livre Ier. (art. 722-1)](#246)
-        - [Chapitre III : Adaptation du livre II (art. 723-1 à 723-6)](#247)
-        - [Chapitre IV : Adaptation du livre III (art. 724-1)](#248)
-        - [Chapitre V : Adaptation du livre IV (art. 725-1 à 725-6)](#249)
-        - [Chapitre VI : Adaptation du livre V (art. 726-1 à 726-15)](#250)
-        - [Chapitre VII : Dispositions diverses (art. 727-1 à 727-3)](#251)
-  - [Partie réglementaire - Décrets en Conseil d'Etat (art. R131-1 à R722-7)](#252)
-    - [Livre Ier : Dispositions générales (art. R131-1 à R133-2)](#253)
-      - [Titre III : Des peines (art. R131-1 à R133-2)](#254)
-        - [Chapitre Ier : De la nature des peines (art. R131-1 à R131-36)](#255)
-          - [Section 1 : Des peines applicables aux personnes physiques (art. R131-1 à R131-34)](#256)
-            - [Sous-section 1 : De la suspension du permis de conduire, de l'interdiction de conduire certains véhicules et de l'immobilisation de véhicule (art. R131-1 à R131-11)](#257)
-              - [Paragraphe 1 : De la suspension du permis de conduire. (art. R131-1 à R131-2)](#258)
-              - [Paragraphe 2 : De l'interdiction de conduire certains véhicules. (art. R131-3 à R131-4)](#259)
-              - [Paragraphe 3 : De l'immobilisation de véhicule. (art. R131-5 à R131-11)](#260)
-            - [Sous-section 2 : Du travail d'intérêt général (art. R131-12 à R131-34)](#261)
-              - [Paragraphe 1 : Des modalités d'habilitation des associations et d'établissement de la liste des travaux d'intérêt général (art. R131-12 à R131-22)](#262)
-                - [A. : Des modalités d'habilitation des associations. (art. R131-12 à R131-16)](#263)
-                - [B. : De l'établissement de la liste des travaux d'intérêt général. (art. R131-17 à R131-20)](#264)
-                - [C. : Dispositions diverses. (art. R131-21 à R131-22)](#265)
-              - [Paragraphe 2 : De l'exécution du travail d'intérêt général (art. R131-23 à R131-34)](#266)
-                - [A. : De la décision du juge de l'application des peines fixant les modalités d'exécution du travail d'intérêt général (art. R131-23 à R131-28)](#267)
-                - [B. : Du contrôle de l'exécution du travail d'intérêt général (art. R131-29 à R131-34)](#268)
-          - [Section 2 : Des peines applicables aux personnes morales. (art. R131-35 à R131-36)](#269)
-        - [Chapitre III : De l'extinction des peines et de l'effacement des condamnations (art. R133-1 à R133-2)](#270)
-          - [Section 2 : De la grâce (art. R133-1 à R133-2)](#271)
-    - [Livre II : Des crimes et délits contre les personnes (art. R226-1 à R226-12)](#272)
-      - [Titre II : Des atteintes à la personne humaine (art. R226-1 à R226-12)](#273)
-        - [Chapitre VI : Des atteintes à la personnalité (art. R226-1 à R226-12)](#274)
-          - [Section 1 : De l'atteinte à la vie privée (art. R226-1 à R226-12)](#275)
-    - [Livre III : Des crimes et délits contre les biens (art. R321-1 à R321-12)](#276)
-      - [Titre II : Des autres atteintes aux biens (art. R321-1 à R321-12)](#277)
-        - [Chapitre Ier : Du recel et des infractions assimilées ou voisines (art. R321-1 à R321-12)](#278)
-          - [Section 2 : Des infractions assimilées au recel ou voisines de celui-ci (art. R321-1 à R321-12)](#279)
-            - [Sous-section 1 : Dispositions relatives aux personnes dont l'activité professionnelle comporte la vente ou l'échange de certains objets mobiliers (art. R321-1 à R321-8)](#280)
-            - [Sous-section 2 : Dispositions concernant les manifestations publiques en vue de la vente ou de l'échange de certains objets mobiliers (art. R321-9 à R321-12)](#281)
-    - [Livre IV : Des crimes et délits contre la nation, l'Etat et la paix publique (art. R413-1 à R431-2)](#282)
-      - [Titre Ier : Des atteintes aux intérêts fondamentaux de la nation (art. R413-1 à R413-6)](#283)
-        - [Chapitre III : Des autres atteintes à la défense nationale (art. R413-1 à R413-6)](#284)
-          - [Section 1 : Des atteintes à la sécurité des forces armées et aux zones protégées intéressant la défense nationale (art. R413-1 à R413-5)](#285)
-          - [Section 2 : Des atteintes au secret de la défense nationale (art. R413-6)](#286)
-      - [Titre III : Des atteintes à l'autorité de l'Etat (art. R431-1 à R431-2)](#287)
-        - [Chapitre Ier : Des atteintes à la paix publique (art. R431-1 à R431-2)](#288)
-          - [Section 2 : De la participation délictueuse à un attroupement. (art. R431-1 à R431-2)](#289)
-    - [Livre V : Des autres crimes et délits (art. R511-1)](#290)
-      - [Chapitre Ier : Des sévices graves ou actes de cruauté envers les animaux (art. R511-1)](#291)
-    - [Livre VI : Des contraventions (art. R610-1 à R655-1)](#292)
-      - [Titre Ier : Dispositions générales (art. R610-1 à R610-5)](#293)
-      - [Titre II : Des contraventions contre les personnes (art. R621-1 à R625-9)](#294)
-        - [Chapitre Ier : Des contraventions de la 1re classe contre les personnes (art. R621-1 à R621-2)](#295)
-          - [Section 1 : De la diffamation et de l'injure non publiques (art. R621-1 à R621-2)](#296)
-        - [Chapitre II : Des contraventions de la 2e classe contre les personnes (art. R622-1 à R622-2)](#297)
-          - [Section 1 : Des atteintes involontaires à l'intégrité de la personne n'ayant entraîné aucune incapacité totale de travail (art. R622-1)](#298)
-          - [Section 2 : De la divagation d'animaux dangereux (art. R622-2)](#299)
-        - [Chapitre III : Des contraventions de la 3e classe contre les personnes (art. R623-1 à R623-4)](#300)
-          - [Section 1 : Des menaces de violences (art. R623-1)](#301)
-          - [Section 2 : Des bruits ou tapages injurieux ou nocturnes (art. R623-2)](#302)
-          - [Section 3 : De l'excitation d'animaux dangereux (art. R623-3)](#303)
-          - [Section 4 : De la violation des dispositions réglementant le commerce de certains matériels susceptibles d'être utilisés pour porter atteinte à l'intimité de la vie privée (art. R623-4)](#304)
-        - [Chapitre IV : Des contraventions de la 4e classe contre les personnes (art. R624-1 à R624-6)](#305)
-          - [Section 1 : Des violences légères (art. R624-1)](#306)
-          - [Section 2 : De la diffusion de messages contraires à la décence (art. R624-2)](#307)
-          - [Section 3 : De la diffamation et de l'injure non publiques présentant un caractère raciste ou discriminatoire (art. R624-3 à R624-6)](#308)
-        - [Chapitre V : Des contraventions de la 5e classe contre les personnes (art. R625-1 à R625-9)](#309)
-          - [Section 1 : Des violences (art. R625-1)](#310)
-          - [Section 2 : Des atteintes involontaires à l'intégrité de la personne (art. R625-2 à R625-6)](#311)
-          - [Section 3 : De la provocation non publique à la discrimination, à la haine ou à la violence raciales. (art. R625-7)](#312)
-          - [Section 4 : Du racolage. (art. R625-8)](#313)
-          - [Section 5 : De la violation des dispositions réglementant le commerce de certains matériels susceptibles d'être utilisés pour porter atteinte à l'intimité de la vie privée (art. R625-9)](#314)
-      - [Titre III : Des contraventions contre les biens (art. R631-1 à R635-8)](#315)
-        - [Chapitre Ier : Des contraventions de la 1re classe contre les biens (art. R631-1)](#316)
-          - [Section unique : Des menaces de destruction, de dégradation ou de détérioration n'entraînant qu'un dommage léger (art. R631-1)](#317)
-        - [Chapitre II : Des contraventions de la 2e classe contre les biens (art. R632-1)](#318)
-          - [Section unique : De l'abandon d'ordures, déchets, matériaux ou autres objets. (art. R632-1)](#319)
-        - [Chapitre III : Des contraventions de la 3e classe contre les biens (art. R633-1 à R633-5)](#320)
-          - [Section 1 : De la violation des dispositions réglementant la vente ou l'échange de certains objets mobiliers (art. R633-1 à R633-4)](#321)
-          - [Section 2 : De la violation des dispositions concernant les manifestations publiques en vue de la vente ou de l'échange de certains objets mobiliers (art. R633-5)](#322)
-        - [Chapitre IV : Des contraventions de la 4e classe contre les biens (art. R634-1)](#323)
-          - [Section 1 : Des menaces de destruction, de dégradation ou de détérioration ne présentant pas de danger pour les personnes (art. R634-1)](#324)
-        - [Chapitre V : Des contraventions de la 5e classe contre les biens (art. R635-1 à R635-8)](#325)
-          - [Section 1 : Des destructions, dégradations et détériorations dont il n'est résulté qu'un dommage léger (art. R635-1)](#326)
-          - [Section 2 : De la vente forcée par correspondance (art. R635-2)](#327)
-          - [Section 3 : De la violation des dispositions réglementant la vente ou l'échange de certains objets mobiliers (art. R635-3 à R635-7)](#328)
-          - [Section 4 : De l'abandon d'épaves de véhicules ou d'ordures, déchets, matériaux et autres objets transportés dans un véhicule (art. R635-8)](#329)
-      - [Titre IV : Des contraventions contre la nation, l'Etat ou la paix publique (art. R641-1 à R645-12)](#330)
-        - [Chapitre Ier : Des contraventions de la 1re classe contre la nation, l'Etat ou la paix publique (art. R641-1)](#331)
-          - [Section unique : De l'abandon d'armes ou d'objets dangereux (art. R641-1)](#332)
-        - [Chapitre II : Des contraventions de la 2e classe contre la nation, l'Etat ou la paix publique (art. R642-1 à R642-4)](#333)
-          - [Section 1 : Du défaut de réponse à une réquisition des autorités judiciaires ou administratives (art. R642-1)](#334)
-          - [Section 2 : Des atteintes à la monnaie (art. R642-2 à R642-4)](#335)
-        - [Chapitre III : Des contraventions de la 3e classe contre la nation, l'Etat ou la paix publique (art. R643-1 à R643-2)](#336)
-          - [Section 1 : De l'usurpation de signes réservés à l'autorité publique (art. R643-1)](#337)
-          - [Section 2 : De l'utilisation de poids ou mesures différents de ceux établis par les lois et règlements en vigueur (art. R643-2)](#338)
-        - [Chapitre IV : Des contraventions de la 4e classe contre la nation, l'Etat ou la paix publique (art. R644-1 à R644-3)](#339)
-          - [Section 1 : De l'accès sans autorisation à un terrain, une construction, un engin ou un appareil militaires (art. R644-1)](#340)
-          - [Section 2 : Des entraves à la libre circulation sur la voie publique (art. R644-2)](#341)
-          - [Section 3 : De la violation des dispositions réglementant les professions exercées dans les lieux publics (art. R644-3)](#342)
-        - [Chapitre V : Des contraventions de la 5e classe contre la nation, l'Etat ou la paix publique (art. R645-1 à R645-12)](#343)
-          - [Section 1 : Du port ou de l'exhibition d'uniformes, insignes ou emblèmes rappelant ceux d'organisations ou de personnes responsables de crimes contre l'humanité (art. R645-1)](#344)
-          - [Section 2 : Des dessins, levés ou enregistrements effectués sans autorisation dans une zone d'interdiction fixée par l'autorité militaire (art. R645-2)](#345)
-          - [Section 3 : Des atteintes à l'état civil des personnes (art. R645-3 à R645-6)](#346)
-          - [Section 4 : De la soustraction d'une pièce produite en justice (art. R645-7)](#347)
-          - [Section 5 : De l'utilisation d'un document délivré par une administration publique comportant des mentions devenues incomplètes ou inexactes (art. R645-8)](#348)
-          - [Section 6 : Du refus de restitution de signes monétaires contrefaits ou falsifiés (art. R645-9)](#349)
-          - [Section 7 : De l'altération ou de la contrefaçon des timbres-poste ou des timbres émis par l'administration des finances (art. R645-10 à R645-11)](#350)
-          - [Section 8 : De l'intrusion dans les établissements scolaires (art. R645-12)](#351)
-      - [Titre V : Des autres contraventions (art. R653-1 à R655-1)](#352)
-        - [Chapitre III : Des contraventions de la 3e classe (art. R653-1)](#353)
-          - [Section unique : Des atteintes involontaires à la vie ou à l'intégrité d'un animal (art. R653-1)](#354)
-        - [Chapitre IV : Des contraventions de la 4e classe (art. R654-1)](#355)
-          - [Section unique : Des mauvais traitements envers un animal (art. R654-1)](#356)
-        - [Chapitre V : Des contraventions de la 5e classe (art. R655-1)](#357)
-          - [Section unique : Des atteintes volontaires à la vie d'un animal (art. R655-1)](#358)
-    - [Livre VII : Dispositions applicables dans les territoires d'outre-mer, en Nouvelle-Calédonie et à Mayotte. (art. R711-1 à R722-7)](#359)
-      - [Titre Ier : Dispositions applicables dans les territoires d'outre-mer et en Nouvelle-Calédonie (art. R711-1 à R716-1)](#360)
-        - [Chapitre Ier : Dispositions générales (art. R711-1 à R711-3)](#361)
-        - [Chapitre II : Adaptation du livre Ier (art. R712-1 à R712-8)](#362)
-        - [Chapitre VI : Adaptation du livre V (art. R716-1)](#363)
-      - [Titre II : Dispositions applicables à Mayotte. (art. R721-1 à R722-7)](#364)
-        - [Chapitre Ier : Dispositions générales (art. R721-1 à R721-2)](#365)
-        - [Chapitre II : Adaptation du livre Ier (art. R722-1 à R722-7)](#366)
+      - [Titre II : Dispositions applicables à Mayotte. (art. 721-1 à 727-3)](#242)
+        - [Chapitre Ier : Dispositions générales (art. 721-1 à 721-2)](#243)
+        - [Chapitre II : Adaptation du livre Ier. (art. 722-1)](#244)
+        - [Chapitre III : Adaptation du livre II (art. 723-1 à 723-6)](#245)
+        - [Chapitre IV : Adaptation du livre III (art. 724-1)](#246)
+        - [Chapitre V : Adaptation du livre IV (art. 725-1 à 725-6)](#247)
+        - [Chapitre VI : Adaptation du livre V (art. 726-1 à 726-15)](#248)
+        - [Chapitre VII : Dispositions diverses (art. 727-1 à 727-3)](#249)
+  - [Partie réglementaire - Décrets en Conseil d'Etat (art. R131-1 à R722-7)](#250)
+    - [Livre Ier : Dispositions générales (art. R131-1 à R133-2)](#251)
+      - [Titre III : Des peines (art. R131-1 à R133-2)](#252)
+        - [Chapitre Ier : De la nature des peines (art. R131-1 à R131-36)](#253)
+          - [Section 1 : Des peines applicables aux personnes physiques (art. R131-1 à R131-34)](#254)
+            - [Sous-section 1 : De la suspension du permis de conduire, de l'interdiction de conduire certains véhicules et de l'immobilisation de véhicule (art. R131-1 à R131-11)](#255)
+              - [Paragraphe 1 : De la suspension du permis de conduire. (art. R131-1 à R131-2)](#256)
+              - [Paragraphe 2 : De l'interdiction de conduire certains véhicules. (art. R131-3 à R131-4)](#257)
+              - [Paragraphe 3 : De l'immobilisation de véhicule. (art. R131-5 à R131-11)](#258)
+            - [Sous-section 2 : Du travail d'intérêt général (art. R131-12 à R131-34)](#259)
+              - [Paragraphe 1 : Des modalités d'habilitation des associations et d'établissement de la liste des travaux d'intérêt général (art. R131-12 à R131-22)](#260)
+                - [A. : Des modalités d'habilitation des associations. (art. R131-12 à R131-16)](#261)
+                - [B. : De l'établissement de la liste des travaux d'intérêt général. (art. R131-17 à R131-20)](#262)
+                - [C. : Dispositions diverses. (art. R131-21 à R131-22)](#263)
+              - [Paragraphe 2 : De l'exécution du travail d'intérêt général (art. R131-23 à R131-34)](#264)
+                - [A. : De la décision du juge de l'application des peines fixant les modalités d'exécution du travail d'intérêt général (art. R131-23 à R131-28)](#265)
+                - [B. : Du contrôle de l'exécution du travail d'intérêt général (art. R131-29 à R131-34)](#266)
+          - [Section 2 : Des peines applicables aux personnes morales. (art. R131-35 à R131-36)](#267)
+        - [Chapitre III : De l'extinction des peines et de l'effacement des condamnations (art. R133-1 à R133-2)](#268)
+          - [Section 2 : De la grâce (art. R133-1 à R133-2)](#269)
+    - [Livre II : Des crimes et délits contre les personnes (art. R226-1 à R226-12)](#270)
+      - [Titre II : Des atteintes à la personne humaine (art. R226-1 à R226-12)](#271)
+        - [Chapitre VI : Des atteintes à la personnalité (art. R226-1 à R226-12)](#272)
+          - [Section 1 : De l'atteinte à la vie privée (art. R226-1 à R226-12)](#273)
+    - [Livre III : Des crimes et délits contre les biens (art. R321-1 à R321-12)](#274)
+      - [Titre II : Des autres atteintes aux biens (art. R321-1 à R321-12)](#275)
+        - [Chapitre Ier : Du recel et des infractions assimilées ou voisines (art. R321-1 à R321-12)](#276)
+          - [Section 2 : Des infractions assimilées au recel ou voisines de celui-ci (art. R321-1 à R321-12)](#277)
+            - [Sous-section 1 : Dispositions relatives aux personnes dont l'activité professionnelle comporte la vente ou l'échange de certains objets mobiliers (art. R321-1 à R321-8)](#278)
+            - [Sous-section 2 : Dispositions concernant les manifestations publiques en vue de la vente ou de l'échange de certains objets mobiliers (art. R321-9 à R321-12)](#279)
+    - [Livre IV : Des crimes et délits contre la nation, l'Etat et la paix publique (art. R413-1 à R431-2)](#280)
+      - [Titre Ier : Des atteintes aux intérêts fondamentaux de la nation (art. R413-1 à R413-6)](#281)
+        - [Chapitre III : Des autres atteintes à la défense nationale (art. R413-1 à R413-6)](#282)
+          - [Section 1 : Des atteintes à la sécurité des forces armées et aux zones protégées intéressant la défense nationale (art. R413-1 à R413-5)](#283)
+          - [Section 2 : Des atteintes au secret de la défense nationale (art. R413-6)](#284)
+      - [Titre III : Des atteintes à l'autorité de l'Etat (art. R431-1 à R431-2)](#285)
+        - [Chapitre Ier : Des atteintes à la paix publique (art. R431-1 à R431-2)](#286)
+          - [Section 2 : De la participation délictueuse à un attroupement. (art. R431-1 à R431-2)](#287)
+    - [Livre V : Des autres crimes et délits (art. R511-1)](#288)
+      - [Chapitre Ier : Des sévices graves ou actes de cruauté envers les animaux (art. R511-1)](#289)
+    - [Livre VI : Des contraventions (art. R610-1 à R655-1)](#290)
+      - [Titre Ier : Dispositions générales (art. R610-1 à R610-5)](#291)
+      - [Titre II : Des contraventions contre les personnes (art. R621-1 à R625-9)](#292)
+        - [Chapitre Ier : Des contraventions de la 1re classe contre les personnes (art. R621-1 à R621-2)](#293)
+          - [Section 1 : De la diffamation et de l'injure non publiques (art. R621-1 à R621-2)](#294)
+        - [Chapitre II : Des contraventions de la 2e classe contre les personnes (art. R622-1 à R622-2)](#295)
+          - [Section 1 : Des atteintes involontaires à l'intégrité de la personne n'ayant entraîné aucune incapacité totale de travail (art. R622-1)](#296)
+          - [Section 2 : De la divagation d'animaux dangereux (art. R622-2)](#297)
+        - [Chapitre III : Des contraventions de la 3e classe contre les personnes (art. R623-1 à R623-4)](#298)
+          - [Section 1 : Des menaces de violences (art. R623-1)](#299)
+          - [Section 2 : Des bruits ou tapages injurieux ou nocturnes (art. R623-2)](#300)
+          - [Section 3 : De l'excitation d'animaux dangereux (art. R623-3)](#301)
+          - [Section 4 : De la violation des dispositions réglementant le commerce de certains matériels susceptibles d'être utilisés pour porter atteinte à l'intimité de la vie privée (art. R623-4)](#302)
+        - [Chapitre IV : Des contraventions de la 4e classe contre les personnes (art. R624-1 à R624-6)](#303)
+          - [Section 1 : Des violences légères (art. R624-1)](#304)
+          - [Section 2 : De la diffusion de messages contraires à la décence (art. R624-2)](#305)
+          - [Section 3 : De la diffamation et de l'injure non publiques présentant un caractère raciste ou discriminatoire (art. R624-3 à R624-6)](#306)
+        - [Chapitre V : Des contraventions de la 5e classe contre les personnes (art. R625-1 à R625-9)](#307)
+          - [Section 1 : Des violences (art. R625-1)](#308)
+          - [Section 2 : Des atteintes involontaires à l'intégrité de la personne (art. R625-2 à R625-6)](#309)
+          - [Section 3 : De la provocation non publique à la discrimination, à la haine ou à la violence raciales. (art. R625-7)](#310)
+          - [Section 4 : Du racolage. (art. R625-8)](#311)
+          - [Section 5 : De la violation des dispositions réglementant le commerce de certains matériels susceptibles d'être utilisés pour porter atteinte à l'intimité de la vie privée (art. R625-9)](#312)
+      - [Titre III : Des contraventions contre les biens (art. R631-1 à R635-8)](#313)
+        - [Chapitre Ier : Des contraventions de la 1re classe contre les biens (art. R631-1)](#314)
+          - [Section unique : Des menaces de destruction, de dégradation ou de détérioration n'entraînant qu'un dommage léger (art. R631-1)](#315)
+        - [Chapitre II : Des contraventions de la 2e classe contre les biens (art. R632-1)](#316)
+          - [Section unique : De l'abandon d'ordures, déchets, matériaux ou autres objets. (art. R632-1)](#317)
+        - [Chapitre III : Des contraventions de la 3e classe contre les biens (art. R633-1 à R633-5)](#318)
+          - [Section 1 : De la violation des dispositions réglementant la vente ou l'échange de certains objets mobiliers (art. R633-1 à R633-4)](#319)
+          - [Section 2 : De la violation des dispositions concernant les manifestations publiques en vue de la vente ou de l'échange de certains objets mobiliers (art. R633-5)](#320)
+        - [Chapitre IV : Des contraventions de la 4e classe contre les biens (art. R634-1)](#321)
+          - [Section 1 : Des menaces de destruction, de dégradation ou de détérioration ne présentant pas de danger pour les personnes (art. R634-1)](#322)
+        - [Chapitre V : Des contraventions de la 5e classe contre les biens (art. R635-1 à R635-8)](#323)
+          - [Section 1 : Des destructions, dégradations et détériorations dont il n'est résulté qu'un dommage léger (art. R635-1)](#324)
+          - [Section 2 : De la vente forcée par correspondance (art. R635-2)](#325)
+          - [Section 3 : De la violation des dispositions réglementant la vente ou l'échange de certains objets mobiliers (art. R635-3 à R635-7)](#326)
+          - [Section 4 : De l'abandon d'épaves de véhicules ou d'ordures, déchets, matériaux et autres objets transportés dans un véhicule (art. R635-8)](#327)
+      - [Titre IV : Des contraventions contre la nation, l'Etat ou la paix publique (art. R641-1 à R645-12)](#328)
+        - [Chapitre Ier : Des contraventions de la 1re classe contre la nation, l'Etat ou la paix publique (art. R641-1)](#329)
+          - [Section unique : De l'abandon d'armes ou d'objets dangereux (art. R641-1)](#330)
+        - [Chapitre II : Des contraventions de la 2e classe contre la nation, l'Etat ou la paix publique (art. R642-1 à R642-4)](#331)
+          - [Section 1 : Du défaut de réponse à une réquisition des autorités judiciaires ou administratives (art. R642-1)](#332)
+          - [Section 2 : Des atteintes à la monnaie (art. R642-2 à R642-4)](#333)
+        - [Chapitre III : Des contraventions de la 3e classe contre la nation, l'Etat ou la paix publique (art. R643-1 à R643-2)](#334)
+          - [Section 1 : De l'usurpation de signes réservés à l'autorité publique (art. R643-1)](#335)
+          - [Section 2 : De l'utilisation de poids ou mesures différents de ceux établis par les lois et règlements en vigueur (art. R643-2)](#336)
+        - [Chapitre IV : Des contraventions de la 4e classe contre la nation, l'Etat ou la paix publique (art. R644-1 à R644-3)](#337)
+          - [Section 1 : De l'accès sans autorisation à un terrain, une construction, un engin ou un appareil militaires (art. R644-1)](#338)
+          - [Section 2 : Des entraves à la libre circulation sur la voie publique (art. R644-2)](#339)
+          - [Section 3 : De la violation des dispositions réglementant les professions exercées dans les lieux publics (art. R644-3)](#340)
+        - [Chapitre V : Des contraventions de la 5e classe contre la nation, l'Etat ou la paix publique (art. R645-1 à R645-12)](#341)
+          - [Section 1 : Du port ou de l'exhibition d'uniformes, insignes ou emblèmes rappelant ceux d'organisations ou de personnes responsables de crimes contre l'humanité (art. R645-1)](#342)
+          - [Section 2 : Des dessins, levés ou enregistrements effectués sans autorisation dans une zone d'interdiction fixée par l'autorité militaire (art. R645-2)](#343)
+          - [Section 3 : Des atteintes à l'état civil des personnes (art. R645-3 à R645-6)](#344)
+          - [Section 4 : De la soustraction d'une pièce produite en justice (art. R645-7)](#345)
+          - [Section 5 : De l'utilisation d'un document délivré par une administration publique comportant des mentions devenues incomplètes ou inexactes (art. R645-8)](#346)
+          - [Section 6 : Du refus de restitution de signes monétaires contrefaits ou falsifiés (art. R645-9)](#347)
+          - [Section 7 : De l'altération ou de la contrefaçon des timbres-poste ou des timbres émis par l'administration des finances (art. R645-10 à R645-11)](#348)
+          - [Section 8 : De l'intrusion dans les établissements scolaires (art. R645-12)](#349)
+      - [Titre V : Des autres contraventions (art. R653-1 à R655-1)](#350)
+        - [Chapitre III : Des contraventions de la 3e classe (art. R653-1)](#351)
+          - [Section unique : Des atteintes involontaires à la vie ou à l'intégrité d'un animal (art. R653-1)](#352)
+        - [Chapitre IV : Des contraventions de la 4e classe (art. R654-1)](#353)
+          - [Section unique : Des mauvais traitements envers un animal (art. R654-1)](#354)
+        - [Chapitre V : Des contraventions de la 5e classe (art. R655-1)](#355)
+          - [Section unique : Des atteintes volontaires à la vie d'un animal (art. R655-1)](#356)
+    - [Livre VII : Dispositions applicables dans les territoires d'outre-mer, en Nouvelle-Calédonie et à Mayotte. (art. R711-1 à R722-7)](#357)
+      - [Titre Ier : Dispositions applicables dans les territoires d'outre-mer et en Nouvelle-Calédonie (art. R711-1 à R716-1)](#358)
+        - [Chapitre Ier : Dispositions générales (art. R711-1 à R711-3)](#359)
+        - [Chapitre II : Adaptation du livre Ier (art. R712-1 à R712-8)](#360)
+        - [Chapitre VI : Adaptation du livre V (art. R716-1)](#361)
+      - [Titre II : Dispositions applicables à Mayotte. (art. R721-1 à R722-7)](#362)
+        - [Chapitre Ier : Dispositions générales (art. R721-1 à R721-2)](#363)
+        - [Chapitre II : Adaptation du livre Ier (art. R722-1 à R722-7)](#364)
 # Partie législative<a id=1></a>
 
 ## Livre Ier : Dispositions générales<a id=2></a>
@@ -2145,7 +2143,7 @@ _Codifié par_:
 Lorsqu'un délit est puni d'une peine d'emprisonnement, la juridiction peut prononcer une peine de jours-amende consistant
 pour le condamné à verser au Trésor une somme dont le montant global résulte de la fixation par le juge d'une contribution
 quotidienne pendant un certain nombre de jours. Le montant de chaque jour-amende est déterminé en tenant compte des
-ressources et des charges du prévenu ; il ne peut excéder 2 000 F. Le nombre de jours-amende est déterminé en tenant compte
+ressources et des charges du prévenu ; il ne peut excéder 300 euros. Le nombre de jours-amende est déterminé en tenant compte
 des circonstances de l'infraction ; il ne peut excéder trois cent soixante.
 
 **Liens relatifs à cet article**
@@ -2192,6 +2190,10 @@ _Cité par_:
   - Code des transports - art. L5531-46 (VD)
   - Code pénal - art. 132-5 (V)
   - Code pénal - art. 132-57 (VT)
+
+_Modifié par_:
+
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 
 ###### Article 131-6
@@ -2518,15 +2520,15 @@ _Cite_:
 
 Le montant de l'amende est le suivant :
 
-1° 250 F au plus pour les contraventions de la 1re classe ;
+1° 38 euros au plus pour les contraventions de la 1re classe ;
 
-2° 1 000 F au plus pour les contraventions de la 2e classe ;
+2° 150 euros au plus pour les contraventions de la 2e classe ;
 
-3° 3 000 F au plus pour les contraventions de la 3e classe ;
+3° 450 euros au plus pour les contraventions de la 3e classe ;
 
-4° 5 000 F au plus pour les contraventions de la 4e classe ;
+4° 750 euros au plus pour les contraventions de la 4e classe ;
 
-5° 10 000 F au plus pour les contraventions de la 5e classe, montant qui peut être porté à 20 000 F en cas de récidive
+5° 1500 euros au plus pour les contraventions de la 5e classe, montant qui peut être porté à 3000 euros en cas de récidive
 lorsque le règlement le prévoit.
 
 **Liens relatifs à cet article**
@@ -2772,6 +2774,10 @@ _Codifié par_:
   - TXT_ASSOCIE: Code des ports maritimes - art. R*353-2 (V)
   - TXT_ASSOCIE: Code des ports maritimes - art. R*353-3 (V)
   - TXT_ASSOCIE: Code des ports maritimes - art. R*353-4 (V)
+
+_Modifié par_:
+
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 
 ###### Article 131-14
@@ -6432,7 +6438,7 @@ _Cité par_:
 
 Dans les cas où le règlement le prévoit, lorsqu'une personne physique, déjà condamnée définitivement pour une contravention
 de la 5e classe, commet, dans le délai d'un an à compter de l'expiration ou de la prescription de la précédente peine, la
-même contravention, le maximum de la peine d'amende encourue est porté à 20 000 F.
+même contravention, le maximum de la peine d'amende encourue est porté à 3 000 euros.
 
 **Liens relatifs à cet article**
 
@@ -6842,13 +6848,17 @@ _Codifié par_:
   - SPEC_APPLI: Loi n°92-683 1992-07-22 art. 1
   - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
 
+_Modifié par_:
+
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+
 
 ##### Paragraphe 2 : Personnes morales<a id=30></a>
 
 ###### Article 132-12
 
 Lorsqu'une personne morale, déjà condamnée définitivement pour un crime ou pour un délit puni par la loi en ce qui concerne
-les personnes physiques de 700 000 F d'amende, engage sa responsabilité pénale par un crime, le taux maximum de l'amende
+les personnes physiques de 100 000 euros d'amende, engage sa responsabilité pénale par un crime, le taux maximum de l'amende
 applicable est égal à dix fois celui qui est prévu par la loi qui réprime ce crime. Dans ce cas, la personne morale encourt,
 en outre, les peines mentionnées à l'article 131-39, sous réserve des dispositions du dernier alinéa de cet article.
 
@@ -6863,23 +6873,27 @@ _Codifié par_:
   - SPEC_APPLI: Loi n°92-683 1992-07-22 art. 1
   - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
 
+_Modifié par_:
+
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+
 _Cite_:
 
-  - Code pénal - art. 131-39 (MMN)
+  - Code pénal - art. 131-39 (V)
 
 
 ###### Article 132-13
 
 Lorsqu'une personne morale, déjà condamnée définitivement pour un crime ou pour un délit puni par la loi en ce qui concerne
-les personnes physiques de 700 000 F d'amende, engage sa responsabilité pénale, dans le délai de dix ans à compter de
+les personnes physiques de 100 000 euros d'amende, engage sa responsabilité pénale, dans le délai de dix ans à compter de
 l'expiration ou de la prescription de la précédente peine, par un délit puni de la même peine, le taux maximum de l'amende
-applicable est égal à dix fois celui qui est prévu par la loi qui réprime ce délit.
+applicable est égal à dix fois celui qui est prévu par la loi qui réprime ce délit. 
 
 Lorsqu'une personne morale, déjà condamnée définitivement pour un crime ou pour un délit puni par la loi en ce qui concerne
-les personnes physiques de 700 000 F d'amende, engage sa responsabilité pénale, dans le délai de cinq ans à compter de
+les personnes physiques de 100 000 euros d'amende, engage sa responsabilité pénale, dans le délai de cinq ans à compter de
 l'expiration ou de la prescription de la précédente peine, par un délit puni par la loi en ce qui concerne les personnes
-physiques d'une peine d'amende d'au moins 100 000 F, le taux maximum de l'amende applicable est égal à dix fois celui qui est
-prévu par la loi qui réprime ce délit.
+physiques d'une peine d'amende supérieure à 15 000 euros, le taux maximum de l'amende applicable est égal à dix fois celui
+qui est prévu par la loi qui réprime ce délit. 
 
 Dans les cas prévus par les deux alinéas précédents, la personne morale encourt, en outre, les peines mentionnées à l'article
 131-39, sous réserve des dispositions du dernier alinéa de cet article.
@@ -6897,11 +6911,11 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2001-504 du 12 juin 2001 - art. 15
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 _Cite_:
 
-  - Code pénal - art. 131-39 (MMN)
+  - Code pénal - art. 131-39 (V)
 
 
 ###### Article 132-14
@@ -7663,7 +7677,7 @@ le prévenu n'a pas été condamné, au cours des cinq années précédant les f
 peine de réclusion ou d'emprisonnement.
 
 Le sursis ne peut être ordonné à l'égard d'une personne morale que lorsque celle-ci n'a pas été condamnée, dans le même
-délai, pour un crime ou un délit de droit commun, à une amende d'un montant supérieur à 400 000 F.
+délai, pour un crime ou un délit de droit commun, à une amende d'un montant supérieur à 60 000 euros.
 
 **Liens relatifs à cet article**
 
@@ -7675,6 +7689,10 @@ _Codifié par_:
 
   - SPEC_APPLI: Loi n°92-683 1992-07-22 art. 1
   - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
+
+_Modifié par_:
+
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 _Cité par_:
 
@@ -7758,7 +7776,7 @@ n'a pas été condamné, au cours des cinq années précédant les faits, pour c
 réclusion ou d'emprisonnement.
 
 Le sursis simple ne peut être ordonné à l'égard d'une personne morale que lorsque celle-ci n'a pas été condamnée, dans le
-même délai, pour crime ou délit de droit commun, à une amende d'un montant supérieur à 100 000 F.
+même délai, pour crime ou délit de droit commun, à une amende d'un montant supérieur à 15 000 euros.
 
 **Liens relatifs à cet article**
 
@@ -7770,6 +7788,10 @@ _Codifié par_:
 
   - SPEC_APPLI: Loi n°92-683 1992-07-22 art. 1
   - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
+
+_Modifié par_:
+
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 
 ###### Article 132-34
@@ -9981,10 +10003,10 @@ _Nouveaux textes_:
 
 Le fait de causer, dans les conditions et selon les distinctions prévues à l'article 121-3, par maladresse, imprudence,
 inattention, négligence ou manquement à une obligation de sécurité ou de prudence imposée par la loi ou le règlement, la mort
-d'autrui constitue un homicide involontaire puni de trois ans d'emprisonnement et de 300 000 F d'amende.
+d'autrui constitue un homicide involontaire puni de trois ans d'emprisonnement et de 45000 euros d'amende.
 
 En cas de violation manifestement délibérée d'une obligation particulière de sécurité ou de prudence imposée par la loi ou le
-règlement, les peines encourues sont portées à cinq ans d'emprisonnement et à 500 000 F d'amende.
+règlement, les peines encourues sont portées à cinq ans d'emprisonnement et à 75000 euros d'amende.
 
 **Liens relatifs à cet article**
 
@@ -10046,7 +10068,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2000-647 du 10 juillet 2000 - art. 4 () JORF 11 juillet 2000
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 
 ###### Article 221-7
@@ -10627,8 +10649,8 @@ _Cite_:
 
 ###### Article 222-9
 
-Les violences ayant entraîné une mutilation ou une infirmité permanente sont punies de dix ans d'emprisonnement et de 1 000
-000 F d'amende.
+Les violences ayant entraîné une mutilation ou une infirmité permanente sont punies de dix ans d'emprisonnement et de 150 000
+euros d'amende.
 
 **Liens relatifs à cet article**
 
@@ -10661,6 +10683,10 @@ _Cité par_:
   - Code pénal - art. 131-26-2 (V)
   - Code pénal - art. 132-19-2 (VT)
   - Code pénal - art. 222-10 (V)
+
+_Modifié par_:
+
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 
 ###### Article 222-10
@@ -10750,7 +10776,7 @@ _Cite_:
 ###### Article 222-11
 
 Les violences ayant entraîné une incapacité totale de travail pendant plus de huit jours sont punies de trois ans
-d'emprisonnement et de 300 000 F d'amende.
+d'emprisonnement et de 45 000 euros d'amende.
 
 **Liens relatifs à cet article**
 
@@ -10762,6 +10788,10 @@ _Codifié par_:
 
   - SPEC_APPLI: Loi n°92-684 1992-07-22 art. 1
   - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
+
+_Modifié par_:
+
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 _Cité par_:
 
@@ -10776,7 +10806,7 @@ _Cité par_:
 
 ###### Article 222-12
 
-L'infraction définie à l'article 222-11 est punie de cinq ans d'emprisonnement et de 500 000 F d'amende lorsqu'elle est
+L'infraction définie à l'article 222-11 est punie de cinq ans d'emprisonnement et de 75000 euros d'amende lorsqu'elle est
 commise :
 
 1° Sur un mineur de quinze ans ;
@@ -10809,11 +10839,11 @@ l'occasion de l'exercice de ses fonctions ou de sa mission ;
 11° Lorsque les faits sont commis à l'intérieur d'un établissement scolaire ou éducatif, ou, à l'occasion des entrées ou des
 sorties des élèves, aux abords d'un tel établissement.
 
-Les peines encourues sont portées à dix ans d'emprisonnement et à 1 000 000 F d'amende lorsque l'infraction définie à
+Les peines encourues sont portées à dix ans d'emprisonnement et à 150000 euros d'amende lorsque l'infraction définie à
 l'article 222-11 est commise sur un mineur de quinze ans par un ascendant légitime, naturel ou adoptif ou par toute autre
-personne ayant autorité sur le mineur. Les peines sont portées à sept ans d'emprisonnement et 700 000 F d'amende lorsque
+personne ayant autorité sur le mineur. Les peines sont portées à sept ans d'emprisonnement et 100000 euros d'amende lorsque
 cette infraction est commise dans deux des circonstances prévues aux 1° à 10° du présent article. Les peines sont portées à
-dix ans d'emprisonnement et 1 000 000 F d'amende lorsqu'elle est commise dans trois de ces circonstances.
+dix ans d'emprisonnement et 150000 euros d'amende lorsqu'elle est commise dans trois de ces circonstances.
 
 Les deux premiers alinéas de l'article 132-23 relatif à la période de sûreté sont applicables aux infractions prévues par le
 précédent alinéa.
@@ -10856,7 +10886,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°99-505 du 18 juin 1999 - art. 14 () JORF 19 juin 1999
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 _Cite_:
 
@@ -10867,7 +10897,7 @@ _Cite_:
 ###### Article 222-13
 
 Les violences ayant entraîné une incapacité de travail inférieure ou égale à huit jours ou n'ayant entraîné aucune incapacité
-de travail sont punies de trois ans d'emprisonnement et de 300 000 F d'amende lorsqu'elles sont commises :
+de travail sont punies de trois ans d'emprisonnement et de 45000 euros d'amende lorsqu'elles sont commises :
 
 1° Sur un mineur de quinze ans ;
 
@@ -10899,12 +10929,12 @@ l'occasion de l'exercice de ses fonctions ou de sa mission ;
 11° Lorsque les faits sont commis à l'intérieur d'un établissement scolaire ou éducatif, ou, à l'occasion des entrées ou des
 sorties des élèves, aux abords d'un tel établissement.
 
-Les peines encourues sont portées à cinq ans d'emprisonnement et à 500 000 F d'amende lorsque l'infraction définie au premier
-alinéa est commise sur un mineur de quinze ans par un ascendant légitime, naturel ou adoptif ou par toute autre personne
-ayant autorité sur le mineur. Les peines sont également portées à cinq ans d'emprisonnement et 500 000 F d'amende lorsque
-cette infraction, ayant entraîné une incapacité totale de travail inférieure ou égale à huit jours, est commise dans deux des
-circonstances prévues aux 1° à 10° du présent article. Les peines sont portées à sept ans d'emprisonnement et 700 000 F
-d'amende lorsqu'elle est commise dans trois de ces circonstances.
+Les peines encourues sont portées à cinq ans d'emprisonnement et à 75000 euros d'amende lorsque l'infraction définie au
+premier alinéa est commise sur un mineur de quinze ans par un ascendant légitime, naturel ou adoptif ou par toute autre
+personne ayant autorité sur le mineur. Les peines sont également portées à cinq ans d'emprisonnement et 75000 euros d'amende
+lorsque cette infraction, ayant entraîné une incapacité totale de travail inférieure ou égale à huit jours, est commise dans
+deux des circonstances prévues aux 1° à 10° du présent article. Les peines sont portées à sept ans d'emprisonnement et 100000
+euros d'amende lorsqu'elle est commise dans trois de ces circonstances.
 
 **Liens relatifs à cet article**
 
@@ -10937,7 +10967,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°99-505 du 18 juin 1999 - art. 14 () JORF 19 juin 1999
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 
 ###### Article 222-14
@@ -10950,10 +10980,10 @@ leur auteur sont punies :
 
 2° De vingt ans de réclusion criminelle lorsqu'elles ont entraîné une mutilation ou une infirmité permanente ;
 
-3° De dix ans d'emprisonnement et de 1 000 000 F d'amende lorsqu'elles ont entraîné une incapacité totale de travail pendant
+3° De dix ans d'emprisonnement et de 150000 euros d'amende lorsqu'elles ont entraîné une incapacité totale de travail pendant
 plus de huit jours ;
 
-4° De cinq ans d'emprisonnement et de 500 000 F d'amende lorsqu'elles n'ont pas entraîné une incapacité totale de travail
+4° De cinq ans d'emprisonnement et de 75000 euros d'amende lorsqu'elles n'ont pas entraîné une incapacité totale de travail
 pendant plus de huit jours.
 
 Les deux premiers alinéas de l'article 132-23 relatif à la période de sûreté sont applicables aux cas prévus aux 1° et 2° du
@@ -10991,6 +11021,10 @@ _Codifié par_:
 
   - SPEC_APPLI: Loi n°92-684 1992-07-22 art. 1
   - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
+
+_Modifié par_:
+
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 _Cite_:
 
@@ -11033,7 +11067,7 @@ _Cite_:
 ###### Article 222-16
 
 Les appels téléphoniques malveillants ou les agressions sonores, réitérés en vue de troubler la tranquillité d'autrui, sont
-punis d'un an d'emprisonnement et de 100 000 F d'amende.
+punis d'un an d'emprisonnement et de 15 000 euros d'amende.
 
 **Liens relatifs à cet article**
 
@@ -11045,6 +11079,10 @@ _Codifié par_:
 
   - SPEC_APPLI: Loi n°92-684 1992-07-22 art. 1
   - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
+
+_Modifié par_:
+
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 _Cité par_:
 
@@ -11089,10 +11127,10 @@ _Cite_:
 ###### Article 222-17
 
 La menace de commettre un crime ou un délit contre les personnes dont la tentative est punissable est punie de six mois
-d'emprisonnement et de 50 000 F d'amende lorsqu'elle est, soit réitérée, soit matérialisée par un écrit, une image ou tout
+d'emprisonnement et de 7 500 euros d'amende lorsqu'elle est, soit réitérée, soit matérialisée par un écrit, une image ou tout
 autre objet.
 
-La peine est portée à trois ans d'emprisonnement et à 300 000 F d'amende s'il s'agit d'une menace de mort.
+La peine est portée à trois ans d'emprisonnement et à 45 000 euros d'amende s'il s'agit d'une menace de mort.
 
 **Liens relatifs à cet article**
 
@@ -11104,6 +11142,10 @@ _Codifié par_:
 
   - SPEC_APPLI: Loi n°92-684 1992-07-22 art. 1
   - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
+
+_Modifié par_:
+
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 _Cité par_:
 
@@ -11122,9 +11164,9 @@ _Cité par_:
 ###### Article 222-18
 
 La menace, par quelque moyen que ce soit, de commettre un crime ou un délit contre les personnes, est punie de trois ans
-d'emprisonnement et de 300 000 F d'amende, lorsqu'elle est faite avec l'ordre de remplir une condition.
+d'emprisonnement et de 45 000 euros d'amende, lorsqu'elle est faite avec l'ordre de remplir une condition.
 
-La peine est portée à cinq ans d'emprisonnement et à 500 000 F d'amende s'il s'agit d'une menace de mort.
+La peine est portée à cinq ans d'emprisonnement et à 75 000 euros d'amende s'il s'agit d'une menace de mort.
 
 **Liens relatifs à cet article**
 
@@ -11136,6 +11178,10 @@ _Codifié par_:
 
   - SPEC_APPLI: Loi n°92-684 1992-07-22 art. 1
   - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
+
+_Modifié par_:
+
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 _Cité par_:
 
@@ -11202,11 +11248,11 @@ _Nouveaux textes_:
 
 Le fait de causer à autrui, dans les conditions et selon les distinctions prévues à l'article 121-3, par maladresse,
 imprudence, inattention, négligence ou manquement à une obligation de sécurité ou de prudence imposée par la loi ou le
-règlement, une incapacité totale de travail pendant plus de trois mois est puni de deux ans d'emprisonnement et de 200 000 F
-d'amende.
+règlement, une incapacité totale de travail pendant plus de trois mois est puni de deux ans d'emprisonnement et de 30000
+euros d'amende.
 
 En cas de violation manifestement délibérée d'une obligation particulière de sécurité ou de prudence imposée par la loi ou le
-règlement, les peines encourues sont portées à trois ans d'emprisonnement et à 300 000 F d'amende.
+règlement, les peines encourues sont portées à trois ans d'emprisonnement et à 45000 euros d'amende.
 
 **Liens relatifs à cet article**
 
@@ -11269,14 +11315,14 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2000-647 du 10 juillet 2000 - art. 5 () JORF 11 juillet 2000
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 
 ###### Article 222-20
 
 Le fait de causer à autrui, par la violation manifestement délibérée d'une obligation particulière de sécurité ou de prudence
 imposée par la loi ou le règlement, une incapacité totale de travail d'une durée inférieure ou égale à trois mois, est puni
-d'un an d'emprisonnement et de 100 000 F d'amende.
+d'un an d'emprisonnement et de 15000 euros d'amende.
 
 **Liens relatifs à cet article**
 
@@ -11310,7 +11356,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2000-647 du 10 juillet 2000 - art. 6 () JORF 11 juillet 2000
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 
 ###### Article 222-21
@@ -11544,7 +11590,7 @@ _Cite_:
 
 ###### Article 222-27
 
-Les agressions sexuelles autres que le viol sont punies de cinq ans d'emprisonnement et de 500 000 F d'amende.
+Les agressions sexuelles autres que le viol sont punies de cinq ans d'emprisonnement et de 75 000 euros d'amende.
 
 **Liens relatifs à cet article**
 
@@ -11557,6 +11603,14 @@ _Codifié par_:
   - SPEC_APPLI: Loi n°92-684 1992-07-22 art. 1
   - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
 
+_Modifié par_:
+
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+
+_Anciens textes_:
+
+  - CODE PENAL - art. 333 (Ab)
+
 _Cité par_:
 
   - Code de procédure pénale - art. D147-31 (V)
@@ -11568,7 +11622,7 @@ _Cité par_:
 
 ###### Article 222-28
 
-L'infraction définie à l'article 222-27 est punie de sept ans d'emprisonnement et de 700 000 F d'amende :
+L'infraction définie à l'article 222-27 est punie de sept ans d'emprisonnement et de 100000 euros d'amende :
 
 1° Lorsqu'elle a entraîné une blessure ou une lésion ;
 
@@ -11597,7 +11651,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°98-468 du 17 juin 1998 - art. 13 () JORF 18 juin 1998
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 _Cite_:
 
@@ -11606,7 +11660,7 @@ _Cite_:
 
 ###### Article 222-29
 
-Les agressions sexuelles autres que le viol sont punies de sept ans d'emprisonnement et de 700 000 F d'amende lorsqu'elles
+Les agressions sexuelles autres que le viol sont punies de sept ans d'emprisonnement et de 100000 euros d'amende lorsqu'elles
 sont imposées :
 
 1° A un mineur de quinze ans ;
@@ -11625,19 +11679,19 @@ _Codifié par_:
   - SPEC_APPLI: Loi n°92-684 1992-07-22 art. 1
   - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
 
+_Modifié par_:
+
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+
 _Cité par_:
 
   - CODE DE PROCEDURE PENALE - art. 2-3 (M)
   - Code pénal - art. 222-30 (M)
 
-_Anciens textes_:
-
-  - CODE PENAL - art. 331 (Ab)
-
 
 ###### Article 222-30
 
-L'infraction définie à l'article 222-29 est punie de dix ans d'emprisonnement et de 1 000 000 F d'amende :
+L'infraction définie à l'article 222-29 est punie de dix ans d'emprisonnement et de 150000 euros d'amende :
 
 1° Lorsqu'elle a entraîné une blessure ou une lésion ;
 
@@ -11660,6 +11714,10 @@ _Codifié par_:
 
   - SPEC_APPLI: Loi n°92-684 1992-07-22 art. 1
   - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
+
+_Modifié par_:
+
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 _Cité par_:
 
@@ -11701,7 +11759,7 @@ _Cité par_:
 ###### Article 222-32
 
 L'exhibition sexuelle imposée à la vue d'autrui dans un lieu accessible aux regards du public est punie d'un an
-d'emprisonnement et de 100 000 F d'amende.
+d'emprisonnement et de 15000 euros d'amende.
 
 **Liens relatifs à cet article**
 
@@ -11724,6 +11782,10 @@ _Codifié par_:
   - SPEC_APPLI: Loi n°92-684 1992-07-22 art. 1
   - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
 
+_Modifié par_:
+
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+
 
 ##### Paragraphe 3 : Du harcèlement sexuel.<a id=76></a>
 
@@ -11731,7 +11793,7 @@ _Codifié par_:
 
 Le fait de harceler autrui en donnant des ordres, proférant des menaces, imposant des contraintes ou exerçant des pressions
 graves dans le but d'obtenir des faveurs de nature sexuelle, par une personne abusant de l'autorité que lui confèrent ses
-fonctions, est puni d'un an d'emprisonnement et de 100 000 F d'amende.
+fonctions, est puni d'un an d'emprisonnement et de 15000 euros d'amende.
 
 **Liens relatifs à cet article**
 
@@ -11767,7 +11829,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°98-468 du 17 juin 1998 - art. 11 () JORF 18 juin 1998 rectificatif JORF 2 juillet 1998
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 
 ###### Article 222-33-1
@@ -11808,7 +11870,7 @@ _Cite_:
 
 Le fait de diriger ou d'organiser un groupement ayant pour objet la production, la fabrication, l'importation, l'exportation,
 le transport, la détention, l'offre, la cession, l'acquisition ou l'emploi illicites de stupéfiants est puni de la réclusion
-criminelle à perpétuité et de 50 000 000 F d'amende.
+criminelle à perpétuité et de 7 500 000 euros d'amende. 
 
 Les deux premiers alinéas de l'article 132-23 relatif à la période de sûreté sont applicables à l'infraction prévue par le
 présent article.
@@ -11826,7 +11888,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°92-1336 du 16 décembre 1992 - art. 354 () JORF 23 décembre 1992 en vigueur le 1er mars 1994
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 _Cité par_:
 
@@ -11863,15 +11925,53 @@ _Cité par_:
 
 _Cite_:
 
-  - Code pénal - art. 132-23 (M)
+  - Code pénal - art. 132-23 (V)
 
 
 ###### Article 222-35
 
-La production ou la fabrication illicites de stupéfiants sont punies de vingt ans de réclusion criminelle et de 50 000 000 F
-d'amende.
+La production ou la fabrication illicites de stupéfiants sont punies de vingt ans de réclusion criminelle et de 7 500 000
+euros d'amende. 
 
-Ces faits sont punis de trente ans de réclusion criminelle et de 50 000 000 F d'amende lorsqu'ils sont commis en bande
+Ces faits sont punis de trente ans de réclusion criminelle et de 7 500 000 euros d'amende lorsqu'ils sont commis en bande
+organisée. 
+
+Les deux premiers alinéas de l'article 132-23 relatif à la période de sûreté sont applicables aux infractions prévues par le
+présent article.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°92-684 1992-07-22
+
+**Liens**:
+
+  - SPEC_APPLI: Loi n°92-684 1992-07-22 art. 1
+  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
+
+_Modifié par_:
+
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+
+_Cite_:
+
+  - Code pénal - art. 132-23 (V)
+
+_Cité par_:
+
+  - Code pénal - art. 222-38 (V)
+  - Code pénal - art. 222-43 (V)
+  - Code pénal - art. 222-44 (VD)
+  - Code pénal - art. 222-48 (M)
+  - Code pénal - art. 222-49 (V)
+
+
+###### Article 222-36
+
+L'importation ou l'exportation illicites de stupéfiants sont punies de dix ans d'emprisonnement et de 7500000 euros d'amende.
+
+Ces faits sont punis de trente ans de réclusion criminelle et de 7500000 euros d'amende lorsqu'ils sont commis en bande
 organisée.
 
 Les deux premiers alinéas de l'article 132-23 relatif à la période de sûreté sont applicables aux infractions prévues par le
@@ -11890,46 +11990,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°92-1336 du 16 décembre 1992 - art. 354 () JORF 23 décembre 1992 en vigueur le 1er mars 1994
-
-_Cite_:
-
-  - Code pénal - art. 132-23 (M)
-
-_Cité par_:
-
-  - Code pénal - art. 222-38 (V)
-  - Code pénal - art. 222-43 (V)
-  - Code pénal - art. 222-44 (VD)
-  - Code pénal - art. 222-48 (M)
-  - Code pénal - art. 222-49 (V)
-
-
-###### Article 222-36
-
-L'importation ou l'exportation illicites de stupéfiants sont punies de dix ans d'emprisonnement et de 50 000 000 F d'amende
-[* taux *].
-
-Ces faits sont punis de trente ans de réclusion criminelle et de 50 000 000 F d'amende [* taux *] lorsqu'ils sont commis en
-bande organisée.
-
-Les deux premiers alinéas de l'article 132-23 relatif à la période de sûreté sont applicables aux infractions prévues par le
-présent article.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Loi n°92-684 1992-07-22
-
-**Liens**:
-
-  - SPEC_APPLI: Loi n°92-684 1992-07-22 art. 1
-  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
-
-_Modifié par_:
-
-  - Loi n°92-1336 du 16 décembre 1992 - art. 354 () JORF 23 décembre 1992 en vigueur le 1er mars 1994
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 _Cité par_:
 
@@ -11951,11 +12012,11 @@ _Cite_:
 ###### Article 222-37
 
 Le transport, la détention, l'offre, la cession, l'acquisition ou l'emploi illicites de stupéfiants sont punis de dix ans
-d'emprisonnement et de 50 000 000 F d'amende [* taux *].
+d'emprisonnement et de 7 500 000 euros d'amende. 
 
 Est puni des mêmes peines le fait de faciliter, par quelque moyen que ce soit, l'usage illicite de stupéfiants, de se faire
 délivrer des stupéfiants au moyen d'ordonnances fictives ou de complaisance, ou de délivrer des stupéfiants sur la
-présentation de telles ordonnances en connaissant leur caractère fictif ou complaisant.
+présentation de telles ordonnances en connaissant leur caractère fictif ou complaisant. 
 
 Les deux premiers alinéas de l'article 132-23 relatif à la période de sûreté sont applicables aux infractions prévues par le
 présent article.
@@ -11973,7 +12034,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°92-1336 du 16 décembre 1992 - art. 354 () JORF 23 décembre 1992 en vigueur le 1er mars 1994
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 _Cité par_:
 
@@ -11982,19 +12043,19 @@ _Cité par_:
 
 _Cite_:
 
-  - Code pénal - art. 132-23 (M)
+  - Code pénal - art. 132-23 (V)
 
 
 ###### Article 222-38
 
-Est puni de dix ans d'emprisonnement et de 5 000 000 F d'amende le fait de faciliter, par tout moyen, la justification
+Est puni de dix ans d'emprisonnement et de 750 000 euros d'amende le fait de faciliter, par tout moyen, la justification
 mensongère de l'origine des biens ou des revenus de l'auteur de l'une des infractions mentionnées aux articles 222-34 à
 222-37 ou d'apporter son concours à une opération de placement, de dissimulation ou de conversion du produit de l'une de ces
 infractions. La peine d'amende peut être élevée jusqu'à la moitié de la valeur des biens ou des fonds sur lesquels ont porté
-les opérations de blanchiment.
+les opérations de blanchiment. 
 
 Lorsque l'infraction a porté sur des biens ou des fonds provenant de l'un des crimes mentionnés aux articles 222-34, 222-35
-et 222-36, deuxième alinéa, son auteur est puni des peines prévues pour les crimes dont il a eu connaissance.
+et 222-36, deuxième alinéa, son auteur est puni des peines prévues pour les crimes dont il a eu connaissance. 
 
 Les deux premiers alinéas de l'article 132-23 relatifs à la période de sûreté sont applicables aux infractions prévues par le
 présent article.
@@ -12009,10 +12070,6 @@ _Codifié par_:
 
   - SPEC_APPLI: Loi n°92-684 1992-07-22 art. 1
   - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
-
-_Modifié par_:
-
-  - Loi n°96-392 du 13 mai 1996 - art. 2 () JORF 14 mai 1996
 
 _Cité par_:
 
@@ -12034,19 +12091,21 @@ _Cité par_:
   - Code pénal - art. 222-49 (V)
   - Livre des procédures fiscales - art. L10 B (V)
 
+_Modifié par_:
+
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+
 _Cite_:
 
-  - Code pénal - art. 132-23 (M)
-  - Code pénal - art. 222-34 (M)
-  - Code pénal - art. 222-35 (M)
-  - Code pénal - art. 222-36 (M)
-  - Code pénal 222-34 à 222-37, 222-34, 222-35, 222-36, 132-23
+  - Code pénal - art. 132-23 (V)
+  - Code pénal - art. 222-34 (V)
+  - Code pénal - art. 222-35 (V)
 
 
 ###### Article 222-39
 
 La cession ou l'offre illicites de stupéfiants à une personne en vue de sa consommation personnelle sont punies de cinq ans
-d'emprisonnement et de 500 000 F d'amende [* taux *].
+d'emprisonnement et de 75000 euros d'amende.
 
 La peine d'emprisonnement est portée à dix ans lorsque les stupéfiants sont offerts ou cédés, dans les conditions définies à
 l'alinéa précédent, à des mineurs ou dans des centres d'enseignement ou d'éducation ou dans les locaux de l'administration.
@@ -12080,7 +12139,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°92-1336 du 16 décembre 1992 - art. 354 () JORF 23 décembre 1992 en vigueur le 1er mars 1994
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 _Cite_:
 
@@ -12091,7 +12150,7 @@ _Cite_:
 
 Le fait de ne pas pouvoir justifier de ressources correspondant à son train de vie, tout en étant en relations habituelles
 avec une ou plusieurs personnes se livrant à l'une des activités réprimées par la présente section, ou avec plusieurs
-personnes se livrant à l'usage de stupéfiants, est puni de cinq ans d'emprisonnement et de 500 000 F d'amende.
+personnes se livrant à l'usage de stupéfiants, est puni de cinq ans d'emprisonnement et de 75000 euros d'amende.
 
 La peine d'emprisonnement est portée à dix ans lorsqu'une ou plusieurs des personnes visées à l'alinéa précédent sont
 mineures.
@@ -12116,9 +12175,13 @@ _Codifié par_:
 
   - Loi n°92-684 1992-07-22
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°96-392 du 13 mai 1996 - art. 17 () JORF 14 mai 1996
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+
+_Abrogé par_:
+
+  - Loi n°2006-64 du 23 janvier 2006 - art. 24 () JORF 24 janvier 2006
 
 _Cite_:
 
@@ -12531,7 +12594,7 @@ _Cite_:
 
 Le fait d'exposer directement autrui à un risque immédiat de mort ou de blessures de nature à entraîner une mutilation ou une
 infirmité permanente par la violation manifestement délibérée d'une obligation particulière de sécurité ou de prudence
-imposée par la loi ou le règlement est puni d'un an d'emprisonnement et de 100 000 F d'amende.
+imposée par la loi ou le règlement est puni d'un an d'emprisonnement et de 15000 euros d'amende.
 
 **Liens relatifs à cet article**
 
@@ -12569,6 +12632,10 @@ _Codifié par_:
   - SPEC_APPLI: Loi n°92-684 1992-07-22 art. 1
   - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
 
+_Modifié par_:
+
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+
 
 ###### Article 223-2
 
@@ -12605,7 +12672,7 @@ _Cite_:
 ###### Article 223-3
 
 Le délaissement, en un lieu quelconque, d'une personne qui n'est pas en mesure de se protéger en raison de son âge ou de son
-état physique ou psychique est puni de cinq ans d'emprisonnement et de 500 000 F d'amende.
+état physique ou psychique est puni de cinq ans d'emprisonnement et de 75 000 euros d'amende.
 
 **Liens relatifs à cet article**
 
@@ -12625,6 +12692,10 @@ _Codifié par_:
 
   - SPEC_APPLI: Loi n°92-684 1992-07-22 art. 1
   - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
+
+_Modifié par_:
+
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 
 ###### Article 223-4
@@ -12655,8 +12726,8 @@ _Cité par_:
 ###### Article 223-5
 
 Le fait d'entraver volontairement l'arrivée de secours destinés à faire échapper une personne à un péril imminent ou à
-combattre un sinistre présentant un danger pour la sécurité des personnes est puni de sept ans d'emprisonnement et de 700 000
-F d'amende.
+combattre un sinistre présentant un danger pour la sécurité des personnes est puni de sept ans d'emprisonnement et de 100 000
+euros d'amende.
 
 **Liens relatifs à cet article**
 
@@ -12669,6 +12740,10 @@ _Codifié par_:
   - SPEC_APPLI: Loi n°92-684 1992-07-22 art. 1
   - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
 
+_Modifié par_:
+
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+
 _Cité par_:
 
   - Décret n°2007-1167 du 2 août 2007 - art. Annexe (V)
@@ -12680,7 +12755,7 @@ _Cité par_:
 
 Quiconque pouvant empêcher par son action immédiate, sans risque pour lui ou pour les tiers, soit un crime, soit un délit
 contre l'intégrité corporelle de la personne s'abstient volontairement de le faire est puni de cinq ans d'emprisonnement et
-de 500 000 F d'amende.
+de 75 000 euros d'amende.
 
 Sera puni des mêmes peines quiconque s'abstient volontairement de porter à une personne en péril l'assistance que, sans
 risque pour lui ou pour les tiers, il pouvait lui prêter soit par son action personnelle, soit en provoquant un secours.
@@ -12701,12 +12776,16 @@ _Codifié par_:
   - SPEC_APPLI: Loi n°92-684 1992-07-22 art. 1
   - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
 
+_Modifié par_:
+
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+
 
 ###### Article 223-7
 
 Quiconque s'abstient volontairement de prendre ou de provoquer les mesures permettant, sans risque pour lui ou pour les
 tiers, de combattre un sinistre de nature à créer un danger pour la sécurité des personnes est puni de deux ans
-d'emprisonnement et de 200 000 F d'amende.
+d'emprisonnement et de 30 000 euros d'amende.
 
 **Liens relatifs à cet article**
 
@@ -12718,6 +12797,10 @@ _Codifié par_:
 
   - SPEC_APPLI: Loi n°92-684 1992-07-22 art. 1
   - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
+
+_Modifié par_:
+
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 
 ###### Article 223-7-1
@@ -12761,7 +12844,7 @@ _Cite_:
 
 Le fait de pratiquer ou de faire pratiquer sur une personne une recherche biomédicale sans avoir recueilli le consentement
 libre, éclairé et exprès de l'intéressé, des titulaires de l'autorité parentale ou du tuteur dans les cas prévus par les
-dispositions du code de la santé publique est puni de trois ans d'emprisonnement et de 300 000 F d'amende.
+dispositions du code de la santé publique est puni de trois ans d'emprisonnement et de 45000 euros d'amende.
 
 Les mêmes peines sont applicables lorsque la recherche biomédicale est pratiquée alors que le consentement a été retiré.
 
@@ -12777,6 +12860,10 @@ _Codifié par_:
   - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
   - PILOTE_SUIVEUR: Code de la santé publique - art. L1126-1 (VD)
   - TXT_ASSOCIE: Code de la santé publique - art. L209-19 (Ab)
+
+_Modifié par_:
+
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 _Cité par_:
 
@@ -12837,7 +12924,7 @@ _Cite_:
 
 ###### Article 223-10
 
-L'interruption de la grossesse sans le consentement de l'intéressée est punie de cinq ans d'emprisonnement et de 500 000 F
+L'interruption de la grossesse sans le consentement de l'intéressée est punie de cinq ans d'emprisonnement et de 75 000 euros
 d'amende.
 
 **Liens relatifs à cet article**
@@ -12851,6 +12938,10 @@ _Codifié par_:
   - SPEC_APPLI: Loi n°92-684 1992-07-22 art. 1
   - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
   - PILOTE_SUIVEUR: Code de la santé publique - art. L2222-1 (V)
+
+_Modifié par_:
+
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 _Cité par_:
 
@@ -12869,10 +12960,10 @@ _Nouveaux textes_:
 
 ###### Article 223-13
 
-Le fait de provoquer au suicide d'autrui est puni de trois ans d'emprisonnement et de 300 000 F d'amende lorsque la
+Le fait de provoquer au suicide d'autrui est puni de trois ans d'emprisonnement et de 45000 euros d'amende lorsque la
 provocation a été suivie du suicide ou d'une tentative de suicide.
 
-Les peines sont portées à cinq ans d'emprisonnement et à 500 000 F d'amende lorsque la victime de l'infraction définie à
+Les peines sont portées à cinq ans d'emprisonnement et à 75000 euros d'amende lorsque la victime de l'infraction définie à
 l'alinéa précédent est un mineur de quinze ans.
 
 **Liens relatifs à cet article**
@@ -12886,6 +12977,10 @@ _Codifié par_:
   - SPEC_APPLI: Loi n°92-684 1992-07-22 art. 1
   - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
 
+_Modifié par_:
+
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+
 _Cité par_:
 
   - Code de procédure pénale - art. 2-3 (V)
@@ -12897,7 +12992,7 @@ _Cité par_:
 ###### Article 223-14
 
 La propagande ou la publicité, quel qu'en soit le mode, en faveur de produits, d'objets ou de méthodes préconisés comme
-moyens de se donner la mort est punie de trois ans d'emprisonnement et de 300 000 F d'amende.
+moyens de se donner la mort est punie de trois ans d'emprisonnement et de 45 000 euros d'amende.
 
 **Liens relatifs à cet article**
 
@@ -12909,6 +13004,10 @@ _Codifié par_:
 
   - SPEC_APPLI: Loi n°92-684 1992-07-22 art. 1
   - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
+
+_Modifié par_:
+
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 _Cité par_:
 
@@ -12975,7 +13074,7 @@ _Cite_:
 
 ###### Article 223-15-2
 
-Est puni de trois ans d'emprisonnement et de 2 500 000 F d'amende l'abus frauduleux de l'état d'ignorance ou de la situation
+Est puni de trois ans d'emprisonnement et de 375000 euros d'amende l'abus frauduleux de l'état d'ignorance ou de la situation
 de faiblesse soit d'un mineur, soit d'une personne dont la particulière vulnérabilité, due à son âge, à une maladie, à une
 infirmité, à une déficience physique ou psychique ou à un état de grossesse, est apparente et connue de son auteur, soit
 d'une personne en état de sujétion psychologique ou physique résultant de l'exercice de pressions graves ou réitérées ou de
@@ -12984,7 +13083,7 @@ sont gravement préjudiciables.
 
 Lorsque l'infraction est commise par le dirigeant de fait ou de droit d'un groupement qui poursuit des activités ayant pour
 but ou pour effet de créer, de maintenir ou d'exploiter la sujétion psychologique ou physique des personnes qui participent à
-ces activités, les peines sont portées à cinq ans d'emprisonnement et à 5 000 000 F d'amende.
+ces activités, les peines sont portées à cinq ans d'emprisonnement et à 750000 euros d'amende.
 
 **Liens relatifs à cet article**
 
@@ -12992,9 +13091,9 @@ _Codifié par_:
 
   - Loi n°92-684 1992-07-22
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°2001-504 du 12 juin 2001 - art. 20 () JORF 13 juin 2001
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 _Cité par_:
 
@@ -13223,13 +13322,13 @@ _Cite_:
 ###### Article 224-1
 
 Le fait, sans ordre des autorités constituées et hors les cas prévus par la loi, d'arrêter, d'enlever, de détenir ou de
-séquestrer une personne, est puni de vingt ans de réclusion criminelle.
+séquestrer une personne, est puni de vingt ans de réclusion criminelle. 
 
-Les deux premiers alinéas de l'article 132-23 relatif à la période de sûreté sont applicables à cette infraction.
+Les deux premiers alinéas de l'article 132-23 relatif à la période de sûreté sont applicables à cette infraction. 
 
 Toutefois, si la personne détenue ou séquestrée est libérée volontairement avant le septième jour accompli depuis celui de
-son appréhension, la peine est de cinq ans d'emprisonnement et de 500 000 F d'amende, sauf dans les cas prévus par l'article
-224-2.
+son appréhension, la peine est de cinq ans d'emprisonnement et de 75000 euros d'amende, sauf dans les cas prévus par
+l'article 224-2.
 
 **Liens relatifs à cet article**
 
@@ -13264,9 +13363,13 @@ _Cité par_:
   - Code pénal - art. 224-5-2 (V)
   - Code pénal - art. 224-9 (VD)
 
+_Modifié par_:
+
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+
 _Cite_:
 
-  - Code pénal - art. 132-23 (M)
+  - Code pénal - art. 132-23 (V)
 
 
 ###### Article 224-2
@@ -13485,7 +13588,7 @@ _Cite_:
 ###### Article 224-8
 
 Le fait par quiconque, en communiquant une fausse information, de compromettre sciemment la sécurité d'un aéronef en vol ou
-d'un navire est puni de cinq ans d'emprisonnement et de 500 000 F d'amende.
+d'un navire est puni de cinq ans d'emprisonnement et de 75 000 euros d'amende.
 
 La tentative de l'infraction prévue au présent article est punie des mêmes peines.
 
@@ -13500,14 +13603,14 @@ _Codifié par_:
   - SPEC_APPLI: Loi n°92-684 1992-07-22 art. 1
   - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
 
-_Modifié par_:
-
-  - Loi n°92-1336 du 16 décembre 1992 - art. 359 () JORF 23 décembre 1992 en vigueur le 1er mars 1994
-
 _Cité par_:
 
   - Loi n°94-589 du 15 juillet 1994 - art. 1 (M)
   - Code de procédure pénale - art. 689-5 (V)
+
+_Modifié par_:
+
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 
 ##### Section 3 : Peines complémentaires applicables aux personnes physiques<a id=92></a>
@@ -13604,7 +13707,7 @@ _Modifié par_:
 ###### Article 225-2
 
 La discrimination définie à l'article 225-1, commise à l'égard d'une personne physique ou morale, est punie de deux ans
-d'emprisonnement et de 200 000 F d'amende lorsqu'elle consiste :
+d'emprisonnement et de 30000 euros d'amende lorsqu'elle consiste :
 
 1° A refuser la fourniture d'un bien ou d'un service ;
 
@@ -13656,7 +13759,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2001-1066 du 16 novembre 2001 - art. 1 () JORF 17 novembre 2001
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 _Cite_:
 
@@ -13747,7 +13850,7 @@ livrant habituellement à la prostitution ;
 3° D'embaucher, d'entraîner ou de détourner une personne en vue de la prostitution ou d'exercer sur elle une pression pour
 qu'elle se prostitue ou continue à le faire.
 
-Le proxénétisme est puni de sept ans d'emprisonnement et de 1 000 000 F d'amende.
+Le proxénétisme est puni de sept ans d'emprisonnement et de 150000 euros d'amende.
 
 **Liens relatifs à cet article**
 
@@ -13804,7 +13907,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2001-1062 du 15 novembre 2001 - art. 60 () JORF 16 novembre 2001
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 
 ###### Article 225-6
@@ -13856,7 +13959,7 @@ _Cite_:
 
 ###### Article 225-7
 
-Le proxénétisme est puni de dix ans d'emprisonnement et de 10 000 000 F d'amende lorsqu'il est commis :
+Le proxénétisme est puni de dix ans d'emprisonnement et de 1500000 euros d'amende lorsqu'il est commis :
 
 1° A l'égard d'un mineur ;
 
@@ -13914,7 +14017,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°98-468 du 17 juin 1998 - art. 13 () JORF 18 juin 1998
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 _Cite_:
 
@@ -13923,7 +14026,7 @@ _Cite_:
 
 ###### Article 225-8
 
-Le proxénétisme prévu à l'article 225-7 est puni de vingt ans de réclusion criminelle et de 20 000 000 F d'amende lorsqu'il
+Le proxénétisme prévu à l'article 225-7 est puni de vingt ans de réclusion criminelle et de 3000000 euros d'amende lorsqu'il
 est commis en bande organisée.
 
 Les deux premiers alinéas de l'article 132-23 relatif à la période de sûreté sont applicables à l'infraction prévue par le
@@ -13940,6 +14043,10 @@ _Codifié par_:
   - SPEC_APPLI: Loi n°92-684 1992-07-22 art. 1
   - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
 
+_Modifié par_:
+
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+
 _Cité par_:
 
   - CODE DE PROCEDURE PENALE - art. 63-4 (M)
@@ -13954,7 +14061,7 @@ _Cite_:
 ###### Article 225-9
 
 Le proxénétisme commis en recourant à des tortures ou des actes de barbarie est puni de la réclusion criminelle à perpétuité
-et de 30 000 000 F d'amende.
+et de 4 500 000 euros d'amende.
 
 Les deux premiers alinéas de l'article 132-23 relatif à la période de sûreté sont applicables à l'infraction prévue au
 présent article.
@@ -13970,6 +14077,10 @@ _Codifié par_:
   - SPEC_APPLI: Loi n°92-684 1992-07-22 art. 1
   - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
 
+_Modifié par_:
+
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+
 _Cité par_:
 
   - CODE DE PROCEDURE PENALE - art. 63-4 (M)
@@ -13981,7 +14092,7 @@ _Cite_:
 
 ###### Article 225-10
 
-Est puni de dix ans d'emprisonnement et de 5 000 000 F d'amende le fait, par quiconque, agissant directement ou par personne
+Est puni de dix ans d'emprisonnement et de 750000 euros d'amende le fait, par quiconque, agissant directement ou par personne
 interposée :
 
 1° De détenir, gérer, exploiter, diriger, faire fonctionner, financer ou contribuer à financer un établissement de
@@ -14031,10 +14142,9 @@ _Codifié par_:
   - SPEC_APPLI: Loi n°92-684 1992-07-22 art. 1
   - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
 
-_Anciens textes_:
+_Modifié par_:
 
-  - CODE PENAL - art. 335 (Ab)
-  - CODE PENAL - art. 335-6 (Ab)
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 _Cite_:
 
@@ -14099,7 +14209,7 @@ _Cite_:
 
 Le fait d'obtenir d'une personne, en abusant de sa vulnérabilité ou de sa situation de dépendance, la fourniture de services
 non rétribués ou en échange d'une rétribution manifestement sans rapport avec l'importance du travail accompli est puni de
-deux ans d'emprisonnement et de 500 000 F d'amende.
+deux ans d'emprisonnement et de 75000 euros d'amende.
 
 **Liens relatifs à cet article**
 
@@ -14111,6 +14221,10 @@ _Codifié par_:
 
   - SPEC_APPLI: Loi n°92-684 1992-07-22 art. 1
   - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
+
+_Modifié par_:
+
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 _Cité par_:
 
@@ -14127,7 +14241,7 @@ _Cité par_:
 ###### Article 225-14
 
 Le fait de soumettre une personne, en abusant de sa vulnérabilité ou de sa situation de dépendance, à des conditions de
-travail ou d'hébergement incompatibles avec la dignité humaine est puni de deux ans d'emprisonnement et de 500 000 F
+travail ou d'hébergement incompatibles avec la dignité humaine est puni de deux ans d'emprisonnement et de 75000 euros
 d'amende.
 
 **Liens relatifs à cet article**
@@ -14151,10 +14265,14 @@ _Codifié par_:
   - SPEC_APPLI: Loi n°92-684 1992-07-22 art. 1
   - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
 
+_Modifié par_:
+
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+
 
 ###### Article 225-15
 
-Les infractions définies aux articles 225-13 et 225-14 sont punies de cinq ans d'emprisonnement et de 1 000 000 F d'amende
+Les infractions définies aux articles 225-13 et 225-14 sont punies de cinq ans d'emprisonnement et de 150000 euros d'amende
 lorsqu'elles sont commises à l'égard de plusieurs personnes.
 
 **Liens relatifs à cet article**
@@ -14167,6 +14285,10 @@ _Codifié par_:
 
   - SPEC_APPLI: Loi n°92-684 1992-07-22 art. 1
   - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
+
+_Modifié par_:
+
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 _Cité par_:
 
@@ -14225,7 +14347,7 @@ _Cite_:
 
 Hors les cas de violences, de menaces ou d'atteintes sexuelles, le fait pour une personne d'amener autrui, contre son gré ou
 non, à subir ou à commettre des actes humiliants ou dégradants lors de manifestations ou de réunions liées aux milieux
-scolaire et socio-éducatif est puni de six mois d'emprisonnement et de 50 000 F d'amende.
+scolaire et socio-éducatif est puni de six mois d'emprisonnement et de 7 500 euros d'amende.
 
 **Liens relatifs à cet article**
 
@@ -14233,9 +14355,9 @@ _Codifié par_:
 
   - Loi n°92-684 1992-07-22
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°98-468 du 17 juin 1998 - art. 14 () JORF 18 juin 1998
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 **Liens**:
 
@@ -14250,9 +14372,9 @@ _Cité par_:
 
 ###### Article 225-16-2
 
-L'infraction définie à l'article 225-16-1 est punie d'un an d'emprisonnement et de 100 000 F d'amende lorsqu'elle est commise
-sur une personne dont la particulière vulnérabilité, due à son âge, à une maladie, à une infirmité, à une déficience physique
-ou psychique ou à un état de grossesse, est apparente ou connue de son auteur.
+L'infraction définie à l'article 225-16-1 est punie d'un an d'emprisonnement et de 15 000 euros d'amende lorsqu'elle est
+commise sur une personne dont la particulière vulnérabilité, due à son âge, à une maladie, à une infirmité, à une déficience
+physique ou psychique ou à un état de grossesse, est apparente ou connue de son auteur.
 
 **Liens relatifs à cet article**
 
@@ -14260,9 +14382,9 @@ _Codifié par_:
 
   - Loi n°92-684 1992-07-22
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°98-468 du 17 juin 1998 - art. 14 () JORF 18 juin 1998
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 **Liens**:
 
@@ -14275,7 +14397,7 @@ _Cité par_:
 
 _Cite_:
 
-  - Code pénal - art. 225-16-1 (M)
+  - Code pénal - art. 225-16-1 (V)
 
 
 ###### Article 225-16-3
@@ -14317,14 +14439,14 @@ _Cite_:
 
 ###### Article 225-17
 
-Toute atteinte à l'intégrité du cadavre, par quelque moyen que ce soit, est punie d'un an d'emprisonnement et de 100 000 F
+Toute atteinte à l'intégrité du cadavre, par quelque moyen que ce soit, est punie d'un an d'emprisonnement et de 15000 euros
 d'amende.
 
 La violation ou la profanation, par quelque moyen que ce soit, de tombeaux, de sépultures ou de monuments édifiés à la
-mémoire des morts est punie d'un an d'emprisonnement et de 100 000 F d'amende.
+mémoire des morts est punie d'un an d'emprisonnement et de 15000 euros d'amende.
 
-La peine est portée à deux ans d'emprisonnement et à 200 000 F d'amende lorsque les infractions définies à l'alinéa précédent
-ont été accompagnées d'atteinte à l'intégrité du cadavre.
+La peine est portée à deux ans d'emprisonnement et à 30000 euros d'amende lorsque les infractions définies à l'alinéa
+précédent ont été accompagnées d'atteinte à l'intégrité du cadavre.
 
 **Liens relatifs à cet article**
 
@@ -14350,24 +14472,29 @@ _Cité par_:
   - Code pénal - art. 225-18 (Ab)
   - Code pénal - art. 225-18-1 (V)
 
+_Modifié par_:
+
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+
 
 ###### Article 225-18
 
 Lorsque les infractions définies à l'article précédent ont été commises à raison de l'appartenance ou de la non-appartenance,
 vraie ou supposée, des personnes décédées à une ethnie, une nation, une race ou une religion déterminée, les peines sont
-portées à trois ans d'emprisonnement et à 300 000 F d'amende pour les infractions définies aux deux premiers alinéas de
-l'article 225-17 et à cinq ans d'emprisonnement et à 500 000 F d'amende pour celle définie au dernier alinéa de cet article.
+portées à trois ans d'emprisonnement et à 45 000 euros d'amende pour les infractions définies aux deux premiers alinéas de
+l'article 225-17 et à cinq ans d'emprisonnement et à 75 000 euros d'amende pour celle définie au dernier alinéa de cet
+article.
 
 **Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Loi n°92-684 1992-07-22
 
 **Liens**:
 
   - SPEC_APPLI: Loi n°92-684 1992-07-22 art. 1
   - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
+
+_Codifié par_:
+
+  - Loi n°92-684 du 22 juillet 1992
 
 _Cité par_:
 
@@ -14378,9 +14505,17 @@ _Cité par_:
   - CODE DE PROCEDURE PENALE - art. 2-17 (M)
   - Code pénal - art. 225-18-1 (M)
 
+_Modifié par_:
+
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+
+_Abrogé par_:
+
+  - Loi n°2017-86 du 27 janvier 2017 - art. 171
+
 _Cite_:
 
-  - Code pénal - art. 225-17 (M)
+  - Code pénal - art. 225-17
 
 
 ###### Article 225-18-1
@@ -14648,7 +14783,7 @@ _Cite_:
 
 ###### Article 226-1
 
-Est puni d'un an d'emprisonnement et de 300 000 F d'amende le fait, au moyen d'un procédé quelconque, volontairement de
+Est puni d'un an d'emprisonnement et de 45 000 euros d'amende le fait, au moyen d'un procédé quelconque, volontairement de
 porter atteinte à l'intimité de la vie privée d'autrui :
 
 1° En captant, enregistrant ou transmettant, sans le consentement de leur auteur, des paroles prononcées à titre privé ou
@@ -14708,6 +14843,10 @@ _Codifié par_:
 
   - SPEC_APPLI: Loi n°92-684 1992-07-22 art. 1
   - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
+
+_Modifié par_:
+
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 
 ###### Article 226-2
@@ -14812,7 +14951,7 @@ _Cite_:
 ###### Article 226-4
 
 L'introduction ou le maintien dans le domicile d'autrui à l'aide de manoeuvres, menaces, voies de fait ou contrainte, hors
-les cas où la loi le permet, est puni d'un an d'emprisonnement et de 100 000 F d'amende.
+les cas où la loi le permet, est puni d'un an d'emprisonnement et de 15 000 euros d'amende.
 
 **Liens relatifs à cet article**
 
@@ -14824,6 +14963,10 @@ _Codifié par_:
 
   - SPEC_APPLI: Loi n°92-684 1992-07-22 art. 1
   - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
+
+_Modifié par_:
+
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 _Cité par_:
 
@@ -14913,7 +15056,7 @@ _Cite_:
 
 ###### Article 226-8
 
-Est puni d'un an d'emprisonnement et de 100 000 F d'amende le fait de publier, par quelque voie que ce soit, le montage
+Est puni d'un an d'emprisonnement et de 15 000 euros d'amende le fait de publier, par quelque voie que ce soit, le montage
 réalisé avec les paroles ou l'image d'une personne sans son consentement, s'il n'apparaît pas à l'évidence qu'il s'agit d'un
 montage ou s'il n'en est pas expressément fait mention.
 
@@ -14931,6 +15074,10 @@ _Codifié par_:
 
   - SPEC_APPLI: Loi n°92-684 1992-07-22 art. 1
   - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
+
+_Modifié par_:
+
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 _Cité par_:
 
@@ -14967,7 +15114,7 @@ La dénonciation, effectuée par tout moyen et dirigée contre une personne dét
 des sanctions judiciaires, administratives ou disciplinaires et que l'on sait totalement ou partiellement inexact,
 lorsqu'elle est adressée soit à un officier de justice ou de police administrative ou judiciaire, soit à une autorité ayant
 le pouvoir d'y donner suite ou de saisir l'autorité compétente, soit aux supérieurs hiérarchiques ou à l'employeur de la
-personne dénoncée, est punie de cinq ans d'emprisonnement et de 300 000 F d'amende.
+personne dénoncée, est punie de cinq ans d'emprisonnement et de 45000 euros d'amende.
 
 La fausseté du fait dénoncé résulte nécessairement de la décision, devenue définitive, d'acquittement, de relaxe ou de non-
 lieu déclarant que la réalité du fait n'est pas établie ou que celui-ci n'est pas imputable à la personne dénoncée.
@@ -15007,6 +15154,10 @@ _Codifié par_:
 
   - SPEC_APPLI: Loi n°92-684 1992-07-22 art. 1
   - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
+
+_Modifié par_:
+
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 
 ###### Article 226-11
@@ -15065,7 +15216,7 @@ _Cite_:
 ###### Article 226-13
 
 La révélation d'une information à caractère secret par une personne qui en est dépositaire soit par état ou par profession,
-soit en raison d'une fonction ou d'une mission temporaire, est punie d'un an d'emprisonnement et de 100 000 F d'amende.
+soit en raison d'une fonction ou d'une mission temporaire, est punie d'un an d'emprisonnement et de 15 000 euros d'amende.
 
 **Liens relatifs à cet article**
 
@@ -15720,6 +15871,10 @@ _Codifié par_:
   - SPEC_APPLI: Loi n°92-684 1992-07-22 art. 1
   - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
 
+_Modifié par_:
+
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+
 
 ###### Article 226-14
 
@@ -15995,7 +16150,7 @@ _Cite_:
 
 Le fait, commis de mauvaise foi, d'ouvrir, de supprimer, de retarder ou de détourner des correspondances arrivées ou non à
 destination et adressées à des tiers, ou d'en prendre frauduleusement connaissance, est puni d'un an d'emprisonnement et de
-300 000 F d'amende.
+45000 euros d'amende.
 
 Est puni des mêmes peines le fait, commis de mauvaise foi, d'intercepter, de détourner, d'utiliser ou de divulguer des
 correspondances émises, transmises ou reçues par la voie des télécommunications ou de procéder à l'installation d'appareils
@@ -16027,6 +16182,10 @@ _Codifié par_:
   - SPEC_APPLI: Loi n°92-684 1992-07-22 art. 1
   - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
 
+_Modifié par_:
+
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+
 
 ##### Section 5 : Des atteintes aux droits de la personne résultant des fichiers ou des traitements informatiques.<a id=108></a>
 
@@ -16034,7 +16193,7 @@ _Codifié par_:
 
 Le fait, y compris par négligence, de procéder ou de faire procéder à des traitements automatisés d'informations nominatives
 sans qu'aient été respectées les formalités préalables à leur mise en oeuvre prévues par la loi est puni de trois ans
-d'emprisonnement et de 300 000 F d'amende.
+d'emprisonnement et de 45000 euros d'amende.
 
 **Liens relatifs à cet article**
 
@@ -16055,14 +16214,14 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°92-1336 du 16 décembre 1992 - art. 360 () JORF 23 décembre 1992 en vigueur le 1er mars 1994
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 
 ###### Article 226-17
 
 Le fait de procéder ou de faire procéder à un traitement automatisé d'informations nominatives sans prendre toutes les
 précautions utiles pour préserver la sécurité de ces informations et notamment empêcher qu'elles ne soient déformées,
-endommagées ou communiquées à des tiers non autorisés est puni de cinq ans d'emprisonnement et de 2 000 000 F d'amende.
+endommagées ou communiquées à des tiers non autorisés est puni de cinq ans d'emprisonnement et de 300000 euros d'amende.
 
 **Liens relatifs à cet article**
 
@@ -16080,12 +16239,16 @@ _Codifié par_:
   - SPEC_APPLI: Loi n°92-684 1992-07-22 art. 1
   - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
 
+_Modifié par_:
+
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+
 
 ###### Article 226-18
 
 Le fait de collecter des données par un moyen frauduleux, déloyal ou illicite, ou de procéder à un traitement d'informations
 nominatives concernant une personne physique malgré l'opposition de cette personne, lorsque cette opposition est fondée sur
-des raisons légitimes, est puni de cinq ans d'emprisonnement et de 2 000 000 F d'amende.
+des raisons légitimes, est puni de cinq ans d'emprisonnement et de 300000 euros d'amende.
 
 En cas de traitement automatisé de données nominatives ayant pour fin la recherche dans le domaine de la santé, est puni des
 mêmes peines le fait de procéder à un traitement :
@@ -16110,7 +16273,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°94-548 du 1 juillet 1994 - art. 4 () JORF 2 juillet 1994
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 _Cité par_:
 
@@ -16128,7 +16291,7 @@ _Cité par_:
 Le fait, hors les cas prévus par la loi, de mettre ou de conserver en mémoire informatisée, sans l'accord exprès de
 l'intéressé, des données nominatives qui, directement ou indirectement, font apparaître les origines raciales ou les opinions
 politiques, philosophiques ou religieuses ou les appartenances syndicales ou les moeurs des personnes est puni de cinq ans
-d'emprisonnement et de 2 000 000 F d'amende.
+d'emprisonnement et de 300000 euros d'amende.
 
 Est puni des mêmes peines le fait, hors les cas prévus par la loi, de mettre ou de conserver en mémoire informatisée des
 informations nominatives concernant des infractions, des condamnations ou des mesures de sûreté.
@@ -16144,6 +16307,10 @@ _Codifié par_:
   - SPEC_APPLI: Loi n°92-684 1992-07-22 art. 1
   - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
 
+_Modifié par_:
+
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+
 _Cité par_:
 
   - Code de procédure pénale - art. 2-1 (V)
@@ -16153,7 +16320,7 @@ _Cité par_:
 ###### Article 226-20
 
 I. - Le fait de conserver des informations sous une forme nominative au-delà de la durée prévue par la demande d'avis ou la
-déclaration préalable à la mise en oeuvre du traitement informatisé est puni de trois ans d'emprisonnement et de 300 000 F
+déclaration préalable à la mise en oeuvre du traitement informatisé est puni de trois ans d'emprisonnement et de 45000 euros
 d'amende, sauf si cette conservation est effectuée à des fins historiques, statistiques ou scientifiques dans les conditions
 prévues par la loi.
 
@@ -16174,7 +16341,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2000-321 du 12 avril 2000 - art. 5 () JORF 13 avril 2000
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 
 ###### Article 226-21
@@ -16184,7 +16351,7 @@ leur transmission ou de toute autre forme de traitement, de détourner ces infor
 la disposition législative ou l'acte réglementaire autorisant le traitement automatisé, ou par la décision de la Commission
 nationale de l'informatique et des libertés autorisant un traitement automatisé ayant pour fin la recherche dans le domaine
 de la santé, ou par les déclarations préalables à la mise en oeuvre de ce traitement, est puni de cinq ans d'emprisonnement
-et de 2 000 000 F d'amende.
+et de 300000 euros d'amende.
 
 **Liens relatifs à cet article**
 
@@ -16227,7 +16394,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°95-116 1995-02-04 art. 34 JORF 5 février 1995
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 
 ###### Article 226-22
@@ -16235,10 +16402,10 @@ _Modifié par_:
 Le fait, par toute personne qui a recueilli, à l'occasion de leur enregistrement, de leur classement, de leur transmission ou
 d'une autre forme de traitement, des informations nominatives dont la divulgation aurait pour effet de porter atteinte à la
 considération de l'intéressé ou à l'intimité de sa vie privée, de porter, sans autorisation de l'intéressé, ces informations
-à la connaissance d'un tiers qui n'a pas qualité pour les recevoir est puni d'un an d'emprisonnement et de 100 000 F
+à la connaissance d'un tiers qui n'a pas qualité pour les recevoir est puni d'un an d'emprisonnement et de 15000 euros
 d'amende.
 
-La divulgation prévue à l'alinéa précédent est punie de 50 000 F d'amende lorsqu'elle a été commise par imprudence ou
+La divulgation prévue à l'alinéa précédent est punie de 7500 euros d'amende lorsqu'elle a été commise par imprudence ou
 négligence.
 
 Dans les cas prévus aux deux alinéas précédents, la poursuite ne peut être exercée que sur plainte de la victime, de son
@@ -16266,6 +16433,10 @@ _Codifié par_:
 
   - SPEC_APPLI: Loi n°92-684 1992-07-22 art. 1
   - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
+
+_Modifié par_:
+
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 
 ###### Article 226-23
@@ -16334,7 +16505,7 @@ _Cite_:
 
 Le fait de procéder à l'étude des caractéristiques génétiques d'une personne à des fins médicales sans avoir préalablement
 recueilli son consentement dans les conditions prévues par l'article L. 145-15 du code de la santé publique est puni d'un an
-d'emprisonnement et de 100 000 F d'amende.
+d'emprisonnement et de 15000 euros d'amende.
 
 **Liens relatifs à cet article**
 
@@ -16351,7 +16522,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°94-653 du 29 juillet 1994 - art. 8 () JORF 30 juillet 1994
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 _Cité par_:
 
@@ -16377,7 +16548,7 @@ _Cite_:
 ###### Article 226-26
 
 Le fait de détourner de leurs finalités médicales ou de recherche scientifique les informations recueillies sur une personne
-au moyen de l'étude de ses caractéristiques génétiques est puni d'un an d'emprisonnement et de 100 000 F d'amende.
+au moyen de l'étude de ses caractéristiques génétiques est puni d'un an d'emprisonnement et de 15000 euros d'amende.
 
 **Liens relatifs à cet article**
 
@@ -16391,9 +16562,9 @@ _Codifié par_:
   - PILOTE_SUIVEUR: Code de la santé publique - art. L1133-2 (V)
   - TXT_ASSOCIE: Code de la santé publique - art. L145-18 (Ab)
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°94-653 du 29 juillet 1994 - art. 8 () JORF 30 juillet 1994
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 _Cité par_:
 
@@ -16410,7 +16581,7 @@ _Cité par_:
 
 Le fait de rechercher l'identification d'une personne par ses empreintes génétiques à des fins médicales sans recueillir
 préalablement son consentement dans les conditions prévues par l'article L. 145-15 du code de la santé publique est puni d'un
-an d'emprisonnement et de 100 000 F d'amende.
+an d'emprisonnement et de 15000 euros d'amende.
 
 **Liens relatifs à cet article**
 
@@ -16424,9 +16595,9 @@ _Codifié par_:
   - PILOTE_SUIVEUR: Code de la santé publique - art. L1133-3 (V)
   - TXT_ASSOCIE: Code de la santé publique - art. L145-19 (Ab)
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°94-653 du 29 juillet 1994 - art. 8 () JORF 30 juillet 1994
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 _Cité par_:
 
@@ -16454,11 +16625,11 @@ _Cite_:
 
 Le fait de rechercher l'identification d'une personne par ses empreintes génétiques à des fins qui ne seraient ni médicales
 ni scientifiques ou en dehors d'une mesure d'enquête ou d'instruction diligentée lors d'une procédure judiciaire est puni
-d'un an d'emprisonnement et de 100 000 F d'amende.
+d'un an d'emprisonnement et de 15000 euros d'amende.
 
 Est puni des mêmes peines le fait de divulguer des informations relatives à l'identification d'une personne par ses
 empreintes génétiques ou de procéder à l'identification d'une personne par ses empreintes génétiques sans être titulaire de
-l'agrément prévu à l'article L. 145-16 du code de la santé publique.
+l'agrément prévu à l'article L. 1131-3 du code de la santé publique.
 
 **Liens relatifs à cet article**
 
@@ -16472,9 +16643,9 @@ _Codifié par_:
   - PILOTE_SUIVEUR: Code de la santé publique - art. L1133-4 (V)
   - TXT_ASSOCIE: Code de la santé publique - art. L145-20 (Ab)
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°94-653 du 29 juillet 1994 - art. 8 () JORF 30 juillet 1994
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 _Cité par_:
 
@@ -16666,7 +16837,7 @@ _Cite_:
 
 ###### Article 227-1
 
-Le délaissement d'un mineur de quinze ans en un lieu quelconque est puni de sept ans d'emprisonnement et de 700 000 F
+Le délaissement d'un mineur de quinze ans en un lieu quelconque est puni de sept ans d'emprisonnement et de 100 000 euros
 d'amende, sauf si les circonstances du délaissement ont permis d'assurer la santé et la sécurité de celui-ci.
 
 **Liens relatifs à cet article**
@@ -16690,6 +16861,10 @@ _Codifié par_:
 
   - SPEC_APPLI: Loi n°92-684 1992-07-22 art. 1
   - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
+
+_Modifié par_:
+
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 
 ###### Article 227-2
@@ -16728,7 +16903,7 @@ Le fait, pour une personne, de ne pas exécuter une décision judiciaire ou une 
 imposant de verser au profit d'un enfant mineur, légitime, naturel ou adoptif, d'un descendant, d'un ascendant ou du conjoint
 une pension, une contribution, des subsides ou des prestations de toute nature dues en raison de l'une des obligations
 familiales prévues par les titres V, VI, VII et VIII du livre Ier du code civil, en demeurant plus de deux mois sans
-s'acquitter intégralement de cette obligation, est puni de deux ans d'emprisonnement et de 100 000 F d'amende.
+s'acquitter intégralement de cette obligation, est puni de deux ans d'emprisonnement et de 15000 euros d'amende.
 
 Les infractions prévues par le premier alinéa du présent article sont assimilées à des abandons de famille pour l'application
 du 3° de l'article 373 du code civil.
@@ -16753,6 +16928,10 @@ _Cité par_:
   - Code de procédure pénale - art. R40-27 (V)
   - Code pénal - art. 227-4 (V)
 
+_Modifié par_:
+
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+
 _Cite_:
 
   - Code civil - art. 373 (M)
@@ -16762,7 +16941,7 @@ _Cite_:
 
 Le fait, par une personne tenue, dans les conditions prévues à l'article 227-3, à l'obligation de verser une pension, une
 contribution, des subsides ou des prestations de toute nature, de ne pas notifier son changement de domicile au créancier
-dans un délai d'un mois à compter de ce changement, est puni de six mois d'emprisonnement et de 50 000 F d'amende.
+dans un délai d'un mois à compter de ce changement, est puni de six mois d'emprisonnement et de 7 500 euros d'amende.
 
 **Liens relatifs à cet article**
 
@@ -16782,9 +16961,13 @@ _Codifié par_:
   - SPEC_APPLI: Loi n°92-684 1992-07-22 art. 1
   - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
 
+_Modifié par_:
+
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+
 _Cite_:
 
-  - Code pénal - art. 227-3 (M)
+  - Code pénal - art. 227-3 (V)
 
 
 ###### Article 227-4-1
@@ -16823,7 +17006,7 @@ _Cite_:
 ###### Article 227-5
 
 Le fait de refuser indûment de représenter un enfant mineur à la personne qui a le droit de le réclamer est puni d'un an
-d'emprisonnement et de 100 000 F d'amende.
+d'emprisonnement et de 15 000 euros d'amende.
 
 **Liens relatifs à cet article**
 
@@ -16835,6 +17018,10 @@ _Codifié par_:
 
   - SPEC_APPLI: Loi n°92-684 1992-07-22 art. 1
   - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
+
+_Modifié par_:
+
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 _Cité par_:
 
@@ -16848,7 +17035,7 @@ _Cité par_:
 Le fait, pour une personne qui transfère son domicile en un autre lieu, alors que ses enfants résident habituellement chez
 elle, de ne pas notifier son changement de domicile, dans un délai d'un mois à compter de ce changement, à ceux qui peuvent
 exercer à l'égard des enfants un droit de visite ou d'hébergement en vertu d'un jugement ou d'une convention judiciairement
-homologuée, est puni de six mois d'emprisonnement et de 50 000 F d'amende.
+homologuée, est puni de six mois d'emprisonnement et de 7 500 euros d'amende.
 
 **Liens relatifs à cet article**
 
@@ -16868,14 +17055,14 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°96-604 du 5 juillet 1996 - art. 27 () JORF 6 juillet 1996
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 
 ###### Article 227-7
 
 Le fait, par tout ascendant légitime, naturel ou adoptif, de soustraire un enfant mineur des mains de ceux qui exercent
 l'autorité parentale ou auxquels il a été confié ou chez qui il a sa résidence habituelle, est puni d'un an d'emprisonnement
-et de 100 000 F d'amende.
+et de 15000 euros d'amende.
 
 **Liens relatifs à cet article**
 
@@ -16887,6 +17074,10 @@ _Codifié par_:
 
   - SPEC_APPLI: Loi n°92-684 1992-07-22 art. 1
   - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
+
+_Modifié par_:
+
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 _Cité par_:
 
@@ -16900,7 +17091,7 @@ _Cité par_:
 
 Le fait, par une personne autre que celles mentionnées à l'article 227-7 de soustraire, sans fraude ni violence, un enfant
 mineur des mains de ceux qui exercent l'autorité parentale ou auxquels il a été confié ou chez qui il a sa résidence
-habituelle, est puni de cinq ans d'emprisonnement et de 500 000 F d'amende.
+habituelle, est puni de cinq ans d'emprisonnement et de 75 000 euros d'amende.
 
 **Liens relatifs à cet article**
 
@@ -16913,10 +17104,18 @@ _Codifié par_:
   - SPEC_APPLI: Loi n°92-684 1992-07-22 art. 1
   - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
 
+_Modifié par_:
+
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+
+_Cite_:
+
+  - Code pénal - art. 227-7 (V)
+
 
 ###### Article 227-9
 
-Les faits définis par les articles 227-5 et 227-7 sont punis de deux ans d'emprisonnement et de 200 000 F d'amende :
+Les faits définis par les articles 227-5 et 227-7 sont punis de deux ans d'emprisonnement et de 30000 euros d'amende :
 
 1° Si l'enfant mineur est retenu au-delà de cinq jours sans que ceux qui ont le droit de réclamer qu'il leur soit représenté
 sachent où il se trouve ;
@@ -16934,6 +17133,10 @@ _Codifié par_:
   - SPEC_APPLI: Loi n°92-684 1992-07-22 art. 1
   - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
 
+_Modifié par_:
+
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+
 _Cité par_:
 
   - Loi n°2002-1062 du 6 août 2002 - art. 14 (V)
@@ -16947,7 +17150,7 @@ _Cite_:
 ###### Article 227-10
 
 Si la personne coupable des faits définis par les articles 227-5 et 227-7 a été déchue de l'autorité parentale, ces faits
-sont punis de trois ans d'emprisonnement et de 300 000 F d'amende.
+sont punis de trois ans d'emprisonnement et de 45 000 euros d'amende.
 
 **Liens relatifs à cet article**
 
@@ -16960,10 +17163,14 @@ _Codifié par_:
   - SPEC_APPLI: Loi n°92-684 1992-07-22 art. 1
   - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
 
+_Modifié par_:
+
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+
 _Cite_:
 
-  - Code pénal - art. 227-5 (M)
-  - Code pénal - art. 227-7 (M)
+  - Code pénal - art. 227-5 (V)
+  - Code pénal - art. 227-7 (V)
 
 
 ###### Article 227-11
@@ -16991,10 +17198,10 @@ _Cite_:
 ###### Article 227-12
 
 Le fait de provoquer soit dans un but lucratif, soit par don, promesse, menace ou abus d'autorité, les parents ou l'un
-d'entre eux à abandonner un enfant né ou à naître est puni de six mois d'emprisonnement et de 50 000 F d'amende.
+d'entre eux à abandonner un enfant né ou à naître est puni de six mois d'emprisonnement et de 7 500 euros d'amende.
 
 Le fait, dans un but lucratif, de s'entremettre entre une personne désireuse d'adopter un enfant et un parent désireux
-d'abandonner son enfant né ou à naître est puni d'un an d'emprisonnement et de 100 000 F d'amende.
+d'abandonner son enfant né ou à naître est puni d'un an d'emprisonnement et de 15 000 euros d'amende.
 
 Est puni des peines prévues au deuxième alinéa le fait de s'entremettre entre une personne ou un couple désireux d'accueillir
 un enfant et une femme acceptant de porter en elle cet enfant en vue de le leur remettre. Lorsque ces faits ont été commis à
@@ -17015,13 +17222,13 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°94-653 du 29 juillet 1994 - art. 4 () JORF 30 juillet 1994
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 
 ###### Article 227-13
 
 La substitution volontaire, la simulation ou dissimulation ayant entraîné une atteinte à l'état civil d'un enfant est punie
-de trois ans d'emprisonnement et de 300 000 F d'amende.
+de trois ans d'emprisonnement et de 45 000 euros d'amende.
 
 La tentative est punie des mêmes peines.
 
@@ -17035,6 +17242,10 @@ _Codifié par_:
 
   - SPEC_APPLI: Loi n°92-684 1992-07-22 art. 1
   - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
+
+_Modifié par_:
+
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 _Cité par_:
 
@@ -17077,7 +17288,7 @@ _Cite_:
 
 Le fait, par un ascendant légitime, naturel ou adoptif ou toute autre personne exerçant à son égard l'autorité parentale ou
 ayant autorité sur un mineur de quinze ans, de priver celui-ci d'aliments ou de soins au point de compromettre sa santé est
-puni de sept ans d'emprisonnement et de 700 000 F d'amende.
+puni de sept ans d'emprisonnement et de 100000 euros d'amende.
 
 **Liens relatifs à cet article**
 
@@ -17089,6 +17300,10 @@ _Codifié par_:
 
   - SPEC_APPLI: Loi n°92-684 1992-07-22 art. 1
   - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
+
+_Modifié par_:
+
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 _Cité par_:
 
@@ -17126,7 +17341,7 @@ _Cité par_:
 
 Le fait, par le père ou la mère légitime, naturel ou adoptif, de se soustraire, sans motif légitime, à ses obligations
 légales au point de compromettre gravement la santé, la sécurité, la moralité ou l'éducation de son enfant mineur est puni de
-deux ans d'emprisonnement et de 200 000 F d'amende.
+deux ans d'emprisonnement et de 30000 euros d'amende.
 
 L'infraction prévue par le présent article est assimilée à un abandon de famille pour l'application du 3° de l'article 373 du
 code civil.
@@ -17142,6 +17357,10 @@ _Codifié par_:
   - SPEC_APPLI: Loi n°92-684 1992-07-22 art. 1
   - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
 
+_Modifié par_:
+
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+
 _Cite_:
 
   - Code civil - art. 373 (M)
@@ -17151,14 +17370,14 @@ _Cite_:
 
 Le fait, par les parents d'un enfant ou toute personne exerçant à son égard l'autorité parentale ou une autorité de fait de
 façon continue, de ne pas l'inscrire dans un établissement d'enseignement, sans excuse valable, en dépit d'une mise en
-demeure de l'inspecteur d'académie, est puni de six mois d'emprisonnement et de 50 000 F d'amende.
+demeure de l'inspecteur d'académie, est puni de six mois d'emprisonnement et de 7500 euros d'amende.
 
 Le fait, par un directeur d'établissement privé accueillant des classes hors contrat, de n'avoir pas pris, malgré la mise en
 demeure de l'inspecteur d'académie, les dispositions nécessaires pour que l'enseignement qui y est dispensé soit conforme à
-l'objet de l'instruction obligatoire, tel que celui-ci est défini par l'article 16 de la loi du 28 mars 1882 sur
-l'enseignement primaire, et de n'avoir pas procédé à la fermeture de ces classes est puni de six mois d'emprisonnement et de
-50 000 F d'amende. En outre, le tribunal peut ordonner à l'encontre de celui-ci l'interdiction de diriger ou d'enseigner
-ainsi que la fermeture de l'établissement.
+l'objet de l'instruction obligatoire, tel que celui-ci est défini par l'article L. 131-10 du code de l'éducation, et de
+n'avoir pas procédé à la fermeture de ces classes est puni de six mois d'emprisonnement et de 7500 euros d'amende. En outre,
+le tribunal peut ordonner à l'encontre de celui-ci l'interdiction de diriger ou d'enseigner ainsi que la fermeture de
+l'établissement.
 
 **Liens relatifs à cet article**
 
@@ -17166,9 +17385,9 @@ _Codifié par_:
 
   - Loi n°92-684 1992-07-22
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°98-1165 du 18 décembre 1998 - art. 5 () JORF 22 décembre 1998
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 _Cité par_:
 
@@ -17184,7 +17403,7 @@ _Cité par_:
 
 _Cite_:
 
-  - Loi n°1882-03-28 art. 16
+  - Code de l'éducation - art. L131-10 (M)
 
 
 ###### Article 227-17-2
@@ -17227,11 +17446,11 @@ _Cite_:
 ###### Article 227-18
 
 Le fait de provoquer directement un mineur à faire un usage illicite de stupéfiants est puni de cinq ans d'emprisonnement et
-de 700 000 F d'amende.
+de 100000 euros d'amende.
 
 Lorsqu'il s'agit d'un mineur de quinze ans ou que les faits sont commis à l'intérieur d'un établissement scolaire ou éducatif
 ou, à l'occasion des entrées ou des sorties des élèves, aux abords d'un tel établissement, l'infraction définie par le
-présent article est punie de sept ans d'emprisonnement et de 1 000 000 F d'amende.
+présent article est punie de sept ans d'emprisonnement et de 150000 euros d'amende.
 
 **Liens relatifs à cet article**
 
@@ -17246,7 +17465,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°98-468 du 17 juin 1998 - art. 16 () JORF 18 juin 1998
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 _Cité par_:
 
@@ -17262,11 +17481,11 @@ _Cité par_:
 ###### Article 227-18-1
 
 Le fait de provoquer directement un mineur à transporter, détenir, offrir ou céder des stupéfiants est puni de sept ans
-d'emprisonnement et de 1 000 000 F d'amende.
+d'emprisonnement et de 150000 euros d'amende.
 
 Lorsqu'il s'agit d'un mineur de quinze ans ou que les faits sont commis à l'intérieur d'un établissement scolaire ou éducatif
 ou, à l'occasion des entrées ou des sorties des élèves, aux abords d'un tel établissement, l'infraction définie par le
-présent article est punie de dix ans d'emprisonnement et de 2 000 000 F d'amende.
+présent article est punie de dix ans d'emprisonnement et de 300000 euros d'amende.
 
 **Liens relatifs à cet article**
 
@@ -17276,7 +17495,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°98-468 du 17 juin 1998 - art. 16 () JORF 18 juin 1998
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 _Cité par_:
 
@@ -17287,11 +17506,11 @@ _Cité par_:
 ###### Article 227-19
 
 Le fait de provoquer directement un mineur à la consommation habituelle et excessive de boissons alcooliques est puni de deux
-ans d'emprisonnement et de 300 000 F d'amende.
+ans d'emprisonnement et de 45000 euros d'amende.
 
 Lorsqu'il s'agit d'un mineur de quinze ans ou que les faits sont commis à l'intérieur d'un établissement scolaire ou éducatif
 ou, à l'occasion des entrées ou des sorties des élèves, aux abords d'un tel établissement, l'infraction définie par le
-présent article est punie de trois ans d'emprisonnement et de 500 000 F d'amende.
+présent article est punie de trois ans d'emprisonnement et de 75000 euros d'amende.
 
 **Liens relatifs à cet article**
 
@@ -17306,7 +17525,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°98-468 du 17 juin 1998 - art. 16 () JORF 18 juin 1998
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 _Cité par_:
 
@@ -17317,35 +17536,10 @@ _Cité par_:
 
 ###### Article 227-20
 
-Le fait de provoquer directement un mineur à la mendicité est puni de deux ans d'emprisonnement et de 300 000 F d'amende.
+Le fait de provoquer directement un mineur à la mendicité est puni de deux ans d'emprisonnement et de 45000 euros d'amende.
 
 Lorsqu'il s'agit d'un mineur de quinze ans, l'infraction définie par le présent article est punie de trois ans
-d'emprisonnement et de 500 000 F d'amende.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Loi n°92-684 1992-07-22
-
-**Liens**:
-
-  - SPEC_APPLI: Loi n°92-684 1992-07-22 art. 1
-  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
-
-_Cité par_:
-
-  - Code du travail - art. L261-3 (M)
-
-
-###### Article 227-21
-
-Le fait de provoquer directement un mineur à commettre habituellement des crimes ou des délits est puni de cinq ans
-d'emprisonnement et de 1 000 000 F d'amende.
-
-Lorsqu'il s'agit d'un mineur de quinze ans ou que les faits sont commis à l'intérieur d'un établissement scolaire ou éducatif
-ou, à l'occasion des entrées ou des sorties des élèves, aux abords d'un tel établissement, l'infraction définie par le
-présent article est punie de sept ans d'emprisonnement et de 1 000 000 F d'amende.
+d'emprisonnement et de 75000 euros d'amende.
 
 **Liens relatifs à cet article**
 
@@ -17360,7 +17554,41 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°98-468 du 17 juin 1998 - art. 16 () JORF 18 juin 1998
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+
+_Abrogé par_:
+
+  - Loi n°2003-239 du 18 mars 2003 - art. 64 () JORF 19 mars 2003
+  - Loi n°2003-239 du 18 mars 2003 - art. 64
+
+_Cité par_:
+
+  - Code du travail - art. L261-3 (M)
+
+
+###### Article 227-21
+
+Le fait de provoquer directement un mineur à commettre habituellement des crimes ou des délits est puni de cinq ans
+d'emprisonnement et de 150000 euros d'amende.
+
+Lorsqu'il s'agit d'un mineur de quinze ans ou que les faits sont commis à l'intérieur d'un établissement scolaire ou éducatif
+ou, à l'occasion des entrées ou des sorties des élèves, aux abords d'un tel établissement, l'infraction définie par le
+présent article est punie de sept ans d'emprisonnement et de 150000 euros d'amende.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°92-684 1992-07-22
+
+**Liens**:
+
+  - SPEC_APPLI: Loi n°92-684 1992-07-22 art. 1
+  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
+
+_Modifié par_:
+
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 _Cité par_:
 
@@ -17370,11 +17598,11 @@ _Cité par_:
 
 ###### Article 227-22
 
-Le fait de favoriser ou de tenter de favoriser la corruption d'un mineur est puni de cinq ans d'emprisonnement et de 500 000
-F d'amende. Ces peines sont portées à sept ans d'emprisonnement et 700 000 F d'amende lorsque le mineur est âgé de moins de
-quinze ans ou lorsque le mineur a été mis en contact avec l'auteur des faits grâce à l'utilisation, pour la diffusion de
-messages à destination d'un public non déterminé, d'un réseau de télécommunications ou que les faits sont commis à
-l'intérieur d'un établissement scolaire ou éducatif ou, à l'occasion des entrées ou des sorties des élèves, aux abords d'un
+Le fait de favoriser ou de tenter de favoriser la corruption d'un mineur est puni de cinq ans d'emprisonnement et de 75000
+euros d'amende. Ces peines sont portées à sept ans d'emprisonnement et 100000 euros d'amende lorsque le mineur est âgé de
+moins de quinze ans ou lorsque le mineur a été mis en contact avec l'auteur des faits grâce à l'utilisation, pour la
+diffusion de messages à destination d'un public non déterminé, d'un réseau de télécommunications ou que les faits sont commis
+à l'intérieur d'un établissement scolaire ou éducatif ou, à l'occasion des entrées ou des sorties des élèves, aux abords d'un
 tel établissement.
 
 Les mêmes peines sont notamment applicables au fait, commis par un majeur, d'organiser des réunions comportant des
@@ -17421,20 +17649,19 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°98-468 du 17 juin 1998 - art. 13 () JORF 18 juin 1998
-  - Loi n°98-468 du 17 juin 1998 - art. 16 () JORF 18 juin 1998
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 
 ###### Article 227-23
 
 Le fait, en vue de sa diffusion, de fixer, d'enregistrer ou de transmettre l'image ou la représentation d'un mineur lorsque
-cette image ou cette représentation présente un caractère pornographique est puni de trois ans d'emprisonnement et de 300 000
-F d'amende.
+cette image ou cette représentation présente un caractère pornographique est puni de trois ans d'emprisonnement et de 45000
+euros d'amende.
 
 Le fait de diffuser une telle image ou représentation, par quelque moyen que ce soit, de l'importer ou de l'exporter, de la
 faire importer ou de la faire exporter, est puni des mêmes peines.
 
-Les peines sont portées à cinq ans d'emprisonnement et à 500 000 F d'amende lorsqu'il a été utilisé, pour la diffusion de
+Les peines sont portées à cinq ans d'emprisonnement et à 75000 euros d'amende lorsqu'il a été utilisé, pour la diffusion de
 l'image ou de la représentation du mineur à destination d'un public non déterminé, un réseau de télécommunications.
 
 Les dispositions du présent article sont également applicables aux images pornographiques d'une personne dont l'aspect
@@ -17476,14 +17703,14 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°98-468 du 17 juin 1998 - art. 17 () JORF 18 juin 1998
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 
 ###### Article 227-24
 
 Le fait soit de fabriquer, de transporter, de diffuser par quelque moyen que ce soit et quel qu'en soit le support un message
 à caractère violent ou pornographique ou de nature à porter gravement atteinte à la dignité humaine, soit de faire commerce
-d'un tel message, est puni de trois ans d'emprisonnement et de 500 000 F d'amende lorsque ce message est susceptible d'être
+d'un tel message, est puni de trois ans d'emprisonnement et de 75000 euros d'amende lorsque ce message est susceptible d'être
 vu ou perçu par un mineur.
 
 Lorsque les infractions prévues au présent article sont soumises par la voie de la presse écrite ou audiovisuelle, les
@@ -17518,11 +17745,15 @@ _Codifié par_:
   - SPEC_APPLI: Loi n°92-684 1992-07-22 art. 1
   - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
 
+_Modifié par_:
+
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+
 
 ###### Article 227-25
 
 Le fait, par un majeur, d'exercer sans violence, contrainte, menace ni surprise une atteinte sexuelle sur la personne d'un
-mineur de quinze ans est puni de cinq ans d'emprisonnement et de 500 000 F d'amende.
+mineur de quinze ans est puni de cinq ans d'emprisonnement et de 75 000 euros d'amende.
 
 **Liens relatifs à cet article**
 
@@ -17537,7 +17768,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°98-468 du 17 juin 1998 - art. 18 () JORF 18 juin 1998
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 _Cité par_:
 
@@ -17562,7 +17793,7 @@ _Cité par_:
 
 ###### Article 227-26
 
-L'infraction définie à l'article 227-25 est punie de dix ans d'emprisonnement et de 1 000 000 F d'amende :
+L'infraction définie à l'article 227-25 est punie de dix ans d'emprisonnement et de 150000 euros d'amende :
 
 1° Lorsqu'elle est commise par un ascendant légitime, naturel ou adoptif ou par toute autre personne ayant autorité sur la
 victime ;
@@ -17589,8 +17820,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°98-468 du 17 juin 1998 - art. 13 () JORF 18 juin 1998
-  - Loi n°98-468 du 17 juin 1998 - art. 19 () JORF 18 juin 1998
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 _Cité par_:
 
@@ -17612,7 +17842,7 @@ _Cite_:
 ###### Article 227-27
 
 Les atteintes sexuelles sans violence, contrainte, menace ni surprise sur un mineur âgé de plus de quinze ans et non émancipé
-par le mariage sont punies de deux ans d'emprisonnement et de 200 000 F d'amende :
+par le mariage sont punies de deux ans d'emprisonnement et de 30000 euros d'amende :
 
 1° Lorsqu'elles sont commises par un ascendant légitime, naturel ou adoptif ou par toute autre personne ayant autorité sur la
 victime ;
@@ -17629,6 +17859,10 @@ _Codifié par_:
 
   - SPEC_APPLI: Loi n°92-684 1992-07-22 art. 1
   - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
+
+_Modifié par_:
+
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 _Cité par_:
 
@@ -17866,7 +18100,7 @@ _Codifié par_:
 
 ###### Article 311-3
 
-Le vol est puni de trois ans d'emprisonnement et de 300 000 F d'amende.
+Le vol est puni de trois ans d'emprisonnement et de 45 000 euros d'amende.
 
 **Liens relatifs à cet article**
 
@@ -17878,6 +18112,10 @@ _Codifié par_:
 
   - SPEC_APPLI: Loi n°92-685 1992-07-22 art. 1
   - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
+
+_Modifié par_:
+
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 _Cité par_:
 
@@ -17904,7 +18142,7 @@ _Cité par_:
 
 ###### Article 311-4
 
-Le vol est puni de cinq ans d'emprisonnement et de 500 000 F d'amende :
+Le vol est puni de cinq ans d'emprisonnement et de 75000 euros d'amende :
 
 1° Lorsqu'il est commis par plusieurs personnes agissant en qualité d'auteur ou de complice, sans qu'elles constituent une
 bande organisée ;
@@ -17928,9 +18166,9 @@ moyen de transport collectif de voyageurs ;
 
 8° Lorsqu'il est précédé, accompagné ou suivi d'un acte de destruction, dégradation ou détérioration.
 
-Les peines sont portées à sept ans d'emprisonnement et à 700 000 F d'amende lorsque le vol est commis dans deux des
-circonstances prévues par le présent article. Elles sont portées à dix ans d'emprisonnement et à 1 000 000 F d'amende lorsque
-le vol est commis dans trois de ces circonstances.
+Les peines sont portées à sept ans d'emprisonnement et à 100000 euros d'amende lorsque le vol est commis dans deux des
+circonstances prévues par le présent article. Elles sont portées à dix ans d'emprisonnement et à 150000 euros d'amende
+lorsque le vol est commis dans trois de ces circonstances.
 
 **Liens relatifs à cet article**
 
@@ -17959,11 +18197,15 @@ _Codifié par_:
   - SPEC_APPLI: Loi n°92-685 1992-07-22 art. 1
   - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
 
+_Modifié par_:
+
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+
 
 ###### Article 311-5
 
-Le vol est puni de sept ans d'emprisonnement et de 700 000 F d'amende lorsqu'il est précédé, accompagné ou suivi de violences
-sur autrui ayant entraîné une incapacité totale de travail pendant huit jours au plus.
+Le vol est puni de sept ans d'emprisonnement et de 100000 euros d'amende lorsqu'il est précédé, accompagné ou suivi de
+violences sur autrui ayant entraîné une incapacité totale de travail pendant huit jours au plus.
 
 **Liens relatifs à cet article**
 
@@ -17976,6 +18218,10 @@ _Codifié par_:
   - SPEC_APPLI: Loi n°92-685 1992-07-22 art. 1
   - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
 
+_Modifié par_:
+
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+
 _Cité par_:
 
   - Loi n°2002-1062 du 6 août 2002 - art. 14 (V)
@@ -17984,8 +18230,8 @@ _Cité par_:
 
 ###### Article 311-6
 
-Le vol est puni de dix ans d'emprisonnement et de 1 000 000 F d'amende lorsqu'il est précédé, accompagné ou suivi de
-violences sur autrui ayant entraîné une incapacité totale de travail pendant plus de huit jours.
+Le vol est puni de dix ans d'emprisonnement et de 150 000 euros d'amende lorsqu'il est précédé, accompagné ou suivi de
+violences sur autrui ayant entraîné une incapacité totale de travail pendant plus de huit jours. 
 
 Les deux premiers alinéas de l'article 132-23 relatif à la période de sûreté sont applicables à l'infraction prévue par le
 présent article.
@@ -18000,6 +18246,10 @@ _Codifié par_:
 
   - SPEC_APPLI: Loi n°92-685 1992-07-22 art. 1
   - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
+
+_Modifié par_:
+
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 _Cité par_:
 
@@ -18011,13 +18261,13 @@ _Cité par_:
 
 _Cite_:
 
-  - Code pénal - art. 132-23 (M)
+  - Code pénal - art. 132-23 (V)
 
 
 ###### Article 311-7
 
-Le vol est puni de quinze ans de réclusion criminelle et de 1 000 000 F d'amende lorsqu'il est précédé, accompagné ou suivi
-de violences sur autrui ayant entraîné une mutilation ou une infirmité permanente.
+Le vol est puni de quinze ans de réclusion criminelle et de 150 000 euros d'amende lorsqu'il est précédé, accompagné ou suivi
+de violences sur autrui ayant entraîné une mutilation ou une infirmité permanente. 
 
 Les deux premiers alinéas de l'article 132-23 relatif à la période de sûreté sont applicables à l'infraction prévue par le
 présent article.
@@ -18033,15 +18283,19 @@ _Codifié par_:
   - SPEC_APPLI: Loi n°92-685 1992-07-22 art. 1
   - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
 
+_Modifié par_:
+
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+
 _Cite_:
 
-  - Code pénal - art. 132-23 (M)
+  - Code pénal - art. 132-23 (V)
 
 
 ###### Article 311-8
 
-Le vol est puni de vingt ans de réclusion criminelle et de 1 000 000 F d'amende lorsqu'il est commis soit avec usage ou
-menace d'une arme, soit par une personne porteuse d'une arme soumise à autorisation ou dont le port est prohibé.
+Le vol est puni de vingt ans de réclusion criminelle et de 150 000 euros d'amende lorsqu'il est commis soit avec usage ou
+menace d'une arme, soit par une personne porteuse d'une arme soumise à autorisation ou dont le port est prohibé. 
 
 Les deux premiers alinéas de l'article 132-23 relatif à la période de sûreté sont applicables à l'infraction prévue par le
 présent article.
@@ -18057,20 +18311,24 @@ _Codifié par_:
   - SPEC_APPLI: Loi n°92-685 1992-07-22 art. 1
   - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
 
+_Modifié par_:
+
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+
 _Cite_:
 
-  - Code pénal - art. 132-23 (M)
+  - Code pénal - art. 132-23 (V)
 
 
 ###### Article 311-9
 
-Le vol en bande organisée est puni de quinze ans de réclusion criminelle et de 1 000 000 F d'amende.
+Le vol en bande organisée est puni de quinze ans de réclusion criminelle et de 150 000 euros d'amende. 
 
-Il est puni de vingt ans de réclusion criminelle et de 1 000 000 F d'amende lorsqu'il est précédé, accompagné ou suivi de
-violences sur autrui.
+Il est puni de vingt ans de réclusion criminelle et de 150 000 euros d'amende lorsqu'il est précédé, accompagné ou suivi de
+violences sur autrui. 
 
-Il est puni de trente ans de réclusion criminelle et de 1 000 000 F d'amende lorsqu'il est commis soit avec usage ou menace
-d'une arme, soit par une personne porteuse d'une arme soumise à autorisation ou dont le port est prohibé.
+Il est puni de trente ans de réclusion criminelle et de 150 000 euros d'amende lorsqu'il est commis soit avec usage ou menace
+d'une arme, soit par une personne porteuse d'une arme soumise à autorisation ou dont le port est prohibé. 
 
 Les deux premiers alinéas de l'article 132-23 relatif à la période de sûreté sont applicables aux infractions prévues par le
 présent article.
@@ -18086,6 +18344,10 @@ _Codifié par_:
   - SPEC_APPLI: Loi n°92-685 1992-07-22 art. 1
   - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
 
+_Modifié par_:
+
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+
 _Cité par_:
 
   - CODE DE PROCEDURE PENALE - art. 63-4 (M)
@@ -18095,13 +18357,13 @@ _Cité par_:
 
 _Cite_:
 
-  - Code pénal - art. 132-23 (M)
+  - Code pénal - art. 132-23 (V)
 
 
 ###### Article 311-10
 
-Le vol est puni de la réclusion criminelle à perpétuité et de 1 000 000 F d'amende lorsqu'il est précédé, accompagné ou suivi
-soit de violences ayant entraîné la mort, soit de tortures ou d'actes de barbarie.
+Le vol est puni de la réclusion criminelle à perpétuité et de 150 000 euros d'amende lorsqu'il est précédé, accompagné ou
+suivi soit de violences ayant entraîné la mort, soit de tortures ou d'actes de barbarie. 
 
 Les deux premiers alinéas de l'article 132-23 relatif à la période de sûreté sont applicables à l'infraction prévue par le
 présent article.
@@ -18117,9 +18379,13 @@ _Codifié par_:
   - SPEC_APPLI: Loi n°92-685 1992-07-22 art. 1
   - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
 
+_Modifié par_:
+
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+
 _Cite_:
 
-  - Code pénal - art. 132-23 (M)
+  - Code pénal - art. 132-23 (V)
 
 
 ###### Article 311-11
@@ -18315,7 +18581,7 @@ _Cite_:
 L'extorsion est le fait d'obtenir par violence, menace de violences ou contrainte soit une signature, un engagement ou une
 renonciation, soit la révélation d'un secret, soit la remise de fonds, de valeurs ou d'un bien quelconque.
 
-L'extorsion est punie de sept ans d'emprisonnement et de 700 000 F d'amende.
+L'extorsion est punie de sept ans d'emprisonnement et de 100 000 euros d'amende.
 
 **Liens relatifs à cet article**
 
@@ -18327,6 +18593,10 @@ _Codifié par_:
 
   - SPEC_APPLI: Loi n°92-685 1992-07-22 art. 1
   - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
+
+_Modifié par_:
+
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 _Cité par_:
 
@@ -18344,7 +18614,7 @@ _Cité par_:
 
 ###### Article 312-2
 
-L'extorsion est punie de dix ans d'emprisonnement et de 1 000 000 F d'amende :
+L'extorsion est punie de dix ans d'emprisonnement et de 150000 euros d'amende :
 
 1° Lorsqu'elle est précédée, accompagnée ou suivie de violences sur autrui ayant entraîné une incapacité totale de travail
 pendant huit jours au plus ;
@@ -18363,6 +18633,10 @@ _Codifié par_:
   - SPEC_APPLI: Loi n°92-685 1992-07-22 art. 1
   - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
 
+_Modifié par_:
+
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+
 _Cité par_:
 
   - Décret n°2007-1167 du 2 août 2007 - art. 23 (V)
@@ -18375,8 +18649,8 @@ _Cité par_:
 
 ###### Article 312-3
 
-L'extorsion est punie de quinze ans de réclusion criminelle et de 1 000 000 F d'amende lorsqu'elle est précédée, accompagnée
-ou suivie de violences sur autrui ayant entraîné une incapacité totale de travail pendant plus de huit jours.
+L'extorsion est punie de quinze ans de réclusion criminelle et de 150 000 euros d'amende lorsqu'elle est précédée,
+accompagnée ou suivie de violences sur autrui ayant entraîné une incapacité totale de travail pendant plus de huit jours. 
 
 Les deux premiers alinéas de l'article 132-23 relatif à la période de sûreté sont applicables à l'infraction prévue par le
 présent article.
@@ -18392,9 +18666,13 @@ _Codifié par_:
   - SPEC_APPLI: Loi n°92-685 1992-07-22 art. 1
   - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
 
+_Modifié par_:
+
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+
 _Cite_:
 
-  - Code pénal - art. 132-23 (M)
+  - Code pénal - art. 132-23 (V)
 
 _Cité par_:
 
@@ -18403,8 +18681,8 @@ _Cité par_:
 
 ###### Article 312-4
 
-L'extorsion est punie de vingt ans de réclusion criminelle et de 1 000 000 F d'amende lorsqu'elle est précédée, accompagnée
-ou suivie de violences sur autrui ayant entraîné une mutilation ou une infirmité permanente.
+L'extorsion est punie de vingt ans de réclusion criminelle et de 150 000 euros d'amende lorsqu'elle est précédée, accompagnée
+ou suivie de violences sur autrui ayant entraîné une mutilation ou une infirmité permanente. 
 
 Les deux premiers alinéas de l'article 132-23 relatif à la période de sûreté sont applicables à l'infraction prévue par le
 présent article.
@@ -18420,15 +18698,19 @@ _Codifié par_:
   - SPEC_APPLI: Loi n°92-685 1992-07-22 art. 1
   - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
 
+_Modifié par_:
+
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+
 _Cite_:
 
-  - Code pénal - art. 132-23 (M)
+  - Code pénal - art. 132-23 (V)
 
 
 ###### Article 312-5
 
-L'extorsion est punie de trente ans de réclusion criminelle et de 1 000 000 F d'amende lorsqu'elle est commise soit avec
-usage ou menace d'une arme, soit par une personne porteuse d'une arme soumise à autorisation ou dont le port est prohibé.
+L'extorsion est punie de trente ans de réclusion criminelle et de 150 000 euros d'amende lorsqu'elle est commise soit avec
+usage ou menace d'une arme, soit par une personne porteuse d'une arme soumise à autorisation ou dont le port est prohibé. 
 
 Les deux premiers alinéas de l'article 132-23 relatif à la période de sûreté sont applicables à l'infraction prévue par le
 présent article.
@@ -18444,20 +18726,24 @@ _Codifié par_:
   - SPEC_APPLI: Loi n°92-685 1992-07-22 art. 1
   - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
 
+_Modifié par_:
+
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+
 _Cite_:
 
-  - Code pénal - art. 132-23 (M)
+  - Code pénal - art. 132-23 (V)
 
 
 ###### Article 312-6
 
-L'extorsion en bande organisée est punie de vingt ans de réclusion criminelle et de 1 000 000 F d'amende.
+L'extorsion en bande organisée est punie de vingt ans de réclusion criminelle et de 150 000 euros d'amende. 
 
-Elle est punie de trente ans de réclusion criminelle et de 1 000 000 F d'amende lorsqu'elle est précédée, accompagnée ou
-suivie de violences sur autrui ayant entraîné une mutilation ou une infirmité permanente.
+Elle est punie de trente ans de réclusion criminelle et de 150 000 euros d'amende lorsqu'elle est précédée, accompagnée ou
+suivie de violences sur autrui ayant entraîné une mutilation ou une infirmité permanente. 
 
 Elle est punie de la réclusion criminelle à perpétuité lorsqu'elle est commise soit avec usage ou menace d'une arme, soit par
-une personne porteuse d'une arme soumise à autorisation ou dont le port est prohibé.
+une personne porteuse d'une arme soumise à autorisation ou dont le port est prohibé. 
 
 Les deux premiers alinéas de l'article 132-23 relatif à la période de sûreté sont applicables aux infractions prévues par le
 présent article.
@@ -18473,6 +18759,10 @@ _Codifié par_:
   - SPEC_APPLI: Loi n°92-685 1992-07-22 art. 1
   - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
 
+_Modifié par_:
+
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+
 _Cité par_:
 
   - CODE DE PROCEDURE PENALE - art. 63-4 (M)
@@ -18482,13 +18772,13 @@ _Cité par_:
 
 _Cite_:
 
-  - Code pénal - art. 132-23 (M)
+  - Code pénal - art. 132-23 (V)
 
 
 ###### Article 312-7
 
-L'extorsion est punie de la réclusion criminelle à perpétuité et de 1 000 000 F d'amende lorsqu'elle est précédée,
-accompagnée ou suivie soit de violences ayant entraîné la mort, soit de tortures ou d'actes de barbarie.
+L'extorsion est punie de la réclusion criminelle à perpétuité et de 150 000 euros d'amende lorsqu'elle est précédée,
+accompagnée ou suivie soit de violences ayant entraîné la mort, soit de tortures ou d'actes de barbarie. 
 
 Les deux premiers alinéas de l'article 132-23 relatif à la période de sûreté sont applicables à l'infraction prévue par le
 présent article.
@@ -18504,6 +18794,10 @@ _Codifié par_:
   - SPEC_APPLI: Loi n°92-685 1992-07-22 art. 1
   - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
 
+_Modifié par_:
+
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+
 _Cité par_:
 
   - CODE DE PROCEDURE PENALE - art. 63-4 (M)
@@ -18512,7 +18806,7 @@ _Cité par_:
 
 _Cite_:
 
-  - Code pénal - art. 132-23 (M)
+  - Code pénal - art. 132-23 (V)
 
 
 ###### Article 312-8
@@ -18572,7 +18866,7 @@ Le chantage est le fait d'obtenir, en menaçant de révéler ou d'imputer des fa
 la considération, soit une signature, un engagement ou une renonciation, soit la révélation d'un secret, soit la remise de
 fonds, de valeurs ou d'un bien quelconque.
 
-Le chantage est puni de cinq ans d'emprisonnement et de 500 000 F d'amende.
+Le chantage est puni de cinq ans d'emprisonnement et de 75 000 euros d'amende.
 
 **Liens relatifs à cet article**
 
@@ -18585,6 +18879,10 @@ _Codifié par_:
   - SPEC_APPLI: Loi n°92-685 1992-07-22 art. 1
   - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
 
+_Modifié par_:
+
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+
 _Cité par_:
 
   - Code pénal - art. 312-13 (M)
@@ -18592,7 +18890,7 @@ _Cité par_:
 
 ###### Article 312-11
 
-Lorsque l'auteur du chantage a mis sa menace à exécution, la peine est portée à sept ans d'emprisonnement et à 700 000 F
+Lorsque l'auteur du chantage a mis sa menace à exécution, la peine est portée à sept ans d'emprisonnement et à 100 000 euros
 d'amende.
 
 **Liens relatifs à cet article**
@@ -18605,6 +18903,10 @@ _Codifié par_:
 
   - SPEC_APPLI: Loi n°92-685 1992-07-22 art. 1
   - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
+
+_Modifié par_:
+
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 
 ###### Article 312-12
@@ -18737,7 +19039,7 @@ par l'emploi de manoeuvres frauduleuses, de tromper une personne physique ou mor
 préjudice ou au préjudice d'un tiers, à remettre des fonds, des valeurs ou un bien quelconque, à fournir un service ou à
 consentir un acte opérant obligation ou décharge.
 
-L'escroquerie est punie de cinq ans d'emprisonnement et de 2 500 000 F d'amende.
+L'escroquerie est punie de cinq ans d'emprisonnement et de 375 000 euros d'amende.
 
 **Liens relatifs à cet article**
 
@@ -18831,10 +19133,14 @@ _Codifié par_:
   - SPEC_APPLI: Loi n°92-685 1992-07-22 art. 1
   - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
 
+_Modifié par_:
+
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+
 
 ###### Article 313-2
 
-Les peines sont portées à sept ans d'emprisonnement et à 5 000 000 F d'amende lorsque l'escroquerie est réalisée :
+Les peines sont portées à sept ans d'emprisonnement et à 750 000 euros d'amende lorsque l'escroquerie est réalisée :
 
 1° Par une personne dépositaire de l'autorité publique ou chargée d'une mission de service public, dans l'exercice ou à
 l'occasion de l'exercice de ses fonctions ou de sa mission ;
@@ -18876,6 +19182,10 @@ _Cité par_:
   - Code général des impôts, CGI. - art. 1378 octies (V)
   - Code pénal - art. 313-7 (V)
   - Code pénal - art. 313-8 (M)
+
+_Modifié par_:
+
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 
 ###### Article 313-3
@@ -18937,7 +19247,7 @@ des professionnels de la distribution ;
 
 4° De se faire transporter en taxi ou en voiture de place.
 
-La filouterie est punie de six mois d'emprisonnement et de 50 000 F d'amende.
+La filouterie est punie de six mois d'emprisonnement et de 7 500 euros d'amende.
 
 **Liens relatifs à cet article**
 
@@ -18950,6 +19260,10 @@ _Codifié par_:
   - SPEC_APPLI: Loi n°92-685 1992-07-22 art. 1
   - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
 
+_Modifié par_:
+
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+
 _Cité par_:
 
   - CODE DE PROCEDURE PENALE - art. 41-2 (M)
@@ -18961,8 +19275,8 @@ _Cité par_:
 ###### Article 313-6
 
 Le fait, dans une adjudication publique, par dons, promesses, ententes ou tout autre moyen frauduleux, d'écarter un
-enchérisseur ou de limiter les enchères ou les soumissions, est puni de six mois d'emprisonnement et de 150 000 F d'amende.
-Est puni des mêmes peines le fait d'accepter de tels dons ou promesses.
+enchérisseur ou de limiter les enchères ou les soumissions, est puni de six mois d'emprisonnement et de 22 500 euros
+d'amende. Est puni des mêmes peines le fait d'accepter de tels dons ou promesses.
 
 Est puni des mêmes peines :
 
@@ -18987,7 +19301,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2000-642 du 10 juillet 2000 - art. 16 () JORF 11 juillet 2000
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 _Cité par_:
 
@@ -19165,7 +19479,7 @@ L'abus de confiance est le fait par une personne de détourner, au préjudice d'
 quelconque qui lui ont été remis et qu'elle a acceptés à charge de les rendre, de les représenter ou d'en faire un usage
 déterminé.
 
-L'abus de confiance est puni de trois ans d'emprisonnement et de 2 500 000 F d'amende.
+L'abus de confiance est puni de trois ans d'emprisonnement et de 375 000 euros d'amende.
 
 **Liens relatifs à cet article**
 
@@ -19244,10 +19558,14 @@ _Codifié par_:
   - SPEC_APPLI: Loi n°92-685 1992-07-22 art. 1
   - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
 
+_Modifié par_:
+
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+
 
 ###### Article 314-2
 
-Les peines sont portées à sept ans d'emprisonnement et à 5 000 000 F d'amende lorsque l'abus de confiance est réalisé :
+Les peines sont portées à sept ans d'emprisonnement et à 750000 euros d'amende lorsque l'abus de confiance est réalisé :
 
 1° Par une personne qui fait appel au public afin d'obtenir la remise de fonds ou de valeurs soit pour son propre compte,
 soit comme dirigeant ou préposé de droit ou de fait d'une entreprise industrielle ou commerciale ;
@@ -19274,11 +19592,15 @@ _Codifié par_:
   - SPEC_APPLI: Loi n°92-685 1992-07-22 art. 1
   - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
 
+_Modifié par_:
+
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+
 
 ###### Article 314-3
 
-Les peines sont portées à dix ans d'emprisonnement et à 10 000 000 F d'amende lorsque l'abus de confiance est réalisé par un
-mandataire de justice ou par un officier public ou ministériel soit dans l'exercice ou à l'occasion de l'exercice de ses
+Les peines sont portées à dix ans d'emprisonnement et à 1 500 000 euros d'amende lorsque l'abus de confiance est réalisé par
+un mandataire de justice ou par un officier public ou ministériel soit dans l'exercice ou à l'occasion de l'exercice de ses
 fonctions, soit en raison de sa qualité.
 
 **Liens relatifs à cet article**
@@ -19291,6 +19613,10 @@ _Codifié par_:
 
   - SPEC_APPLI: Loi n°92-685 1992-07-22 art. 1
   - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
+
+_Modifié par_:
+
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 _Cité par_:
 
@@ -19322,7 +19648,7 @@ _Cite_:
 ###### Article 314-5
 
 Le fait, par un débiteur, un emprunteur ou un tiers donneur de gage, de détruire ou de détourner l'objet constitué en gage
-est puni de trois ans d'emprisonnement et de 2 500 000 F d'amende.
+est puni de trois ans d'emprisonnement et de 375 000 euros d'amende.
 
 La tentative de l'infraction prévue au présent article est punie des mêmes peines.
 
@@ -19336,6 +19662,10 @@ _Codifié par_:
 
   - SPEC_APPLI: Loi n°92-685 1992-07-22 art. 1
   - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
+
+_Modifié par_:
+
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 _Cité par_:
 
@@ -19357,7 +19687,7 @@ _Cité par_:
 ###### Article 314-6
 
 Le fait, par le saisi, de détruire ou de détourner un objet saisi entre ses mains en garantie des droits d'un créancier et
-confié à sa garde ou à celle d'un tiers est puni de trois ans d'emprisonnement et de 2 500 000 F d'amende.
+confié à sa garde ou à celle d'un tiers est puni de trois ans d'emprisonnement et de 375 000 euros d'amende.
 
 La tentative de l'infraction prévue au présent article est punie des mêmes peines.
 
@@ -19399,6 +19729,10 @@ _Codifié par_:
   - SPEC_APPLI: Loi n°92-685 1992-07-22 art. 1
   - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
 
+_Modifié par_:
+
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+
 
 ##### Section 3 : De l'organisation frauduleuse de l'insolvabilité<a id=135></a>
 
@@ -19408,7 +19742,7 @@ Le fait, par un débiteur, même avant la décision judiciaire constatant sa det
 soit en augmentant le passif ou en diminuant l'actif de son patrimoine, soit en diminuant ou en dissimulant tout ou partie de
 ses revenus, soit en dissimulant certains de ses biens, en vue de se soustraire à l'exécution d'une condamnation de nature
 patrimoniale prononcée par une juridiction répressive ou, en matière délictuelle, quasi délictuelle ou d'aliments, prononcée
-par une juridiction civile, est puni de trois ans d'emprisonnement et de 300 000 F d'amende.
+par une juridiction civile, est puni de trois ans d'emprisonnement et de 45 000 euros d'amende.
 
 Commet le même délit le dirigeant de droit ou de fait d'une personne morale qui organise ou aggrave l'insolvabilité de celle-
 ci dans les conditions définies à l'alinéa précédent en vue de la soustraire aux obligations pécuniaires résultant d'une
@@ -19436,6 +19770,10 @@ _Codifié par_:
 
   - SPEC_APPLI: Loi n°92-685 1992-07-22 art. 1
   - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
+
+_Modifié par_:
+
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 
 ###### Article 314-8
@@ -19677,7 +20015,7 @@ transmettre, en sachant que cette chose provient d'un crime ou d'un délit.
 Constitue également un recel le fait, en connaissance de cause, de bénéficier, par tout moyen, du produit d'un crime ou d'un
 délit.
 
-Le recel est puni de cinq ans d'emprisonnement et de 2 500 000 F d'amende.
+Le recel est puni de cinq ans d'emprisonnement et de 375 000 euros d'amende.
 
 **Liens relatifs à cet article**
 
@@ -19728,10 +20066,14 @@ _Codifié par_:
   - SPEC_APPLI: Loi n°92-685 1992-07-22 art. 1
   - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
 
+_Modifié par_:
+
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+
 
 ###### Article 321-2
 
-Le recel est puni de dix ans d'emprisonnement et de 5 000 000 F d'amende :
+Le recel est puni de dix ans d'emprisonnement et de 750 000 euros d'amende :
 
 1° Lorsqu'il est commis de façon habituelle ou en utilisant les facilités que procure l'exercice d'une activité
 professionnelle ;
@@ -19766,11 +20108,15 @@ _Codifié par_:
   - SPEC_APPLI: Loi n°92-685 1992-07-22 art. 1
   - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
 
+_Modifié par_:
+
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+
 
 ###### Article 321-3
 
-Les peines d'amende prévues par les articles 321-1 et 321-2 peuvent être élevées au-delà de 2 500 000 F jusqu'à la moitié de
-la valeur des biens recelés.
+Les peines d'amende prévues par les articles 321-1 et 321-2 peuvent être élevées au-delà de 375 000 euros jusqu'à la moitié
+de la valeur des biens recelés.
 
 **Liens relatifs à cet article**
 
@@ -19782,6 +20128,10 @@ _Codifié par_:
 
   - SPEC_APPLI: Loi n°92-685 1992-07-22 art. 1
   - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
+
+_Modifié par_:
+
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 _Cité par_:
 
@@ -19844,7 +20194,7 @@ _Codifié par_:
 
 Le fait, par une personne ayant autorité sur un mineur qui vit avec elle et se livre habituellement à des crimes ou à des
 délits contre les biens d'autrui, de ne pouvoir justifier de ressources correspondant à son train de vie, est puni de cinq
-ans d'emprisonnement et de 2 500 000 F d'amende. L'amende peut être élevée au-delà de 2 500 000 F jusqu'à la moitié de la
+ans d'emprisonnement et de 375000 euros d'amende. L'amende peut être élevée au-delà de 375000 euros jusqu'à la moitié de la
 valeur des biens recelés.
 
 **Liens relatifs à cet article**
@@ -19857,6 +20207,10 @@ _Codifié par_:
 
   - SPEC_APPLI: Loi n°92-685 1992-07-22 art. 1
   - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
+
+_Modifié par_:
+
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 _Cité par_:
 
@@ -19872,11 +20226,11 @@ _Cité par_:
 
 ###### Article 321-7
 
-Est puni de six mois d'emprisonnement et de 200 000 F d'amende [* taux *] le fait, par une personne dont l'activité
-professionnelle comporte la vente d'objets mobiliers usagés ou acquis à des personnes autres que celles qui les fabriquent ou
-en font le commerce, d'omettre, y compris par négligence, de tenir jour par jour, dans des conditions prévues par décret en
-Conseil d'Etat, un registre contenant une description des objets acquis ou détenus en vue de la vente ou de l'échange et
-permettant l'identification de ces objets ainsi que celle des personnes qui les ont vendus ou apportés à l'échange.
+Est puni de six mois d'emprisonnement et de 30000 euros d'amende le fait, par une personne dont l'activité professionnelle
+comporte la vente d'objets mobiliers usagés ou acquis à des personnes autres que celles qui les fabriquent ou en font le
+commerce, d'omettre, y compris par négligence, de tenir jour par jour, dans des conditions prévues par décret en Conseil
+d'Etat, un registre contenant une description des objets acquis ou détenus en vue de la vente ou de l'échange et permettant
+l'identification de ces objets ainsi que celle des personnes qui les ont vendus ou apportés à l'échange.
 
 Est puni des mêmes peines le fait, par une personne, à l'exception des officiers publics ou ministériels, qui organise, dans
 un lieu public ou ouvert au public, une manifestation en vue de la vente ou de l'échange d'objets visés à l'alinéa précédent,
@@ -19898,10 +20252,6 @@ _Codifié par_:
   - SPEC_APPLI: Loi n°92-685 1992-07-22 art. 1
   - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
 
-_Modifié par_:
-
-  - Loi n°92-1336 du 16 décembre 1992 - art. 362 () JORF 23 décembre 1992 en vigueur le 1er mars 1994
-
 _Cité par_:
 
   - Arrêté du 5 juillet 1995 - art. 3 (V)
@@ -19919,10 +20269,14 @@ _Cité par_:
   - Code pénal - art. R633-5 (V)
   - Livre des procédures fiscales - art. L96 H (V)
 
+_Modifié par_:
+
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+
 
 ###### Article 321-8
 
-Est puni de six mois d'emprisonnement et de 200 000 F d'amende le fait, par une personne visée à l'article précédent,
+Est puni de six mois d'emprisonnement et de 30 000 euros d'amende le fait, par une personne visée à l'article précédent,
 d'apposer sur le registre prévu par cet article des mentions inexactes.
 
 Est puni des mêmes peines le fait, par cette personne, de refuser de présenter ce registre à l'autorité compétente.
@@ -19944,6 +20298,10 @@ _Cité par_:
   - Code de commerce. - art. L321-10 (V)
   - Code pénal - art. 321-12 (V)
   - Code pénal - art. 321-9 (M)
+
+_Modifié par_:
+
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 
 ##### Section 3 : Peines complémentaires applicables aux personnes physiques et responsabilité de personnes morales<a id=141></a>
@@ -20100,10 +20458,10 @@ _Cite_:
 ###### Article 322-1
 
 La destruction, la dégradation ou la détérioration d'un bien appartenant à autrui est punie de deux ans d'emprisonnement et
-de 200 000 F d'amende, sauf s'il n'en est résulté qu'un dommage léger.
+de 30000 euros d'amende, sauf s'il n'en est résulté qu'un dommage léger.
 
 Le fait de tracer des inscriptions, des signes ou des dessins, sans autorisation préalable, sur les façades, les véhicules,
-les voies publiques ou le mobilier urbain est puni de 25 000 F d'amende lorsqu'il n'en est résulté qu'un dommage léger.
+les voies publiques ou le mobilier urbain est puni de 3750 euros d'amende lorsqu'il n'en est résulté qu'un dommage léger.
 
 **Liens relatifs à cet article**
 
@@ -20144,11 +20502,16 @@ _Codifié par_:
   - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
   - PILOTE_SUIVEUR: Code du patrimoine - art. L114-2 (V)
 
+_Modifié par_:
+
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+
 
 ###### Article 322-2
 
-L'infraction définie au premier alinéa de l'article 322-1 est punie de trois ans d'emprisonnement et de 300 000 F d'amende et
-celle définie au deuxième alinéa du même article de 50 000 F d'amende, lorsque le bien détruit, dégradé ou détérioré est :
+L'infraction définie au premier alinéa de l'article 322-1 est punie de trois ans d'emprisonnement et de 45000 euros d'amende
+et celle définie au deuxième alinéa du même article de 7500 euros d'amende, lorsque le bien détruit, dégradé ou détérioré
+est :
 
 1° Destiné à l'utilité ou à la décoration publiques et appartient à une personne publique ou chargée d'une mission de service
 public ;
@@ -20204,7 +20567,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°95-877 du 3 août 1995 - art. 26 () JORF 4 août 1995
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 _Cite_:
 
@@ -20213,8 +20576,8 @@ _Cite_:
 
 ###### Article 322-3
 
-L'infraction définie au premier alinéa de l'article 322-1 est punie de cinq ans d'emprisonnement et de 500 000 F d'amende et
-celle définie au deuxième alinéa du même article de 100 000 F d'amende :
+L'infraction définie au premier alinéa de l'article 322-1 est punie de cinq ans d'emprisonnement et de 75000 euros d'amende
+et celle définie au deuxième alinéa du même article de 15000 euros d'amende :
 
 1° Lorsqu'elle est commise par plusieurs personnes agissant en qualité d'auteur ou de complice ;
 
@@ -20255,7 +20618,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°96-647 du 22 juillet 1996 - art. 13 () JORF 23 juillet 1996
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 _Cite_:
 
@@ -20284,10 +20647,10 @@ _Codifié par_:
 
 La destruction, la dégradation ou la détérioration involontaire d'un bien appartenant à autrui par l'effet d'une explosion ou
 d'un incendie provoqués par manquement à une obligation de sécurité ou de prudence imposée par la loi ou le règlement est
-punie d'un an d'emprisonnement et de 100 000 F d'amende.
+punie d'un an d'emprisonnement et de 15000 euros d'amende.
 
 En cas de violation manifestement délibérée d'une obligation particulière de sécurité ou de prudence prévue par la loi ou le
-règlement, les peines encourues sont portées à deux ans d'emprisonnement et à 200 000 F d'amende.
+règlement, les peines encourues sont portées à deux ans d'emprisonnement et à 30000 euros d'amende.
 
 **Liens relatifs à cet article**
 
@@ -20302,7 +20665,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2000-647 du 10 juillet 2000 - art. 7 () JORF 11 juillet 2000
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 _Cité par_:
 
@@ -20317,8 +20680,8 @@ _Cité par_:
 ###### Article 322-6
 
 La destruction, la dégradation ou la détérioration d'un bien appartenant à autrui par l'effet d'une substance explosive, d'un
-incendie ou de tout autre moyen de nature à créer un danger pour les personnes est punie de dix ans d'emprisonnement et de 1
-000 000 F d'amende.
+incendie ou de tout autre moyen de nature à créer un danger pour les personnes est punie de dix ans d'emprisonnement et de
+150000 euros d'amende.
 
 **Liens relatifs à cet article**
 
@@ -20353,11 +20716,15 @@ _Codifié par_:
   - SPEC_APPLI: Loi n°92-685 1992-07-22 art. 1
   - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
 
+_Modifié par_:
+
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+
 
 ###### Article 322-7
 
-L'infraction définie à l'article 322-6 est punie de quinze ans de réclusion criminelle et de 1 000 000 F d'amende lorsqu'elle
-a entraîné pour autrui une incapacité totale de travail pendant huit jours au plus.
+L'infraction définie à l'article 322-6 est punie de quinze ans de réclusion criminelle et de 150000 euros d'amende
+lorsqu'elle a entraîné pour autrui une incapacité totale de travail pendant huit jours au plus.
 
 **Liens relatifs à cet article**
 
@@ -20369,6 +20736,10 @@ _Codifié par_:
 
   - SPEC_APPLI: Loi n°92-685 1992-07-22 art. 1
   - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
+
+_Modifié par_:
+
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 _Cité par_:
 
@@ -20382,7 +20753,7 @@ _Cite_:
 
 ###### Article 322-8
 
-L'infraction définie à l'article 322-6 est punie de vingt ans de réclusion criminelle et de 1 000 000 F d'amende :
+L'infraction définie à l'article 322-6 est punie de vingt ans de réclusion criminelle et de 150000 euros d'amende :
 
 1° Lorsqu'elle est commise en bande organisée ;
 
@@ -20402,6 +20773,10 @@ _Codifié par_:
   - SPEC_APPLI: Loi n°92-685 1992-07-22 art. 1
   - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
 
+_Modifié par_:
+
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+
 _Cité par_:
 
   - CODE DE PROCEDURE PENALE - art. 63-4 (M)
@@ -20415,8 +20790,8 @@ _Cite_:
 
 ###### Article 322-9
 
-L'infraction définie à l'article 322-6 est punie de trente ans de réclusion criminelle et de 1 000 000 F d'amende lorsqu'elle
-a entraîné pour autrui une mutilation ou un infirmité permanente.
+L'infraction définie à l'article 322-6 est punie de trente ans de réclusion criminelle et de 150000 euros d'amende
+lorsqu'elle a entraîné pour autrui une mutilation ou un infirmité permanente.
 
 Les deux premiers alinéas de l'article 132-23 relatif à la période de sûreté sont applicables à l'infraction prévue par le
 présent article.
@@ -20432,6 +20807,10 @@ _Codifié par_:
   - SPEC_APPLI: Loi n°92-685 1992-07-22 art. 1
   - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
 
+_Modifié par_:
+
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+
 _Cite_:
 
   - Code pénal - art. 132-23 (M)
@@ -20440,7 +20819,7 @@ _Cite_:
 
 ###### Article 322-10
 
-L'infraction définie à l'article 322-6 est punie de la réclusion criminelle à perpétuité et de 1 000 000 F d'amende
+L'infraction définie à l'article 322-6 est punie de la réclusion criminelle à perpétuité et de 150 000 euros d'amende
 lorsqu'elle a entraîné la mort d'autrui.
 
 Les deux premiers alinéas de l'article 132-23 relatif à la période de sûreté sont applicables à l'infraction prévue par le
@@ -20456,6 +20835,10 @@ _Codifié par_:
 
   - SPEC_APPLI: Loi n°92-685 1992-07-22 art. 1
   - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
+
+_Modifié par_:
+
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 _Cite_:
 
@@ -20493,7 +20876,7 @@ _Cite_:
 ###### Article 322-12
 
 La menace de commettre une destruction, une dégradation ou une détérioration dangereuses pour les personnes est punie de six
-mois d'emprisonnement et de 50 000 F d'amende lorsqu'elle est soit réitérée, soit matérialisée par un écrit, une image ou
+mois d'emprisonnement et de 7 500 euros d'amende lorsqu'elle est soit réitérée, soit matérialisée par un écrit, une image ou
 tout autre objet.
 
 **Liens relatifs à cet article**
@@ -20509,7 +20892,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°92-1336 du 16 décembre 1992 - art. 363 () JORF 23 décembre 1992 en vigueur le 1er mars 1994
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 _Cité par_:
 
@@ -20524,9 +20907,9 @@ _Cité par_:
 ###### Article 322-13
 
 La menace, par quelque moyen que ce soit, de commettre une destruction, une dégradation ou une détérioration est punie d'un
-an d'emprisonnement et de 100 000 F d'amende lorsqu'elle est faite avec l'ordre de remplir une condition.
+an d'emprisonnement et de 15 000 euros d'amende lorsqu'elle est faite avec l'ordre de remplir une condition.
 
-La peine est portée à trois ans d'emprisonnement et 300 000 F d'amende s'il s'agit d'une menace de destruction, de
+La peine est portée à trois ans d'emprisonnement et 45 000 euros d'amende s'il s'agit d'une menace de destruction, de
 dégradation ou de détérioration dangereuses pour les personnes.
 
 **Liens relatifs à cet article**
@@ -20542,7 +20925,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°92-1336 du 16 décembre 1992 - art. 363 () JORF 23 décembre 1992 en vigueur le 1er septembre 1993
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 _Cité par_:
 
@@ -20557,8 +20940,8 @@ _Cité par_:
 ###### Article 322-14
 
 Le fait de communiquer ou de divulguer une fausse information dans le but de faire croire qu'une destruction, une dégradation
-ou une détérioration dangereuse pour les personnes va être ou a été commise est puni de deux ans d'emprisonnement et de 200
-000 F d'amende.
+ou une détérioration dangereuse pour les personnes va être ou a été commise est puni de deux ans d'emprisonnement et de 30
+000 euros d'amende.
 
 Est puni des mêmes peines le fait de communiquer ou de divulguer une fausse information faisant croire à un sinistre et de
 nature à provoquer l'intervention inutile des secours.
@@ -20573,6 +20956,10 @@ _Codifié par_:
 
   - SPEC_APPLI: Loi n°92-685 1992-07-22 art. 1
   - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
+
+_Modifié par_:
+
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 _Cité par_:
 
@@ -20709,10 +21096,10 @@ _Cite_:
 ###### Article 323-1
 
 Le fait d'accéder ou de se maintenir, frauduleusement, dans tout ou partie d'un système de traitement automatisé de données
-est puni d'un an d'emprisonnement et de 100 000 F d'amende.
+est puni d'un an d'emprisonnement et de 15000 euros d'amende.
 
 Lorsqu'il en est résulté soit la suppression ou la modification de données contenues dans le système, soit une altération du
-fonctionnement de ce système, la peine est de deux ans d'emprisonnement et de 200 000 F d'amende.
+fonctionnement de ce système, la peine est de deux ans d'emprisonnement et de 30000 euros d'amende.
 
 **Liens relatifs à cet article**
 
@@ -20724,6 +21111,10 @@ _Codifié par_:
 
   - SPEC_APPLI: Loi n°92-685 1992-07-22 art. 1
   - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
+
+_Modifié par_:
+
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 _Cité par_:
 
@@ -20739,7 +21130,7 @@ _Cité par_:
 ###### Article 323-2
 
 Le fait d'entraver ou de fausser le fonctionnement d'un système de traitement automatisé de données est puni de trois ans
-d'emprisonnement et de 300 000 F d'amende.
+d'emprisonnement et de 45000 euros d'amende.
 
 **Liens relatifs à cet article**
 
@@ -20751,12 +21142,16 @@ _Codifié par_:
 
   - SPEC_APPLI: Loi n°92-685 1992-07-22 art. 1
   - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
+
+_Modifié par_:
+
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 
 ###### Article 323-3
 
 Le fait d'introduire frauduleusement des données dans un système de traitement automatisé ou de supprimer ou de modifier
-frauduleusement les données qu'il contient est puni de trois ans d'emprisonnement et de 300 000 F d'amende.
+frauduleusement les données qu'il contient est puni de trois ans d'emprisonnement et de 45000 euros d'amende.
 
 **Liens relatifs à cet article**
 
@@ -20768,6 +21163,10 @@ _Codifié par_:
 
   - SPEC_APPLI: Loi n°92-685 1992-07-22 art. 1
   - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
+
+_Modifié par_:
+
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 
 ###### Article 323-4
@@ -20897,7 +21296,7 @@ l'auteur d'un crime ou d'un délit ayant procuré à celui-ci un profit direct o
 Constitue également un blanchiment le fait d'apporter un concours à une opération de placement, de dissimulation ou de
 conversion du produit direct ou indirect d'un crime ou d'un délit.
 
-Le blanchiment est puni de cinq ans d'emprisonnement et de 2 500 000 F d'amende.
+Le blanchiment est puni de cinq ans d'emprisonnement et de 375 000 euros d'amende.
 
 **Liens relatifs à cet article**
 
@@ -20953,14 +21352,14 @@ _Codifié par_:
 
   - Loi n°92-685 1992-07-22
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°96-392 du 13 mai 1996 - art. 1 () JORF 14 mai 1996
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 
 ###### Article 324-2
 
-Le blanchiment est puni de dix ans d'emprisonnement et de 5 000 000 F d'amende :
+Le blanchiment est puni de dix ans d'emprisonnement et de 750 000 euros d'amende :
 
 1° Lorsqu'il est commis de façon habituelle ou en utilisant les facilités que procure l'exercice d'une activité
 professionnelle ;
@@ -20972,10 +21371,6 @@ professionnelle ;
 _Codifié par_:
 
   - Loi n°92-685 1992-07-22
-
-_Créé par_:
-
-  - Loi n°96-392 du 13 mai 1996 - art. 1 () JORF 14 mai 1996
 
 _Cité par_:
 
@@ -20994,6 +21389,10 @@ _Cité par_:
   - Code pénal - art. 324-7 (M)
   - Code pénal - art. 324-8 (V)
   - Code pénal - art. 324-9 (V)
+
+_Modifié par_:
+
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 
 ###### Article 324-3
@@ -21269,7 +21668,7 @@ _Cite_:
 
 Le fait de livrer à une puissance étrangère, à une organisation étrangère ou sous contrôle étranger ou à leurs agents soit
 des troupes appartenant aux forces armées françaises, soit tout ou partie du territoire national est puni de la détention
-criminelle à perpétuité et de 5 000 000 F d'amende.
+criminelle à perpétuité et de 750 000 euros d'amende. 
 
 Les deux premiers alinéas de l'article 132-23 relatif à la période de sûreté sont applicables au crime prévu par le présent
 article.
@@ -21285,6 +21684,10 @@ _Codifié par_:
   - SPEC_APPLI: Loi n°92-686 1992-07-22 art. 1
   - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
 
+_Modifié par_:
+
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+
 _Cité par_:
 
   - Code de justice militaire - art. 476-14 (Ab)
@@ -21296,14 +21699,14 @@ _Cité par_:
 
 _Cite_:
 
-  - Code pénal - art. 132-23 (M)
+  - Code pénal - art. 132-23 (V)
 
 
 ###### Article 411-3
 
 Le fait de livrer à une puissance étrangère, à une entreprise ou une organisation étrangère ou sous contrôle étranger ou à
 leurs agents des matériels, constructions, équipements, installations, appareils affectés à la défense nationale est puni de
-trente ans de détention criminelle et de 3 000 000 F d'amende.
+trente ans de détention criminelle et de 450 000 euros d'amende.
 
 **Liens relatifs à cet article**
 
@@ -21315,6 +21718,10 @@ _Codifié par_:
 
   - SPEC_APPLI: Loi n°92-686 1992-07-22 art. 1
   - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
+
+_Modifié par_:
+
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 _Cité par_:
 
@@ -21328,7 +21735,7 @@ _Cité par_:
 
 Le fait d'entretenir des intelligences avec une puissance étrangère, avec une entreprise ou organisation étrangère ou sous
 contrôle étranger ou avec leurs agents, en vue de susciter des hostilités ou des actes d'agression contre la France, est puni
-de trente ans de détention criminelle et de 3 000 000 F d'amende.
+de trente ans de détention criminelle et de 450 000 euros d'amende.
 
 Est puni des mêmes peines le fait de fournir à une puissance étrangère, à une entreprise ou une organisation étrangère ou
 sous contrôle étranger ou à leurs agents les moyens d'entreprendre des hostilités ou d'accomplir des actes d'agression contre
@@ -21345,6 +21752,10 @@ _Codifié par_:
   - SPEC_APPLI: Loi n°92-686 1992-07-22 art. 1
   - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
 
+_Modifié par_:
+
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+
 _Cité par_:
 
   - Code de justice militaire - art. 476-15 (Ab)
@@ -21356,7 +21767,7 @@ _Cité par_:
 
 Le fait d'entretenir des intelligences avec une puissance étrangère, avec une entreprise ou organisation étrangère ou sous
 contrôle étranger ou avec leurs agents, lorsqu'il est de nature à porter atteinte aux intérêts fondamentaux de la nation, est
-puni de dix ans d'emprisonnement et de 1 000 000 F d'amende.
+puni de dix ans d'emprisonnement et de 150 000 euros d'amende.
 
 **Liens relatifs à cet article**
 
@@ -21368,6 +21779,10 @@ _Codifié par_:
 
   - SPEC_APPLI: Loi n°92-686 1992-07-22 art. 1
   - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
+
+_Modifié par_:
+
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 _Cité par_:
 
@@ -21382,7 +21797,7 @@ _Cité par_:
 Le fait de livrer ou de rendre accessibles à une puissance étrangère, à une entreprise ou organisation étrangère ou sous
 contrôle étranger ou à leurs agents des renseignements, procédés, objets, documents, données informatisées ou fichiers dont
 l'exploitation, la divulgation ou la réunion est de nature à porter atteinte aux intérêts fondamentaux de la nation est puni
-de quinze ans de détention criminelle et de 1 500 000 F d'amende.
+de quinze ans de détention criminelle et de 225 000 euros d'amende.
 
 **Liens relatifs à cet article**
 
@@ -21394,6 +21809,10 @@ _Codifié par_:
 
   - SPEC_APPLI: Loi n°92-686 1992-07-22 art. 1
   - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
+
+_Modifié par_:
+
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 _Cité par_:
 
@@ -21411,7 +21830,7 @@ _Cité par_:
 Le fait de recueillir ou de rassembler, en vue de les livrer à une puissance étrangère, à une entreprise ou organisation
 étrangère ou sous contrôle étranger ou à leurs agents, des renseignements, procédés, objets, documents, données informatisées
 ou fichiers dont l'exploitation, la divulgation ou la réunion est de nature à porter atteinte aux intérêts fondamentaux de la
-nation est puni de dix ans d'emprisonnement et de 1 000 000 F d'amende.
+nation est puni de dix ans d'emprisonnement et de 150 000 euros d'amende.
 
 **Liens relatifs à cet article**
 
@@ -21432,13 +21851,17 @@ _Codifié par_:
   - SPEC_APPLI: Loi n°92-686 1992-07-22 art. 1
   - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
 
+_Modifié par_:
+
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+
 
 ###### Article 411-8
 
 Le fait d'exercer, pour le compte d'une puissance étrangère, d'une entreprise ou organisation étrangère ou sous contrôle
 étranger ou de leurs agents, une activité ayant pour but l'obtention ou la livraison de dispositifs, renseignements,
 procédés, objets, documents, données informatisées ou fichiers dont l'exploitation, la divulgation ou la réunion est de
-nature à porter atteinte aux intérêts fondamentaux de la nation est puni de dix ans d'emprisonnement et de 1 000 000 F
+nature à porter atteinte aux intérêts fondamentaux de la nation est puni de dix ans d'emprisonnement et de 150 000 euros
 d'amende.
 
 **Liens relatifs à cet article**
@@ -21452,6 +21875,10 @@ _Codifié par_:
   - SPEC_APPLI: Loi n°92-686 1992-07-22 art. 1
   - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
 
+_Modifié par_:
+
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+
 _Cité par_:
 
   - Code de justice militaire - art. 476-15 (Ab)
@@ -21464,11 +21891,11 @@ _Cité par_:
 
 Le fait de détruire, détériorer ou détourner tout document, matériel, construction, équipement, installation, appareil,
 dispositif technique ou système de traitement automatisé d'informations ou d'y apporter des malfaçons, lorsque ce fait est de
-nature à porter atteinte aux intérêts fondamentaux de la nation, est puni de quinze ans de détention criminelle et de 1 500
-000 F d'amende.
+nature à porter atteinte aux intérêts fondamentaux de la nation, est puni de quinze ans de détention criminelle et de 225 000
+euros d'amende.
 
 Lorsqu'il est commis dans le but de servir les intérêts d'une puissance étrangère, d'une entreprise ou organisation étrangère
-ou sous contrôle étranger, le même fait est puni de vingt ans de détention criminelle et de 2 000 000 F d'amende.
+ou sous contrôle étranger, le même fait est puni de vingt ans de détention criminelle et de 300 000 euros d'amende.
 
 **Liens relatifs à cet article**
 
@@ -21480,6 +21907,10 @@ _Codifié par_:
 
   - SPEC_APPLI: Loi n°92-686 1992-07-22 art. 1
   - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
+
+_Modifié par_:
+
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 _Cité par_:
 
@@ -21497,7 +21928,7 @@ _Cité par_:
 
 Le fait de fournir, en vue de servir les intérêts d'une puissance étrangère, d'une entreprise ou organisation étrangère ou
 sous contrôle étranger, aux autorités civiles ou militaires de la France des informations fausses de nature à les induire en
-erreur et à porter atteinte aux intérêts fondamentaux de la nation est puni de sept ans d'emprisonnement et de 700 000 F
+erreur et à porter atteinte aux intérêts fondamentaux de la nation est puni de sept ans d'emprisonnement et de 100 000 euros
 d'amende.
 
 **Liens relatifs à cet article**
@@ -21511,6 +21942,10 @@ _Codifié par_:
   - SPEC_APPLI: Loi n°92-686 1992-07-22 art. 1
   - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
 
+_Modifié par_:
+
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+
 _Cité par_:
 
   - Code de justice militaire - art. 476-14 (Ab)
@@ -21522,7 +21957,7 @@ _Cité par_:
 
 Le fait, par promesses, offres, pressions, menaces ou voies de fait, de provoquer directement à commettre l'un des crimes
 prévus au présent chapitre, lorsque la provocation n'est pas suivie d'effet en raison de circonstances indépendantes de la
-volonté de son auteur, est puni de sept ans d'emprisonnement et de 700 000 F d'amende.
+volonté de son auteur, est puni de sept ans d'emprisonnement et de 100 000 euros d'amende.
 
 **Liens relatifs à cet article**
 
@@ -21535,6 +21970,10 @@ _Codifié par_:
   - SPEC_APPLI: Loi n°92-686 1992-07-22 art. 1
   - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
 
+_Modifié par_:
+
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+
 
 #### Chapitre II : Des autres atteintes aux institutions de la République ou à l'intégrité du territoire national<a id=160></a>
 
@@ -21543,12 +21982,12 @@ _Codifié par_:
 ###### Article 412-1
 
 Constitue un attentat le fait de commettre un ou plusieurs actes de violence de nature à mettre en péril les institutions de
-la République ou à porter atteinte à l'intégrité du territoire national.
+la République ou à porter atteinte à l'intégrité du territoire national. 
 
-L'attentat est puni de trente ans de détention criminelle et de 3 000 000 F d'amende [* taux *].
+L'attentat est puni de trente ans de détention criminelle et de 450 000 euros d'amende. 
 
-Les peines sont portées à la détention criminelle à perpétuité et à 5 000 000 F d'amende [* taux *] lorsque l'attentat est
-commis par une personne dépositaire de l'autorité publique.
+Les peines sont portées à la détention criminelle à perpétuité et à 750 000 euros d'amende lorsque l'attentat est commis par
+une personne dépositaire de l'autorité publique. 
 
 Les deux premiers alinéas de l'article 132-23 relatif à la période de sûreté sont applicables à l'infraction prévue au
 présent article.
@@ -21566,11 +22005,11 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°92-1336 du 16 décembre 1992 - art. 364 () JORF 23 décembre 1992 en vigueur le 1er mars 1994
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 _Cite_:
 
-  - Code pénal - art. 132-23 (M)
+  - Code pénal - art. 132-23 (V)
 
 _Cité par_:
 
@@ -21583,9 +22022,9 @@ _Cité par_:
 Constitue un complot la résolution arrêtée entre plusieurs personnes de commettre un attentat lorsque cette résolution est
 concrétisée par un ou plusieurs actes matériels.
 
-Le complot est puni de dix ans d'emprisonnement et de 1 000 000 F d'amende.
+Le complot est puni de dix ans d'emprisonnement et de 150 000 euros d'amende.
 
-Les peines sont portées à vingt ans de détention criminelle et à 2 000 000 F d'amende lorsque l'infraction est commise par
+Les peines sont portées à vingt ans de détention criminelle et à 300 000 euros d'amende lorsque l'infraction est commise par
 une personne dépositaire de l'autorité publique.
 
 **Liens relatifs à cet article**
@@ -21598,6 +22037,10 @@ _Codifié par_:
 
   - SPEC_APPLI: Loi n°92-686 1992-07-22 art. 1
   - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
+
+_Modifié par_:
+
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 _Cité par_:
 
@@ -21627,7 +22070,7 @@ _Codifié par_:
 
 ###### Article 412-4
 
-Est puni de quinze ans de détention criminelle et de 1 500 000 F d'amende le fait de participer à un mouvement
+Est puni de quinze ans de détention criminelle et de 225 000 euros d'amende le fait de participer à un mouvement
 insurrectionnel :
 
 1° En édifiant des barricades, des retranchements ou en faisant tous travaux ayant pour objet d'empêcher ou d'entraver
@@ -21654,6 +22097,10 @@ _Codifié par_:
   - SPEC_APPLI: Loi n°92-686 1992-07-22 art. 1
   - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
 
+_Modifié par_:
+
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+
 _Cité par_:
 
   - Code pénal - art. 414-5 (V)
@@ -21661,7 +22108,7 @@ _Cité par_:
 
 ###### Article 412-5
 
-Est puni de vingt ans de détention criminelle et de 2 000 000 F d'amende le fait de participer à un mouvement
+Est puni de vingt ans de détention criminelle et de 300 000 euros d'amende le fait de participer à un mouvement
 insurrectionnel :
 
 1° En s'emparant d'armes, de munitions, de substances explosives ou dangereuses ou de matériels de toute espèce soit à l'aide
@@ -21680,11 +22127,15 @@ _Codifié par_:
   - SPEC_APPLI: Loi n°92-686 1992-07-22 art. 1
   - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
 
+_Modifié par_:
+
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+
 
 ###### Article 412-6
 
-Le fait de diriger ou d'organiser un mouvement insurrectionnel est puni de la détention criminelle à perpétuité et de 5 000
-000 F d'amende.
+Le fait de diriger ou d'organiser un mouvement insurrectionnel est puni de la détention criminelle à perpétuité et de 750 000
+euros d'amende.
 
 **Liens relatifs à cet article**
 
@@ -21697,6 +22148,10 @@ _Codifié par_:
   - SPEC_APPLI: Loi n°92-686 1992-07-22 art. 1
   - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
 
+_Modifié par_:
+
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+
 _Cité par_:
 
   - Code pénal - art. 414-4 (V)
@@ -21706,7 +22161,7 @@ _Cité par_:
 
 ###### Article 412-7
 
-Est puni de trente ans de détention criminelle et de 3 000 000 F d'amende le fait :
+Est puni de trente ans de détention criminelle et de 450 000 euros d'amende le fait :
 
 1° Sans droit ou sans autorisation, de prendre un commandement militaire quelconque ou de le retenir contre l'ordre des
 autorités légales ;
@@ -21724,13 +22179,17 @@ _Codifié par_:
   - SPEC_APPLI: Loi n°92-686 1992-07-22 art. 1
   - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
 
+_Modifié par_:
+
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+
 
 ###### Article 412-8
 
 Le fait de provoquer à s'armer contre l'autorité de l'Etat ou contre une partie de la population est puni de cinq ans
-d'emprisonnement et de 500 000 F d'amende.
+d'emprisonnement et de 75 000 euros d'amende.
 
-Lorsque la provocation est suivie d'effet, les peines sont portées à trente ans de détention criminelle et à 3 000 000 F
+Lorsque la provocation est suivie d'effet, les peines sont portées à trente ans de détention criminelle et à 450 000 euros
 d'amende.
 
 Lorsque la provocation est commise par la voie de la presse écrite ou audiovisuelle, les dispositions particulières des lois
@@ -21747,6 +22206,10 @@ _Codifié par_:
   - SPEC_APPLI: Loi n°92-686 1992-07-22 art. 1
   - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
 
+_Modifié par_:
+
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+
 _Cité par_:
 
   - Code pénal - art. 414-5 (V)
@@ -21759,7 +22222,7 @@ _Cité par_:
 ###### Article 413-1
 
 Le fait, en vue de nuire à la défense nationale, de provoquer des militaires appartenant aux forces armées françaises à
-passer au service d'une puissance étrangère est puni de dix ans d'emprisonnement et de 1 000 000 F d'amende.
+passer au service d'une puissance étrangère est puni de dix ans d'emprisonnement et de 150 000 euros d'amende.
 
 **Liens relatifs à cet article**
 
@@ -21785,11 +22248,15 @@ _Cité par_:
   - Code pénal - art. 414-6 (V)
   - Code pénal - art. 414-8 (V)
 
+_Modifié par_:
+
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+
 
 ###### Article 413-2
 
 Le fait, en vue de nuire à la défense nationale, d'entraver le fonctionnement normal du matériel militaire est puni de cinq
-ans d'emprisonnement et de 500 000 F d'amende.
+ans d'emprisonnement et de 75 000 euros d'amende.
 
 Est puni des mêmes peines le fait, en vue de nuire à la défense nationale, d'entraver le mouvement de personnel ou de
 matériel militaire.
@@ -21805,6 +22272,10 @@ _Codifié par_:
   - SPEC_APPLI: Loi n°92-686 1992-07-22 art. 1
   - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
 
+_Modifié par_:
+
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+
 _Cité par_:
 
   - Code pénal - art. 413-8 (V)
@@ -21814,7 +22285,8 @@ _Cité par_:
 ###### Article 413-3
 
 Le fait, en vue de nuire à la défense nationale, de provoquer à la désobéissance par quelque moyen que ce soit des militaires
-ou des assujettis affectés à toute forme du service national est puni de cinq ans d'emprisonnement et de 500 000 F d'amende.
+ou des assujettis affectés à toute forme du service national est puni de cinq ans d'emprisonnement et de 75 000 euros
+d'amende.
 
 Lorsque la provocation est commise par la voie de la presse écrite ou audiovisuelle, les dispositions particulières des lois
 qui régissent ces matières sont applicables en ce qui concerne la détermination des personnes responsables.
@@ -21830,6 +22302,10 @@ _Codifié par_:
   - SPEC_APPLI: Loi n°92-686 1992-07-22 art. 1
   - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
 
+_Modifié par_:
+
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+
 _Cité par_:
 
   - Code de justice militaire - art. 389 (Ab)
@@ -21838,7 +22314,7 @@ _Cité par_:
 ###### Article 413-4
 
 Le fait de participer à une entreprise de démoralisation de l'armée en vue de nuire à la défense nationale est puni de cinq
-ans d'emprisonnement et de 500 000 F d'amende.
+ans d'emprisonnement et de 75 000 euros d'amende.
 
 Lorsque l'infraction est commise par la voie de la presse écrite ou audiovisuelle, les dispositions particulières des lois
 qui régissent ces matières sont applicables en ce qui concerne la détermination des personnes responsables.
@@ -21854,12 +22330,16 @@ _Codifié par_:
   - SPEC_APPLI: Loi n°92-686 1992-07-22 art. 1
   - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
 
+_Modifié par_:
+
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+
 
 ###### Article 413-5
 
 Le fait, sans autorisation des autorités compétentes, de s'introduire frauduleusement sur un terrain, dans une construction
 ou dans un engin ou appareil quelconque affecté à l'autorité militaire ou placé sous son contrôle est puni d'un an
-d'emprisonnement et de 100 000 F d'amende.
+d'emprisonnement et de 15 000 euros d'amende.
 
 **Liens relatifs à cet article**
 
@@ -21885,11 +22365,15 @@ _Cité par_:
   - Code pénal - art. 413-8 (V)
   - Code pénal - art. R644-1 (V)
 
+_Modifié par_:
+
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+
 
 ###### Article 413-6
 
 Le fait, en vue de nuire à la défense nationale, d'entraver le fonctionnement normal des services, établissements ou
-entreprises, publics ou privés, intéressant la défense nationale, est puni de trois ans d'emprisonnement et de 300 000 F
+entreprises, publics ou privés, intéressant la défense nationale, est puni de trois ans d'emprisonnement et de 45 000 euros
 d'amende.
 
 **Liens relatifs à cet article**
@@ -21903,6 +22387,10 @@ _Codifié par_:
   - SPEC_APPLI: Loi n°92-686 1992-07-22 art. 1
   - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
 
+_Modifié par_:
+
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+
 _Cité par_:
 
   - Code de justice militaire - art. 476-6 (Ab)
@@ -21912,7 +22400,7 @@ _Cité par_:
 
 ###### Article 413-7
 
-Est puni de six mois d'emprisonnement et de 50 000 F d'amende le fait, dans les services, établissements ou entreprises,
+Est puni de six mois d'emprisonnement et de 7 500 euros d'amende le fait, dans les services, établissements ou entreprises,
 publics ou privés, intéressant la défense nationale, de s'introduire, sans autorisation, à l'intérieur des locaux et terrains
 clos dans lesquels la libre circulation est interdite et qui sont délimités pour assurer la protection des installations, du
 matériel ou du secret des recherches, études ou fabrications.
@@ -21931,6 +22419,10 @@ _Codifié par_:
 
   - SPEC_APPLI: Loi n°92-686 1992-07-22 art. 1
   - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
+
+_Modifié par_:
+
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 _Cité par_:
 
@@ -22082,7 +22574,7 @@ _Modifié par_:
 
 ###### Article 413-10
 
-Est puni de sept ans d'emprisonnement et de 700 000 F d'amende le fait, par toute personne dépositaire, soit par état ou
+Est puni de sept ans d'emprisonnement et de 100000 euros d'amende le fait, par toute personne dépositaire, soit par état ou
 profession, soit en raison d'une fonction ou d'une mission temporaire ou permanente, d'un renseignement, procédé, objet,
 document, donnée informatisée ou fichier qui a un caractère de secret de la défense nationale, soit de le détruire,
 détourner, soustraire ou de le reproduire, soit de le porter à la connaissance du public ou d'une personne non qualifiée.
@@ -22091,7 +22583,7 @@ Est puni des mêmes peines le fait, par la personne dépositaire, d'avoir laiss�
 divulguer le renseignement, procédé, objet, document, donnée informatisée ou fichier visé à l'alinéa précédent.
 
 Lorsque la personne dépositaire a agi par imprudence ou négligence, l'infraction est punie de trois ans d'emprisonnement et
-de 300 000 F d'amende.
+de 45 000 euros d'amende.
 
 **Liens relatifs à cet article**
 
@@ -22127,10 +22619,15 @@ _Codifié par_:
   - SPEC_APPLI: Loi n°92-686 1992-07-22 art. 1
   - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
 
+_Modifié par_:
+
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+
 
 ###### Article 413-11
 
-Est puni de cinq ans d'emprisonnement et de 500 000 F d'amende le fait, par toute personne non visée à l'article 413-10 de :
+Est puni de cinq ans d'emprisonnement et de 75000 euros d'amende le fait, par toute personne non visée à l'article 413-10
+de :
 
 1° S'assurer la possession d'un renseignement, procédé, objet, document, donnée informatisée ou fichier qui présente le
 caractère d'un secret de la défense nationale ;
@@ -22161,6 +22658,10 @@ _Cité par_:
   - Code pénal - art. 413-12 (V)
   - Code pénal - art. 414-6 (M)
 
+_Modifié par_:
+
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+
 
 ###### Article 413-12
 
@@ -22189,12 +22690,12 @@ _Cite_:
 
 En cas d'état de siège ou d'urgence déclaré, ou en cas de mobilisation générale ou de mise en garde décidée par le
 Gouvernement, les infractions prévues par les articles 413-1 à 413-3 sont punies de trente ans de détention criminelle et de
-3 000 000 F d'amende et l'infraction prévue par l'article 413-6 est punie de sept ans d'emprisonnement et de 700 000 F
-d'amende.
+450 000 euros d'amende et l'infraction prévue par l'article 413-6 est punie de sept ans d'emprisonnement et de 100 000 euros
+d'amende. 
 
 Dans les cas visés à l'alinéa qui précède, le fait, en vue de nuire à la défense nationale, de provoquer à commettre les
-infractions prévues par l'article 413-2 est puni de dix ans d'emprisonnement et de 1 000 000 F d'amende et l'infraction
-prévue par l'article 413-6 de cinq ans d'emprisonnement et de 500 000 F d'amende.
+infractions prévues par l'article 413-2 est puni de dix ans d'emprisonnement et de 150 000 euros d'amende et l'infraction
+prévue par l'article 413-6 de cinq ans d'emprisonnement et de 75 000 euros d'amende.
 
 **Liens relatifs à cet article**
 
@@ -22207,11 +22708,15 @@ _Codifié par_:
   - SPEC_APPLI: Loi n°92-686 1992-07-22 art. 1
   - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
 
+_Modifié par_:
+
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+
 _Cite_:
 
-  - Code pénal - art. 413-2 (M)
-  - Code pénal - art. 413-6 (M)
-  - Code pénal 413-1 à 413-3, 413-6, 413-2
+  - Code pénal - art. 413-1 (V)
+  - Code pénal - art. 413-2 (V)
+  - Code pénal - art. 413-6 (V)
 
 _Cité par_:
 
@@ -22716,10 +23221,10 @@ _Cite_:
 
 ###### Article 421-4
 
-L'acte de terrorisme défini à l'article 421-2 est puni de quinze ans de réclusion criminelle et de 1 500 000 F d'amende.
+L'acte de terrorisme défini à l'article 421-2 est puni de quinze ans de réclusion criminelle et de 225000 euros  d'amende.
 
-Lorsque cet acte a entraîné la mort d'une ou plusieurs personnes, il est puni de la réclusion criminelle à perpétuité et de 5
-000 000 F d'amende.
+Lorsque cet acte a entraîné la mort d'une ou plusieurs personnes, il est puni de la réclusion criminelle à perpétuité et de
+750000 euros d'amende.
 
 Les deux premiers alinéas de l'article 132-23 relatif à la période de sûreté sont applicables au crime prévu par le présent
 article.
@@ -22735,6 +23240,10 @@ _Codifié par_:
   - SPEC_APPLI: Loi n°92-686 1992-07-22 art. 1
   - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
 
+_Modifié par_:
+
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+
 _Cité par_:
 
   - CODE DE PROCEDURE PENALE - art. 706-16 (M)
@@ -22748,7 +23257,7 @@ _Cite_:
 
 ###### Article 421-5
 
-Les actes de terrorisme définis aux articles 421-2-1 et 421-2-2 sont punis de dix ans d'emprisonnement et de 1 500 000 F
+Les actes de terrorisme définis aux articles 421-2-1 et 421-2-2 sont punis de dix ans d'emprisonnement et de 225000 euros
 d'amende.
 
 La tentative du délit défini à l'article 421-2-2 est punie des mêmes peines.
@@ -22769,7 +23278,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2001-1062 du 15 novembre 2001 - art. 33 () JORF 16 novembre 2001
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 _Cité par_:
 
@@ -22995,11 +23504,11 @@ _Créé par_:
 ###### Article 431-1
 
 Le fait d'entraver, d'une manière concertée et à l'aide de menaces, l'exercice de la liberté d'expression, du travail,
-d'association, de réunion ou de manifestation est puni d'un an d'emprisonnement et de 100 000 F d'amende.
+d'association, de réunion ou de manifestation est puni d'un an d'emprisonnement et de 15000 euros d'amende.
 
 Le fait d'entraver, d'une manière concertée et à l'aide de coups, violences, voies de fait, destructions ou dégradations au
 sens du présent code, l'exercice d'une des libertés visées à l'alinéa précédent est puni de trois ans d'emprisonnement et de
-300 000 F d'amende.
+45000 euros d'amende.
 
 **Liens relatifs à cet article**
 
@@ -23011,6 +23520,10 @@ _Codifié par_:
 
   - SPEC_APPLI: Loi n°92-686 1992-07-22 art. 1
   - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
+
+_Modifié par_:
+
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 _Cité par_:
 
@@ -23102,7 +23615,7 @@ _Cité par_:
 ###### Article 431-4
 
 Le fait, pour celui qui n'est pas porteur d'une arme, de continuer volontairement à participer à un attroupement après les
-sommations est puni d'un an d'emprisonnement et de 100 000 F d'amende.
+sommations est puni d'un an d'emprisonnement et de 15000 euros d'amende.
 
 **Liens relatifs à cet article**
 
@@ -23114,6 +23627,10 @@ _Codifié par_:
 
   - SPEC_APPLI: Loi n°92-686 1992-07-22 art. 1
   - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
+
+_Modifié par_:
+
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 _Cité par_:
 
@@ -23124,11 +23641,11 @@ _Cité par_:
 
 ###### Article 431-5
 
-Le fait de participer à un attroupement en étant porteur d'une arme est puni de trois ans d'emprisonnement et de 300 000 F
+Le fait de participer à un attroupement en étant porteur d'une arme est puni de trois ans d'emprisonnement et de 45000 euros
 d'amende.
 
 Si la personne armée a continué volontairement à participer à un attroupement après les sommations, la peine est portée à
-cinq ans d'emprisonnement et à 500 000 F d'amende.
+cinq ans d'emprisonnement et à 75000 euros d'amende.
 
 **Liens relatifs à cet article**
 
@@ -23140,6 +23657,10 @@ _Codifié par_:
 
   - SPEC_APPLI: Loi n°92-686 1992-07-22 art. 1
   - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
+
+_Modifié par_:
+
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 _Cité par_:
 
@@ -23153,9 +23674,9 @@ _Cité par_:
 
 La provocation directe à un attroupement armé, manifestée soit par des cris ou discours publics, soit par des écrits affichés
 ou distribués, soit par tout autre moyen de transmission de l'écrit, de la parole ou de l'image, est punie d'un an
-d'emprisonnement et de 100 000 F d'amende.
+d'emprisonnement et de 15 000 euros d'amende.
 
-Lorsque la provocation est suivie d'effet, la peine est portée à sept ans d'emprisonnement et à 700 000 F d'amende.
+Lorsque la provocation est suivie d'effet, la peine est portée à sept ans d'emprisonnement et à 100 000 euros d'amende.
 
 **Liens relatifs à cet article**
 
@@ -23172,6 +23693,10 @@ _Codifié par_:
 
   - SPEC_APPLI: Loi n°92-686 1992-07-22 art. 1
   - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
+
+_Modifié par_:
+
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 
 ###### Article 431-7
@@ -23233,7 +23758,7 @@ _Cite_:
 
 ###### Article 431-9
 
-Est puni de six mois d'emprisonnement et de 50 000 F d'amende le fait :
+Est puni de six mois d'emprisonnement et de 7 500 euros d'amende le fait :
 
 1° D'avoir organisé une manifestation sur la voie publique n'ayant pas fait l'objet d'une déclaration préalable dans les
 conditions fixées par la loi ;
@@ -23254,11 +23779,15 @@ _Codifié par_:
   - SPEC_APPLI: Loi n°92-686 1992-07-22 art. 1
   - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
 
+_Modifié par_:
+
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+
 
 ###### Article 431-10
 
 Le fait de participer à une manifestation ou à une réunion publique en étant porteur d'une arme est puni de trois ans
-d'emprisonnement et de 300 000 F d'amende.
+d'emprisonnement et de 45 000 euros d'amende.
 
 **Liens relatifs à cet article**
 
@@ -23270,6 +23799,10 @@ _Codifié par_:
 
   - SPEC_APPLI: Loi n°92-686 1992-07-22 art. 1
   - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
+
+_Modifié par_:
+
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 _Cité par_:
 
@@ -23359,7 +23892,7 @@ _Cité par_:
 
 ###### Article 431-14
 
-Le fait de participer à un groupe de combat est puni de trois ans d'emprisonnement et de 300 000 F d'amende.
+Le fait de participer à un groupe de combat est puni de trois ans d'emprisonnement et de 45 000 euros d'amende.
 
 **Liens relatifs à cet article**
 
@@ -23371,6 +23904,10 @@ _Codifié par_:
 
   - SPEC_APPLI: Loi n°92-686 1992-07-22 art. 1
   - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
+
+_Modifié par_:
+
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 _Cité par_:
 
@@ -23382,17 +23919,17 @@ _Cité par_:
 
 Le fait de participer au maintien ou à la reconstitution, ouverte ou déguisée, d'une association ou d'un groupement dissous
 en application de la loi du 10 janvier 1936 sur les groupes de combat et les milices privées est puni de trois ans
-d'emprisonnement et de 300 000 F d'amende.
+d'emprisonnement et de 45 000 euros d'amende. 
 
 Lorsque l'association ou le groupement maintenu ou reconstitué est un groupe de combat au sens de l'article 431-14, la peine
-est portée à cinq ans d'emprisonnement et à 500 000 F d'amende.
+est portée à cinq ans d'emprisonnement et à 75 000 euros d'amende.
 
 **Liens relatifs à cet article**
 
 _Cite_:
 
-  - Loi n°1936-01-10
-  - Code pénal - art. 431-14 (M)
+  - Loi du 10 janvier 1936 (Ab)
+  - Code pénal - art. 431-14 (V)
 
 _Cité par_:
 
@@ -23407,10 +23944,14 @@ _Codifié par_:
   - SPEC_APPLI: Loi n°92-686 1992-07-22 art. 1
   - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
 
+_Modifié par_:
+
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+
 
 ###### Article 431-16
 
-Le fait d'organiser un groupe de combat est puni de cinq ans d'emprisonnement et de 500 000 F d'amende.
+Le fait d'organiser un groupe de combat est puni de cinq ans d'emprisonnement et de 75 000 euros d'amende.
 
 **Liens relatifs à cet article**
 
@@ -23422,18 +23963,22 @@ _Codifié par_:
 
   - SPEC_APPLI: Loi n°92-686 1992-07-22 art. 1
   - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
+
+_Modifié par_:
+
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 
 ###### Article 431-17
 
 Le fait d'organiser le maintien ou la reconstitution, ouverte ou déguisée, d'un groupe de combat dissous en application de la
-loi du 10 janvier 1936 précitée est puni de sept ans d'emprisonnement et de 700 000 F d'amende.
+loi du 10 janvier 1936 précitée est puni de sept ans d'emprisonnement et de 100 000 euros d'amende.
 
 **Liens relatifs à cet article**
 
 _Cite_:
 
-  - Loi n°1936-01-10
+  - Loi du 10 janvier 1936 (Ab)
 
 _Cité par_:
 
@@ -23447,6 +23992,10 @@ _Codifié par_:
 
   - SPEC_APPLI: Loi n°92-686 1992-07-22 art. 1
   - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
+
+_Modifié par_:
+
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 
 ###### Article 431-18
@@ -23567,7 +24116,7 @@ _Codifié par_:
 ###### Article 432-1
 
 Le fait, par une personne dépositaire de l'autorité publique, agissant dans l'exercice de ses fonctions, de prendre des
-mesures destinées à faire échec à l'exécution de la loi est puni de cinq ans d'emprisonnement et de 500 000 F d'amende.
+mesures destinées à faire échec à l'exécution de la loi est puni de cinq ans d'emprisonnement et de 75 000 euros d'amende.
 
 **Liens relatifs à cet article**
 
@@ -23580,6 +24129,10 @@ _Codifié par_:
   - SPEC_APPLI: Loi n°92-686 1992-07-22 art. 1
   - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
 
+_Modifié par_:
+
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+
 _Cité par_:
 
   - Code de la défense. - art. L2121-3 (V)
@@ -23588,7 +24141,7 @@ _Cité par_:
 
 ###### Article 432-2
 
-L'infraction prévue à l'article 432-1 est punie de dix ans d'emprisonnement et de 1 000 000 F d'amende si elle a été suivie
+L'infraction prévue à l'article 432-1 est punie de dix ans d'emprisonnement et de 150 000 euros d'amende si elle a été suivie
 d'effet.
 
 **Liens relatifs à cet article**
@@ -23602,16 +24155,20 @@ _Codifié par_:
   - SPEC_APPLI: Loi n°92-686 1992-07-22 art. 1
   - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
 
+_Modifié par_:
+
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+
 _Cite_:
 
-  - Code pénal - art. 432-1 (M)
+  - Code pénal - art. 432-1 (V)
 
 
 ###### Article 432-3
 
 Le fait, par une personne dépositaire de l'autorité publique ou chargée d'une mission de service public ou par une personne
 investie d'un mandat électif public, ayant été officiellement informée de la décision ou de la circonstance mettant fin à ses
-fonctions, de continuer à les exercer, est puni de deux ans d'emprisonnement et de 200 000 F d'amende.
+fonctions, de continuer à les exercer, est puni de deux ans d'emprisonnement et de 30 000 euros d'amende.
 
 **Liens relatifs à cet article**
 
@@ -23623,6 +24180,10 @@ _Codifié par_:
 
   - SPEC_APPLI: Loi n°92-686 1992-07-22 art. 1
   - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
+
+_Modifié par_:
+
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 _Cité par_:
 
@@ -23637,10 +24198,10 @@ _Cité par_:
 
 Le fait, par une personne dépositaire de l'autorité publique ou chargée d'une mission de service public, agissant dans
 l'exercice ou à l'occasion de l'exercice de ses fonctions ou de sa mission, d'ordonner ou d'accomplir arbitrairement un acte
-attentatoire à la liberté individuelle est puni de sept ans d'emprisonnement et de 700 000 F d'amende.
+attentatoire à la liberté individuelle est puni de sept ans d'emprisonnement et de 100 000 euros d'amende.
 
 Lorsque l'acte attentatoire consiste en une détention ou une rétention d'une durée de plus de sept jours, la peine est portée
-à trente ans de réclusion criminelle et à 3 000 000 F d'amende.
+à trente ans de réclusion criminelle et à 450 000 euros d'amende.
 
 **Liens relatifs à cet article**
 
@@ -23652,6 +24213,10 @@ _Codifié par_:
 
   - SPEC_APPLI: Loi n°92-686 1992-07-22 art. 1
   - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
+
+_Modifié par_:
+
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 _Cité par_:
 
@@ -23668,12 +24233,12 @@ _Cité par_:
 Le fait, par une personne dépositaire de l'autorité publique ou chargée d'une mission de service public ayant eu
 connaissance, dans l'exercice ou à l'occasion de l'exercice de ses fonctions ou de sa mission, d'une privation de liberté
 illégale, de s'abstenir volontairement soit d'y mettre fin si elle en a le pouvoir, soit, dans le cas contraire, de provoquer
-l'intervention d'une autorité compétente, est puni de trois ans d'emprisonnement et de 300 000 F d'amende.
+l'intervention d'une autorité compétente, est puni de trois ans d'emprisonnement et de 45 000 euros d'amende.
 
 Le fait, par une personne visée à l'alinéa précédent ayant eu connaissance, dans l'exercice ou à l'occasion de l'exercice de
 ses fonctions ou de sa mission, d'une privation de liberté dont l'illégalité est alléguée, de s'abstenir volontairement soit
 de procéder aux vérifications nécessaires si elle en a le pouvoir, soit, dans le cas contraire, de transmettre la réclamation
-à une autorité compétente, est puni d'un an d'emprisonnement et de 100 000 F d'amende lorsque la privation de liberté,
+à une autorité compétente, est puni d'un an d'emprisonnement et de 15 000 euros d'amende lorsque la privation de liberté,
 reconnue illégale, s'est poursuivie.
 
 **Liens relatifs à cet article**
@@ -23687,12 +24252,16 @@ _Codifié par_:
   - SPEC_APPLI: Loi n°92-686 1992-07-22 art. 1
   - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
 
+_Modifié par_:
+
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+
 
 ###### Article 432-6
 
 Le fait, par un agent de l'administration pénitentiaire, de recevoir ou retenir une personne sans mandat, jugement ou ordre
 d'écrou établi conformément à la loi, ou de prolonger indûment la durée d'une détention, est puni de deux ans
-d'emprisonnement et 200 000 F d'amende.
+d'emprisonnement et 30 000 euros d'amende.
 
 **Liens relatifs à cet article**
 
@@ -23705,6 +24274,10 @@ _Codifié par_:
   - SPEC_APPLI: Loi n°92-686 1992-07-22 art. 1
   - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
 
+_Modifié par_:
+
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+
 _Cité par_:
 
   - Code de procédure pénale - art. 126 (V)
@@ -23716,7 +24289,7 @@ _Cité par_:
 
 La discrimination définie à l'article 225-1, commise à l'égard d'une personne physique ou morale par une personne dépositaire
 de l'autorité publique ou chargée d'une mission de service public, dans l'exercice ou à l'occasion de l'exercice de ses
-fonctions ou de sa mission, est punie de trois ans d'emprisonnement et de 300 000 F d'amende lorsqu'elle consiste :
+fonctions ou de sa mission, est punie de trois ans d'emprisonnement et de 45000 euros d'amende lorsqu'elle consiste :
 
 1° A refuser le bénéfice d'un droit accordé par la loi ;
 
@@ -23750,6 +24323,10 @@ _Codifié par_:
   - SPEC_APPLI: Loi n°92-686 1992-07-22 art. 1
   - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
 
+_Modifié par_:
+
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+
 _Cite_:
 
   - Code pénal - art. 225-1 (M)
@@ -23761,8 +24338,8 @@ _Cite_:
 
 Le fait, par une personne dépositaire de l'autorité publique ou chargée d'une mission de service public, agissant dans
 l'exercice ou à l'occasion de l'exercice de ses fonctions ou de sa mission, de s'introduire ou de tenter de s'introduire dans
-le domicile d'autrui contre le gré de celui-ci hors les cas prévus par la loi est puni de deux ans d'emprisonnement et de 200
-000 F d'amende.
+le domicile d'autrui contre le gré de celui-ci hors les cas prévus par la loi est puni de deux ans d'emprisonnement et de 30
+000 euros d'amende.
 
 **Liens relatifs à cet article**
 
@@ -23774,6 +24351,10 @@ _Codifié par_:
 
   - SPEC_APPLI: Loi n°92-686 1992-07-22 art. 1
   - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
+
+_Modifié par_:
+
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 _Cité par_:
 
@@ -23790,7 +24371,7 @@ _Cité par_:
 Le fait, par une personne dépositaire de l'autorité publique ou chargée d'une mission de service public, agissant dans
 l'exercice ou à l'occasion de l'exercice de ses fonctions ou de sa mission, d'ordonner, de commettre ou de faciliter, hors
 les cas prévus par la loi, le détournement, la suppression ou l'ouverture de correspondances ou la révélation du contenu de
-ces correspondances, est puni de trois ans d'emprisonnement et de 300 000 F d'amende.
+ces correspondances, est puni de trois ans d'emprisonnement et de 45000 euros d'amende.
 
 Est puni des mêmes peines le fait, par une personne visée à l'alinéa précédent ou un agent d'un exploitant de réseau de
 télécommunications autorisé en vertu de l'article L. 33-1 du code des postes et télécommunications ou d'un fournisseur de
@@ -23810,6 +24391,10 @@ _Cité par_:
   - Code pénal - art. 725-2 (V)
   - Code pénal - art. R226-11 (V)
 
+_Cite_:
+
+  - Code des postes et télécommunications L33-1
+
 _Codifié par_:
 
   - Loi n°92-686 1992-07-22
@@ -23819,9 +24404,9 @@ _Codifié par_:
   - SPEC_APPLI: Loi n°92-686 1992-07-22 art. 1
   - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
 
-_Cite_:
+_Modifié par_:
 
-  - Code des postes et télécommunications L33-1
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 
 ##### Section 3 : Des manquements au devoir de probité<a id=184></a>
@@ -23832,9 +24417,9 @@ _Cite_:
 
 Le fait, par une personne dépositaire de l'autorité publique ou chargée d'une mission de service public, de recevoir, exiger
 ou ordonner de percevoir à titre de droits ou contributions, impôts ou taxes publics, une somme qu'elle sait ne pas être due,
-ou excéder ce qui est dû, est puni de cinq ans d'emprisonnement et de 500 000 F d'amende.
+ou excéder ce qui est dû, est puni de cinq ans d'emprisonnement et de 75 000 euros d'amende.
 
-Est puni des même peines le fait, par les mêmes personnes, d'accorder sous une forme quelconque et pour quelque motif que ce
+Est puni des mêmes peines le fait, par les mêmes personnes, d'accorder sous une forme quelconque et pour quelque motif que ce
 soit une exonération ou franchise des droits, contributions, impôts ou taxes publics en violation des textes légaux ou
 réglementaires.
 
@@ -23876,14 +24461,19 @@ _Codifié par_:
   - SPEC_APPLI: Loi n°92-686 1992-07-22 art. 1
   - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
 
+_Modifié par_:
+
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+
 
 ##### Paragraphe 2 : De la corruption passive et du trafic d'influence commis par des personnes exerçant une fonction publique<a id=186></a>
 
 ###### Article 432-11
 
-Est puni de dix ans d'emprisonnement et de 1 000 000 F d'amende le fait, par une personne dépositaire de l'autorité publique,
-chargée d'une mission de service public, ou investie d'un mandat électif public, de solliciter ou d'agréer, sans droit, à
-tout moment, directement ou indirectement, des offres, des promesses, des dons, des présents ou des avantages quelconques :
+Est puni de dix ans d'emprisonnement et de 150000 euros d'amende le fait, par une personne dépositaire de l'autorité
+publique, chargée d'une mission de service public, ou investie d'un mandat électif public, de solliciter ou d'agréer, sans
+droit, à tout moment, directement ou indirectement, des offres, des promesses, des dons, des présents ou des avantages
+quelconques :
 
 1° Soit pour accomplir ou s'abstenir d'accomplir un acte de sa fonction, de sa mission ou de son mandat ou facilité par sa
 fonction, sa mission ou son mandat ;
@@ -23931,7 +24521,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2000-595 du 30 juin 2000 - art. 1 () JORF 1er juillet 2000
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 
 ##### Paragraphe 3 : De la prise illégale d'intérêts<a id=187></a>
@@ -23941,26 +24531,27 @@ _Modifié par_:
 Le fait, par une personne dépositaire de l'autorité publique ou chargée d'une mission de service public ou par une personne
 investie d'un mandat électif public, de prendre, recevoir ou conserver, directement ou indirectement, un intérêt quelconque
 dans une entreprise ou dans une opération dont elle a, au moment de l'acte, en tout ou partie, la charge d'assurer la
-surveillance, l'administration, la liquidation ou le paiement, est puni de cinq ans d'emprisonnement et de 500 000 F
-d'amende.
+surveillance, l'administration, la liquidation ou le paiement, est puni de cinq ans d'emprisonnement et de 75 000 euros
+d'amende. 
 
 Toutefois, dans les communes comptant 3 500 habitants au plus, les maires, adjoints ou conseillers municipaux délégués ou
 agissant en remplacement du maire peuvent chacun traiter avec la commune dont ils sont élus pour le transfert de biens
-mobiliers ou immobiliers ou la fourniture de services dans la limite d'un montant annuel fixé à 100 000 F.
+mobiliers ou immobiliers ou la fourniture de services dans la limite d'un montant annuel fixé à 16 000 euros. 
 
 En outre, dans ces communes, les maires, adjoints ou conseillers municipaux délégués ou agissant en remplacement du maire
 peuvent acquérir une parcelle d'un lotissement communal pour y édifier leur habitation personnelle ou conclure des baux
 d'habitation avec la commune pour leur propre logement. Ces actes doivent être autorisés, après estimation des biens
-concernés par le service des domaines, par une délibération motivée du conseil municipal.
+concernés par le service des domaines, par une délibération motivée du conseil municipal. 
 
 Dans les mêmes communes, les mêmes élus peuvent acquérir un bien appartenant à la commune pour la création ou le
 développement de leur activité professionnelle. Le prix ne peut être inférieur à l'évaluation du service des domaines. L'acte
-doit être autorisé, quelle que soit la valeur des biens concernés, par une délibération motivée du conseil municipal.
+doit être autorisé, quelle que soit la valeur des biens concernés, par une délibération motivée du conseil municipal. 
 
 Pour l'application des trois alinéas qui précèdent, la commune est représentée dans les conditions prévues par l'article L.
-122-12 du code des communes et le maire, l'adjoint ou le conseiller municipal intéressé doit s'abstenir de participer à la
-délibération du conseil municipal relative à la conclusion ou à l'approbation du contrat. En outre, par dérogation au
-deuxième alinéa de l'article L. 121-15 du code des communes, le conseil municipal ne peut décider de se réunir à huis clos.
+2122-26 du code général des collectivités territoriales et le maire, l'adjoint ou le conseiller municipal intéressé doit
+s'abstenir de participer à la délibération du conseil municipal relative à la conclusion ou à l'approbation du contrat. En
+outre, par dérogation au deuxième alinéa de l'article L. 2121-18 du code général des collectivités territoriales, le conseil
+municipal ne peut décider de se réunir à huis clos.
 
 **Liens relatifs à cet article**
 
@@ -24053,20 +24644,19 @@ _Codifié par_:
 
   - Loi n°92-686 1992-07-22
 
-**Liens**:
+_Modifié par_:
 
-  - SPEC_APPLI: Loi n°92-686 1992-07-22 art. 1
-  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 _Cite_:
 
-  - CODE DES COMMUNES. - art. L121-15 (M)
-  - CODE DES COMMUNES. - art. L122-12 (Ab)
+  - Code général des collectivités territoriales - art. L2122-18 (V)
+  - Code général des collectivités territoriales - art. L2122-26 (V)
 
 
 ###### Article 432-13
 
-Est puni de deux ans d'emprisonnement et de 200 000 F d'amende le fait, par une personne ayant été chargée, en tant que
+Est puni de deux ans d'emprisonnement et de 30000 euros d'amende le fait, par une personne ayant été chargée, en tant que
 fonctionnaire public ou agent ou préposé d'une administration publique, à raison même de sa fonction, soit d'assurer la
 surveillance ou le contrôle d'une entreprise privée, soit de conclure des contrats de toute nature avec une entreprise
 privée, soit d'exprimer son avis sur les opérations effectuées par une entreprise privée, de prendre ou de recevoir une
@@ -24134,13 +24724,17 @@ _Codifié par_:
   - SPEC_APPLI: Loi n°92-686 1992-07-22 art. 1
   - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
 
+_Modifié par_:
+
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+
 
 ##### Paragraphe 4 : Des atteintes à la liberté d'accès et à l'égalité des candidats dans les marchés publics et les délégations de service public<a id=188></a>
 
 ###### Article 432-14
 
-Est puni de deux ans d'emprisonnement et de 200 000 F d'amende le fait par une personne dépositaire de l'autorité publique ou
-chargée d'une mission de service public ou investie d'un mandat électif public ou exerçant les fonctions de représentant,
+Est puni de deux ans d'emprisonnement et de 30 000 euros d'amende le fait par une personne dépositaire de l'autorité publique
+ou chargée d'une mission de service public ou investie d'un mandat électif public ou exerçant les fonctions de représentant,
 administrateur ou agent de l'Etat, des collectivités territoriales, des établissements publics, des sociétés d'économie mixte
 d'intérêt national chargées d'une mission de service public et des sociétés d'économie mixte locales ou par toute personne
 agissant pour le compte de l'une de celles susmentionnées de procurer ou de tenter de procurer à autrui un avantage
@@ -24166,7 +24760,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°95-127 du 8 février 1995 - art. 10 () JORF 9 février 1995
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 
 ##### Paragraphe 5 : De la soustraction et du détournement de biens<a id=189></a>
@@ -24176,7 +24770,7 @@ _Modifié par_:
 Le fait, par une personne dépositaire de l'autorité publique ou chargée d'une mission de service public, un comptable public,
 un dépositaire public ou l'un de ses subordonnés, de détruire, détourner ou soustraire un acte ou un titre, ou des fonds
 publics ou privés, ou effets, pièces ou titres en tenant lieu, ou tout autre objet qui lui a été remis en raison de ses
-fonctions ou de sa mission, est puni de dix ans d'emprisonnement et de 1 000 000 F d'amende.
+fonctions ou de sa mission, est puni de dix ans d'emprisonnement et de 150 000 euros d'amende.
 
 La tentative du délit prévu à l'alinéa qui précède est punie des mêmes peines.
 
@@ -24210,12 +24804,16 @@ _Codifié par_:
   - SPEC_APPLI: Loi n°92-686 1992-07-22 art. 1
   - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
 
+_Modifié par_:
+
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+
 
 ###### Article 432-16
 
 Lorsque la destruction, le détournement ou la soustraction par un tiers des biens visés à l'article 432-15 résulte de la
 négligence d'une personne dépositaire de l'autorité publique ou chargée d'une mission de service public, d'un comptable
-public ou d'un dépositaire public, celle-ci est punie d'un an d'emprisonnement et de 100 000 F d'amende.
+public ou d'un dépositaire public, celle-ci est punie d'un an d'emprisonnement et de 15 000 euros d'amende.
 
 **Liens relatifs à cet article**
 
@@ -24228,9 +24826,17 @@ _Codifié par_:
   - SPEC_APPLI: Loi n°92-686 1992-07-22 art. 1
   - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
 
+_Modifié par_:
+
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+
 _Cité par_:
 
   - Code du patrimoine. - art. L214-3 (V)
+
+_Cite_:
+
+  - Code pénal - art. 432-15 (V)
 
 
 ##### Section 4 : Peines complémentaires<a id=190></a>
@@ -24287,7 +24893,7 @@ _Cite_:
 
 ###### Article 433-1
 
-Est puni de dix ans d'emprisonnement et de 1 000 000 F d'amende le fait de proposer, sans droit, à tout moment, directement
+Est puni de dix ans d'emprisonnement et de 150000 euros d'amende le fait de proposer, sans droit, à tout moment, directement
 ou indirectement, des offres, des promesses, des dons, des présents ou des avantages quelconques pour obtenir d'une personne
 dépositaire de l'autorité publique, chargée d'une mission de service public ou investie d'un mandat électif public :
 
@@ -24361,15 +24967,15 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2000-595 du 30 juin 2000 - art. 1 () JORF 1er juillet 2000
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 
 ###### Article 433-2
 
-Est puni de cinq ans d'emprisonnement et de 500 000 F d'amende le fait, par quiconque, de solliciter ou d'agréer, directement
-ou indirectement, des offres, des promesses, des dons, des présents ou des avantages quelconques pour abuser de son influence
-réelle ou supposée en vue de faire obtenir d'une autorité ou d'une administration publique des distinctions, des emplois, des
-marchés ou toute autre décision favorable.
+Est puni de cinq ans d'emprisonnement et de 75000 euros d'amende le fait, par quiconque, de solliciter ou d'agréer,
+directement ou indirectement, des offres, des promesses, des dons, des présents ou des avantages quelconques pour abuser de
+son influence réelle ou supposée en vue de faire obtenir d'une autorité ou d'une administration publique des distinctions,
+des emplois, des marchés ou toute autre décision favorable.
 
 Est puni des mêmes peines le fait, de céder aux sollicitations prévues à l'alinéa précédent, ou de proposer, sans droit,
 directement ou indirectement, des offres, des promesses, des dons, des présents ou des avantages quelconques pour qu'une
@@ -24418,20 +25024,24 @@ _Codifié par_:
   - SPEC_APPLI: Loi n°92-686 1992-07-22 art. 1
   - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
 
+_Modifié par_:
+
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+
 
 ##### Section 2 : Des menaces et actes d'intimidation commis contre les personnes exerçant une fonction publique<a id=193></a>
 
 ###### Article 433-3
 
-Est punie de deux ans d'emprisonnement et de 200 000 F d'amende la menace de commettre un crime ou un délit contre les
+Est punie de deux ans d'emprisonnement et de 30000 euros d'amende la menace de commettre un crime ou un délit contre les
 personnes ou les biens proférée à l'encontre d'un magistrat, d'un juré, d'un avocat, d'un officier public ou ministériel,
 d'un militaire de la gendarmerie, d'un fonctionnaire de la police nationale, des douanes, de l'administration pénitentiaire
 ou de toute autre personne dépositaire de l'autorité publique ou chargée d'une mission de service public, dans l'exercice ou
 à l'occasion de l'exercice de ses fonctions, lorsqu'elle est soit réitérée, soit matérialisée par un écrit, une image ou tout
-autre objet. La peine est portée à cinq ans d'emprisonnement et 500 000 F d'amende lorsqu'il s'agit d'une menace de mort ou
+autre objet. La peine est portée à cinq ans d'emprisonnement et 75000 euros d'amende lorsqu'il s'agit d'une menace de mort ou
 d'une menace d'atteinte aux biens dangereuse pour les personnes.
 
-Est puni de dix ans d'emprisonnement et de 1 000 000 F d'amende le fait d'user de menaces, de violences ou de commettre tout
+Est puni de dix ans d'emprisonnement et de 150000 euros d'amende le fait d'user de menaces, de violences ou de commettre tout
 autre acte d'intimidation pour obtenir d'une personne mentionnée au premier alinéa ou investie d'un mandat électif public
 soit qu'elle accomplisse ou s'abstienne d'accomplir un acte de sa fonction, de sa mission ou de son mandat, ou facilité par
 sa fonction, sa mission ou son mandat, soit qu'elle abuse de son autorité vraie ou supposée en vue de faire obtenir d'une
@@ -24469,7 +25079,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°96-647 du 22 juillet 1996 - art. 16 () JORF 23 juillet 1996
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 
 ##### Section 3 : De la soustraction et du détournement de biens contenus dans un dépôt public<a id=194></a>
@@ -24479,7 +25089,7 @@ _Modifié par_:
 Le fait de détruire, détourner ou soustraire un acte ou un titre, ou des fonds publics ou privés, ou des effets, pièces ou
 titres en tenant lieu ou tout autre objet, qui ont été remis, en raison de ses fonctions, à une personne dépositaire de
 l'autorité publique ou chargée d'une mission de service public, à un comptable public, à un dépositaire public ou à l'un de
-ses subordonnés, est puni de sept ans d'emprisonnement et de 700 000 F d'amende.
+ses subordonnés, est puni de sept ans d'emprisonnement et de 100 000 euros d'amende.
 
 La tentative du délit prévu à l'alinéa précédent est punie des mêmes peines.
 
@@ -24505,21 +25115,25 @@ _Cité par_:
   - Code pénal - art. 433-23 (V)
   - Code électoral - art. L7 (Ab)
 
+_Modifié par_:
+
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+
 
 ##### Section 4 : De l'outrage<a id=195></a>
 
 ###### Article 433-5
 
-Constituent un outrage puni de 50 000 F d'amende les paroles, gestes ou menaces, les écrits ou images de toute nature non
+Constituent un outrage puni de 7500 euros d'amende les paroles, gestes ou menaces, les écrits ou images de toute nature non
 rendus publics ou l'envoi d'objets quelconques adressés à une personne chargée d'une mission de service public, dans
 l'exercice ou à l'occasion de l'exercice de sa mission, et de nature à porter atteinte à sa dignité ou au respect dû à la
 fonction dont elle est investie.
 
 Lorsqu'il est adressé à une personne dépositaire de l'autorité publique, l'outrage est puni de six mois d'emprisonnement et
-de 50 000 F d'amende.
+de 7500 euros d'amende.
 
-Lorsqu'il est commis en réunion, l'outrage prévu au premier alinéa est puni de six mois d'emprisonnement et de 50 000 F
-d'amende, et l'outrage prévu au deuxième alinéa est puni d'un an d'emprisonnement et de 100 000 F d'amende.
+Lorsqu'il est commis en réunion, l'outrage prévu au premier alinéa est puni de six mois d'emprisonnement et de 7 500 euros
+d'amende, et l'outrage prévu au deuxième alinéa est puni d'un an d'emprisonnement et de 15000 euros d'amende.
 
 **Liens relatifs à cet article**
 
@@ -24556,7 +25170,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°96-647 du 22 juillet 1996 - art. 17 () JORF 23 juillet 1996
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 
 ##### Section 5 : De la rébellion<a id=196></a>
@@ -24597,9 +25211,9 @@ _Codifié par_:
 
 ###### Article 433-7
 
-La rébellion est punie de six mois d'emprisonnement et de 50 000 F d'amende.
+La rébellion est punie de six mois d'emprisonnement et de 7500 euros d'amende.
 
-La rébellion commise en réunion est punie d'un an d'emprisonnement et de 100 000 F d'amende.
+La rébellion commise en réunion est punie d'un an d'emprisonnement et de 15000 euros d'amende.
 
 **Liens relatifs à cet article**
 
@@ -24611,6 +25225,10 @@ _Codifié par_:
 
   - SPEC_APPLI: Loi n°92-686 1992-07-22 art. 1
   - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
+
+_Modifié par_:
+
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 _Cité par_:
 
@@ -24627,9 +25245,9 @@ _Cité par_:
 
 ###### Article 433-8
 
-La rébellion armée est punie de trois ans d'emprisonnement et de 300 000 F d'amende.
+La rébellion armée est punie de trois ans d'emprisonnement et de 45000 euros d'amende.
 
-La rébellion armée commise en réunion est punie de sept ans d'emprisonnement et de 700 000 F d'amende.
+La rébellion armée commise en réunion est punie de sept ans d'emprisonnement et de 100000 euros d'amende.
 
 **Liens relatifs à cet article**
 
@@ -24641,6 +25259,10 @@ _Codifié par_:
 
   - SPEC_APPLI: Loi n°92-686 1992-07-22 art. 1
   - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
+
+_Modifié par_:
+
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 _Cité par_:
 
@@ -24681,7 +25303,8 @@ _Cite_:
 ###### Article 433-10
 
 La provocation directe à la rébellion, manifestée soit par des cris ou des discours publics, soit par des écrits affichés ou
-distribués, soit par tout autre moyen de transmission de l'écrit, de la parole ou de l'image, est punie de 50 000 F d'amende.
+distribués, soit par tout autre moyen de transmission de l'écrit, de la parole ou de l'image, est punie de 7500 euros
+d'amende.
 
 Lorsque le délit prévu à l'alinéa précédent est commis par la voie de la presse écrite ou audiovisuelle, les dispositions
 particulières des lois qui régissent ces matières sont applicables en ce qui concerne la détermination des personnes
@@ -24698,6 +25321,10 @@ _Codifié par_:
   - SPEC_APPLI: Loi n°92-686 1992-07-22 art. 1
   - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
 
+_Modifié par_:
+
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+
 _Cité par_:
 
   - Code de procédure pénale - art. 398-1 (M)
@@ -24708,7 +25335,7 @@ _Cité par_:
 ###### Article 433-11
 
 Le fait de s'opposer, par voies de fait ou violences, à l'exécution de travaux publics ou d'utilité publique est puni d'un an
-d'emprisonnement et de 100 000 F d'amende.
+d'emprisonnement et de 15 000 euros d'amende.
 
 **Liens relatifs à cet article**
 
@@ -24721,12 +25348,16 @@ _Codifié par_:
   - SPEC_APPLI: Loi n°92-686 1992-07-22 art. 1
   - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
 
+_Modifié par_:
+
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+
 
 ##### Section 7 : De l'usurpation de fonctions<a id=198></a>
 
 ###### Article 433-12
 
-Est puni de trois ans d'emprisonnement et de 300 000 F d'amende le fait, par toute personne agissant sans titre, de
+Est puni de trois ans d'emprisonnement et de 45 000 euros d'amende le fait, par toute personne agissant sans titre, de
 s'immiscer dans l'exercice d'une fonction publique en accomplissant l'un des actes réservés au titulaire de cette fonction.
 
 **Liens relatifs à cet article**
@@ -24747,10 +25378,14 @@ _Codifié par_:
   - SPEC_APPLI: Loi n°92-686 1992-07-22 art. 1
   - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
 
+_Modifié par_:
+
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+
 
 ###### Article 433-13
 
-Est puni d'un an d'emprisonnement et de 100 000 F d'amende le fait par toute personne :
+Est puni d'un an d'emprisonnement et de 15 000 euros d'amende le fait par toute personne :
 
 1° D'exercer une activité dans des conditions de nature à créer dans l'esprit du public une confusion avec l'exercice d'une
 fonction publique ou d'une activité réservée aux officiers publics ou ministériels ;
@@ -24774,12 +25409,16 @@ _Codifié par_:
   - SPEC_APPLI: Loi n°92-686 1992-07-22 art. 1
   - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
 
+_Modifié par_:
+
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+
 
 ##### Section 8 : De l'usurpation de signes réservés à l'autorité publique<a id=199></a>
 
 ###### Article 433-14
 
-Est puni d'un an d'emprisonnement et de 100 000 F d'amende le fait, par toute personne, publiquement et sans droit :
+Est puni d'un an d'emprisonnement et de 15000 euros d'amende le fait, par toute personne, publiquement et sans droit :
 
 1° De porter un costume, un uniforme ou une décoration réglementés par l'autorité publique ;
 
@@ -24806,13 +25445,17 @@ _Codifié par_:
   - SPEC_APPLI: Loi n°92-686 1992-07-22 art. 1
   - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
 
+_Modifié par_:
+
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+
 
 ###### Article 433-15
 
-Est puni de six mois d'emprisonnement et de 50 000 F d'amende le fait, par toute personne, publiquement, de porter un costume
-ou un uniforme, d'utiliser un véhicule, ou de faire usage d'un insigne ou d'un document présentant, avec les costumes,
-uniformes, véhicules, insignes ou documents distinctifs réservés aux fonctionnaires de la police nationale ou aux militaires,
-une ressemblance de nature à causer une méprise dans l'esprit du public.
+Est puni de six mois d'emprisonnement et de 7500 euros d'amende le fait, par toute personne, publiquement, de porter un
+costume ou un uniforme, d'utiliser un véhicule, ou de faire usage d'un insigne ou d'un document présentant, avec les
+costumes, uniformes, véhicules, insignes ou documents distinctifs réservés aux fonctionnaires de la police nationale ou aux
+militaires, une ressemblance de nature à causer une méprise dans l'esprit du public.
 
 **Liens relatifs à cet article**
 
@@ -24831,11 +25474,15 @@ _Codifié par_:
   - SPEC_APPLI: Loi n°92-686 1992-07-22 art. 1
   - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
 
+_Modifié par_:
+
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+
 
 ###### Article 433-16
 
-Les infractions définies par les articles 433-14 et 433-15 sont punies de trois ans d'emprisonnement et de 300 000 F d'amende
-lorsqu'elles ont pour objet de préparer ou de faciliter la commission d'un crime ou d'un délit.
+Les infractions définies par les articles 433-14 et 433-15 sont punies de trois ans d'emprisonnement et de 45 000 euros
+d'amende lorsqu'elles ont pour objet de préparer ou de faciliter la commission d'un crime ou d'un délit.
 
 **Liens relatifs à cet article**
 
@@ -24848,10 +25495,13 @@ _Codifié par_:
   - SPEC_APPLI: Loi n°92-686 1992-07-22 art. 1
   - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
 
+_Modifié par_:
+
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+
 _Cite_:
 
-  - Code pénal - art. 433-14 (M)
-  - Code pénal - art. 433-15 (M)
+  - Code pénal - art. 433-14 (V)
 
 
 ##### Section 9 : De l'usurpation de titres<a id=200></a>
@@ -24860,7 +25510,7 @@ _Cite_:
 
 L'usage, sans droit, d'un titre attaché à une profession réglementée par l'autorité publique ou d'un diplôme officiel ou
 d'une qualité dont les conditions d'attribution sont fixées par l'autorité publique est puni d'un an d'emprisonnement et de
-100 000 F d'amende.
+15000 euros d'amende.
 
 **Liens relatifs à cet article**
 
@@ -24951,12 +25601,16 @@ _Codifié par_:
   - SPEC_APPLI: Loi n°92-686 1992-07-22 art. 1
   - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
 
+_Modifié par_:
+
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+
 
 ##### Section 10 : De l'usage irrégulier de qualité<a id=201></a>
 
 ###### Article 433-18
 
-Est puni de six mois d'emprisonnement et de 50 000 F d'amende le fait, par le fondateur ou le dirigeant de droit ou de fait
+Est puni de six mois d'emprisonnement et de 7500 euros d'amende le fait, par le fondateur ou le dirigeant de droit ou de fait
 d'une entreprise qui poursuit un but lucratif, de faire figurer ou de laisser figurer, dans une publicité réalisée dans
 l'intérêt de l'entreprise qu'il se propose de fonder ou qu'il dirige :
 
@@ -24989,14 +25643,18 @@ _Codifié par_:
   - SPEC_APPLI: Loi n°92-686 1992-07-22 art. 1
   - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
 
+_Modifié par_:
+
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+
 
 ##### Section 11 : Des atteintes à l'état civil des personnes<a id=202></a>
 
 ###### Article 433-19
 
-Est puni de six mois d'emprisonnement et de 50 000 F d'amende le fait, dans un acte public ou authentique ou dans un document
-administratif destiné à l'autorité publique et hors les cas où la réglementation en vigueur autorise à souscrire ces actes ou
-documents sous un état civil d'emprunt :
+Est puni de six mois d'emprisonnement et de 7 500 euros d'amende le fait, dans un acte public ou authentique ou dans un
+document administratif destiné à l'autorité publique et hors les cas où la réglementation en vigueur autorise à souscrire ces
+actes ou documents sous un état civil d'emprunt :
 
 1° De prendre un nom ou un accessoire du nom autre que celui assigné par l'état civil ;
 
@@ -25013,11 +25671,15 @@ _Codifié par_:
   - SPEC_APPLI: Loi n°92-686 1992-07-22 art. 1
   - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
 
+_Modifié par_:
+
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+
 
 ###### Article 433-20
 
 Le fait, pour une personne engagée dans les liens du mariage, d'en contracter un autre avant la dissolution du précédent, est
-puni d'un an d'emprisonnement et de 300 000 F d'amende.
+puni d'un an d'emprisonnement et de 45 000 euros d'amende.
 
 Est puni des mêmes peines l'officier public ayant célébré ce mariage en connaissant l'existence du précédent.
 
@@ -25032,9 +25694,9 @@ _Codifié par_:
   - SPEC_APPLI: Loi n°92-686 1992-07-22 art. 1
   - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
 
-_Anciens textes_:
+_Modifié par_:
 
-  - CODE PENAL - art. 340 (Ab)
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 _Cité par_:
 
@@ -25045,7 +25707,7 @@ _Cité par_:
 
 Tout ministre d'un culte qui procédera, de manière habituelle, aux cérémonies religieuses de mariage sans que ne lui ait été
 justifié l'acte de mariage préalablement reçu par les officiers de l'état civil sera puni de six mois d'emprisonnement et de
-50 000 F d'amende.
+7 500 euros d'amende.
 
 **Liens relatifs à cet article**
 
@@ -25058,6 +25720,10 @@ _Codifié par_:
   - SPEC_APPLI: Loi n°92-686 1992-07-22 art. 1
   - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
 
+_Modifié par_:
+
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+
 _Cité par_:
 
   - Code pénal - art. 725-5 (Ab)
@@ -25066,7 +25732,7 @@ _Cité par_:
 ###### Article 433-21-1
 
 Toute personne qui donne aux funérailles un caractère contraire à la volonté du défunt ou à une décision judiciaire, volonté
-ou décision dont elle a connaissance, sera punie de six mois d'emprisonnement et de 50 000 F d'amende [* taux *].
+ou décision dont elle a connaissance, sera punie de six mois d'emprisonnement et de 7 500 euros d'amende.
 
 **Liens relatifs à cet article**
 
@@ -25078,9 +25744,9 @@ _Codifié par_:
 
   - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°92-1336 du 16 décembre 1992 - art. 366 () JORF 23 décembre 1992 en vigueur le 1er mars 1994
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 
 ##### Section 12 : Peines complémentaires et responsabilité des personnes morales<a id=203></a>
@@ -25228,14 +25894,14 @@ _Cite_:
 
 Le fait, pour quiconque ayant connaissance d'un crime dont il est encore possible de prévenir ou de limiter les effets, ou
 dont les auteurs sont susceptibles de commettre de nouveaux crimes qui pourraient être empêchés, de ne pas en informer les
-autorités judiciaires ou administratives est puni de trois ans d'emprisonnement et de 300 000 F d'amende.
+autorités judiciaires ou administratives est puni de trois ans d'emprisonnement et de 45 000 euros d'amende. 
 
-Sont exceptés des dispositions qui précèdent, sauf en ce qui concerne les crimes commis sur les mineurs de quinze ans :
+Sont exceptés des dispositions qui précèdent, sauf en ce qui concerne les crimes commis sur les mineurs de quinze ans : 
 
 1° Les parents en ligne directe et leurs conjoints, ainsi que les frères et soeurs et leurs conjoints, de l'auteur ou du
-complice du crime ;
+complice du crime ; 
 
-2° Le conjoint de l'auteur ou du complice du crime, ou la personne qui vit notoirement en situation maritale avec lui.
+2° Le conjoint de l'auteur ou du complice du crime, ou la personne qui vit notoirement en situation maritale avec lui. 
 
 Sont également exceptées des dispositions du premier alinéa les personnes astreintes au secret dans les conditions prévues
 par l'article 226-13.
@@ -25251,9 +25917,13 @@ _Codifié par_:
   - SPEC_APPLI: Loi n°92-686 1992-07-22 art. 1
   - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
 
+_Modifié par_:
+
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+
 _Cite_:
 
-  - Code pénal - art. 226-13 (M)
+  - Code pénal - art. 226-13 (V)
 
 _Cité par_:
 
@@ -25264,7 +25934,7 @@ _Cité par_:
 
 Lorsque le crime visé au premier alinéa de l'article 434-1 constitue une atteinte aux intérêts fondamentaux de la nation
 prévue par le titre Ier du présent livre ou un acte de terrorisme prévu par le titre II du présent livre, la peine est portée
-à cinq ans d'emprisonnement et à 500 000 F d'amende.
+à cinq ans d'emprisonnement et à 75 000 euros d'amende.
 
 **Liens relatifs à cet article**
 
@@ -25283,9 +25953,13 @@ _Codifié par_:
   - SPEC_APPLI: Loi n°92-686 1992-07-22 art. 1
   - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
 
+_Modifié par_:
+
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+
 _Cite_:
 
-  - Code pénal - art. 434-1 (M)
+  - Code pénal - art. 434-1 (V)
 
 
 ###### Article 434-3
@@ -25293,7 +25967,7 @@ _Cite_:
 Le fait, pour quiconque ayant eu connaissance de privations, de mauvais traitements ou d'atteintes sexuelles infligés à un
 mineur de quinze ans ou à une personne qui n'est pas en mesure de se protéger en raison de son âge, d'une maladie, d'une
 infirmité, d'une déficience physique ou psychique ou d'un état de grossesse, de ne pas en informer les autorités judiciaires
-ou administratives est puni de trois ans d'emprisonnement et de 300 000 F d'amende.
+ou administratives est puni de trois ans d'emprisonnement et de 45 000 euros d'amende. 
 
 Sauf lorsque la loi en dispose autrement, sont exceptées des dispositions qui précèdent les personnes astreintes au secret
 dans les conditions prévues par l'article 226-13.
@@ -25311,7 +25985,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°98-468 du 17 juin 1998 - art. 15 () JORF 18 juin 1998
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 _Cité par_:
 
@@ -25319,12 +25993,12 @@ _Cité par_:
 
 _Cite_:
 
-  - Code pénal - art. 226-13 (M)
+  - Code pénal - art. 226-13 (V)
 
 
 ###### Article 434-4
 
-Est puni de trois ans d'emprisonnement et de 300 000 F d'amende le fait, en vue de faire obstacle à la manifestation de la
+Est puni de trois ans d'emprisonnement et de 45 000 euros d'amende le fait, en vue de faire obstacle à la manifestation de la
 vérité :
 
 1° De modifier l'état des lieux d'un crime ou d'un délit soit par l'altération, la falsification ou l'effacement des traces
@@ -25334,7 +26008,7 @@ ou indices, soit par l'apport, le déplacement ou la suppression d'objets quelco
 d'un crime ou d'un délit, la recherche des preuves ou la condamnation des coupables.
 
 Lorsque les faits prévus au présent article sont commis par une personne qui, par ses fonctions, est appelée à concourir à la
-manifestation de la vérité, la peine est portée à cinq ans d'emprisonnement et à 500 000 F d'amende.
+manifestation de la vérité, la peine est portée à cinq ans d'emprisonnement et à 75 000 euros d'amende.
 
 **Liens relatifs à cet article**
 
@@ -25346,6 +26020,10 @@ _Codifié par_:
 
   - SPEC_APPLI: Loi n°92-686 1992-07-22 art. 1
   - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
+
+_Modifié par_:
+
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 _Cité par_:
 
@@ -25357,7 +26035,7 @@ _Cité par_:
 ###### Article 434-5
 
 Toute menace ou tout autre acte d'intimidation à l'égard de quiconque, commis en vue de déterminer la victime d'un crime ou
-d'un délit à ne pas porter plainte ou à se rétracter, est puni de trois ans d'emprisonnement et de 300 000 F d'amende.
+d'un délit à ne pas porter plainte ou à se rétracter, est puni de trois ans d'emprisonnement et de 45 000 euros d'amende.
 
 **Liens relatifs à cet article**
 
@@ -25370,13 +26048,17 @@ _Codifié par_:
   - SPEC_APPLI: Loi n°92-686 1992-07-22 art. 1
   - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
 
+_Modifié par_:
+
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+
 
 ###### Article 434-6
 
 Le fait de fournir à la personne auteur ou complice d'un crime ou d'un acte de terrorisme puni d'au moins dix ans
 d'emprisonnement un logement, un lieu de retraite, des subsides, des moyens d'existence ou tout autre moyen de la soustraire
-aux recherches ou à l'arrestation est puni de trois ans d'emprisonnement et de 300 000 F d'amende. Les peines sont portées à
-cinq ans d'emprisonnement et à 500 000 F d'amende lorsque l'infraction est commise de manière habituelle.
+aux recherches ou à l'arrestation est puni de trois ans d'emprisonnement et de 45 000 euros d'amende. Les peines sont portées
+à cinq ans d'emprisonnement et à 75 000 euros d'amende lorsque l'infraction est commise de manière habituelle.
 
 Sont exceptés des dispositions qui précèdent :
 
@@ -25400,7 +26082,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°96-647 du 22 juillet 1996 - art. 7 () JORF 23 juillet 1996
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 _Cité par_:
 
@@ -25411,7 +26093,7 @@ _Cité par_:
 ###### Article 434-7
 
 Le fait de receler ou de cacher le cadavre d'une personne victime d'un homicide ou décédée des suites de violences est puni
-de deux ans d'emprisonnement et de 200 000 F d'amende.
+de deux ans d'emprisonnement et de 30 000 euros d'amende.
 
 **Liens relatifs à cet article**
 
@@ -25424,6 +26106,10 @@ _Codifié par_:
   - SPEC_APPLI: Loi n°92-686 1992-07-22 art. 1
   - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
 
+_Modifié par_:
+
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+
 
 ##### Section 2 : Des entraves à l'exercice de la justice<a id=206></a>
 
@@ -25431,8 +26117,8 @@ _Codifié par_:
 
 Le fait, par un magistrat, toute autre personne siégeant dans une formation juridictionnelle ou toute autorité
 administrative, de dénier de rendre la justice après en avoir été requis et de persévérer dans son déni après avertissement
-ou injonction de ses supérieurs est puni de 50 000 F d'amende [* taux *] et de l'interdiction de l'exercice des fonctions
-publiques pour une durée de cinq à vingt ans.
+ou injonction de ses supérieurs est puni de 7 500 euros d'amende et de l'interdiction de l'exercice des fonctions publiques
+pour une durée de cinq à vingt ans.
 
 **Liens relatifs à cet article**
 
@@ -25440,14 +26126,13 @@ _Codifié par_:
 
   - Loi n°92-686 1992-07-22
 
-_Créé par_:
-
-  - Loi n°92-1336 1992-12-16 art. 213, 367 et 373 JORF 23 décembre 1992 en vigueur le 1er mars 1994
-  - Loi n°92-1336 du 16 décembre 1992 - art. 213 () JORF 23 décembre 1992 en vigueur le 1er mars 1994
-
 **Liens**:
 
   - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
+
+_Modifié par_:
+
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 _Cité par_:
 
@@ -25459,7 +26144,7 @@ _Cité par_:
 
 Toute menace ou tout acte d'intimidation commis envers un magistrat, un juré ou toute autre personne siégeant dans une
 formation juridictionnelle, un arbitre, un interprète, un expert ou l'avocat d'une partie en vue d'influencer son
-comportement dans l'exercice de ses fonctions est puni de trois ans d'emprisonnement et de 300 000 F d'amende.
+comportement dans l'exercice de ses fonctions est puni de trois ans d'emprisonnement et de 45 000 euros d'amende.
 
 **Liens relatifs à cet article**
 
@@ -25471,6 +26156,10 @@ _Codifié par_:
 
   - SPEC_APPLI: Loi n°92-686 1992-07-22 art. 1
   - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
+
+_Modifié par_:
+
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 _Cité par_:
 
@@ -25483,14 +26172,14 @@ Le fait, par un magistrat, un juré ou toute autre personne siégeant dans une f
 expert nommé soit par une juridiction, soit par les parties, ou une personne chargée par l'autorité judiciaire d'une mission
 de conciliation ou de médiation, de solliciter ou d'agréer, sans droit, à tout moment, directement ou indirectement, des
 offres, des promesses, des dons, des présents ou des avantages quelconques pour l'accomplissement ou l'abstention d'un acte
-de sa fonction, est puni de dix ans d'emprisonnement et de 1 000 000 F d'amende.
+de sa fonction, est puni de dix ans d'emprisonnement et de 150000 euros d'amende.
 
 Le fait, à tout moment, de céder aux sollicitations d'une personne visée à l'alinéa précédent, ou de proposer des offres, des
 promesses, des dons, des présents ou des avantages quelconques afin d'obtenir d'une de ces personnes l'accomplissement ou
 l'abstention d'un acte de sa fonction est puni des mêmes peines.
 
 Lorsque l'infraction définie au premier alinéa est commise par un magistrat au bénéfice ou au détriment d'une personne
-faisant l'objet de poursuites criminelles, la peine est portée à quinze ans de réclusion criminelle et à 1 500 000 F
+faisant l'objet de poursuites criminelles, la peine est portée à quinze ans de réclusion criminelle et à 225000 euros
 d'amende.
 
 **Liens relatifs à cet article**
@@ -25537,21 +26226,16 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2000-595 du 30 juin 2000 - art. 1 () JORF 1er juillet 2000
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 
 ###### Article 434-10
 
 Le fait, pour tout conducteur d'un véhicule ou engin terrestre, fluvial ou maritime, sachant qu'il vient de causer ou
 d'occasionner un accident, de ne pas s'arrêter et de tenter ainsi d'échapper à la responsabilité pénale ou civile qu'il peut
-avoir encourue, est puni de deux ans d'emprisonnement et de 200 000 F d'amende.
+avoir encourue, est puni de deux ans d'emprisonnement et de 30000 euros d'amende.
 
 Lorsqu'il y a lieu à l'application des articles 221-6 et 222-19, les peines prévues par ces articles sont portées au double.
-
-**Nota:**
-
-NOTA : L'article L. 2 du code de la route qui cite en le reproduisant l'article 434-10 du code pénal est modifié de plein
-droit par l'effet des modifications ultérieures de cet article ( Loi 92-1336 du 16 décembre 1992, art. 208).
 
 **Liens relatifs à cet article**
 
@@ -25577,15 +26261,15 @@ _Codifié par_:
 
   - Loi n°92-686 1992-07-22
 
-_Créé par_:
-
-  - Loi n°92-686 1992-07-22 JORF 23 juillet 1992 rectificatif JORF 23 décembre 1992 en vigueur le 1er mars 1994
-
 **Liens**:
 
   - SPEC_APPLI: Loi n°92-686 1992-07-22 art. 1
   - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
   - PILOTE_SUIVEUR: Code de la route. - art. L231-1 (V)
+
+_Modifié par_:
+
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 _Cite_:
 
@@ -25597,17 +26281,17 @@ _Cite_:
 
 Le fait, pour quiconque connaissant la preuve de l'innocence d'une personne détenue provisoirement ou jugée pour crime ou
 délit, de s'abstenir volontairement d'en apporter aussitôt le témoignage aux autorités judiciaires ou administratives est
-puni de trois ans d'emprisonnement et de 300 000 F d'amende.
+puni de trois ans d'emprisonnement et de 45 000 euros d'amende. 
 
-Toutefois, est exempt de peine celui qui apportera son témoignage tardivement, mais spontanément.
+Toutefois, est exempt de peine celui qui apportera son témoignage tardivement, mais spontanément. 
 
-Sont exceptés des dispositions du premier alinéa :
+Sont exceptés des dispositions du premier alinéa : 
 
 1° L'auteur ou le complice de l'infraction qui motivait la poursuite, ses parents en ligne directe et leurs conjoints, ainsi
-que ses frères et soeurs et leurs conjoints ;
+que ses frères et soeurs et leurs conjoints ; 
 
 2° Le conjoint de l'auteur ou du complice de l'infraction qui motivait la poursuite, ou la personne qui vit notoirement en
-situation maritale avec lui.
+situation maritale avec lui. 
 
 Sont également exceptées des dispositions du premier alinéa les personnes astreintes au secret dans les conditions prévues
 par l'article 226-13.
@@ -25623,9 +26307,13 @@ _Codifié par_:
   - SPEC_APPLI: Loi n°92-686 1992-07-22 art. 1
   - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
 
+_Modifié par_:
+
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+
 _Cite_:
 
-  - Code pénal - art. 226-13 (M)
+  - Code pénal - art. 226-13 (V)
 
 _Cité par_:
 
@@ -25635,7 +26323,7 @@ _Cité par_:
 ###### Article 434-12
 
 Le fait, pour toute personne ayant déclaré publiquement connaître les auteurs d'un crime ou d'un délit, de refuser de
-répondre aux questions qui lui sont posées à cet égard par un juge est puni d'un an d'emprisonnement et de 100 000 F
+répondre aux questions qui lui sont posées à cet égard par un juge est puni d'un an d'emprisonnement et de 15 000 euros
 d'amende.
 
 **Liens relatifs à cet article**
@@ -25649,11 +26337,15 @@ _Codifié par_:
   - SPEC_APPLI: Loi n°92-686 1992-07-22 art. 1
   - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
 
+_Modifié par_:
+
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+
 
 ###### Article 434-13
 
 Le témoignage mensonger fait sous serment devant toute juridiction ou devant un officier de police judiciaire agissant en
-exécution d'une commission rogatoire est puni de cinq ans d'emprisonnement et de 500 000 F d'amende.
+exécution d'une commission rogatoire est puni de cinq ans d'emprisonnement et de 75 000 euros d'amende.
 
 Toutefois, le faux témoin est exempt de peine s'il a rétracté spontanément son témoignage avant la décision mettant fin à la
 procédure rendue par la juridiction d'instruction ou par la juridiction de jugement.
@@ -25681,10 +26373,14 @@ _Codifié par_:
   - SPEC_APPLI: Loi n°92-686 1992-07-22 art. 1
   - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
 
+_Modifié par_:
+
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+
 
 ###### Article 434-14
 
-Le témoignage mensonger est puni de sept ans d'emprisonnement et de 700 000 F d'amende :
+Le témoignage mensonger est puni de sept ans d'emprisonnement et de 100 000 euros d'amende :
 
 1° Lorsqu'il est provoqué par la remise d'un don ou d'une récompense quelconque ;
 
@@ -25705,13 +26401,17 @@ _Codifié par_:
   - SPEC_APPLI: Loi n°92-686 1992-07-22 art. 1
   - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
 
+_Modifié par_:
+
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+
 
 ###### Article 434-15
 
 Le fait d'user de promesses, offres, présents, pressions, menaces, voies de fait, manoeuvres ou artifices au cours d'une
 procédure ou en vue d'une demande ou défense en justice afin de déterminer autrui soit à faire ou délivrer une déposition,
 une déclaration ou une attestation mensongère, soit à s'abstenir de faire ou délivrer une déposition, une déclaration ou une
-attestation, est puni de trois ans d'emprisonnement et de 300 000 F d'amende, même si la subornation n'est pas suivie
+attestation, est puni de trois ans d'emprisonnement et de 45 000 euros d'amende, même si la subornation n'est pas suivie
 d'effet.
 
 **Liens relatifs à cet article**
@@ -25731,12 +26431,15 @@ _Codifié par_:
   - SPEC_APPLI: Loi n°92-686 1992-07-22 art. 1
   - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
 
+_Modifié par_:
+
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+
 
 ###### Article 434-15-1
 
 Le fait de ne pas comparaître, de ne pas prêter serment ou de ne pas déposer, sans excuse ni justification, devant le juge
-d'instruction par une personne qui a été citée par lui pour y être entendue comme témoin est puni [*taux*] de 25 000 F
-d'amende.
+d'instruction par une personne qui a été citée par lui pour y être entendue comme témoin est puni de 3750 euros d'amende.
 
 **Liens relatifs à cet article**
 
@@ -25746,7 +26449,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2000-1354 du 30 décembre 2000 - art. 11 () JORF 31 décembre 2000
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 _Cité par_:
 
@@ -25785,7 +26488,7 @@ _Créé par_:
 
 La publication, avant l'intervention de la décision juridictionnelle définitive, de commentaires tendant à exercer des
 pressions en vue d'influencer les déclarations des témoins ou la décision des juridictions d'instruction ou de jugement est
-punie de six mois d'emprisonnement et de 50 000 F d'amende.
+punie de six mois d'emprisonnement et de 7 500 euros d'amende.
 
 Lorsque l'infraction est commise par la voie de la presse écrite ou audiovisuelle, les dispositions particulières des lois
 qui régissent ces matières sont applicables en ce qui concerne la détermination des personnes responsables.
@@ -25801,6 +26504,10 @@ _Codifié par_:
   - SPEC_APPLI: Loi n°92-686 1992-07-22 art. 1
   - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
 
+_Modifié par_:
+
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+
 _Cité par_:
 
   - Code pénal - art. 434-44 (V)
@@ -25808,7 +26515,7 @@ _Cité par_:
 
 ###### Article 434-17
 
-Le faux serment en matière civile est puni de trois ans d'emprisonnement et de 300 000 F d'amende.
+Le faux serment en matière civile est puni de trois ans d'emprisonnement et de 45 000 euros d'amende.
 
 **Liens relatifs à cet article**
 
@@ -25820,6 +26527,10 @@ _Codifié par_:
 
   - SPEC_APPLI: Loi n°92-686 1992-07-22 art. 1
   - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
+
+_Modifié par_:
+
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 _Cité par_:
 
@@ -25829,8 +26540,8 @@ _Cité par_:
 ###### Article 434-18
 
 Le fait, par un interprète, en toute matière, de dénaturer la substance des paroles ou documents traduits est puni, selon les
-distinctions des articles 434-13 et 434-14, de cinq ans d'emprisonnement et 500 000 F d'amende ou de sept ans
-d'emprisonnement et 700 000 d'amende.
+distinctions des articles 434-13 et 434-14, de cinq ans d'emprisonnement et 75 000 euros d'amende ou de sept ans
+d'emprisonnement et 100 000 euros d'amende.
 
 **Liens relatifs à cet article**
 
@@ -25842,6 +26553,14 @@ _Codifié par_:
 
   - SPEC_APPLI: Loi n°92-686 1992-07-22 art. 1
   - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
+
+_Modifié par_:
+
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+
+_Cite_:
+
+  - Code pénal - art. 434-13 (V)
 
 
 ###### Article 434-19
@@ -25867,8 +26586,8 @@ _Cite_:
 ###### Article 434-20
 
 Le fait, par un expert, en toute matière, de falsifier, dans ses rapports écrits ou ses exposés oraux, les données ou les
-résultats de l'expertise est puni, selon les distinctions des articles 434-13 et 434-14, de cinq ans d'emprisonnement et 500
-000 F d'amende ou de sept ans d'emprisonnement et 700 000 F d'amende.
+résultats de l'expertise est puni, selon les distinctions des articles 434-13 et 434-14, de cinq ans d'emprisonnement et 75
+000 euros d'amende ou de sept ans d'emprisonnement et 100 000 euros d'amende.
 
 **Liens relatifs à cet article**
 
@@ -25880,6 +26599,14 @@ _Codifié par_:
 
   - SPEC_APPLI: Loi n°92-686 1992-07-22 art. 1
   - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
+
+_Modifié par_:
+
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+
+_Cite_:
+
+  - Code pénal - art. 434-13 (V)
 
 
 ###### Article 434-21
@@ -25904,7 +26631,7 @@ _Cite_:
 
 ###### Article 434-22
 
-Le bris de scellés apposés par l'autorité publique est puni de deux ans d'emprisonnement et de 200 000 F d'amende. La
+Le bris de scellés apposés par l'autorité publique est puni de deux ans d'emprisonnement et de 30 000 euros d'amende. La
 tentative de bris de scellés est punie des mêmes peines.
 
 Est puni des mêmes peines tout détournement d'objet placé sous scellés ou sous main de justice.
@@ -25920,14 +26647,18 @@ _Codifié par_:
   - SPEC_APPLI: Loi n°92-686 1992-07-22 art. 1
   - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
 
+_Modifié par_:
+
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+
 
 ###### Article 434-23
 
 Le fait de prendre le nom d'un tiers, dans des circonstances qui ont déterminé ou auraient pu déterminer contre celui-ci des
-poursuites pénales, est puni de cinq ans d'emprisonnement et de 500 000 F d'amende.
+poursuites pénales, est puni de cinq ans d'emprisonnement et de 75 000 euros d'amende. 
 
 Nonobstant les dispositions des articles 132-2 à 132-5, les peines prononcées pour ce délit se cumulent, sans possibilité de
-confusion, avec celles qui auront été prononcées pour l'infraction à l'occasion de laquelle l'usurpation a été commise.
+confusion, avec celles qui auront été prononcées pour l'infraction à l'occasion de laquelle l'usurpation a été commise. 
 
 Est punie des peines prévues par le premier alinéa la fausse déclaration relative à l'état civil d'une personne, qui a
 déterminé ou aurait pu déterminer des poursuites pénales contre un tiers.
@@ -25955,9 +26686,13 @@ _Cité par_:
   - Code de procédure pénale - art. A36-16 (VD)
   - Code de procédure pénale - art. D45-15 (VD)
 
+_Modifié par_:
+
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+
 _Cite_:
 
-  - Code pénal 132-2 à 132-5
+  - Code pénal - art. 132-2 (V)
 
 
 ##### Section 3 : Des atteintes à l'autorité de la justice<a id=207></a>
@@ -25969,10 +26704,10 @@ _Cite_:
 L'outrage par paroles, gestes ou menaces, par écrits ou images de toute nature non rendus publics ou par l'envoi d'objets
 quelconques adressé à un magistrat, un juré ou toute personne siégeant dans une formation juridictionnelle dans l'exercice de
 ses fonctions ou à l'occasion de cet exercice et tendant à porter atteinte à sa dignité ou au respect dû à la fonction dont
-il est investi est puni d'un an d'emprisonnement et de 100 000 F d'amende.
+il est investi est puni d'un an d'emprisonnement et de 15 000 euros d'amende.
 
 Si l'outrage a lieu à l'audience d'une cour, d'un tribunal ou d'une formation juridictionnelle, la peine est portée à deux
-ans d'emprisonnement et à 200 000 F d'amende.
+ans d'emprisonnement et à 30 000 euros d'amende.
 
 **Liens relatifs à cet article**
 
@@ -25992,12 +26727,16 @@ _Cité par_:
   - CODE DE PROCEDURE PENALE - art. 681 (MMN)
   - Code de procédure pénale - art. 677 (VD)
 
+_Modifié par_:
+
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+
 
 ###### Article 434-25
 
 Le fait de chercher à jeter le discrédit, publiquement par actes, paroles, écrits ou images de toute nature, sur un acte ou
 une décision juridictionnelle, dans des conditions de nature à porter atteinte à l'autorité de la justice ou à son
-indépendance est puni de six mois d'emprisonnement et de 50 000 F d'amende.
+indépendance est puni de six mois d'emprisonnement et de 7 500 euros d'amende.
 
 Les dispositions de l'alinéa précédent ne s'appliquent pas aux commentaires techniques ni aux actes, paroles, écrits ou
 images de toute nature tendant à la réformation, la cassation ou la révision d'une décision.
@@ -26025,11 +26764,15 @@ _Cité par_:
   - Loi n°2002-1062 du 6 août 2002 - art. 14 (V)
   - Code pénal - art. 434-44 (V)
 
+_Modifié par_:
+
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+
 
 ###### Article 434-26
 
 Le fait de dénoncer mensongèrement à l'autorité judiciaire ou administrative des faits constitutifs d'un crime ou d'un délit
-qui ont exposé les autorités judiciaires à d'inutiles recherches est puni de six mois d'emprisonnement et de 50 000 F
+qui ont exposé les autorités judiciaires à d'inutiles recherches est puni de six mois d'emprisonnement et de 7 500 euros
 d'amende.
 
 **Liens relatifs à cet article**
@@ -26042,6 +26785,10 @@ _Codifié par_:
 
   - SPEC_APPLI: Loi n°92-686 1992-07-22 art. 1
   - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
+
+_Modifié par_:
+
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 _Cité par_:
 
@@ -26056,7 +26803,7 @@ _Cité par_:
 Constitue une évasion punissable le fait, par un détenu, de se soustraire à la garde à laquelle il est soumis, par violence,
 effraction ou corruption, lors même que celles-ci auraient été commises, de concert avec lui, par un tiers.
 
-L'évasion est punie de trois ans d'emprisonnement et de 300 000 F d'amende.
+L'évasion est punie de trois ans d'emprisonnement et de 45000 euros d'amende.
 
 **Liens relatifs à cet article**
 
@@ -26068,6 +26815,10 @@ _Codifié par_:
 
   - SPEC_APPLI: Loi n°92-686 1992-07-22 art. 1
   - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
+
+_Modifié par_:
+
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 _Cité par_:
 
@@ -26151,11 +26902,11 @@ _Cité par_:
 
 ###### Article 434-30
 
-Les infractions prévues à l'article 434-27 et au 1° de l'article 434-29 sont punies de sept ans d'emprisonnement et de 700
-000 F d'amende lorsque les violences consistent en la menace d'une arme ou d'une substance explosive, incendiaire ou toxique
-ou lorsqu'elles ont été commises dans le cadre d'une action concertée entre plusieurs détenus.
+Les infractions prévues à l'article 434-27 et au 1° de l'article 434-29 sont punies de sept ans d'emprisonnement et de 100
+000 euros d'amende lorsque les violences consistent en la menace d'une arme ou d'une substance explosive, incendiaire ou
+toxique ou lorsqu'elles ont été commises dans le cadre d'une action concertée entre plusieurs détenus.
 
-Les peines sont portées à dix ans d'emprisonnement et à 1 000 000 F d'amende lorsqu'il a été fait usage d'une arme ou d'une
+Les peines sont portées à dix ans d'emprisonnement et à 150 000 euros d'amende lorsqu'il a été fait usage d'une arme ou d'une
 substance explosive, incendiaire ou toxique.
 
 **Liens relatifs à cet article**
@@ -26168,6 +26919,10 @@ _Codifié par_:
 
   - SPEC_APPLI: Loi n°92-686 1992-07-22 art. 1
   - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
+
+_Modifié par_:
+
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 _Cité par_:
 
@@ -26205,14 +26960,14 @@ _Cite_:
 
 ###### Article 434-32
 
-Est puni de trois ans d'emprisonnement et de 300 000 F d'amende le fait, par toute personne, de procurer à un détenu tout
+Est puni de trois ans d'emprisonnement et de 45 000 euros d'amende le fait, par toute personne, de procurer à un détenu tout
 moyen de se soustraire à la garde à laquelle il était soumis.
 
 Si le concours ainsi apporté s'accompagne de violence, d'effraction ou de corruption, l'infraction est punie de cinq ans
-d'emprisonnement et de 500 000 F d'amende.
+d'emprisonnement et de 75 000 euros d'amende.
 
 Si ce concours consiste en la fourniture ou l'usage d'une arme ou d'une substance explosive, incendiaire ou toxique,
-l'infraction est punie de sept ans d'emprisonnement et de 700 000 F d'amende.
+l'infraction est punie de sept ans d'emprisonnement et de 100 000 euros d'amende.
 
 **Liens relatifs à cet article**
 
@@ -26233,17 +26988,21 @@ _Codifié par_:
   - SPEC_APPLI: Loi n°92-686 1992-07-22 art. 1
   - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
 
+_Modifié par_:
+
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+
 
 ###### Article 434-33
 
-Est puni de dix ans d'emprisonnement et de 1 000 000 F d'amende le fait, par toute personne chargée de sa surveillance, de
+Est puni de dix ans d'emprisonnement et de 150 000 euros d'amende le fait, par toute personne chargée de sa surveillance, de
 faciliter ou de préparer, même par abstention volontaire, l'évasion d'un détenu.
 
 Ces dispositions sont également applicables à toute personne habilitée par ses fonctions à pénétrer dans un établissement
 pénitentiaire ou à approcher, à quelque titre que ce soit, des détenus.
 
 Dans les cas prévus par le présent article, si le concours apporté consiste en la fourniture ou l'usage d'une arme ou d'une
-substance explosive, incendiaire ou toxique, l'infraction est punie de quinze ans de réclusion criminelle et de 1 500 000 F
+substance explosive, incendiaire ou toxique, l'infraction est punie de quinze ans de réclusion criminelle et de 225 000 euros
 d'amende.
 
 **Liens relatifs à cet article**
@@ -26256,6 +27015,10 @@ _Codifié par_:
 
   - SPEC_APPLI: Loi n°92-686 1992-07-22 art. 1
   - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
+
+_Modifié par_:
+
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 _Cité par_:
 
@@ -26288,11 +27051,11 @@ _Cite_:
 
 ###### Article 434-35
 
-Est puni d'un an d'emprisonnement et de 100 000 F d'amende le fait, en quelque lieu qu'il se produise, de remettre ou de
+Est puni d'un an d'emprisonnement et de 15000 euros d'amende le fait, en quelque lieu qu'il se produise, de remettre ou de
 faire parvenir à un détenu, ou de recevoir de lui et de transmettre des sommes d'argent, correspondances, objets ou
 substances quelconques en dehors des cas autorisés par les règlements.
 
-La peine est portée à trois ans d'emprisonnement et à 300 000 F d'amende si le coupable est chargé de la surveillance de
+La peine est portée à trois ans d'emprisonnement et à 45000 euros d'amende si le coupable est chargé de la surveillance de
 détenus ou s'il est habilité par ses fonctions à pénétrer dans un établissement pénitentiaire ou à approcher, à quelque titre
 que ce soit, des détenus.
 
@@ -26306,6 +27069,10 @@ _Codifié par_:
 
   - SPEC_APPLI: Loi n°92-686 1992-07-22 art. 1
   - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
+
+_Modifié par_:
+
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 _Cité par_:
 
@@ -26356,7 +27123,7 @@ _Codifié par_:
 ###### Article 434-38
 
 Le fait, par un interdit de séjour, de paraître dans un lieu qui lui est interdit est puni de deux ans d'emprisonnement et de
-200 000 F d'amende.
+30 000 euros d'amende.
 
 Est puni des mêmes peines le fait pour l'interdit de séjour de se soustraire aux mesures de surveillance prescrites par le
 juge.
@@ -26372,6 +27139,10 @@ _Codifié par_:
   - SPEC_APPLI: Loi n°92-686 1992-07-22 art. 1
   - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
 
+_Modifié par_:
+
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+
 _Cité par_:
 
   - Loi n°2015-993 du 17 août 2015 - art. 3
@@ -26381,8 +27152,8 @@ _Cité par_:
 ###### Article 434-39
 
 Dans le cas où un jugement a ordonné, à titre de peine, l'affichage de la décision de condamnation, le fait de supprimer,
-dissimuler ou lacérer totalement ou partiellement des affiches apposées est puni de six mois d'emprisonnement et de 50 000 F
-d'amende.
+dissimuler ou lacérer totalement ou partiellement des affiches apposées est puni de six mois d'emprisonnement et de 7 500
+euros d'amende.
 
 Le jugement ordonnera à nouveau l'exécution de l'affichage aux frais du condamné.
 
@@ -26397,6 +27168,10 @@ _Codifié par_:
   - SPEC_APPLI: Loi n°92-686 1992-07-22 art. 1
   - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
 
+_Modifié par_:
+
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+
 _Cité par_:
 
   - Code de l'environnement - art. L536-7 (VT)
@@ -26407,7 +27182,7 @@ _Cité par_:
 ###### Article 434-40
 
 Lorsqu'a été prononcée, à titre de peine, l'interdiction d'exercer une activité professionnelle ou sociale prévue aux
-articles 131-27 à 131-29, toute violation de cette interdiction est punie de deux ans d'emprisonnement et de 200 000 F
+articles 131-27 à 131-29, toute violation de cette interdiction est punie de deux ans d'emprisonnement et de 30000 euros
 d'amende.
 
 **Liens relatifs à cet article**
@@ -26421,6 +27196,10 @@ _Codifié par_:
   - SPEC_APPLI: Loi n°92-686 1992-07-22 art. 1
   - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
 
+_Modifié par_:
+
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+
 _Cité par_:
 
   - Code pénal - art. 434-44 (V)
@@ -26432,7 +27211,7 @@ _Cite_:
 
 ###### Article 434-41
 
-Est punie de deux ans d'emprisonnement et de 200 000 F d'amende la violation, par le condamné, des obligations ou
+Est punie de deux ans d'emprisonnement et de 30000 euros d'amende la violation, par le condamné, des obligations ou
 interdictions résultant des peines de suspension ou d'annulation du permis de conduire, d'interdiction de détenir ou de
 porter une arme, de retrait du permis de chasser, d'interdiction d'émettre des chèques ou d'utiliser des cartes de paiement,
 de fermeture d'établissement ou d'exclusion des marchés publics prononcées en application des articles 131-6, 131-10, 131-14,
@@ -26452,14 +27231,14 @@ _Codifié par_:
 
   - Loi n°92-686 1992-07-22
 
-_Créé par_:
-
-  - Loi n°92-686 1992-07-22 JORF 23 juillet 1992 rectificatif JORF 23 décembre 1992 en vigueur le 1er mars 1994
-
 **Liens**:
 
   - SPEC_APPLI: Loi n°92-686 1992-07-22 art. 1
   - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
+
+_Modifié par_:
+
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 _Cité par_:
 
@@ -26487,7 +27266,7 @@ _Cite_:
 ###### Article 434-42
 
 La violation, par le condamné, des obligations résultant de la peine de travail d'intérêt général prononcée à titre de peine
-principale ou de peine complémentaire est punie de deux ans d'emprisonnement et de 200 000 F d'amende.
+principale ou de peine complémentaire est punie de deux ans d'emprisonnement et de 30 000 euros d'amende.
 
 **Liens relatifs à cet article**
 
@@ -26502,20 +27281,20 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°92-1336 du 16 décembre 1992 - art. 369 () JORF 23 décembre 1992 en vigueur le 1er mars 1994
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 
 ###### Article 434-43
 
 Lorsqu'a été prononcée contre une personne morale l'une des peines prévues à l'article 131-39, la violation par une personne
-physique des obligations qui en découlent est punie de deux ans d'emprisonnement et de 200 000 F d'amende.
+physique des obligations qui en découlent est punie de deux ans d'emprisonnement et de 30 000 euros d'amende. 
 
 Le fait, pour toute personne physique, de participer au maintien ou à la reconstitution, ouverte ou déguisée, d'une personne
 morale dont la dissolution a été prononcée en application des dispositions du 1° de l'article 131-39 est puni de trois ans
-d'emprisonnement et de 300 000 F d'amende.
+d'emprisonnement et de 45 000 euros d'amende. 
 
 Lorsque la dissolution a été prononcée pour une infraction commise en récidive, ou pour l'infraction prévue à l'alinéa
-précédent, la peine est portée à cinq ans d'emprisonnement et 500 000 F d'amende.
+précédent, la peine est portée à cinq ans d'emprisonnement et 75 000 euros d'amende.
 
 **Liens relatifs à cet article**
 
@@ -26530,7 +27309,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2001-504 du 12 juin 2001 - art. 17 () JORF 13 juin 2001
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 _Cité par_:
 
@@ -26540,7 +27319,7 @@ _Cité par_:
 
 _Cite_:
 
-  - Code pénal - art. 131-39 (MMN)
+  - Code pénal - art. 131-39 (V)
 
 
 ##### Section 4 : Peines complémentaires et responsabilité des personnes morales<a id=211></a>
@@ -26703,7 +27482,7 @@ _Cite_:
 
 Pour l'application de la convention relative à la lutte contre la corruption impliquant des fonctionnaires des Communautés
 européennes ou des fonctionnaires des Etats membres de l'Union européenne faite à Bruxelles le 26 mai 1997, est puni de dix
-ans d'emprisonnement et de 1 000 000 F d'amende le fait par un fonctionnaire communautaire ou un fonctionnaire national d'un
+ans d'emprisonnement et de 150000 euros d'amende le fait par un fonctionnaire communautaire ou un fonctionnaire national d'un
 autre Etat membre de l'Union européenne ou par un membre de la Commission des Communautés européennes, du Parlement européen,
 de la Cour de justice et de la Cour des comptes des Communautés européennes de solliciter ou d'agréer, sans droit, à tout
 moment, directement ou indirectement, des offres, des promesses, des dons, des présents ou des avantages quelconques pour
@@ -26716,14 +27495,14 @@ _Codifié par_:
 
   - Loi n°92-686 1992-07-22
 
-_Créé par_:
-
-  - Loi n°2000-595 du 30 juin 2000 - art. 2 () JORF 1er juillet 2000
-
 **Liens**:
 
   - SPEC_APPLI: Loi n°2000-595 du 30 juin 2000 - art. 3 (Ab)
   - SPEC_APPLI: Loi n°2000-595 du 30 juin 2000 - art. 8 (M)
+
+_Modifié par_:
+
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 _Cité par_:
 
@@ -26748,7 +27527,7 @@ _Cité par_:
 
 Pour l'application de la convention relative à la lutte contre la corruption impliquant des fonctionnaires des Communautés
 européennes ou des fonctionnaires des Etats membres de l'Union européenne faite à Bruxelles le 26 mai 1997, est puni de dix
-ans d'emprisonnement et de 1 000 000 F d'amende le fait de proposer sans droit, à tout moment, directement ou indirectement,
+ans d'emprisonnement et de 150000 euros d'amende le fait de proposer sans droit, à tout moment, directement ou indirectement,
 des offres, des promesses, des dons, des présents ou des avantages quelconques pour obtenir d'un fonctionnaire communautaire
 ou d'un fonctionnaire national d'un autre Etat membre de l'Union européenne ou d'un membre de la Commission des Communautés
 européennes, du Parlement européen, de la Cour de justice et de la Cour des comptes des Communautés européennes qu'il
@@ -26765,14 +27544,14 @@ _Codifié par_:
 
   - Loi n°92-686 1992-07-22
 
-_Créé par_:
-
-  - Loi n°2000-595 du 30 juin 2000 - art. 2 () JORF 1er juillet 2000
-
 **Liens**:
 
   - SPEC_APPLI: Loi n°2000-595 du 30 juin 2000 - art. 3 (Ab)
   - SPEC_APPLI: Loi n°2000-595 du 30 juin 2000 - art. 8 (M)
+
+_Modifié par_:
+
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 _Cité par_:
 
@@ -26786,7 +27565,7 @@ _Cité par_:
 ###### Article 435-3
 
 Pour l'application de la convention sur la lutte contre la corruption d'agents publics étrangers dans les transactions
-commerciales internationales signée à Paris le 17 décembre 1997, est puni de dix ans d'emprisonnement et de 1 000 000 F
+commerciales internationales signée à Paris le 17 décembre 1997, est puni de dix ans d'emprisonnement et de 150000 euros
 d'amende le fait de proposer sans droit, à tout moment, directement ou indirectement, des offres, des promesses, des dons,
 des présents ou des avantages quelconques pour obtenir d'une personne dépositaire de l'autorité publique, chargée d'une
 mission de service public, ou investie d'un mandat électif public dans un Etat étranger ou au sein d'une organisation
@@ -26806,14 +27585,14 @@ _Codifié par_:
 
   - Loi n°92-686 1992-07-22
 
-_Créé par_:
-
-  - Loi n°2000-595 du 30 juin 2000 - art. 2 () JORF 1er juillet 2000
-
 **Liens**:
 
   - SPEC_APPLI: Loi n°2000-595 du 30 juin 2000 - art. 3 (Ab)
   - SPEC_APPLI: Loi n°2000-595 du 30 juin 2000 - art. 8 (M)
+
+_Modifié par_:
+
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 _Cité par_:
 
@@ -26840,7 +27619,7 @@ _Cité par_:
 ###### Article 435-4
 
 Pour l'application de la convention sur la lutte contre la corruption d'agents publics étrangers dans les transactions
-commerciales internationales signée à Paris le 17 décembre 1997, est puni de dix ans d'emprisonnement et de 1 000 000 F
+commerciales internationales signée à Paris le 17 décembre 1997, est puni de dix ans d'emprisonnement et de 150000 euros
 d'amende le fait de proposer sans droit, à tout moment, directement ou indirectement, des offres, des promesses, des dons,
 des présents ou des avantages quelconques pour obtenir d'un magistrat, d'un juré ou de toute autre personne siégeant dans une
 fonction juridictionnelle, d'un arbitre ou d'un expert nommé soit par une juridiction, soit par les parties, ou d'une
@@ -26861,14 +27640,14 @@ _Codifié par_:
 
   - Loi n°92-686 1992-07-22
 
-_Créé par_:
-
-  - Loi n°2000-595 du 30 juin 2000 - art. 2 () JORF 1er juillet 2000
-
 **Liens**:
 
   - SPEC_APPLI: Loi n°2000-595 du 30 juin 2000 - art. 3 (Ab)
   - SPEC_APPLI: Loi n°2000-595 du 30 juin 2000 - art. 8 (M)
+
+_Modifié par_:
+
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 _Cité par_:
 
@@ -26993,7 +27772,7 @@ Constitue un faux toute altération frauduleuse de la vérité, de nature à cau
 que ce soit, dans un écrit ou tout autre support d'expression de la pensée qui a pour objet ou qui peut avoir pour effet
 d'établir la preuve d'un droit ou d'un fait ayant des conséquences juridiques.
 
-Le faux et l'usage de faux sont punis de trois ans d'emprisonnement et de 300 000 F d'amende.
+Le faux et l'usage de faux sont punis de trois ans d'emprisonnement et de 45 000 euros d'amende.
 
 **Liens relatifs à cet article**
 
@@ -27058,15 +27837,20 @@ _Codifié par_:
   - SPEC_APPLI: Loi n°92-686 1992-07-22 art. 1
   - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
 
+_Modifié par_:
+
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+
 
 ###### Article 441-2
 
 Le faux commis dans un document délivré par une administration publique aux fins de constater un droit, une identité ou une
-qualité ou d'accorder une autorisation est puni de cinq ans d'emprisonnement et de 500 000 F d'amende.
+qualité ou d'accorder une autorisation est puni de cinq ans d'emprisonnement et de 75 000 euros d'amende.
 
 L'usage du faux mentionné à l'alinéa précédent est puni des mêmes peines.
 
-Les peines sont portées à sept ans d'emprisonnement et à 700 000 F d'amende lorsque le faux ou l'usage de faux est commis :
+Les peines sont portées à sept ans d'emprisonnement et à 100 000 euros d'amende lorsque le faux ou l'usage de faux est
+commis :
 
 1° Soit par une personne dépositaire de l'autorité publique ou chargée d'une mission de service public agissant dans
 l'exercice de ses fonctions ;
@@ -27095,13 +27879,17 @@ _Codifié par_:
   - SPEC_APPLI: Loi n°92-686 1992-07-22 art. 1
   - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
 
+_Modifié par_:
+
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+
 
 ###### Article 441-3
 
-La détention frauduleuse de l'un des faux documents définis à l'article 441-2 est punie de deux ans d'emprisonnement et de
-200 000 F d'amende.
+La détention frauduleuse de l'un des faux documents définis à l'article 441-2 est punie de deux ans d'emprisonnement et de 30
+000 euros d'amende.
 
-La peine est portée à cinq ans d'emprisonnement et à 500 000 F d'amende en cas de détention frauduleuse de plusieurs faux
+La peine est portée à cinq ans d'emprisonnement et à 75 000 euros d'amende en cas de détention frauduleuse de plusieurs faux
 documents.
 
 **Liens relatifs à cet article**
@@ -27115,6 +27903,10 @@ _Codifié par_:
   - SPEC_APPLI: Loi n°92-686 1992-07-22 art. 1
   - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
 
+_Modifié par_:
+
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+
 _Cite_:
 
   - Code pénal - art. 441-2 (M)
@@ -27123,12 +27915,12 @@ _Cite_:
 ###### Article 441-4
 
 Le faux commis dans une écriture publique ou authentique ou dans un enregistrement ordonné par l'autorité publique est puni
-de dix ans d'emprisonnement et de 1 000 000 F d'amende.
+de dix ans d'emprisonnement et de 150 000 euros d'amende.
 
 L'usage du faux mentionné à l'alinéa qui précède est puni des mêmes peines.
 
-Les peines sont portées à quinze ans de réclusion criminelle et à 1 500 000 F d'amende lorsque le faux ou l'usage de faux est
-commis par une personne dépositaire de l'autorité publique ou chargée d'une mission de service public agissant dans
+Les peines sont portées à quinze ans de réclusion criminelle et à 225 000 euros d'amende lorsque le faux ou l'usage de faux
+est commis par une personne dépositaire de l'autorité publique ou chargée d'une mission de service public agissant dans
 l'exercice de ses fonctions ou de sa mission.
 
 **Liens relatifs à cet article**
@@ -27142,6 +27934,10 @@ _Codifié par_:
   - SPEC_APPLI: Loi n°92-686 1992-07-22 art. 1
   - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
 
+_Modifié par_:
+
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+
 _Cité par_:
 
   - Code civil - art. 46 (V)
@@ -27153,10 +27949,10 @@ _Cité par_:
 ###### Article 441-5
 
 Le fait de procurer frauduleusement à autrui un document délivré par une administration publique aux fins de constater un
-droit, une identité ou une qualité ou d'accorder une autorisation est puni de cinq ans d'emprisonnement et de 500 000 F
+droit, une identité ou une qualité ou d'accorder une autorisation est puni de cinq ans d'emprisonnement et de 75 000 euros
 d'amende.
 
-Les peines sont portées à sept ans d'emprisonnement et à 700 000 F d'amende lorsque l'infraction est commise :
+Les peines sont portées à sept ans d'emprisonnement et à 100 000 euros d'amende lorsque l'infraction est commise :
 
 1° Soit par une personne dépositaire de l'autorité publique ou chargée d'une mission de service public agissant dans
 l'exercice de ses fonctions ;
@@ -27180,12 +27976,16 @@ _Codifié par_:
   - SPEC_APPLI: Loi n°92-686 1992-07-22 art. 1
   - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
 
+_Modifié par_:
+
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+
 
 ###### Article 441-6
 
 Le fait de se faire délivrer indûment par une administration publique ou par un organisme chargé d'une mission de service
 public, par quelque moyen frauduleux que ce soit, un document destiné à constater un droit, une identité ou une qualité ou à
-accorder une autorisation est puni de deux ans d'emprisonnement et de 200 000 F d'amende.
+accorder une autorisation est puni de deux ans d'emprisonnement et de 30 000 euros d'amende.
 
 Est puni des mêmes peines le fait de fournir une déclaration mensongère en vue d'obtenir d'une administration publique ou
 d'un organisme chargé d'une mission de service public une allocation, un paiement ou un avantage indu.
@@ -27240,10 +28040,14 @@ _Codifié par_:
   - SPEC_APPLI: Loi n°92-686 1992-07-22 art. 1
   - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
 
+_Modifié par_:
+
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+
 
 ###### Article 441-7
 
-Indépendamment des cas prévus au présent chapitre, est puni d'un an d'emprisonnement et de 100 000 F d'amende le fait :
+Indépendamment des cas prévus au présent chapitre, est puni d'un an d'emprisonnement et de 15 000 euros d'amende le fait :
 
 1° D'établir une attestation ou un certificat faisant état de faits matériellement inexacts ;
 
@@ -27251,7 +28055,7 @@ Indépendamment des cas prévus au présent chapitre, est puni d'un an d'empriso
 
 3° De faire usage d'une attestation ou d'un certificat inexact ou falsifié.
 
-Les peines sont portées à trois ans d'emprisonnement et à 300 000 F d'amende lorsque l'infraction est commise en vue de
+Les peines sont portées à trois ans d'emprisonnement et à 45 000 euros d'amende lorsque l'infraction est commise en vue de
 porter préjudice au Trésor public ou au patrimoine d'autrui.
 
 **Liens relatifs à cet article**
@@ -27280,10 +28084,14 @@ _Codifié par_:
   - SPEC_APPLI: Loi n°92-686 1992-07-22 art. 1
   - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
 
+_Modifié par_:
+
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+
 
 ###### Article 441-8
 
-Est puni de deux ans d'emprisonnement et de 200 000 F d'amende le fait, par une personne agissant dans l'exercice de sa
+Est puni de deux ans d'emprisonnement et de 30 000 euros d'amende le fait, par une personne agissant dans l'exercice de sa
 profession, de solliciter ou d'agréer, directement ou indirectement, des offres, promesses, dons, présents ou avantages
 quelconques pour établir une attestation ou un certificat faisant état de faits matériellement inexacts.
 
@@ -27292,8 +28100,8 @@ menaces ou de proposer, directement ou indirectement, des offres, des promesses,
 quelconques pour obtenir d'une personne agissant dans l'exercice de sa profession qu'elle établisse une attestation ou un
 certificat faisant état de faits inexacts.
 
-La peine est portée à cinq ans d'emprisonnement et à 500 000 F d'amende lorsque la personne visée aux deux premiers alinéas
-exerce une profession médicale ou de santé et que l'attestation faisant état de faits inexacts dissimule ou certifie
+La peine est portée à cinq ans d'emprisonnement et à 75 000 euros d'amende lorsque la personne visée aux deux premiers
+alinéas exerce une profession médicale ou de santé et que l'attestation faisant état de faits inexacts dissimule ou certifie
 faussement l'existence d'une maladie, d'une infirmité ou d'un état de grossesse, ou fournit des indications mensongères sur
 l'origine d'une maladie ou d'une infirmité ou sur la cause d'un décès.
 
@@ -27328,6 +28136,14 @@ _Codifié par_:
 
   - SPEC_APPLI: Loi n°92-686 1992-07-22 art. 1
   - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
+
+_Modifié par_:
+
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+
+_Abrogé par_:
+
+  - Loi n°2011-525 du 17 mai 2011 - art. 152
 
 
 ###### Article 441-9
@@ -27468,8 +28284,8 @@ _Cite_:
 ###### Article 442-1
 
 La contrefaçon ou la falsification des pièces de monnaie ou des billets de banque ayant cours légal en France ou émis par les
-institutions étrangères ou internationales habilitées à cette fin est punie de trente ans de réclusion criminelle et de 3 000
-000 F d'amende.
+institutions étrangères ou internationales habilitées à cette fin est punie de trente ans de réclusion criminelle et de 450
+000 euros d'amende.
 
 Les deux premiers alinéas de l'article 132-23 relatif à la période de sûreté sont applicables aux infractions prévues par le
 présent article.
@@ -27504,6 +28320,10 @@ _Codifié par_:
   - SPEC_APPLI: Loi n°92-686 1992-07-22 art. 1
   - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
 
+_Modifié par_:
+
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+
 _Cite_:
 
   - Code pénal - art. 132-23 (M)
@@ -27512,10 +28332,10 @@ _Cite_:
 ###### Article 442-2
 
 Le transport, la mise en circulation ou la détention en vue de la mise en circulation des signes monétaires contrefaits ou
-falsifiés visés à l'article 442-1 est puni de dix ans d'emprisonnement et de 1 000 000 F d'amende.
+falsifiés visés à l'article 442-1 est puni de dix ans d'emprisonnement et de 150000 euros d'amende.
 
-Lorsqu'ils sont commis en bande organisée, les mêmes faits sont punis de trente ans de réclusion criminelle et de 3 000 000 F
-d'amende.
+Lorsqu'ils sont commis en bande organisée, les mêmes faits sont punis de trente ans de réclusion criminelle et de 450000
+euros d'amende.
 
 Les deux premiers alinéas de l'article 132-23 relatif à la période de sûreté sont applicables à l'infraction prévue au
 deuxième alinéa du présent article.
@@ -27530,6 +28350,10 @@ _Codifié par_:
 
   - SPEC_APPLI: Loi n°92-686 1992-07-22 art. 1
   - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
+
+_Modifié par_:
+
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 _Cité par_:
 
@@ -27547,7 +28371,7 @@ _Cite_:
 ###### Article 442-3
 
 La contrefaçon ou la falsification de pièces de monnaie ou de billets de banque français ou étrangers n'ayant plus cours
-légal ou n'étant plus autorisés est punie de cinq ans d'emprisonnement et de 500 000 F d'amende.
+légal ou n'étant plus autorisés est punie de cinq ans d'emprisonnement et de 75 000 euros d'amende.
 
 **Liens relatifs à cet article**
 
@@ -27559,12 +28383,16 @@ _Codifié par_:
 
   - SPEC_APPLI: Loi n°92-686 1992-07-22 art. 1
   - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
+
+_Modifié par_:
+
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 
 ###### Article 442-4
 
 La mise en circulation de tout signe monétaire non autorisé ayant pour objet de remplacer les pièces de monnaie ou les
-billets de banque ayant cours légal en France est punie de cinq ans d'emprisonnement et de 500 000 F d'amende.
+billets de banque ayant cours légal en France est punie de cinq ans d'emprisonnement et de 75 000 euros d'amende.
 
 **Liens relatifs à cet article**
 
@@ -27576,6 +28404,10 @@ _Codifié par_:
 
   - SPEC_APPLI: Loi n°92-686 1992-07-22 art. 1
   - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
+
+_Modifié par_:
+
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 
 ###### Article 442-5
@@ -27606,7 +28438,7 @@ _Cité par_:
 
 ###### Article 442-6
 
-Sont punis d'un an d'emprisonnement et de 100 000 F d'amende la fabrication, la vente, la distribution de tous objets,
+Sont punis d'un an d'emprisonnement et de 15 000 euros d'amende la fabrication, la vente, la distribution de tous objets,
 imprimés ou formules qui présentent avec les signes monétaires visés à l'article 442-1 une ressemblance de nature à faciliter
 l'acceptation desdits objets, imprimés ou formules au lieu et place des valeurs imitées.
 
@@ -27621,6 +28453,10 @@ _Codifié par_:
   - SPEC_APPLI: Loi n°92-686 1992-07-22 art. 1
   - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
 
+_Modifié par_:
+
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+
 _Cite_:
 
   - Code pénal - art. 442-1 (M)
@@ -27633,7 +28469,7 @@ _Cité par_:
 ###### Article 442-7
 
 Le fait, pour celui qui a reçu les signes monétaires contrefaits ou falsifiés visés à l'article 442-1 en les tenant pour
-bons, de les remettre en circulation après en avoir découvert les vices est puni de 50 000 F d'amende.
+bons, de les remettre en circulation après en avoir découvert les vices est puni de 7500 euros d'amende.
 
 **Liens relatifs à cet article**
 
@@ -27645,6 +28481,10 @@ _Codifié par_:
 
   - SPEC_APPLI: Loi n°92-686 1992-07-22 art. 1
   - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
+
+_Modifié par_:
+
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 _Cité par_:
 
@@ -27878,7 +28718,7 @@ _Cite_:
 
 La contrefaçon ou la falsification des effets émis par le Trésor public avec son timbre ou sa marque ou des effets émis par
 les Etats étrangers avec leur timbre ou leur marque, ainsi que l'usage ou le transport de ces effets contrefaits ou falsifiés
-sont punis de sept ans d'emprisonnement et de 700 000 F d'amende.
+sont punis de sept ans d'emprisonnement et de 100000 euros d'amende.
 
 **Liens relatifs à cet article**
 
@@ -27897,10 +28737,14 @@ _Codifié par_:
   - SPEC_APPLI: Loi n°92-686 1992-07-22 art. 1
   - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
 
+_Modifié par_:
+
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+
 
 ###### Article 443-2
 
-Sont punis de cinq ans d'emprisonnement et de 500 000 F d'amende la contrefaçon ou la falsification des timbres-poste ou
+Sont punis de cinq ans d'emprisonnement et de 75000 euros d'amende la contrefaçon ou la falsification des timbres-poste ou
 autres valeurs fiduciaires postales, ainsi que des timbres émis par l'administration des finances, la vente, le transport, la
 distribution ou l'usage de ces timbres ou valeurs contrefaits ou falsifiés.
 
@@ -27922,10 +28766,14 @@ _Codifié par_:
   - SPEC_APPLI: Loi n°92-686 1992-07-22 art. 1
   - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
 
+_Modifié par_:
+
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+
 
 ###### Article 443-3
 
-Sont punis d'un an d'emprisonnement et de 100 000 F d'amende, la fabrication, la vente, le transport ou la distribution de
+Sont punis d'un an d'emprisonnement et de 15 000 euros d'amende, la fabrication, la vente, le transport ou la distribution de
 tous objets, imprimés ou formules qui présentent, avec les titres ou autres valeurs fiduciaires émises par l'Etat, les
 collectivités locales, les établissements publics ou les exploitants publics prévus par la loi n° 90-568 du 2 juillet 1990
 relative à l'organisation du service public de la poste et des télécommunications, une ressemblance de nature à faciliter
@@ -27935,7 +28783,7 @@ l'acceptation desdits objets, imprimés ou formules au lieu et place des valeurs
 
 _Cite_:
 
-  - Loi n°90-568 1990-07-02
+  - Loi n°90-568 du 2 juillet 1990 (V)
 
 _Codifié par_:
 
@@ -27946,6 +28794,10 @@ _Codifié par_:
   - SPEC_APPLI: Loi n°92-686 1992-07-22 art. 1
   - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
 
+_Modifié par_:
+
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+
 _Cité par_:
 
   - Code pénal - art. 715-5 (V)
@@ -27954,7 +28806,7 @@ _Cité par_:
 
 ###### Article 443-4
 
-Sont punis de six mois d'emprisonnement et de 50 000 F d'amende la contrefaçon ou la falsification des timbres-poste
+Sont punis de six mois d'emprisonnement et de 7500 euros d'amende la contrefaçon ou la falsification des timbres-poste
 étrangers ou autres valeurs postales émises par le service des postes d'un pays étranger, ainsi que la vente, le transport,
 la distribution ou l'usage de ces timbres ou valeurs contrefaits ou falsifiés.
 
@@ -27968,6 +28820,10 @@ _Codifié par_:
 
   - SPEC_APPLI: Loi n°92-686 1992-07-22 art. 1
   - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
+
+_Modifié par_:
+
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 
 ###### Article 443-5
@@ -28080,7 +28936,7 @@ _Cite_:
 
 La contrefaçon ou la falsification soit du sceau de l'Etat, soit des timbres nationaux, soit des poinçons servant à marquer
 les matières d'or, d'argent ou de platine, ou l'usage de ces sceaux, timbres ou poinçons, contrefaits ou falsifiés, est punie
-de dix ans d'emprisonnement et de 1 000 000 F d'amende.
+de dix ans d'emprisonnement et de 150000 euros d'amende.
 
 **Liens relatifs à cet article**
 
@@ -28094,20 +28950,20 @@ _Codifié par_:
 
   - Loi n°92-686 1992-07-22
 
-_Créé par_:
-
-  - Loi n°92-686 1992-07-22 JORF 23 juillet 1992 rectificatif JORF 23 décembre 1992 en vigueur le 1er mars 1994
-
 **Liens**:
 
   - SPEC_APPLI: Loi n°92-686 1992-07-22 art. 1
   - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
 
+_Modifié par_:
+
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+
 
 ###### Article 444-2
 
 L'usage frauduleux du sceau de l'Etat, des timbres nationaux ou des poinçons servant à marquer des matières d'or, d'argent ou
-de platine est puni de sept ans d'emprisonnement et de 700 000 F d'amende.
+de platine est puni de sept ans d'emprisonnement et de 100 000 euros d'amende.
 
 **Liens relatifs à cet article**
 
@@ -28120,19 +28976,19 @@ _Codifié par_:
 
   - Loi n°92-686 1992-07-22
 
-_Créé par_:
-
-  - Loi n°92-686 1992-07-22 JORF 23 juillet 1992 rectificatif JORF 23 décembre 1992 en vigueur le 1er mars 1994
-
 **Liens**:
 
   - SPEC_APPLI: Loi n°92-686 1992-07-22 art. 1
   - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
 
+_Modifié par_:
+
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+
 
 ###### Article 444-3
 
-Sont punies de cinq ans d'emprisonnement et de 500 000 F d'amende :
+Sont punies de cinq ans d'emprisonnement et de 75000 euros d'amende :
 
 1° La contrefaçon ou la falsification des sceaux, timbres ou marques d'une autorité publique, ou l'usage de ces sceaux,
 timbres ou marques, contrefaits ou falsifiés ;
@@ -28167,14 +29023,14 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°99-574 du 9 juillet 1999 - art. 101 () JORF 10 juillet 1999
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 
 ###### Article 444-4
 
 L'usage frauduleux des sceaux, marques, timbres, papiers, imprimés ou estampilles et marques attestant l'intervention des
-services d'inspection ou de surveillance sanitaire visés à l'article 444-3 est puni de trois ans d'emprisonnement et de 300
-000 F d'amende.
+services d'inspection ou de surveillance sanitaire visés à l'article 444-3 est puni de trois ans d'emprisonnement et de 45
+000 euros d'amende.
 
 **Liens relatifs à cet article**
 
@@ -28204,7 +29060,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°99-574 du 9 juillet 1999 - art. 101 () JORF 10 juillet 1999
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 _Cite_:
 
@@ -28213,7 +29069,7 @@ _Cite_:
 
 ###### Article 444-5
 
-Sont punies d'un an d'emprisonnement et de 100 000 F d'amende la fabrication, la vente, la distribution ou l'utilisation
+Sont punies d'un an d'emprisonnement et de 15 000 euros d'amende la fabrication, la vente, la distribution ou l'utilisation
 d'imprimés qui présentent avec les papiers à en-tête ou imprimés officiels en usage dans les assemblées instituées par la
 Constitution, les administrations publiques ou les juridictions une ressemblance de nature à causer une méprise dans l'esprit
 du public.
@@ -28228,6 +29084,10 @@ _Codifié par_:
 
   - SPEC_APPLI: Loi n°92-686 1992-07-22 art. 1
   - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
+
+_Modifié par_:
+
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 
 ###### Article 444-6
@@ -28349,10 +29209,10 @@ un ou plusieurs faits matériels, d'un ou plusieurs crimes ou d'un ou plusieurs 
 d'emprisonnement.
 
 Lorsque les infractions préparées sont des crimes ou des délits punis de dix ans d'emprisonnement, la participation à une
-association de malfaiteurs est punie de dix ans d'emprisonnement et de 1 000 000 F d'amende.
+association de malfaiteurs est punie de dix ans d'emprisonnement et de 150 000 euros d'amende.
 
 Lorsque les infractions préparées sont des délits punis d'au moins cinq ans d'emprisonnement, la participation à une
-association de malfaiteurs est punie de cinq ans d'emprisonnement et de 500 000 F d'amende.
+association de malfaiteurs est punie de cinq ans d'emprisonnement et de 75 000 euros d'amende.
 
 **Liens relatifs à cet article**
 
@@ -28401,14 +29261,14 @@ _Cité par_:
   - Code pénal - art. 450-5 (V)
   - Loi n°1825-04-10 du 10 avril 1825 - art. 9 (Ab)
 
+_Modifié par_:
+
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+
 **Liens**:
 
   - SPEC_APPLI: Loi n°2001-420 2001-05-15 art. 127 V
   - SPEC_APPLI: Loi n°2001-1062 du 15 novembre 2001 - art. 71 (M)
-
-_Modifié par_:
-
-  - Loi n°2001-420 du 15 mai 2001 - art. 45 () JORF 16 mai 2001
 
 
 ###### Article 450-2
@@ -28441,7 +29301,7 @@ _Cité par_:
 
 Le fait de ne pas pouvoir justifier de ressources correspondant à son train de vie, tout en étant en relations habituelles
 avec une ou plusieurs personnes se livrant aux activités visées à l'article 450-1, est puni de cinq ans d'emprisonnement et
-de [* taux *] 500 000 F d'amende.
+de 75 000 euros d'amende.
 
 **Liens relatifs à cet article**
 
@@ -28449,14 +29309,14 @@ _Codifié par_:
 
   - Loi n°92-686 1992-07-22
 
+_Modifié par_:
+
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+
 **Liens**:
 
   - SPEC_APPLI: Loi n°2001-420 2001-05-15 art. 127 V
   - SPEC_APPLI: Loi n°2001-1062 du 15 novembre 2001 - art. 71 (M)
-
-_Créé par_:
-
-  - Loi n°2001-420 du 15 mai 2001 - art. 46 () JORF 16 mai 2001
 
 _Cité par_:
 
@@ -28466,6 +29326,10 @@ _Cité par_:
   - Code monétaire et financier - art. R153-10 (V)
   - Code pénal - art. 450-5 (M)
   - Livre des procédures fiscales - art. L10 B (V)
+
+_Abrogé par_:
+
+  - Loi n°2006-64 du 23 janvier 2006 - art. 24 () JORF 24 janvier 2006
 
 
 ###### Article 450-3
@@ -28570,7 +29434,7 @@ _Nouveaux textes_:
 ###### Article 511-2
 
 Le fait d'obtenir d'une personne l'un de ses organes contre un paiement, quelle qu'en soit la forme, est puni de sept ans
-d'emprisonnement et de 700 000 F d'amende.
+d'emprisonnement et de 100 000 euros d'amende.
 
 Est puni des mêmes peines, le fait d'apporter son entremise pour favoriser l'obtention d'un organe contre le paiement de
 celui-ci, ou de céder à titre onéreux un tel organe du corps d'autrui.
@@ -28628,7 +29492,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°94-653 du 29 juillet 1994 - art. 9 () JORF 30 juillet 1994
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 _Cité par_:
 
@@ -28651,8 +29515,8 @@ _Nouveaux textes_:
 ###### Article 511-3
 
 Le fait de prélever un organe sur une personne vivante majeure sans que le consentement de celle-ci ait été recueilli dans
-les conditions prévues par l'article L. 671-3 du code de la santé publique est puni de sept ans d'emprisonnement et de 700
-000 F d'amende.
+les conditions prévues par l'article L. 671-3 du code de la santé publique est puni de sept ans d'emprisonnement et de 100000
+euros d'amende.
 
 Est puni des mêmes peines le fait de prélever un organe sur un donneur vivant mineur ou sur un donneur vivant majeur faisant
 l'objet d'une mesure de protection légale sans avoir respecté les conditions prévues aux articles L. 671-4 et L. 671-5 du
@@ -28670,9 +29534,9 @@ _Codifié par_:
   - PILOTE_SUIVEUR: Code de la santé publique - art. L1272-2 (V)
   - TXT_ASSOCIE: Code de la santé publique - art. L674-3 (Ab)
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°94-653 du 29 juillet 1994 - art. 9 () JORF 30 juillet 1994
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 _Cité par_:
 
@@ -28700,7 +29564,7 @@ _Cite_:
 ###### Article 511-4
 
 Le fait d'obtenir d'une personne le prélèvement de tissus, de cellules ou de produits de son corps contre un paiement, quelle
-qu'en soit la forme, est puni de cinq ans d'emprisonnement et de 500 000 F d'amende.
+qu'en soit la forme, est puni de cinq ans d'emprisonnement et de 75 000 euros d'amende.
 
 Est puni des mêmes peines le fait d'apporter son entremise pour favoriser l'obtention de tissus, de cellules ou de produits
 humains contre un paiement, quelle qu'en soit la forme, ou de céder à titre onéreux des tissus, des cellules ou des produits
@@ -28718,9 +29582,9 @@ _Codifié par_:
   - PILOTE_SUIVEUR: Code de la santé publique - art. L1272-3 (V)
   - TXT_ASSOCIE: Code de la santé publique - art. L674-4 (Ab)
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°94-653 du 29 juillet 1994 - art. 9 () JORF 30 juillet 1994
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 _Cité par_:
 
@@ -28734,7 +29598,7 @@ _Cité par_:
 ###### Article 511-5
 
 Le fait de prélever un tissu ou des cellules ou de collecter un produit sur une personne vivante majeure sans qu'elle ait
-exprimé son consentement est puni de cinq ans d'emprisonnement et de 500 000 F d'amende.
+exprimé son consentement est puni de cinq ans d'emprisonnement et de 75000 euros d'amende.
 
 Est puni des mêmes peines le fait de prélever un tissu ou des cellules ou de collecter un produit sur une personne vivante
 mineure ou sur une personne vivante majeure faisant l'objet d'une mesure de protection légale sans avoir respecté les
@@ -28752,9 +29616,9 @@ _Codifié par_:
   - PILOTE_SUIVEUR: Code de la santé publique - art. L1272-4 (V)
   - TXT_ASSOCIE: Code de la santé publique - art. L674-5 (Ab)
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°94-653 du 29 juillet 1994 - art. 9 () JORF 30 juillet 1994
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 _Cité par_:
 
@@ -28779,7 +29643,7 @@ _Cite_:
 ###### Article 511-6
 
 Le fait de recueillir ou de prélever des gamètes sur une personne vivante sans son consentement écrit est puni de cinq ans
-d'emprisonnement et de 500 000 F d'amende.
+d'emprisonnement et de 75 000 euros d'amende.
 
 **Liens relatifs à cet article**
 
@@ -28793,9 +29657,9 @@ _Codifié par_:
   - PILOTE_SUIVEUR: Code de la santé publique - art. L1273-1 (V)
   - TXT_ASSOCIE: Code de la santé publique - art. L675-9 (Ab)
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°94-653 du 29 juillet 1994 - art. 9 () JORF 30 juillet 1994
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 _Cité par_:
 
@@ -28811,7 +29675,7 @@ _Cité par_:
 Le fait de procéder à des prélèvements d'organes ou des transplantations d'organes, à des prélèvements ou des greffes de
 tissus, à la conservation ou à la transformation de tissus ou à la greffe de cellules dans un établissement n'ayant pas
 obtenu l'autorisation prévue par les articles L. 671-12, L. 671-16, L. 672-7, L. 672-10 et L. 672-13 du code de la santé
-publique est puni de deux ans d'emprisonnement et de 200 000 F d'amende.
+publique est puni de deux ans d'emprisonnement et de 30000 euros d'amende.
 
 **Liens relatifs à cet article**
 
@@ -28838,9 +29702,9 @@ _Cité par_:
   - Code pénal - art. 716-3 (Ab)
   - Code pénal - art. 726-3 (V)
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°94-653 du 29 juillet 1994 - art. 9 () JORF 30 juillet 1994
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 _Cite_:
 
@@ -28855,7 +29719,7 @@ _Cite_:
 
 Le fait de procéder à la distribution ou à la cession d'organes, de tissus, de cellules et produits humains en vue d'un don
 sans qu'aient été respectées les règles de sécurité sanitaire exigées en application des dispositions de l'article L. 665-15
-du code de la santé publique est puni de deux ans d'emprisonnement et de 200 000 F d'amende.
+du code de la santé publique est puni de deux ans d'emprisonnement et de 30000 euros d'amende.
 
 **Liens relatifs à cet article**
 
@@ -28887,7 +29751,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°98-535 du 1 juillet 1998 - art. 19 (V) JORF 2 juillet 1998
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 _Cite_:
 
@@ -28899,7 +29763,7 @@ _Cite_:
 
 Le fait de mettre en oeuvre, en vue d'un usage thérapeutique, des procédés de préparation, conservation ou transformation de
 tissus et de cellules qui ne sont pas destinés à des thérapies cellulaire ou génique, en violation des dispositions de
-l'article L. 672-15 du code de la santé publique, est puni de deux ans d'emprisonnement et de 200 000 F d'amende.
+l'article L. 672-15 du code de la santé publique, est puni de deux ans d'emprisonnement et de 30000 euros d'amende.
 
 **Liens relatifs à cet article**
 
@@ -28907,9 +29771,9 @@ _Codifié par_:
 
   - Loi n°92-1336 1992-12-16
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°98-535 du 1 juillet 1998 - art. 19 (V) JORF 2 juillet 1998
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 **Liens**:
 
@@ -28930,7 +29794,7 @@ _Cite_:
 Le fait de procéder à l'importation ou à l'exportation des organes, tissus et cellules qui ne sont pas destinées à des
 thérapies cellulaires ou géniques, en violation des dispositions prises pour l'application de l'article 18 de la loi n°
 92-1477 du 31 décembre 1992 relative aux produits soumis à certaines restrictions de circulation et à la complémentarité
-entre les services de police, de gendarmerie et de douane, est passible de deux ans d'emprisonnement et de 200 000 F
+entre les services de police, de gendarmerie et de douane, est passible de deux ans d'emprisonnement et de 30000 euros
 d'amende.
 
 **Liens relatifs à cet article**
@@ -28943,9 +29807,9 @@ _Cite_:
 
   - Loi n°92-1477 1992-12-31 art. 18
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°98-535 du 1 juillet 1998 - art. 19 (V) JORF 2 juillet 1998
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 _Cité par_:
 
@@ -28961,7 +29825,7 @@ _Cité par_:
 
 Le fait d'obtenir des gamètes contre un paiement, quelle qu'en soit la forme, à l'exception du paiement des prestations
 assurées par les établissements effectuant la préparation et la conservation de ces gamètes, est puni de cinq ans
-d'emprisonnement et de 500 000 F d'amende.
+d'emprisonnement et de 75 000 euros d'amende.
 
 Est puni des mêmes peines le fait d'apporter son entremise pour favoriser l'obtention de gamètes contre un paiement, quelle
 qu'en soit la forme, ou de remettre à des tiers, à titre onéreux des gamètes provenant de dons.
@@ -28978,10 +29842,6 @@ _Codifié par_:
   - PILOTE_SUIVEUR: Code de la santé publique - art. L1273-2 (V)
   - TXT_ASSOCIE: Code de la santé publique - art. L675-10 (Ab)
 
-_Créé par_:
-
-  - Loi n°94-653 du 29 juillet 1994 - art. 9 () JORF 30 juillet 1994
-
 _Cité par_:
 
   - Arrêté du 12 janvier 1999 - art. ANNEXE (Ab)
@@ -28991,11 +29851,15 @@ _Cité par_:
   - Code de la santé publique - art. L675-18 (Ab)
   - Code pénal - art. 511-26 (V)
 
+_Modifié par_:
+
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+
 
 ###### Article 511-10
 
 Le fait de divulguer une information permettant à la fois d'identifier une personne ou un couple qui a fait don de gamètes et
-le couple qui les a reçus est puni de deux ans d'emprisonnement et de 200 000 F d'amende.
+le couple qui les a reçus est puni de deux ans d'emprisonnement et de 30 000 euros d'amende.
 
 **Liens relatifs à cet article**
 
@@ -29014,27 +29878,22 @@ _Cité par_:
   - Code de la santé publique - art. L1273-3 (V)
   - Code de la santé publique - art. L675-11 (Ab)
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°94-653 du 29 juillet 1994 - art. 9 () JORF 30 juillet 1994
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 
 ###### Article 511-11
 
 Le fait de recueillir ou de prélever des gamètes sur une personne vivante en vue d'une assistance médicale à la procréation
-sans procéder aux tests de dépistage des maladies transmissibles exigés en application de l'article L. 665-15 du code de la
-santé publique est puni de deux ans d'emprisonnement et de 200 000 F d'amende.
+sans procéder aux tests de dépistage des maladies transmissibles exigés en application de l'article L. 1211-6 du code de la
+santé publique est puni de deux ans d'emprisonnement et de 30 000 euros d'amende.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
   - Loi n°92-1336 1992-12-16
-
-**Liens**:
-
-  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
-  - PILOTE_SUIVEUR: Code de la santé publique - art. L1273-4 (V)
 
 _Cité par_:
 
@@ -29049,30 +29908,29 @@ _Cité par_:
   - Code pénal - art. 716-5 (Ab)
   - Code pénal - art. 726-5 (V)
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°94-653 du 29 juillet 1994 - art. 9 () JORF 30 juillet 1994
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+
+**Liens**:
+
+  - PILOTE_SUIVEUR: Code de la santé publique - art. L1273-4 (V)
 
 _Cite_:
 
-  - Code de la santé publique - art. L665-15 (Ab)
+  - Code de la santé publique - art. L1211-6 (V)
 
 
 ###### Article 511-12
 
 Le fait de procéder à une insémination artificielle par sperme frais ou mélange de sperme provenant de dons en violation de
-l'article L. 673-3 du code de la santé publique est puni de deux ans d'emprisonnement et de 200 000 F d'amende.
+l'article L. 1244-3 du code de la santé publique est puni de deux ans d'emprisonnement et de 30 000 euros d'amende.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
   - Loi n°92-1336 1992-12-16
-
-**Liens**:
-
-  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
-  - PILOTE_SUIVEUR: Code de la santé publique - art. L1273-5 (V)
 
 _Cité par_:
 
@@ -29088,31 +29946,30 @@ _Cité par_:
   - Code pénal - art. 716-6 (Ab)
   - Code pénal - art. 726-6 (V)
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°94-653 du 29 juillet 1994 - art. 9 () JORF 30 juillet 1994
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+
+**Liens**:
+
+  - PILOTE_SUIVEUR: Code de la santé publique - art. L1273-5 (V)
 
 _Cite_:
 
-  - Code de la santé publique - art. L673-3 (Ab)
+  - Code de la santé publique - art. L1244-3 (V)
 
 
 ###### Article 511-13
 
 Le fait de subordonner le bénéfice d'un don de gamètes à la désignation par le couple receveur d'une personne ayant
-volontairement accepté de procéder à un tel don en faveur d'un couple tiers en violation de l'article L. 673-7 du code de la
-santé publique est puni de deux ans d'emprisonnement et de 200 000 F d'amende.
+volontairement accepté de procéder à un tel don en faveur d'un couple tiers en violation de l'article L. 1244-7 du code de la
+santé publique est puni de deux ans d'emprisonnement et de 30 000 euros d'amende.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
   - Loi n°92-1336 1992-12-16
-
-**Liens**:
-
-  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
-  - PILOTE_SUIVEUR: Code de la santé publique - art. L1273-6 (V)
 
 _Cité par_:
 
@@ -29127,30 +29984,30 @@ _Cité par_:
   - Code pénal - art. 716-7 (Ab)
   - Code pénal - art. 726-7 (V)
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°94-653 du 29 juillet 1994 - art. 9 () JORF 30 juillet 1994
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+
+**Liens**:
+
+  - PILOTE_SUIVEUR: Code de la santé publique - art. L1273-6 (V)
 
 _Cite_:
 
-  - Code de la santé publique - art. L673-7 (Ab)
+  - Code de la santé publique - art. L1244-7 (V)
 
 
 ###### Article 511-14
 
 Le fait de procéder à des activités de recueil, de traitement, de conservation et de cession de gamètes provenant de dons
-sans avoir recueilli l'autorisation prévue à l'article L. 673-5 du code de la santé publique est puni de deux ans
-d'emprisonnement et de 200 000 F d'amende.
+sans avoir recueilli l'autorisation prévue à l'article L. 1244-5 du code de la santé publique est puni de deux ans
+d'emprisonnement et de 30 000 euros d'amende.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
   - Loi n°92-1336 1992-12-16
-
-**Liens**:
-
-  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
 
 _Cité par_:
 
@@ -29165,13 +30022,17 @@ _Cité par_:
   - Code pénal - art. 716-8 (Ab)
   - Code pénal - art. 726-8 (V)
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°94-653 du 29 juillet 1994 - art. 9 () JORF 30 juillet 1994
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+
+_Abrogé par_:
+
+  - Ordonnance n°2008-480 du 22 mai 2008 - art. 6
 
 _Cite_:
 
-  - Code de la santé publique - art. L673-5 (Ab)
+  - Code de la santé publique - art. L1244-5 (Ab)
 
 
 ##### Section 3 : De la protection de l'embryon humain<a id=229></a>
@@ -29179,7 +30040,7 @@ _Cite_:
 ###### Article 511-15
 
 Le fait d'obtenir des embryons humains contre un paiement, quelle qu'en soit la forme, est puni de sept ans d'emprisonnement
-et de 700 000 F d'amende.
+et de 100 000 euros d'amende.
 
 Est puni des mêmes peines le fait d'apporter son entremise pour favoriser l'obtention d'embryons humains contre un paiement,
 quelle qu'en soit la forme, ou de remettre à des tiers, à titre onéreux, des embryons humains.
@@ -29197,9 +30058,9 @@ _Codifié par_:
   - PILOTE_SUIVEUR: Code de la santé publique - art. L2152-1 (T)
   - PILOTE_SUIVEUR: Code de la santé publique - art. L2162-1 (V)
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°94-653 du 29 juillet 1994 - art. 9 () JORF 30 juillet 1994
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 _Cité par_:
 
@@ -29213,7 +30074,7 @@ _Cité par_:
 ###### Article 511-16
 
 Le fait d'obtenir des embryons humains sans respecter les conditions prévues aux articles L. 152-4 et L. 152-5 du code de la
-santé publique est puni de sept ans d'emprisonnement et de 700 000 F d'amende.
+santé publique est puni de sept ans d'emprisonnement et de 100000 euros d'amende.
 
 **Liens relatifs à cet article**
 
@@ -29240,9 +30101,9 @@ _Cité par_:
   - Code pénal - art. 716-9 (Ab)
   - Code pénal - art. 726-9 (V)
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°94-653 du 29 juillet 1994 - art. 9 () JORF 30 juillet 1994
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 _Cite_:
 
@@ -29253,7 +30114,7 @@ _Cite_:
 ###### Article 511-17
 
 Le fait de procéder à la conception in vitro d'embryons humains à des fins industrielles ou commerciales est puni de sept ans
-d'emprisonnement et de 700 000 F d'amende.
+d'emprisonnement et de 100000 euros d'amende.
 
 Est puni des mêmes peines le fait d'utiliser des embryons humains à des fins industrielles ou commerciales.
 
@@ -29270,9 +30131,9 @@ _Codifié par_:
   - PILOTE_SUIVEUR: Code de la santé publique - art. L2152-3 (T)
   - PILOTE_SUIVEUR: Code de la santé publique - art. L2163-3 (V)
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°94-653 du 29 juillet 1994 - art. 9 () JORF 30 juillet 1994
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 _Cité par_:
 
@@ -29284,7 +30145,7 @@ _Cité par_:
 ###### Article 511-18
 
 Le fait de procéder à la conception in vitro d'embryons humains à des fins de recherche ou d'expérimentation est puni de sept
-ans d'emprisonnement et de 700 000 F d'amende.
+ans d'emprisonnement et de 100000 euros d'amende.
 
 **Liens relatifs à cet article**
 
@@ -29298,9 +30159,9 @@ _Codifié par_:
   - TXT_ASSOCIE: Code de la santé publique - art. L152-18 (Ab)
   - PILOTE_SUIVEUR: Code de la santé publique - art. L2163-4 (V)
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°94-653 du 29 juillet 1994 - art. 9 () JORF 30 juillet 1994
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 _Cité par_:
 
@@ -29312,7 +30173,7 @@ _Cité par_:
 ###### Article 511-19
 
 Le fait de procéder à une étude ou une expérimentation sur l'embryon en violation des dispositions de l'article L. 152-8 du
-code de la santé publique est puni de sept ans d'emprisonnement et de 700 000 F d'amende.
+code de la santé publique est puni de sept ans d'emprisonnement et de 100000 euros d'amende.
 
 **Liens relatifs à cet article**
 
@@ -29326,9 +30187,9 @@ _Codifié par_:
   - TXT_ASSOCIE: Code de la santé publique - art. L152-17 (Ab)
   - PILOTE_SUIVEUR: Code de la santé publique - art. L2163-6 (V)
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°94-653 du 29 juillet 1994 - art. 9 () JORF 30 juillet 1994
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 _Cité par_:
 
@@ -29352,19 +30213,14 @@ _Cite_:
 
 ###### Article 511-20
 
-Le fait de procéder au diagnostic prénatal sans avoir reçu l'autorisation mentionnée à l'article L. 162-16 du code de la
-santé publique est puni de deux ans d'emprisonnement et de 200 000 F d'amende.
+Le fait de procéder au diagnostic prénatal sans avoir reçu l'autorisation mentionnée à l'article L. 2131-1 du code de la
+santé publique est puni de deux ans d'emprisonnement et de 30 000 euros d'amende.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
   - Loi n°92-1336 1992-12-16
-
-**Liens**:
-
-  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
-  - PILOTE_SUIVEUR: Code de la santé publique - art. L2161-1 (V)
 
 _Cité par_:
 
@@ -29385,19 +30241,23 @@ _Cité par_:
   - Code pénal - art. 726-11 (V)
   - Code pénal - art. 726-12 (M)
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°94-653 du 29 juillet 1994 - art. 9 () JORF 30 juillet 1994
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+
+**Liens**:
+
+  - PILOTE_SUIVEUR: Code de la santé publique - art. L2161-1 (V)
 
 _Cite_:
 
-  - Code de la santé publique - art. L162-16 (Ab)
+  - Code de la santé publique - art. L2131-1 (V)
 
 
 ###### Article 511-21
 
 Le fait de méconnaître les dispositions de l'article L. 162-17 du code de la santé publique relatif au diagnostic
-préimplantatoire est puni de deux ans d'emprisonnement et de 200 000 F d'amende.
+préimplantatoire est puni de deux ans d'emprisonnement et de 30000 euros d'amende.
 
 **Liens relatifs à cet article**
 
@@ -29423,9 +30283,9 @@ _Cité par_:
   - Code pénal - art. 716-12 (Ab)
   - Code pénal - art. 726-12 (V)
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°94-653 du 29 juillet 1994 - art. 9 () JORF 30 juillet 1994
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 _Cite_:
 
@@ -29435,7 +30295,7 @@ _Cite_:
 ###### Article 511-22
 
 Le fait de procéder à des activités d'assistance médicale à la procréation sans avoir recueilli l'autorisation prévue à
-l'article L. 184-1 du code de la santé publique est puni de deux ans d'emprisonnement et de 200 000 F d'amende.
+l'article L. 184-1 du code de la santé publique est puni de deux ans d'emprisonnement et de 30000 euros d'amende.
 
 **Liens relatifs à cet article**
 
@@ -29462,9 +30322,9 @@ _Cité par_:
   - Code pénal - art. 716-13 (Ab)
   - Code pénal - art. 726-13 (V)
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°94-653 du 29 juillet 1994 - art. 9 () JORF 30 juillet 1994
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 _Cite_:
 
@@ -29474,7 +30334,7 @@ _Cite_:
 ###### Article 511-23
 
 Le fait de divulguer une information nominative permettant d'identifier à la fois le couple qui a renoncé à un embryon et le
-couple qui l'a accueilli est puni de deux ans d'emprisonnement et de 200 000 F d'amende.
+couple qui l'a accueilli est puni de deux ans d'emprisonnement et de 30000 euros d'amende.
 
 **Liens relatifs à cet article**
 
@@ -29494,26 +30354,21 @@ _Cité par_:
   - Code de la santé publique - art. L2152-7 (T)
   - Code de la santé publique - art. L2162-7 (MMN)
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°94-653 du 29 juillet 1994 - art. 9 () JORF 30 juillet 1994
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 
 ###### Article 511-24
 
 Le fait de procéder à des activités d'assistance médicale à la procréation à des fins autres que celles définies à l'article
-L. 152-2 du code de la santé publique est puni de cinq ans d'emprisonnement et de 500 000 F d'amende.
+L. 2141-2 du code de la santé publique est puni de cinq ans d'emprisonnement et de 75 000 euros d'amende.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
   - Loi n°92-1336 1992-12-16
-
-**Liens**:
-
-  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
-  - PILOTE_SUIVEUR: Code de la santé publique - art. L2162-5 (V)
 
 _Cité par_:
 
@@ -29535,20 +30390,24 @@ _Cité par_:
   - Code pénal - art. 726-14 (V)
   - Code pénal - art. 726-9 (M)
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°94-653 du 29 juillet 1994 - art. 9 () JORF 30 juillet 1994
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+
+**Liens**:
+
+  - PILOTE_SUIVEUR: Code de la santé publique - art. L2162-5 (V)
 
 _Cite_:
 
-  - Code de la santé publique - art. L152-2 (Ab)
+  - Code de la santé publique - art. L2141-2 (V)
 
 
 ###### Article 511-25
 
 Le fait de procéder au transfert d'un embryon dans les conditions fixées à l'article L. 152-5 du code de la santé publique
 sans avoir pris connaissance des résultats des tests de dépistage de maladies infectieuses exigés en application de l'article
-précité est puni de deux ans d'emprisonnement et de 200 000 F d'amende.
+précité est puni de deux ans d'emprisonnement et de 30000 euros d'amende.
 
 **Liens relatifs à cet article**
 
@@ -29575,9 +30434,9 @@ _Cité par_:
   - Code pénal - art. 716-15 (Ab)
   - Code pénal - art. 726-15 (V)
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°94-653 du 29 juillet 1994 - art. 9 () JORF 30 juillet 1994
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 _Cite_:
 
@@ -29694,7 +30553,7 @@ _Cite_:
 ###### Article 521-1
 
 Le fait, publiquement ou non, d'exercer des sévices graves ou de commettre un acte de cruauté envers un animal domestique, ou
-apprivoisé, ou tenu en captivité, est puni de deux ans d'emprisonnement et de 200 000 F d'amende.
+apprivoisé, ou tenu en captivité, est puni de deux ans d'emprisonnement et de 30000 euros d'amende.
 
 A titre de peine complémentaire, le tribunal peut interdire la détention d'un animal, à titre définitif ou non.
 
@@ -29740,7 +30599,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°99-5 du 6 janvier 1999 - art. 22 () JORF 7 janvier 1999
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 
 ###### Article 521-2
@@ -29850,9 +30709,9 @@ _Modifié par_:
 
 ###### Article 711-3
 
-En Nouvelle-Calédonie et dans les territoires de la Polynésie française et des îles Wallis et Futuna, les sanctions
-pécuniaires encourues en vertu du présent code sont prononcées en monnaie locale, compte tenu de la contre-valeur dans cette
-monnaie du franc métropolitain.
+En Nouvelle-Calédonie, dans les territoires de la Polynésie française et des îles Wallis et Futuna, les sanctions pécuniaires
+encourues en vertu du présent code sont prononcées en monnaie locale, compte tenu de la contre-valeur dans cette monnaie de
+l'euro.
 
 **Liens relatifs à cet article**
 
@@ -29864,6 +30723,10 @@ _Codifié par_:
 
   - Ordonnance 96-267 1996-03-28
 
+_Modifié par_:
+
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 16 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+
 _Cité par_:
 
   - Ordonnance n°2000-916 du 19 septembre 2000 - art. 16 (V)
@@ -29874,10 +30737,6 @@ _Cité par_:
   - Code rural et de la pêche maritime - art. L956-3 (V)
   - Code rural et de la pêche maritime - art. L957-1 (VT)
   - Code rural et de la pêche maritime - art. L957-3 (V)
-
-_Modifié par_:
-
-  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
 
 
 ###### Article 711-4
@@ -29981,7 +30840,7 @@ Le premier alinéa de l'article 223-8 est rédigé comme suit :
 
 " Le fait de pratiquer ou de faire pratiquer sur une personne une recherche biomédicale sans avoir recueilli le consentement
 libre, éclairé et exprès de l'intéressé, des titulaires de l'autorité parentale ou du tuteur est puni de trois ans
-d'emprisonnement et de 300 000 F d'amende. "
+d'emprisonnement et de 45 000 euros d'amende. "
 
 **Liens relatifs à cet article**
 
@@ -29997,7 +30856,11 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+
+_Abrogé par_:
+
+  - Ordonnance n°2008-1339 du 18 décembre 2008 - art. 8
 
 _Cité par_:
 
@@ -30013,7 +30876,7 @@ _Nouveaux textes_:
 
 _Cite_:
 
-  - Code pénal - art. 223-8 (M)
+  - Code pénal - art. 223-8
 
 
 ###### Article 713-3
@@ -30052,7 +30915,7 @@ _Cite_:
 L'article 226-25 est rédigé comme suit :
 
 " Art. 226-25. - Le fait de procéder à l'étude des caractéristiques génétiques d'une personne à des fins médicales sans avoir
-préalablement recueilli son consentement par écrit est puni d'un an d'emprisonnement et de 100 000 F d'amende.
+préalablement recueilli son consentement par écrit est puni d'un an d'emprisonnement et de 15 000 euros d'amende.
 
 " Les dispositions de l'alinéa précédent ne sont pas applicables :
 
@@ -30075,7 +30938,11 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+
+_Abrogé par_:
+
+  - Ordonnance n°2008-1339 du 18 décembre 2008 - art. 8
 
 _Cité par_:
 
@@ -30091,7 +30958,7 @@ _Nouveaux textes_:
 
 _Cite_:
 
-  - Code pénal - art. 226-25 (M)
+  - Code pénal - art. 226-25
 
 
 ###### Article 713-5
@@ -30099,13 +30966,13 @@ _Cite_:
 L'article 226-27 est rédigé comme suit :
 
 " Art. 226-27. - Le fait de rechercher l'identification d'une personne par ses empreintes génétiques à des fins médicales
-sans recueillir préalablement son consentement par écrit est puni d'un an d'emprisonnement et de 100 000 F d'amende.
+sans recueillir préalablement son consentement par écrit est puni d'un an d'emprisonnement et de 15 000 euros d'amende.
 
-" Les dispositions de l'alinéa précédent ne sont pas applicables :
+Les dispositions de l'alinéa précédent ne sont pas applicables :
 
-" 1° Lorsque l'étude est réalisée dans le cadre d'une procédure judiciaire ;
+1° Lorsque l'étude est réalisée dans le cadre d'une procédure judiciaire ;
 
-" 2° Ou lorsqu'à titre exceptionnel, dans l'intérêt de la personne et le respect de sa confiance, le consentement de celle-ci
+2° Ou lorsqu'à titre exceptionnel, dans l'intérêt de la personne et le respect de sa confiance, le consentement de celle-ci
 n'est pas recueilli. "
 
 **Liens relatifs à cet article**
@@ -30122,7 +30989,11 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+
+_Abrogé par_:
+
+  - Ordonnance n°2008-1339 du 18 décembre 2008 - art. 8
 
 _Cité par_:
 
@@ -30138,20 +31009,20 @@ _Nouveaux textes_:
 
 _Cite_:
 
-  - Code pénal - art. 226-27 (M)
+  - Code pénal - art. 226-27
 
 
 ###### Article 713-6
 
 L'article 226-28 est rédigé comme suit :
 
-" Art. 226-28. - Le fait de rechercher l'identification d'une personne par ses empreintes génétiques à des fins qui ne
+"Art. 226-28. - Le fait de rechercher l'identification d'une personne par ses empreintes génétiques à des fins qui ne
 seraient ni médicales ni scientifiques ou en dehors d'une mesure d'enquête ou d'instruction diligentée lors d'une procédure
-judiciaire est puni d'un an d'emprisonnement et de 100 000 F d'amende.
+judiciaire est puni d'un an d'emprisonnement ou de 1 500 euros d'amende. 
 
-" Est puni des mêmes peines le fait de divulguer des informations relatives à l'identification d'une personne par ses
+Est puni des mêmes peines le fait de divulguer des informations relatives à l'identification d'une personne par ses
 empreintes génétiques ou de procéder à l'identification d'une personne par ses empreintes génétiques sans avoir fait l'objet
-d'un agrément délivré dans des conditions fixées par décret en Conseil d'Etat. "
+d'un agrément délivré dans des conditions fixées par décret en Conseil d'Etat."
 
 **Liens relatifs à cet article**
 
@@ -30165,7 +31036,11 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+
+_Abrogé par_:
+
+  - Ordonnance n°2008-1339 du 18 décembre 2008 - art. 8
 
 _Nouveaux textes_:
 
@@ -30182,7 +31057,7 @@ _Cité par_:
 
 _Cite_:
 
-  - Code pénal - art. 226-28 (M)
+  - Code pénal - art. 226-28
 
 
 #### Chapitre IV : Adaptation du livre III<a id=238></a>
@@ -30337,9 +31212,9 @@ _Cite_:
 
 ###### Article 715-5
 
-L'article 443-3 est rédigé comme suit :
+L'article 443-3 est rédigé comme suit : 
 
-" Art. 443-3. - Sont punis d'un an d'emprisonnement et de 100 000 F d'amende, la fabrication, la vente, le transport ou la
+" Art. 443-3.-Sont punis d'un an d'emprisonnement et de 15 000 euros d'amende, la fabrication, la vente, le transport ou la
 distribution de tous objets, imprimés ou formules qui présentent, avec les titres ou autres valeurs fiduciaires émises par
 l'Etat, les collectivités locales, les établissements publics ou les exploitants publics intervenant dans le fonctionnement
 du service public de la poste et des télécommunications, une ressemblance de nature à faciliter l'acceptation desdits objets,
@@ -30357,14 +31232,72 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 _Cite_:
 
-  - Code pénal - art. 443-3 (M)
+  - Code pénal - art. 443-3 (V)
 
 
 #### Chapitre VI : Adaptation du livre V<a id=240></a>
+
+###### Article 716-1
+
+L'article 511-3 est ainsi rédigé :
+
+Art. 511-3. - Le fait de prélever un organe sur une personne vivante majeure sans avoir recueilli son consentement ou sans
+l'avoir préalablement éclairée sur les risques et les conséquences de l'acte est puni de sept ans d'emprisonnement et de 100
+000 Euros d'amende.
+
+Est puni des mêmes peines le fait de prélever un organe sur un donneur vivant mineur ou sur un donneur vivant majeur faisant
+l'objet d'une mesure de protection légale. Toutefois, un prélèvement de moelle osseuse sur un mineur au profit de son frère
+ou de sa soeur peut être autorisé par un comité médical constitué dans les conditions fixées par la réglementation applicable
+localement, sous réserve du consentement de chacun des titulaires de l'autorité parentale ou du représentant légal du mineur.
+
+Les consentements prévus aux alinéas précédents sont exprimés devant le président du tribunal de première instance ou le
+magistrat désigné par lui. Ils peuvent être révoqués sans forme à tout moment.
+
+En cas d'urgence, le consentement est recueilli par tout moyen par le procureur de la République.
+
+Le comité médical s'assure que le mineur a été informé du prélèvement envisagé en vue d'exprimer sa volonté, si celui-ci est
+apte. Le refus du mineur fait obstacle au prélèvement.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 96-267 1996-03-28
+
+_Modifié par_:
+
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+_Abrogé par_:
+
+  - Ordonnance n°2008-1339 du 18 décembre 2008 - art. 8
+
+**Liens**:
+
+  - PILOTE_SUIVEUR: Code de la santé publique - art. L1525-8 (Ab)
+  - PILOTE_SUIVEUR: Code de la santé publique - art. L1543-8 (Ab)
+
+_Cité par_:
+
+  - Code de la santé publique - art. L1525-8 (M)
+  - Code de la santé publique - art. L1533-8 (T)
+  - Code de la santé publique - art. L1543-8 (M)
+
+_Nouveaux textes_:
+
+  - Code de la santé publique - art. L1525-8 (V)
+  - Code de la santé publique - art. L1533-8 (T)
+  - Code de la santé publique - art. L1543-8 (V)
+
+_Cite_:
+
+  - Code pénal - art. 511-3
+
 
 ###### Article 716-1-1
 
@@ -30442,7 +31375,7 @@ L'article 511-7 est ainsi rédigé :
 
 " Art. 511-7. - Le fait de procéder à des prélèvements d'organes ou des transplantations d'organes, à des prélèvements ou des
 greffes de tissus, à la conservation ou à la transformation de tissus ou à la greffe de cellules hors d'un établissement
-autorisé à cet effet est puni de deux ans d'emprisonnement et de 200 000 F d'amende. "
+autorisé à cet effet est puni de deux ans d'emprisonnement et de 30 000 euros d'amende. "
 
 **Liens relatifs à cet article**
 
@@ -30458,7 +31391,11 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+
+_Abrogé par_:
+
+  - Ordonnance n°2008-1339 du 18 décembre 2008 - art. 8
 
 _Cité par_:
 
@@ -30475,7 +31412,7 @@ _Nouveaux textes_:
 
 _Cite_:
 
-  - Code pénal - art. 511-7 (M)
+  - Code pénal - art. 511-7
 
 
 ###### Article 716-4
@@ -30484,7 +31421,7 @@ L'article 511-8 est ainsi rédigé :
 
 " Art. 511-8. - Le fait de procéder à la distribution ou à la cession d'organes, de tissus, de cellules et produits humains
 en vue d'un don sans qu'aient été respectées les règles de sécurité sanitaires exigées par les dispositions applicables
-localement est puni de deux ans d'emprisonnement et de 200 000 F d'amende. "
+localement est puni de deux ans d'emprisonnement et de 30 000 euros d'amende. "
 
 **Liens relatifs à cet article**
 
@@ -30500,7 +31437,11 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+
+_Abrogé par_:
+
+  - Ordonnance n°2008-1339 du 18 décembre 2008 - art. 8
 
 _Cité par_:
 
@@ -30517,7 +31458,7 @@ _Nouveaux textes_:
 
 _Cite_:
 
-  - Code pénal - art. 511-8 (M)
+  - Code pénal - art. 511-8
 
 
 ###### Article 716-5
@@ -30526,7 +31467,7 @@ L'article 511-11 est ainsi rédigé :
 
 " Art. 511-11. - Le fait de recueillir ou de prélever des gamètes sur une personne vivante en vue d'une assistance médicale à
 la procréation sans procéder aux tests de dépistage des maladies transmissibles exigés en vertu de la réglementation
-applicable localement est puni de deux ans d'emprisonnement et de 200 000 F d'amende. "
+applicable localement est puni de deux ans d'emprisonnement et de 30 000 euros d'amende. "
 
 **Liens relatifs à cet article**
 
@@ -30542,7 +31483,11 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+
+_Abrogé par_:
+
+  - Ordonnance n°2008-1339 du 18 décembre 2008 - art. 8
 
 _Cité par_:
 
@@ -30558,7 +31503,7 @@ _Nouveaux textes_:
 
 _Cite_:
 
-  - Code pénal - art. 511-11 (M)
+  - Code pénal - art. 511-11
 
 
 ###### Article 716-6
@@ -30566,7 +31511,7 @@ _Cite_:
 L'article 511-12 est ainsi rédigé :
 
 " Art. 511-12. - Le fait de procéder à une insémination artificielle par sperme frais ou mélange de sperme provenant de dons
-est puni de deux ans d'emprisonnement et de 200 000 F d'amende. "
+est puni de deux ans d'emprisonnement et de 30 000 euros d'amende. "
 
 **Liens relatifs à cet article**
 
@@ -30582,7 +31527,11 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+
+_Abrogé par_:
+
+  - Ordonnance n°2008-1339 du 18 décembre 2008 - art. 8
 
 _Cité par_:
 
@@ -30598,7 +31547,7 @@ _Nouveaux textes_:
 
 _Cite_:
 
-  - Code pénal - art. 511-12 (M)
+  - Code pénal - art. 511-12
 
 
 ###### Article 716-7
@@ -30607,7 +31556,7 @@ L'article 511-13 est ainsi rédigé :
 
 " Art. 511-13. - Le fait de subordonner le bénéfice d'un don de gamètes à la désignation par le couple receveur d'une
 personne ayant volontairement accepté de procéder à un tel don en faveur d'un couple tiers anonyme est puni de deux ans
-d'emprisonnement et de 200 000 F d'amende. "
+d'emprisonnement et de 30 000 euros d'amende. "
 
 **Liens relatifs à cet article**
 
@@ -30622,7 +31571,11 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+
+_Abrogé par_:
+
+  - Ordonnance n°2008-1339 du 18 décembre 2008 - art. 8
 
 _Cité par_:
 
@@ -30638,7 +31591,51 @@ _Nouveaux textes_:
 
 _Cite_:
 
-  - Code pénal - art. 511-13 (M)
+  - Code pénal - art. 511-13
+
+
+###### Article 716-8
+
+L'article 511-14 est ainsi rédigé :
+
+" Art. 511-14. - Le fait de procéder à des activités de recueil, de traitement, de conservation et de cession de gamètes
+provenant de dons hors d'un établissement ou organisme à but non lucratif autorisé à cet effet est puni de deux ans
+d'emprisonnement et de 30 000 euros d'amende. "
+
+**Liens relatifs à cet article**
+
+**Liens**:
+
+  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
+  - PILOTE_SUIVEUR: Code de la santé publique - art. L1525-15 (Ab)
+
+_Codifié par_:
+
+  - Ordonnance 96-267 1996-03-28
+
+_Modifié par_:
+
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+
+_Abrogé par_:
+
+  - Ordonnance n°2008-1339 du 18 décembre 2008 - art. 8
+
+_Cité par_:
+
+  - Code de la santé publique - art. L1525-15 (M)
+  - Code de la santé publique - art. L1533-15 (T)
+  - Code de la santé publique - art. L1543-15 (Ab)
+
+_Nouveaux textes_:
+
+  - Code de la santé publique - art. L1525-15 (V)
+  - Code de la santé publique - art. L1533-15 (T)
+  - Code de la santé publique - art. L1543-15 (V)
+
+_Cite_:
+
+  - Code pénal - art. 511-14
 
 
 ###### Article 716-9
@@ -30646,12 +31643,13 @@ _Cite_:
 L'article 511-16 est ainsi rédigé :
 
 " Art. 511-16. - Le fait d'obtenir des embryons humains sans autorisation préalable de l'autorité judiciaire est puni de sept
-ans d'emprisonnement et de 700 000 F d'amende. L'autorité judiciaire ne peut délivrer une telle autorisation qu'à titre
+ans d'emprisonnement et de 100 000 euros d'amende. L'autorité judiciaire ne peut délivrer une telle autorisation qu'à titre
 exceptionnel, au vu du consentement écrit du couple à l'origine de la conception ou, si l'un des membres du couple est
 décédé, du membre survivant, et après avoir vérifié que l'acte ne tombe pas sous le coup des dispositions de l'article 511-24
 et que le couple receveur offre des garanties d'accueil satisfaisantes à l'enfant à naître.
 
-" Est également puni d'une peine de sept ans d'emprisonnement et de 700 000 F d'amende le fait d'obtenir un embryon humain :
+" Est également puni d'une peine de sept ans d'emprisonnement et de 100000 euros d'amende le fait d'obtenir un embryon
+humain :
 
 " - si l'anonymat entre le couple accueillant l'embryon et celui y ayant renoncé n'est pas respecté ;
 
@@ -30672,7 +31670,11 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+
+_Abrogé par_:
+
+  - Ordonnance n°2008-1339 du 18 décembre 2008 - art. 8
 
 _Cité par_:
 
@@ -30688,15 +31690,15 @@ _Nouveaux textes_:
 
 _Cite_:
 
-  - Code pénal - art. 511-16 (M)
-  - Code pénal - art. 511-24 (M)
+  - Code pénal - art. 511-16
+  - Code pénal - art. 511-24
 
 
 ###### Article 716-10
 
 L'article 511-19 est ainsi rédigé :
 
-" Art. 511-19. - Est puni de sept ans d'emprisonnement et de 700 000 F d'amende le fait de procéder à une étude ou à une
+" Art. 511-19. - Est puni de sept ans d'emprisonnement et de 100000 euros d'amende le fait de procéder à une étude ou à une
 expérimentation sur l'embryon.
 
 " L'alinéa précédent n'est pas applicable à une étude réalisée, à titre exceptionnel, à des fins médicales à condition
@@ -30718,7 +31720,11 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+
+_Abrogé par_:
+
+  - Ordonnance n°2008-1339 du 18 décembre 2008 - art. 8
 
 _Cité par_:
 
@@ -30734,7 +31740,7 @@ _Nouveaux textes_:
 
 _Cite_:
 
-  - Code pénal - art. 511-19 (M)
+  - Code pénal - art. 511-19
 
 
 ###### Article 716-11
@@ -30742,7 +31748,7 @@ _Cite_:
 L'article 511-20 est ainsi rédigé :
 
 " Art. 511-20. - Le fait de procéder au diagnostic prénatal hors d'un établissement autorisé à cet effet est puni de deux ans
-d'emprisonnement et de 200 000 F d'amende. "
+d'emprisonnement et de 30 000 euros d'amende. "
 
 **Liens relatifs à cet article**
 
@@ -30758,7 +31764,11 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+
+_Abrogé par_:
+
+  - Ordonnance n°2008-1339 du 18 décembre 2008 - art. 8
 
 _Cité par_:
 
@@ -30774,7 +31784,7 @@ _Nouveaux textes_:
 
 _Cite_:
 
-  - Code pénal - art. 511-20 (M)
+  - Code pénal - art. 511-20
 
 
 ###### Article 716-12
@@ -30784,7 +31794,7 @@ L'article 511-21 est ainsi rédigé :
 " Art. 511-21. - Le fait de procéder à un diagnostic préimplantatoire sans que soit attestée, par un médecin exerçant son
 activité dans un établissement mentionné à l'article 511-20, la forte probabilité pour le couple de donner naissance à un
 enfant atteint d'une maladie génétique d'une particulière gravité reconnue comme incurable au moment du diagnostic, est puni
-de deux ans d'emprisonnement et de 200 000 F d'amende.
+de deux ans d'emprisonnement et de 30 000 euros d'amende.
 
 " Est puni des mêmes peines le fait de procéder à un diagnostic préimplantatoire :
 
@@ -30808,7 +31818,11 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+
+_Abrogé par_:
+
+  - Ordonnance n°2008-1339 du 18 décembre 2008 - art. 8
 
 _Cité par_:
 
@@ -30824,8 +31838,8 @@ _Nouveaux textes_:
 
 _Cite_:
 
-  - Code pénal - art. 511-20 (M)
-  - Code pénal - art. 511-21 (M)
+  - Code pénal - art. 511-20
+  - Code pénal - art. 511-21
 
 
 ###### Article 716-13
@@ -30833,7 +31847,7 @@ _Cite_:
 L'article 511-22 est ainsi rédigé :
 
 " Art. 511-22. - Le fait de procéder à des activités d'assistance médicale à la procréation hors d'un établissement autorisé
-à cet effet est puni de deux ans d'emprisonnement et de 200 000 F d'amende. "
+à cet effet est puni de deux ans d'emprisonnement et de 30 000 euros d'amende. "
 
 **Liens relatifs à cet article**
 
@@ -30849,7 +31863,11 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+
+_Abrogé par_:
+
+  - Ordonnance n°2008-1339 du 18 décembre 2008 - art. 8
 
 _Cité par_:
 
@@ -30865,14 +31883,14 @@ _Nouveaux textes_:
 
 _Cite_:
 
-  - Code pénal - art. 511-22 (M)
+  - Code pénal - art. 511-22
 
 
 ###### Article 716-14
 
 L'article 511-24 est ainsi rédigé :
 
-" Art. 511-24. - Est puni de cinq ans d'emprisonnement et de 500 000 F d'amende le fait de procéder à des activités
+" Art. 511-24. - Est puni de cinq ans d'emprisonnement et de 75 000 euros d'amende le fait de procéder à des activités
 d'assistance médicale à la procréation lorsque celles-ci ne répondent pas à la demande parentale d'un couple ou lorsque le
 couple bénéficiaire n'est pas composé d'un homme et d'une femme vivants, en âge de procréer, mariés ou en mesure d'apporter
 la preuve d'une vie commune d'au moins deux ans et ayant préalablement consenti au transfert des embryons ou à l'insémination
@@ -30896,7 +31914,11 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+
+_Abrogé par_:
+
+  - Ordonnance n°2008-1339 du 18 décembre 2008 - art. 8
 
 _Cité par_:
 
@@ -30912,7 +31934,7 @@ _Nouveaux textes_:
 
 _Cite_:
 
-  - Code pénal - art. 511-24 (M)
+  - Code pénal - art. 511-24
 
 
 ###### Article 716-15
@@ -30921,7 +31943,7 @@ L'article 511-25 est ainsi rédigé :
 
 " Art. 511-25. - Le fait de procéder au transfert d'un embryon sans avoir pris connaissance des résultats des tests de
 dépistage de maladies infectieuses exigés en application des dispositions en vigueur localement est puni de deux ans
-d'emprisonnement et de 200 000 F d'amende. "
+d'emprisonnement et de 30 000 euros d'amende. "
 
 **Liens relatifs à cet article**
 
@@ -30937,7 +31959,11 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+
+_Abrogé par_:
+
+  - Ordonnance n°2008-1339 du 18 décembre 2008 - art. 8
 
 _Cité par_:
 
@@ -30953,7 +31979,7 @@ _Nouveaux textes_:
 
 _Cite_:
 
-  - Code pénal - art. 511-25 (M)
+  - Code pénal - art. 511-25
 
 
 ###### Article 716-16
@@ -30988,8 +32014,8 @@ _Cite_:
 
 Le fait, par tout directeur ou salarié, de solliciter ou d'agréer, directement ou indirectement, à l'insu et sans
 autorisation de son employeur, des offres ou des promesses, des dons, présents, escomptes ou primes pour accomplir ou
-s'abstenir d'accomplir un acte de sa fonction ou facilité par sa fonction est puni de deux ans d'emprisonnement et de 200 000
-F d'amende.
+s'abstenir d'accomplir un acte de sa fonction ou facilité par sa fonction est puni de deux ans d'emprisonnement et de 30 000
+euros d'amende.
 
 Est puni des mêmes peines le fait, par quiconque, de céder aux sollicitations définies à l'alinéa précédent ou d'en prendre
 l'initiative.
@@ -31013,11 +32039,15 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+
+_Abrogé par_:
+
+  - Loi n°2011-525 du 17 mai 2011 - art. 153
 
 _Cite_:
 
-  - Code pénal - art. 131-26 (V)
+  - Code pénal - art. 131-26
 
 
 ###### Article 717-2
@@ -31025,15 +32055,15 @@ _Cite_:
 Le fait, en diffusant, par quelque moyen que ce soit, des informations mensongères ou calomnieuses, en jetant sur le marché
 des offres destinées à troubler les cours ou des sur-offres faites au prix demandé par les vendeurs, ou en utilisant tout
 autre moyen frauduleux, d'opérer ou de tenter d'opérer la hausse ou la baisse artificielle du prix de biens ou de services ou
-d'effets publics ou privés est puni de deux ans d'emprisonnement et de 200 000 F d'amende.
+d'effets publics ou privés est puni de deux ans d'emprisonnement et de 30 000 euros d'amende. 
 
 Lorsque la hausse ou la baisse arificielle des prix concerne des produits alimentaires, la peine est portée à trois ans
-d'emprisonnement et 300 000 F d'amende.
+d'emprisonnement et 45 000 euros d'amende. 
 
 Les personnes physiques coupables des infractions prévues au présent article encourent également les peines complémentaires
-suivantes :
+suivantes : 
 
-1° L'interdiction des droits civiques, civils et de famille, suivant les modalités prévues par l'article 131-26 ;
+1° L'interdiction des droits civiques, civils et de famille, suivant les modalités prévues par l'article 131-26 ; 
 
 2° L'affichage ou la diffusion de la décision prononcée dans les conditions prévues par l'article 131-35.
 
@@ -31049,12 +32079,12 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 _Cite_:
 
   - Code pénal - art. 131-26 (V)
-  - Code pénal - art. 131-35 (M)
+  - Code pénal - art. 131-35 (V)
 
 _Cité par_:
 
@@ -31096,53 +32126,9 @@ _Cite_:
   - Code pénal - art. 131-39 (MMN)
 
 
-### Titre Ier : Dispositions applicables dans les territoires d'outre-mer et en Nouvelle-Calédonie<a id=242></a>
+### Titre II : Dispositions applicables à Mayotte.<a id=242></a>
 
-#### Chapitre VI : Adaptation du livre V.<a id=243></a>
-
-###### Article 716-8
-
-L'article 511-14 est ainsi rédigé :
-
-" Art. 511-14. - Le fait de procéder à des activités de recueil, de traitement, de conservation et de cession de gamètes
-provenant de dons hors d'un établissement ou organisme à but non lucratif autorisé à cet effet est puni de deux ans
-d'emprisonnement et de 200 000 F d'amende. "
-
-**Liens relatifs à cet article**
-
-**Liens**:
-
-  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
-  - PILOTE_SUIVEUR: Code de la santé publique - art. L1525-15 (Ab)
-
-_Codifié par_:
-
-  - Ordonnance 96-267 1996-03-28
-
-_Modifié par_:
-
-  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
-
-_Cité par_:
-
-  - Code de la santé publique - art. L1525-15 (M)
-  - Code de la santé publique - art. L1533-15 (T)
-  - Code de la santé publique - art. L1543-15 (Ab)
-
-_Nouveaux textes_:
-
-  - Code de la santé publique - art. L1525-15 (V)
-  - Code de la santé publique - art. L1533-15 (T)
-  - Code de la santé publique - art. L1543-15 (V)
-
-_Cite_:
-
-  - Code pénal - art. 511-14 (M)
-
-
-### Titre II : Dispositions applicables à Mayotte.<a id=244></a>
-
-#### Chapitre Ier : Dispositions générales<a id=245></a>
+#### Chapitre Ier : Dispositions générales<a id=243></a>
 
 ###### Article 721-1
 
@@ -31203,7 +32189,7 @@ _Modifié par_:
   - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
 
 
-#### Chapitre II : Adaptation du livre Ier.<a id=246></a>
+#### Chapitre II : Adaptation du livre Ier.<a id=244></a>
 
 ###### Article 722-1
 
@@ -31234,7 +32220,7 @@ _Cite_:
   - Code pénal - art. 132-45 (V)
 
 
-#### Chapitre III : Adaptation du livre II<a id=247></a>
+#### Chapitre III : Adaptation du livre II<a id=245></a>
 
 ###### Article 723-1
 
@@ -31242,7 +32228,7 @@ Le premier alinéa de l'article 223-8 est rédigé comme suit :
 
 " Le fait de pratiquer ou de faire pratiquer sur une personne une recherche biomédicale sans avoir recueilli le consentement
 libre, éclairé et exprès de l'intéressé, des titulaires de l'autorité parentale ou du tuteur est puni de trois ans
-d'emprisonnement et de 300 000 F d'amende. "
+d'emprisonnement et de 45 000 euros d'amende. "
 
 **Liens relatifs à cet article**
 
@@ -31257,7 +32243,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 _Cité par_:
 
@@ -31343,14 +32329,14 @@ _Cite_:
 
 ###### Article 723-4
 
-L'article 226-25 est rédigé comme suit :
+L'article 226-25 est rédigé comme suit : 
 
-" Art. 226-25. - Le fait de procéder à l'étude des caractéristiques génétiques d'une personne à des fins médicales sans avoir
-préalablement recueilli son consentement par écrit est puni d'un an d'emprisonnement et de 100 000 F d'amende.
+" Art. 226-25.-Le fait de procéder à l'étude des caractéristiques génétiques d'une personne à des fins médicales sans avoir
+préalablement recueilli son consentement par écrit est puni d'un an d'emprisonnement et de 15 000 euros d'amende. 
 
-" Les dispositions de l'alinéa précédent ne sont pas applicables :
+" Les dispositions de l'alinéa précédent ne sont pas applicables : 
 
-" 1° Lorsque l'étude est réalisée dans le cadre d'une procédure judiciaire ;
+" 1° Lorsque l'étude est réalisée dans le cadre d'une procédure judiciaire ; 
 
 " 2° Ou lorsque, à titre exceptionnel, dans l'intérêt de la personne et le respect de sa confiance, le consentement de celle-
 ci n'est pas recueilli. "
@@ -31368,7 +32354,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 _Cité par_:
 
@@ -31380,7 +32366,7 @@ _Nouveaux textes_:
 
 _Cite_:
 
-  - Code pénal - art. 226-25 (M)
+  - Code pénal - art. 226-25 (V)
 
 
 ###### Article 723-5
@@ -31388,7 +32374,7 @@ _Cite_:
 L'article 226-27 est rédigé comme suit :
 
 " Art. 226-27. - Le fait de rechercher l'identification d'une personne par ses empreintes génétiques à des fins médicales
-sans recueillir préalablement son consentement par écrit est puni d'un an d'emprisonnement et de 100 000 F d'amende.
+sans recueillir préalablement son consentement par écrit est puni d'un an d'emprisonnement et de 15000 euros d'amende.
 
 " Les dispositions de l'alinéa précédent ne sont pas applicables :
 
@@ -31409,7 +32395,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 _Cité par_:
 
@@ -31428,13 +32414,13 @@ _Cite_:
 
 L'article 226-28 est rédigé comme suit :
 
-" Art. 226-28. - Le fait de rechercher l'identification d'une personne par ses empreintes génétiques à des fins qui ne
-seraient ni médicales, ni scientifiques ou en dehors d'une mesure d'enquête ou d'instruction diligentée lors d'une procédure
-judiciaire est puni d'un an d'emprisonnement et de 100 000 F d'amende.
+"Art. 226-28. - Le fait de rechercher l'identification d'une personne par ses empreintes génétiques à des fins qui ne
+seraient ni médicales ni scientifiques ou en dehors d'une mesure d'enquête ou d'instruction diligentée lors d'une procédure
+judiciaire est puni d'un an d'emprisonnement ou de 1 500 euros d'amende.
 
-" Est puni des mêmes peines le fait de divulguer des informations relatives à l'identification d'une personne par ses
+Est puni des mêmes peines le fait de divulguer des informations relatives à l'identification d'une personne par ses
 empreintes génétiques ou de procéder à l'identification d'une personne par ses empreintes génétiques sans avoir fait l'objet
-d'un agrément délivré dans des conditions fixées par décret en Conseil d'Etat. "
+d'un agrément délivré dans des conditions fixées par décret en Conseil d'Etat."
 
 **Liens relatifs à cet article**
 
@@ -31448,7 +32434,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 _Cité par_:
 
@@ -31463,7 +32449,7 @@ _Cite_:
   - Code pénal - art. 226-28 (M)
 
 
-#### Chapitre IV : Adaptation du livre III<a id=248></a>
+#### Chapitre IV : Adaptation du livre III<a id=246></a>
 
 ###### Article 724-1
 
@@ -31489,7 +32475,7 @@ _Modifié par_:
   - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
 
 
-#### Chapitre V : Adaptation du livre IV<a id=249></a>
+#### Chapitre V : Adaptation du livre IV<a id=247></a>
 
 ###### Article 725-1
 
@@ -31647,9 +32633,9 @@ _Cite_:
 
 ###### Article 725-6
 
-L'article 443-3 est rédigé comme suit :
+L'article 443-3 est rédigé comme suit : 
 
-" Art. 443-3. - Sont punis d'un an d'emprisonnement et de 100 000 F d'amende, la fabrication, la vente, le transport ou la
+" Art. 443-3.-Sont punis d'un an d'emprisonnement et de 15 000 euros d'amende, la fabrication, la vente, le transport ou la
 distribution de tous objets, imprimés ou formules qui présentent, avec les titres ou autres valeurs fiduciaires émises par
 l'Etat, les collectivités locales, les établissements publics ou les exploitants publics intervenant dans le fonctionnement
 du service public de la poste et des télécommunications, une ressemblance de nature à faciliter l'acceptation desdits objets,
@@ -31667,33 +32653,33 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 _Cite_:
 
-  - Code pénal - art. 443-3 (M)
+  - Code pénal - art. 443-3 (V)
 
 
-#### Chapitre VI : Adaptation du livre V<a id=250></a>
+#### Chapitre VI : Adaptation du livre V<a id=248></a>
 
 ###### Article 726-1
 
-L'article 511-3 est ainsi rédigé :
+L'article 511-3 est ainsi rédigé : 
 
-" Art. 511-3. - Le fait de prélever un organe sur une personne vivante majeure sans avoir recueilli son consentement ou sans
-l'avoir préalablement éclairée sur les risques et les conséquences de l'acte est puni de sept ans d'emprisonnement et de 700
-000 F d'amende.
+" Art. 511-3.-Le fait de prélever un organe sur une personne vivante majeure sans avoir recueilli son consentement ou sans
+l'avoir préalablement éclairée sur les risques et les conséquences de l'acte est puni de sept ans d'emprisonnement et de 100
+000 euros d'amende. 
 
 " Est puni des mêmes peines le fait de prélever un organe sur un donneur vivant mineur ou sur un donneur vivant majeur
 faisant l'objet d'une mesure de protection légale. Toutefois, un prélèvement de moelle osseuse sur un mineur au profit de son
 frère ou de sa soeur peut être autorisé par un comité médical constitué dans les conditions fixées par la réglementation
 applicable localement, sous réserve du consentement de chacun des titulaires de l'autorité parentale ou du représentant légal
-du mineur.
+du mineur. 
 
 " Les consentements prévus aux alinéas précédents sont exprimés devant le président du tribunal de première instance ou le
-magistrat désigné par lui. Ils peuvent être révoqués sans forme à tout moment.
+magistrat désigné par lui. Ils peuvent être révoqués sans forme à tout moment. 
 
-" En cas d'urgence, le consentement est recueilli par tout moyen par le procureur de la République.
+" En cas d'urgence, le consentement est recueilli par tout moyen par le procureur de la République. 
 
 " Le comité médical s'assure que le mineur a été informé du prélèvement envisagé en vue d'exprimer sa volonté, si celui-ci y
 est apte. Le refus du mineur fait obstacle au prélèvement. "
@@ -31711,7 +32697,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 _Cité par_:
 
@@ -31723,7 +32709,7 @@ _Nouveaux textes_:
 
 _Cite_:
 
-  - Code pénal - art. 511-3 (M)
+  - Code pénal - art. 511-3 (V)
 
 
 ###### Article 726-2
@@ -31763,11 +32749,11 @@ _Cite_:
 
 ###### Article 726-3
 
-L'article 511-7 est ainsi rédigé :
+L'article 511-7 est ainsi rédigé : 
 
-" Art. 511-7. - Le fait de procéder à des prélèvements d'organes ou des transplantations d'organes, à des prélèvements ou des
+" Art. 511-7.-Le fait de procéder à des prélèvements d'organes ou des transplantations d'organes, à des prélèvements ou des
 greffes de tissus, à la conservation ou à la transformation de tissus ou à la greffe de cellules hors d'un établissement
-autorisé à cet effet est puni de deux ans d'emprisonnement et de 200 000 F d'amende. "
+autorisé à cet effet est puni de deux ans d'emprisonnement et de 30 000 euros d'amende. "
 
 **Liens relatifs à cet article**
 
@@ -31782,7 +32768,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 _Cité par_:
 
@@ -31794,16 +32780,16 @@ _Nouveaux textes_:
 
 _Cite_:
 
-  - Code pénal - art. 511-7 (M)
+  - Code pénal - art. 511-7 (V)
 
 
 ###### Article 726-4
 
-L'article 511-8 est ainsi rédigé :
+L'article 511-8 est ainsi rédigé : 
 
-" Art. 511-8. - Le fait de procéder à la distribution ou à la cession d'organes, de tissus, de cellules et produits humains
-en vue d'un don sans qu'aient été respectées les règles de sécurité sanitaires exigées par les dispositions applicables
-localement est puni de deux ans d'emprisonnement et de 200 000 F d'amende. "
+" Art. 511-8.-Le fait de procéder à la distribution ou à la cession d'organes, de tissus, de cellules et produits humains en
+vue d'un don sans qu'aient été respectées les règles de sécurité sanitaires exigées par les dispositions applicables
+localement est puni de deux ans d'emprisonnement et de 30 000 euros d'amende. "
 
 **Liens relatifs à cet article**
 
@@ -31818,7 +32804,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 _Cité par_:
 
@@ -31830,16 +32816,16 @@ _Nouveaux textes_:
 
 _Cite_:
 
-  - Code pénal - art. 511-8 (M)
+  - Code pénal - art. 511-8 (V)
 
 
 ###### Article 726-5
 
-L'article 511-11 est ainsi rédigé :
+L'article 511-11 est ainsi rédigé : 
 
-" Art. 511-11. - Le fait de recueillir ou de prélever des gamètes sur une personne vivante en vue d'une assistance médicale à
+" Art. 511-11.-Le fait de recueillir ou de prélever des gamètes sur une personne vivante en vue d'une assistance médicale à
 la procréation sans procéder aux tests de dépistage des maladies transmissibles exigés en vertu de la réglementation
-applicable localement est puni de deux ans d'emprisonnement et de 200 000 F d'amende. "
+applicable localement est puni de deux ans d'emprisonnement et de 30 000 euros d'amende. "
 
 **Liens relatifs à cet article**
 
@@ -31854,7 +32840,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 _Cité par_:
 
@@ -31866,15 +32852,15 @@ _Nouveaux textes_:
 
 _Cite_:
 
-  - Code pénal - art. 511-11 (M)
+  - Code pénal - art. 511-11 (V)
 
 
 ###### Article 726-6
 
-L'article 511-12 est ainsi rédigé :
+L'article 511-12 est ainsi rédigé : 
 
-" Art. 511-12. - Le fait de procéder à une insémination artificielle par sperme frais ou mélange de sperme provenant de dons
-est puni de deux ans d'emprisonnement et de 200 000 F d'amende. "
+" Art. 511-12.-Le fait de procéder à une insémination artificielle par sperme frais ou mélange de sperme provenant de dons
+est puni de deux ans d'emprisonnement et de 30 000 euros d'amende. "
 
 **Liens relatifs à cet article**
 
@@ -31889,7 +32875,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 _Nouveaux textes_:
 
@@ -31901,16 +32887,16 @@ _Cité par_:
 
 _Cite_:
 
-  - Code pénal - art. 511-12 (M)
+  - Code pénal - art. 511-12 (V)
 
 
 ###### Article 726-7
 
-L'article 511-13 est ainsi rédigé :
+L'article 511-13 est ainsi rédigé : 
 
-" Art. 511-13. - Le fait de subordonner le bénéfice d'un don de gamètes à la désignation par le couple receveur d'une
-personne ayant volontairement accepté de procéder à un tel don en faveur d'un couple tiers anonyme est puni de deux ans
-d'emprisonnement et de 200 000 F d'amende. "
+" Art. 511-13.-Le fait de subordonner le bénéfice d'un don de gamètes à la désignation par le couple receveur d'une personne
+ayant volontairement accepté de procéder à un tel don en faveur d'un couple tiers anonyme est puni de deux ans
+d'emprisonnement et de 30 000 euros d'amende. "
 
 **Liens relatifs à cet article**
 
@@ -31925,7 +32911,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 _Cité par_:
 
@@ -31937,16 +32923,16 @@ _Nouveaux textes_:
 
 _Cite_:
 
-  - Code pénal - art. 511-13 (M)
+  - Code pénal - art. 511-13 (V)
 
 
 ###### Article 726-8
 
-L'article 511-14 et ainsi rédigé :
+L'article 511-14 et ainsi rédigé : 
 
-" Art. 511-14. - Le fait de procéder à des activités de recueil, de traitement, de conservation et de ces cession de gamètes
+" Art. 511-14.-Le fait de procéder à des activités de recueil, de traitement, de conservation et de cession de gamètes
 provenant de dons hors d'un établissement ou organisme à but non lucratif autorisé à cet effet est puni de deux ans
-d'emprisonnement et de 200 000 F d'amende. "
+d'emprisonnement et de 30 000 euros d'amende. "
 
 **Liens relatifs à cet article**
 
@@ -31961,7 +32947,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 _Nouveaux textes_:
 
@@ -31973,24 +32959,25 @@ _Cité par_:
 
 _Cite_:
 
-  - Code pénal - art. 511-14 (M)
+  - Code pénal - art. 511-14 (Ab)
 
 
 ###### Article 726-9
 
 L'article 511-16 est ainsi rédigé :
 
-" Art. 511-16. - Le fait d'obtenir des embryons humains sans autorisation préalable de l'autorité judiciaire est puni de sept
-ans d'emprisonnement et de 700 000 F d'amende. L'autorité judiciaire ne peut délivrer une telle autorisation qu'à titre
+" Art. 511-16.-Le fait d'obtenir des embryons humains sans autorisation préalable de l'autorité judiciaire est puni de sept
+ans d'emprisonnement et de 100 000 euros d'amende. L'autorité judiciaire ne peut délivrer une telle autorisation qu'à titre
 exceptionnel, au vu du consentement écrit du couple à l'origine de la conception ou, si l'un des membres du couple est
 décédé, du membre survivant, et après avoir vérifié que l'acte ne tombe pas sous le coup des dispositions de l'article 511-24
 et que le couple receveur offre des garanties d'accueil satisfaisantes à l'enfant à naître.
 
-" Est également puni d'une peine de sept ans d'emprisonnement et de 700 000 F d'amende le fait d'obtenir un embryon humain :
+" Est également puni d'une peine de sept ans d'emprisonnement et de 100 000 euros d'amende le fait d'obtenir un embryon
+humain :
 
-" - si l'anonymat entre le couple accueillant l'embryon et celui y ayant renoncé n'est pas respecté ;
+" – si l'anonymat entre le couple accueillant l'embryon et celui y ayant renoncé n'est pas respecté ;
 
-" - ou si le couple accueillant l'embryon ne se trouve pas dans une situation où l'assistance médicale à la procréation sans
+" – ou si le couple accueillant l'embryon ne se trouve pas dans une situation où l'assistance médicale à la procréation sans
 recours à un tiers donneur ne peut aboutir. "
 
 **Liens relatifs à cet article**
@@ -32006,7 +32993,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 _Cité par_:
 
@@ -32019,20 +33006,19 @@ _Nouveaux textes_:
 
 _Cite_:
 
-  - Code pénal - art. 511-16 (M)
-  - Code pénal - art. 511-24 (M)
+  - Code pénal - art. 511-16 (V)
 
 
 ###### Article 726-10
 
-L'article 511-19 est ainsi rédigé :
+L'article 511-19 est ainsi rédigé : 
 
-" Art. 511-19. - Est puni de sept ans d'emprisonnement et de 700 000 F d'amende le fait de procéder à une étude ou à une
-expérimentation sur l'embryon.
+" Art. 511-19.-Est puni de sept ans d'emprisonnement et de 100 000 euros d'amende le fait de procéder à une étude ou à une
+expérimentation sur l'embryon. 
 
 " L'alinéa précédent n'est pas applicable à une étude réalisée, à titre exceptionnel, à des fins médicales à condition
 qu'elle ne porte pas atteinte à l'embryon et qu'elle concerne l'embryon issu d'un couple ayant donné son consentement par
-écrit, après avis conforme d'une commission constituée dans les conditions fixées par décret en Conseil d'Etat ".
+écrit, après avis conforme d'une commission constituée dans les conditions fixées par décret en Conseil d'Etat. "
 
 **Liens relatifs à cet article**
 
@@ -32047,7 +33033,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 _Cité par_:
 
@@ -32060,15 +33046,15 @@ _Nouveaux textes_:
 
 _Cite_:
 
-  - Code pénal - art. 511-19 (M)
+  - Code pénal - art. 511-19 (V)
 
 
 ###### Article 726-11
 
-L'article 511-20 est ainsi rédigé :
+L'article 511-20 est ainsi rédigé : 
 
-" Art. 511-20. - Le fait de procéder au diagnostic prénatal hors d'un établissement autorisé à cet effet est puni de deux ans
-d'emprisonnement et de 200 000 F d'amende. "
+" Art. 511-20.-Le fait de procéder au diagnostic prénatal hors d'un établissement autorisé à cet effet est puni de deux ans
+d'emprisonnement et de 30 000 euros d'amende. "
 
 **Liens relatifs à cet article**
 
@@ -32083,7 +33069,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 _Cité par_:
 
@@ -32096,23 +33082,23 @@ _Nouveaux textes_:
 
 _Cite_:
 
-  - Code pénal - art. 511-20 (M)
+  - Code pénal - art. 511-20 (V)
 
 
 ###### Article 726-12
 
-L'article 511-21 est ainsi rédigé :
+L'article 511-21 est ainsi rédigé : 
 
-" Art. 511-21. - Le fait de procéder à un diagnostic préimplantatoire sans que soit attestée, par un médecin exerçant son
+" Art. 511-21.-Le fait de procéder à un diagnostic préimplantatoire sans que soit attestée, par un médecin exerçant son
 activité dans un établissement mentionné à l'article 511-20, la forte probabilité, pour le couple, de donner naissance à un
 enfant atteint d'une maladie génétique d'une particulière gravité reconnue comme incurable au moment du diagnostic est puni
-de deux ans d'emprisonnement et de 200 000 F d'amende.
+de deux ans d'emprisonnement et de 30 000 euros d'amende. 
 
-" Est puni des mêmes peines le fait de procéder à un diagnostic préimplantatoire :
+" Est puni des mêmes peines le fait de procéder à un diagnostic préimplantatoire : 
 
-" 1° Sans avoir recueilli par écrit le consentement des deux membres du couple ;
+" 1° Sans avoir recueilli par écrit le consentement des deux membres du couple ; 
 
-" 2° Ou à d'autres fins que de rechercher l'affection, de la prévenir et de la traiter ;
+" 2° Ou à d'autres fins que de rechercher l'affection, de la prévenir et de la traiter ; 
 
 " 3° Ou hors d'un établissement autorisé à cet effet. "
 
@@ -32129,7 +33115,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 _Cité par_:
 
@@ -32142,16 +33128,15 @@ _Nouveaux textes_:
 
 _Cite_:
 
-  - Code pénal - art. 511-20 (M)
-  - Code pénal - art. 511-21 (M)
+  - Code pénal - art. 511-21 (V)
 
 
 ###### Article 726-13
 
-L'article 511-22 est ainsi rédigé :
+L'article 511-22 est ainsi rédigé : 
 
-" Art. 511-22. - Le fait de procéder à des activités d'assistance médicale à la procréation hors d'un établissement autorisé
-à cet effet est puni de deux ans d'emprisonnement et de 200 000 F d'amende. "
+" Art. 511-22.-Le fait de procéder à des activités d'assistance médicale à la procréation hors d'un établissement autorisé à
+cet effet est puni de deux ans d'emprisonnement et de 30 000 euros d'amende. "
 
 **Liens relatifs à cet article**
 
@@ -32166,7 +33151,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 _Cité par_:
 
@@ -32179,18 +33164,18 @@ _Nouveaux textes_:
 
 _Cite_:
 
-  - Code pénal - art. 511-22 (M)
+  - Code pénal - art. 511-22 (V)
 
 
 ###### Article 726-14
 
-L'article 511-24 est ainsi rédigé :
+L'article 511-24 est ainsi rédigé : 
 
-" Art. 511-24. - Est puni de cinq ans d'emprisonnement et de 500 000 F d'amende le fait de procéder à des activités
+" Art. 511-24.-Est puni de cinq ans d'emprisonnement et de 75 000 euros d'amende le fait de procéder à des activités
 d'assistance médicale à la procréation lorsque celles-ci ne répondent pas à la demande parentale d'un couple ou lorsque le
 couple bénéficiaire n'est pas composé d'un homme et d'une femme vivants, en âge de procréer, mariés ou en mesure d'apporter
 la preuve d'une vie commune d'au moins deux ans et ayant préalablement consenti au transfert des embryons ou à l'insémination
-artificielle.
+artificielle. 
 
 " Est puni des mêmes peines le fait de procéder à des activités d'assistance médicale à la procréation en vue d'un objet
 autre que de remédier à une infertilité dont le caractère pathologique a été médicalement diagnostiqué ou d'éviter la
@@ -32209,7 +33194,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 _Cité par_:
 
@@ -32222,16 +33207,16 @@ _Nouveaux textes_:
 
 _Cite_:
 
-  - Code pénal - art. 511-24 (M)
+  - Code pénal - art. 511-24 (V)
 
 
 ###### Article 726-15
 
-L'article 511-25 est ainsi rédigé :
+L'article 511-25 est ainsi rédigé : 
 
-" Art. 511-25. - Le fait de procéder au transfert d'un embryon sans avoir pris connaissance des résultats des tests de
+" Art. 511-25.-Le fait de procéder au transfert d'un embryon sans avoir pris connaissance des résultats des tests de
 dépistage de maladies infectieuses exigés en application des dispositions en vigueur localement est puni de deux ans
-d'emprisonnement et de 200 000 F d'amende. "
+d'emprisonnement et de 30 000 euros d'amende. "
 
 **Liens relatifs à cet article**
 
@@ -32246,7 +33231,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 _Cité par_:
 
@@ -32259,17 +33244,17 @@ _Nouveaux textes_:
 
 _Cite_:
 
-  - Code pénal - art. 511-25 (M)
+  - Code pénal - art. 511-25 (V)
 
 
-#### Chapitre VII : Dispositions diverses<a id=251></a>
+#### Chapitre VII : Dispositions diverses<a id=249></a>
 
 ###### Article 727-1
 
 Le fait, par tout directeur ou salarié, de solliciter ou d'agréer, directement ou indirectement, à l'insu et sans
 l'autorisation de son employeur, des offres ou des promesses, des dons, présents, escomptes ou primes pour accomplir ou
-s'abstenir d'accomplir un acte de sa fonction ou facilité par sa fonction, est puni de deux ans d'emprisonnement et de 200
-000 F d'amende.
+s'abstenir d'accomplir un acte de sa fonction ou facilité par sa fonction, est puni de deux ans d'emprisonnement et de 30 000
+euros d'amende.
 
 Est puni des mêmes peines le fait, par quiconque, de céder aux sollicitations définies à l'alinéa précédent ou d'en prendre
 l'initiative.
@@ -32285,15 +33270,19 @@ de cinq ans au plus, l'interdiction des droits civiques, civils et de famille pr
 
 _Codifié par_:
 
-  - Ordonnance 96-267 1996-03-28
+  - Ordonnance n°96-267 du 28 mars 1996
 
 _Modifié par_:
 
-  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+
+_Abrogé par_:
+
+  - Loi n°2011-525 du 17 mai 2011 - art. 153
 
 _Cite_:
 
-  - Code pénal - art. 131-26 (V)
+  - Code pénal - art. 131-26
 
 
 ###### Article 727-2
@@ -32301,15 +33290,15 @@ _Cite_:
 Le fait, en diffusant, par quelque moyen que ce soit, des informations mensongères ou calomnieuses, en jetant sur le marché
 des offres destinées à troubler les cours ou des sur-offres faites aux prix demandés par les vendeurs, ou en utilisant tout
 autre moyen frauduleux, d'opérer ou de tenter d'opérer la hausse ou la baisse artificielle du prix de biens ou de services ou
-d'effets publics ou privés, est puni de deux ans d'emprisonnement et de 200 000 F d'amende.
+d'effets publics ou privés, est puni de deux ans d'emprisonnement et de 30 000 euros d'amende. 
 
 Lorsque la hausse ou la baisse artificielle des prix concerne des produits alimentaires, la peine est portée à trois ans
-d'emprisonnement et 300 000 F d'amende.
+d'emprisonnement et 45 000 euros d'amende. 
 
 Les personnes physiques coupables des infractions prévues au présent article encourent également les peines complémentaires
-suivantes :
+suivantes : 
 
-1° L'interdiction des droits civiques, civils et de famille, suivant les modalités prévues par l'article 131-26 ;
+1° L'interdiction des droits civiques, civils et de famille, suivant les modalités prévues par l'article 131-26 ; 
 
 2° L'affichage ou la diffusion de la décision prononcée dans les conditions prévues à l'article 131-35.
 
@@ -32325,12 +33314,12 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 _Cite_:
 
   - Code pénal - art. 131-26 (V)
-  - Code pénal - art. 131-35 (M)
+  - Code pénal - art. 131-35 (V)
 
 
 ###### Article 727-3
@@ -32368,19 +33357,19 @@ _Cite_:
   - Code pénal - art. 131-39 (MMN)
 
 
-# Partie réglementaire - Décrets en Conseil d'Etat<a id=252></a>
+# Partie réglementaire - Décrets en Conseil d'Etat<a id=250></a>
 
-## Livre Ier : Dispositions générales<a id=253></a>
+## Livre Ier : Dispositions générales<a id=251></a>
 
-### Titre III : Des peines<a id=254></a>
+### Titre III : Des peines<a id=252></a>
 
-#### Chapitre Ier : De la nature des peines<a id=255></a>
+#### Chapitre Ier : De la nature des peines<a id=253></a>
 
-##### Section 1 : Des peines applicables aux personnes physiques<a id=256></a>
+##### Section 1 : Des peines applicables aux personnes physiques<a id=254></a>
 
-##### Sous-section 1 : De la suspension du permis de conduire, de l'interdiction de conduire certains véhicules et de l'immobilisation de véhicule<a id=257></a>
+##### Sous-section 1 : De la suspension du permis de conduire, de l'interdiction de conduire certains véhicules et de l'immobilisation de véhicule<a id=255></a>
 
-##### Paragraphe 1 : De la suspension du permis de conduire.<a id=258></a>
+##### Paragraphe 1 : De la suspension du permis de conduire.<a id=256></a>
 
 ###### Article R131-1
 
@@ -32451,7 +33440,7 @@ _Cite_:
   - Code de la route R123
 
 
-##### Paragraphe 2 : De l'interdiction de conduire certains véhicules.<a id=259></a>
+##### Paragraphe 2 : De l'interdiction de conduire certains véhicules.<a id=257></a>
 
 ###### Article R131-3
 
@@ -32517,7 +33506,7 @@ _Cite_:
   - Code de la route R123
 
 
-##### Paragraphe 3 : De l'immobilisation de véhicule.<a id=260></a>
+##### Paragraphe 3 : De l'immobilisation de véhicule.<a id=258></a>
 
 ###### Article R131-5
 
@@ -32648,11 +33637,11 @@ _Codifié par_:
   - Décret n°93-726 1993-03-29
 
 
-##### Sous-section 2 : Du travail d'intérêt général<a id=261></a>
+##### Sous-section 2 : Du travail d'intérêt général<a id=259></a>
 
-##### Paragraphe 1 : Des modalités d'habilitation des associations et d'établissement de la liste des travaux d'intérêt général<a id=262></a>
+##### Paragraphe 1 : Des modalités d'habilitation des associations et d'établissement de la liste des travaux d'intérêt général<a id=260></a>
 
-##### A. : Des modalités d'habilitation des associations.<a id=263></a>
+##### A. : Des modalités d'habilitation des associations.<a id=261></a>
 
 ###### Article R131-12
 
@@ -32795,7 +33784,7 @@ _Codifié par_:
   - Décret n°93-726 1993-03-29
 
 
-##### B. : De l'établissement de la liste des travaux d'intérêt général.<a id=264></a>
+##### B. : De l'établissement de la liste des travaux d'intérêt général.<a id=262></a>
 
 ###### Article R131-17
 
@@ -32895,7 +33884,7 @@ _Codifié par_:
   - Décret n°93-726 1993-03-29
 
 
-##### C. : Dispositions diverses.<a id=265></a>
+##### C. : Dispositions diverses.<a id=263></a>
 
 ###### Article R131-21
 
@@ -32932,9 +33921,9 @@ _Codifié par_:
   - Décret n°93-726 1993-03-29
 
 
-##### Paragraphe 2 : De l'exécution du travail d'intérêt général<a id=266></a>
+##### Paragraphe 2 : De l'exécution du travail d'intérêt général<a id=264></a>
 
-##### A. : De la décision du juge de l'application des peines fixant les modalités d'exécution du travail d'intérêt général<a id=267></a>
+##### A. : De la décision du juge de l'application des peines fixant les modalités d'exécution du travail d'intérêt général<a id=265></a>
 
 ###### Article R131-23
 
@@ -33065,7 +34054,7 @@ _Cite_:
   - Code de la santé publique - art. L10 (Ab)
 
 
-##### B. : Du contrôle de l'exécution du travail d'intérêt général<a id=268></a>
+##### B. : Du contrôle de l'exécution du travail d'intérêt général<a id=266></a>
 
 ###### Article R131-29
 
@@ -33167,7 +34156,7 @@ _Codifié par_:
   - Décret n°93-726 1993-03-29
 
 
-##### Section 2 : Des peines applicables aux personnes morales.<a id=269></a>
+##### Section 2 : Des peines applicables aux personnes morales.<a id=267></a>
 
 ###### Article R131-35
 
@@ -33246,9 +34235,9 @@ _Nouveaux textes_:
   - Code pénal art. R131-46
 
 
-#### Chapitre III : De l'extinction des peines et de l'effacement des condamnations<a id=270></a>
+#### Chapitre III : De l'extinction des peines et de l'effacement des condamnations<a id=268></a>
 
-##### Section 2 : De la grâce<a id=271></a>
+##### Section 2 : De la grâce<a id=269></a>
 
 ###### Article R133-1
 
@@ -33290,13 +34279,13 @@ _Créé par_:
   - Décret n°95-152 du 7 février 1995 - art. 1 () JORF 14 février 1995
 
 
-## Livre II : Des crimes et délits contre les personnes<a id=272></a>
+## Livre II : Des crimes et délits contre les personnes<a id=270></a>
 
-### Titre II : Des atteintes à la personne humaine<a id=273></a>
+### Titre II : Des atteintes à la personne humaine<a id=271></a>
 
-#### Chapitre VI : Des atteintes à la personnalité<a id=274></a>
+#### Chapitre VI : Des atteintes à la personnalité<a id=272></a>
 
-##### Section 1 : De l'atteinte à la vie privée<a id=275></a>
+##### Section 1 : De l'atteinte à la vie privée<a id=273></a>
 
 ###### Article R226-1
 
@@ -33753,15 +34742,15 @@ _Cite_:
   - Code pénal - art. R226-7 (V)
 
 
-## Livre III : Des crimes et délits contre les biens<a id=276></a>
+## Livre III : Des crimes et délits contre les biens<a id=274></a>
 
-### Titre II : Des autres atteintes aux biens<a id=277></a>
+### Titre II : Des autres atteintes aux biens<a id=275></a>
 
-#### Chapitre Ier : Du recel et des infractions assimilées ou voisines<a id=278></a>
+#### Chapitre Ier : Du recel et des infractions assimilées ou voisines<a id=276></a>
 
-##### Section 2 : Des infractions assimilées au recel ou voisines de celui-ci<a id=279></a>
+##### Section 2 : Des infractions assimilées au recel ou voisines de celui-ci<a id=277></a>
 
-##### Sous-section 1 : Dispositions relatives aux personnes dont l'activité professionnelle comporte la vente ou l'échange de certains objets mobiliers<a id=280></a>
+##### Sous-section 1 : Dispositions relatives aux personnes dont l'activité professionnelle comporte la vente ou l'échange de certains objets mobiliers<a id=278></a>
 
 ###### Article R321-1
 
@@ -34016,7 +35005,7 @@ _Cité par_:
   - Code pénal - art. R633-3 (V)
 
 
-##### Sous-section 2 : Dispositions concernant les manifestations publiques en vue de la vente ou de l'échange de certains objets mobiliers<a id=281></a>
+##### Sous-section 2 : Dispositions concernant les manifestations publiques en vue de la vente ou de l'échange de certains objets mobiliers<a id=279></a>
 
 ###### Article R321-9
 
@@ -34108,13 +35097,13 @@ _Codifié par_:
   - Décret n°93-726 1993-03-29
 
 
-## Livre IV : Des crimes et délits contre la nation, l'Etat et la paix publique<a id=282></a>
+## Livre IV : Des crimes et délits contre la nation, l'Etat et la paix publique<a id=280></a>
 
-### Titre Ier : Des atteintes aux intérêts fondamentaux de la nation<a id=283></a>
+### Titre Ier : Des atteintes aux intérêts fondamentaux de la nation<a id=281></a>
 
-#### Chapitre III : Des autres atteintes à la défense nationale<a id=284></a>
+#### Chapitre III : Des autres atteintes à la défense nationale<a id=282></a>
 
-##### Section 1 : Des atteintes à la sécurité des forces armées et aux zones protégées intéressant la défense nationale<a id=285></a>
+##### Section 1 : Des atteintes à la sécurité des forces armées et aux zones protégées intéressant la défense nationale<a id=283></a>
 
 ###### Article R413-1
 
@@ -34274,7 +35263,7 @@ _Cité par_:
   - Code pénal - art. R413-5-1 (V)
 
 
-##### Section 2 : Des atteintes au secret de la défense nationale<a id=286></a>
+##### Section 2 : Des atteintes au secret de la défense nationale<a id=284></a>
 
 ###### Article R413-6
 
@@ -34303,11 +35292,11 @@ _Modifié par_:
   - Décret n°98-608 du 17 juillet 1998 - art. 10 () JORF 19 juillet 1998
 
 
-### Titre III : Des atteintes à l'autorité de l'Etat<a id=287></a>
+### Titre III : Des atteintes à l'autorité de l'Etat<a id=285></a>
 
-#### Chapitre Ier : Des atteintes à la paix publique<a id=288></a>
+#### Chapitre Ier : Des atteintes à la paix publique<a id=286></a>
 
-##### Section 2 : De la participation délictueuse à un attroupement.<a id=289></a>
+##### Section 2 : De la participation délictueuse à un attroupement.<a id=287></a>
 
 ###### Article R431-1
 
@@ -34387,9 +35376,9 @@ _Cite_:
   - Code pénal - art. 431-3
 
 
-## Livre V : Des autres crimes et délits<a id=290></a>
+## Livre V : Des autres crimes et délits<a id=288></a>
 
-### Chapitre Ier : Des sévices graves ou actes de cruauté envers les animaux<a id=291></a>
+### Chapitre Ier : Des sévices graves ou actes de cruauté envers les animaux<a id=289></a>
 
 ###### Article R511-1
 
@@ -34422,9 +35411,9 @@ _Cité par_:
   - Code pénal - art. R716-1 (V)
 
 
-## Livre VI : Des contraventions<a id=292></a>
+## Livre VI : Des contraventions<a id=290></a>
 
-### Titre Ier : Dispositions générales<a id=293></a>
+### Titre Ier : Dispositions générales<a id=291></a>
 
 ###### Article R610-1
 
@@ -34551,11 +35540,11 @@ _Cité par_:
   - Code général des collectivités territoriales - art. R2512-15-12 (VT)
 
 
-### Titre II : Des contraventions contre les personnes<a id=294></a>
+### Titre II : Des contraventions contre les personnes<a id=292></a>
 
-#### Chapitre Ier : Des contraventions de la 1re classe contre les personnes<a id=295></a>
+#### Chapitre Ier : Des contraventions de la 1re classe contre les personnes<a id=293></a>
 
-##### Section 1 : De la diffamation et de l'injure non publiques<a id=296></a>
+##### Section 1 : De la diffamation et de l'injure non publiques<a id=294></a>
 
 ###### Article R621-1
 
@@ -34601,9 +35590,9 @@ _Cité par_:
   - Code de procédure pénale - art. R41-11 (V)
 
 
-#### Chapitre II : Des contraventions de la 2e classe contre les personnes<a id=297></a>
+#### Chapitre II : Des contraventions de la 2e classe contre les personnes<a id=295></a>
 
-##### Section 1 : Des atteintes involontaires à l'intégrité de la personne n'ayant entraîné aucune incapacité totale de travail<a id=298></a>
+##### Section 1 : Des atteintes involontaires à l'intégrité de la personne n'ayant entraîné aucune incapacité totale de travail<a id=296></a>
 
 ###### Article R622-1
 
@@ -34646,7 +35635,7 @@ _Cite_:
   - Code pénal - art. R625-3 (M)
 
 
-##### Section 2 : De la divagation d'animaux dangereux<a id=299></a>
+##### Section 2 : De la divagation d'animaux dangereux<a id=297></a>
 
 ###### Article R622-2
 
@@ -34673,9 +35662,9 @@ _Cité par_:
   - Code de procédure pénale - art. R48-1 (V)
 
 
-#### Chapitre III : Des contraventions de la 3e classe contre les personnes<a id=300></a>
+#### Chapitre III : Des contraventions de la 3e classe contre les personnes<a id=298></a>
 
-##### Section 1 : Des menaces de violences<a id=301></a>
+##### Section 1 : Des menaces de violences<a id=299></a>
 
 ###### Article R623-1
 
@@ -34698,7 +35687,7 @@ _Cite_:
   - Code pénal - art. 222-17 (V)
 
 
-##### Section 2 : Des bruits ou tapages injurieux ou nocturnes<a id=302></a>
+##### Section 2 : Des bruits ou tapages injurieux ou nocturnes<a id=300></a>
 
 ###### Article R623-2
 
@@ -34728,7 +35717,7 @@ _Cité par_:
   - Code de procédure pénale - art. R48-1 (V)
 
 
-##### Section 3 : De l'excitation d'animaux dangereux<a id=303></a>
+##### Section 3 : De l'excitation d'animaux dangereux<a id=301></a>
 
 ###### Article R623-3
 
@@ -34754,7 +35743,7 @@ _Cité par_:
   - Code de procédure pénale - art. R15-33-29-3 (V)
 
 
-##### Section 4 : De la violation des dispositions réglementant le commerce de certains matériels susceptibles d'être utilisés pour porter atteinte à l'intimité de la vie privée<a id=304></a>
+##### Section 4 : De la violation des dispositions réglementant le commerce de certains matériels susceptibles d'être utilisés pour porter atteinte à l'intimité de la vie privée<a id=302></a>
 
 ###### Article R623-4
 
@@ -34784,9 +35773,9 @@ _Cite_:
   - Code pénal - art. R226-3 (M)
 
 
-#### Chapitre IV : Des contraventions de la 4e classe contre les personnes<a id=305></a>
+#### Chapitre IV : Des contraventions de la 4e classe contre les personnes<a id=303></a>
 
-##### Section 1 : Des violences légères<a id=306></a>
+##### Section 1 : Des violences légères<a id=304></a>
 
 ###### Article R624-1
 
@@ -34826,7 +35815,7 @@ _Cite_:
   - Code pénal - art. 222-13 (V)
 
 
-##### Section 2 : De la diffusion de messages contraires à la décence<a id=307></a>
+##### Section 2 : De la diffusion de messages contraires à la décence<a id=305></a>
 
 ###### Article R624-2
 
@@ -34867,7 +35856,7 @@ _Cite_:
   - Code pénal - art. 131-41 (V)
 
 
-##### Section 3 : De la diffamation et de l'injure non publiques présentant un caractère raciste ou discriminatoire<a id=308></a>
+##### Section 3 : De la diffamation et de l'injure non publiques présentant un caractère raciste ou discriminatoire<a id=306></a>
 
 ###### Article R624-3
 
@@ -34975,9 +35964,9 @@ _Cite_:
   - Code pénal - art. R624-4 (M)
 
 
-#### Chapitre V : Des contraventions de la 5e classe contre les personnes<a id=309></a>
+#### Chapitre V : Des contraventions de la 5e classe contre les personnes<a id=307></a>
 
-##### Section 1 : Des violences<a id=310></a>
+##### Section 1 : Des violences<a id=308></a>
 
 ###### Article R625-1
 
@@ -35027,7 +36016,7 @@ _Cite_:
   - Code pénal - art. 222-13 (V)
 
 
-##### Section 2 : Des atteintes involontaires à l'intégrité de la personne<a id=311></a>
+##### Section 2 : Des atteintes involontaires à l'intégrité de la personne<a id=309></a>
 
 ###### Article R625-2
 
@@ -35180,7 +36169,7 @@ _Cite_:
   - Code pénal - art. R625-2 (V)
 
 
-##### Section 3 : De la provocation non publique à la discrimination, à la haine ou à la violence raciales.<a id=312></a>
+##### Section 3 : De la provocation non publique à la discrimination, à la haine ou à la violence raciales.<a id=310></a>
 
 ###### Article R625-7
 
@@ -35234,7 +36223,7 @@ _Cite_:
   - Code pénal - art. 132-15 (V)
 
 
-##### Section 4 : Du racolage.<a id=313></a>
+##### Section 4 : Du racolage.<a id=311></a>
 
 ###### Article R625-8
 
@@ -35280,7 +36269,7 @@ _Cite_:
   - Code pénal - art. 132-11 (M)
 
 
-##### Section 5 : De la violation des dispositions réglementant le commerce de certains matériels susceptibles d'être utilisés pour porter atteinte à l'intimité de la vie privée<a id=314></a>
+##### Section 5 : De la violation des dispositions réglementant le commerce de certains matériels susceptibles d'être utilisés pour porter atteinte à l'intimité de la vie privée<a id=312></a>
 
 ###### Article R625-9
 
@@ -35329,11 +36318,11 @@ _Cite_:
   - Code pénal - art. R226-3 (M)
 
 
-### Titre III : Des contraventions contre les biens<a id=315></a>
+### Titre III : Des contraventions contre les biens<a id=313></a>
 
-#### Chapitre Ier : Des contraventions de la 1re classe contre les biens<a id=316></a>
+#### Chapitre Ier : Des contraventions de la 1re classe contre les biens<a id=314></a>
 
-##### Section unique : Des menaces de destruction, de dégradation ou de détérioration n'entraînant qu'un dommage léger<a id=317></a>
+##### Section unique : Des menaces de destruction, de dégradation ou de détérioration n'entraînant qu'un dommage léger<a id=315></a>
 
 ###### Article R631-1
 
@@ -35374,9 +36363,9 @@ _Cite_:
   - Code pénal - art. 322-13 (MMN)
 
 
-#### Chapitre II : Des contraventions de la 2e classe contre les biens<a id=318></a>
+#### Chapitre II : Des contraventions de la 2e classe contre les biens<a id=316></a>
 
-##### Section unique : De l'abandon d'ordures, déchets, matériaux ou autres objets.<a id=319></a>
+##### Section unique : De l'abandon d'ordures, déchets, matériaux ou autres objets.<a id=317></a>
 
 ###### Article R632-1
 
@@ -35415,9 +36404,9 @@ _Cite_:
   - Code pénal - art. R635-8 (M)
 
 
-#### Chapitre III : Des contraventions de la 3e classe contre les biens<a id=320></a>
+#### Chapitre III : Des contraventions de la 3e classe contre les biens<a id=318></a>
 
-##### Section 1 : De la violation des dispositions réglementant la vente ou l'échange de certains objets mobiliers<a id=321></a>
+##### Section 1 : De la violation des dispositions réglementant la vente ou l'échange de certains objets mobiliers<a id=319></a>
 
 ###### Article R633-1
 
@@ -35526,7 +36515,7 @@ _Cite_:
   - Code pénal - art. R633-3
 
 
-##### Section 2 : De la violation des dispositions concernant les manifestations publiques en vue de la vente ou de l'échange de certains objets mobiliers<a id=322></a>
+##### Section 2 : De la violation des dispositions concernant les manifestations publiques en vue de la vente ou de l'échange de certains objets mobiliers<a id=320></a>
 
 ###### Article R633-5
 
@@ -35558,9 +36547,9 @@ _Cite_:
   - Code pénal 321-7, R321-9, R321-10, 121-2, 134-41
 
 
-#### Chapitre IV : Des contraventions de la 4e classe contre les biens<a id=323></a>
+#### Chapitre IV : Des contraventions de la 4e classe contre les biens<a id=321></a>
 
-##### Section 1 : Des menaces de destruction, de dégradation ou de détérioration ne présentant pas de danger pour les personnes<a id=324></a>
+##### Section 1 : Des menaces de destruction, de dégradation ou de détérioration ne présentant pas de danger pour les personnes<a id=322></a>
 
 ###### Article R634-1
 
@@ -35601,9 +36590,9 @@ _Cite_:
   - Code pénal - art. 322-13 (MMN)
 
 
-#### Chapitre V : Des contraventions de la 5e classe contre les biens<a id=325></a>
+#### Chapitre V : Des contraventions de la 5e classe contre les biens<a id=323></a>
 
-##### Section 1 : Des destructions, dégradations et détériorations dont il n'est résulté qu'un dommage léger<a id=326></a>
+##### Section 1 : Des destructions, dégradations et détériorations dont il n'est résulté qu'un dommage léger<a id=324></a>
 
 ###### Article R635-1
 
@@ -35666,7 +36655,7 @@ _Cite_:
   - Code pénal - art. 132-15 (V)
 
 
-##### Section 2 : De la vente forcée par correspondance<a id=327></a>
+##### Section 2 : De la vente forcée par correspondance<a id=325></a>
 
 ###### Article R635-2
 
@@ -35722,7 +36711,7 @@ _Cite_:
   - Code pénal - art. 132-15 (V)
 
 
-##### Section 3 : De la violation des dispositions réglementant la vente ou l'échange de certains objets mobiliers<a id=328></a>
+##### Section 3 : De la violation des dispositions réglementant la vente ou l'échange de certains objets mobiliers<a id=326></a>
 
 ###### Article R635-3
 
@@ -35856,7 +36845,7 @@ _Cite_:
   - Code pénal - art. R635-3 (V)
 
 
-##### Section 4 : De l'abandon d'épaves de véhicules ou d'ordures, déchets, matériaux et autres objets transportés dans un véhicule<a id=329></a>
+##### Section 4 : De l'abandon d'épaves de véhicules ou d'ordures, déchets, matériaux et autres objets transportés dans un véhicule<a id=327></a>
 
 ###### Article R635-8
 
@@ -35909,11 +36898,11 @@ _Cite_:
   - Code pénal - art. 132-15 (V)
 
 
-### Titre IV : Des contraventions contre la nation, l'Etat ou la paix publique<a id=330></a>
+### Titre IV : Des contraventions contre la nation, l'Etat ou la paix publique<a id=328></a>
 
-#### Chapitre Ier : Des contraventions de la 1re classe contre la nation, l'Etat ou la paix publique<a id=331></a>
+#### Chapitre Ier : Des contraventions de la 1re classe contre la nation, l'Etat ou la paix publique<a id=329></a>
 
-##### Section unique : De l'abandon d'armes ou d'objets dangereux<a id=332></a>
+##### Section unique : De l'abandon d'armes ou d'objets dangereux<a id=330></a>
 
 ###### Article R641-1
 
@@ -35935,9 +36924,9 @@ _Codifié par_:
   - Décret n°93-726 1993-03-29
 
 
-#### Chapitre II : Des contraventions de la 2e classe contre la nation, l'Etat ou la paix publique<a id=333></a>
+#### Chapitre II : Des contraventions de la 2e classe contre la nation, l'Etat ou la paix publique<a id=331></a>
 
-##### Section 1 : Du défaut de réponse à une réquisition des autorités judiciaires ou administratives<a id=334></a>
+##### Section 1 : Du défaut de réponse à une réquisition des autorités judiciaires ou administratives<a id=332></a>
 
 ###### Article R642-1
 
@@ -35957,7 +36946,7 @@ _Codifié par_:
   - Décret n°93-726 1993-03-29
 
 
-##### Section 2 : Des atteintes à la monnaie<a id=335></a>
+##### Section 2 : Des atteintes à la monnaie<a id=333></a>
 
 ###### Article R642-2
 
@@ -36076,9 +37065,9 @@ _Cite_:
   - Code pénal - art. 442-13 (M)
 
 
-#### Chapitre III : Des contraventions de la 3e classe contre la nation, l'Etat ou la paix publique<a id=336></a>
+#### Chapitre III : Des contraventions de la 3e classe contre la nation, l'Etat ou la paix publique<a id=334></a>
 
-##### Section 1 : De l'usurpation de signes réservés à l'autorité publique<a id=337></a>
+##### Section 1 : De l'usurpation de signes réservés à l'autorité publique<a id=335></a>
 
 ###### Article R643-1
 
@@ -36116,7 +37105,7 @@ _Cite_:
   - Code pénal - art. 433-15 (M)
 
 
-##### Section 2 : De l'utilisation de poids ou mesures différents de ceux établis par les lois et règlements en vigueur<a id=338></a>
+##### Section 2 : De l'utilisation de poids ou mesures différents de ceux établis par les lois et règlements en vigueur<a id=336></a>
 
 ###### Article R643-2
 
@@ -36151,9 +37140,9 @@ _Cite_:
   - Code pénal - art. 131-41 (V)
 
 
-#### Chapitre IV : Des contraventions de la 4e classe contre la nation, l'Etat ou la paix publique<a id=339></a>
+#### Chapitre IV : Des contraventions de la 4e classe contre la nation, l'Etat ou la paix publique<a id=337></a>
 
-##### Section 1 : De l'accès sans autorisation à un terrain, une construction, un engin ou un appareil militaires<a id=340></a>
+##### Section 1 : De l'accès sans autorisation à un terrain, une construction, un engin ou un appareil militaires<a id=338></a>
 
 ###### Article R644-1
 
@@ -36186,7 +37175,7 @@ _Cite_:
   - Code pénal - art. 413-5 (V)
 
 
-##### Section 2 : Des entraves à la libre circulation sur la voie publique<a id=341></a>
+##### Section 2 : Des entraves à la libre circulation sur la voie publique<a id=339></a>
 
 ###### Article R644-2
 
@@ -36219,7 +37208,7 @@ _Cité par_:
   - Code pénal - art. R633-6 (V)
 
 
-##### Section 3 : De la violation des dispositions réglementant les professions exercées dans les lieux publics<a id=342></a>
+##### Section 3 : De la violation des dispositions réglementant les professions exercées dans les lieux publics<a id=340></a>
 
 ###### Article R644-3
 
@@ -36255,9 +37244,9 @@ _Cite_:
   - Code pénal - art. 131-41 (V)
 
 
-#### Chapitre V : Des contraventions de la 5e classe contre la nation, l'Etat ou la paix publique<a id=343></a>
+#### Chapitre V : Des contraventions de la 5e classe contre la nation, l'Etat ou la paix publique<a id=341></a>
 
-##### Section 1 : Du port ou de l'exhibition d'uniformes, insignes ou emblèmes rappelant ceux d'organisations ou de personnes responsables de crimes contre l'humanité<a id=344></a>
+##### Section 1 : Du port ou de l'exhibition d'uniformes, insignes ou emblèmes rappelant ceux d'organisations ou de personnes responsables de crimes contre l'humanité<a id=342></a>
 
 ###### Article R645-1
 
@@ -36317,7 +37306,7 @@ _Cité par_:
   - Code de procédure pénale - art. R40-25 (V)
 
 
-##### Section 2 : Des dessins, levés ou enregistrements effectués sans autorisation dans une zone d'interdiction fixée par l'autorité militaire<a id=345></a>
+##### Section 2 : Des dessins, levés ou enregistrements effectués sans autorisation dans une zone d'interdiction fixée par l'autorité militaire<a id=343></a>
 
 ###### Article R645-2
 
@@ -36353,7 +37342,7 @@ _Cite_:
   - Code pénal - art. 132-11 (V)
 
 
-##### Section 3 : Des atteintes à l'état civil des personnes<a id=346></a>
+##### Section 3 : Des atteintes à l'état civil des personnes<a id=344></a>
 
 ###### Article R645-3
 
@@ -36478,7 +37467,7 @@ _Cité par_:
   - Code pénal - art. R711-1 (V)
 
 
-##### Section 4 : De la soustraction d'une pièce produite en justice<a id=347></a>
+##### Section 4 : De la soustraction d'une pièce produite en justice<a id=345></a>
 
 ###### Article R645-7
 
@@ -36510,7 +37499,7 @@ _Cite_:
   - Code pénal - art. 132-15 (V)
 
 
-##### Section 5 : De l'utilisation d'un document délivré par une administration publique comportant des mentions devenues incomplètes ou inexactes<a id=348></a>
+##### Section 5 : De l'utilisation d'un document délivré par une administration publique comportant des mentions devenues incomplètes ou inexactes<a id=346></a>
 
 ###### Article R645-8
 
@@ -36550,7 +37539,7 @@ _Codifié par_:
   - Décret n°93-726 1993-03-29
 
 
-##### Section 6 : Du refus de restitution de signes monétaires contrefaits ou falsifiés<a id=349></a>
+##### Section 6 : Du refus de restitution de signes monétaires contrefaits ou falsifiés<a id=347></a>
 
 ###### Article R645-9
 
@@ -36606,7 +37595,7 @@ _Cité par_:
   - Code monétaire et financier - art. R162-4 (V)
 
 
-##### Section 7 : De l'altération ou de la contrefaçon des timbres-poste ou des timbres émis par l'administration des finances<a id=350></a>
+##### Section 7 : De l'altération ou de la contrefaçon des timbres-poste ou des timbres émis par l'administration des finances<a id=348></a>
 
 ###### Article R645-10
 
@@ -36693,7 +37682,7 @@ _Cite_:
   - Code pénal - art. 132-15 (V)
 
 
-##### Section 8 : De l'intrusion dans les établissements scolaires<a id=351></a>
+##### Section 8 : De l'intrusion dans les établissements scolaires<a id=349></a>
 
 ###### Article R645-12
 
@@ -36730,11 +37719,11 @@ _Cite_:
   - Code pénal - art. 132-11 (M)
 
 
-### Titre V : Des autres contraventions<a id=352></a>
+### Titre V : Des autres contraventions<a id=350></a>
 
-#### Chapitre III : Des contraventions de la 3e classe<a id=353></a>
+#### Chapitre III : Des contraventions de la 3e classe<a id=351></a>
 
-##### Section unique : Des atteintes involontaires à la vie ou à l'intégrité d'un animal<a id=354></a>
+##### Section unique : Des atteintes involontaires à la vie ou à l'intégrité d'un animal<a id=352></a>
 
 ###### Article R653-1
 
@@ -36765,9 +37754,9 @@ _Cité par_:
   - Code de procédure pénale - art. R15-33-29-3 (V)
 
 
-#### Chapitre IV : Des contraventions de la 4e classe<a id=355></a>
+#### Chapitre IV : Des contraventions de la 4e classe<a id=353></a>
 
-##### Section unique : Des mauvais traitements envers un animal<a id=356></a>
+##### Section unique : Des mauvais traitements envers un animal<a id=354></a>
 
 ###### Article R654-1
 
@@ -36805,9 +37794,9 @@ _Cite_:
   - Code pénal - art. 521-1 (V)
 
 
-#### Chapitre V : Des contraventions de la 5e classe<a id=357></a>
+#### Chapitre V : Des contraventions de la 5e classe<a id=355></a>
 
-##### Section unique : Des atteintes volontaires à la vie d'un animal<a id=358></a>
+##### Section unique : Des atteintes volontaires à la vie d'un animal<a id=356></a>
 
 ###### Article R655-1
 
@@ -36841,11 +37830,11 @@ _Cite_:
   - Code pénal - art. 132-11 (V)
 
 
-## Livre VII : Dispositions applicables dans les territoires d'outre-mer, en Nouvelle-Calédonie et à Mayotte.<a id=359></a>
+## Livre VII : Dispositions applicables dans les territoires d'outre-mer, en Nouvelle-Calédonie et à Mayotte.<a id=357></a>
 
-### Titre Ier : Dispositions applicables dans les territoires d'outre-mer et en Nouvelle-Calédonie<a id=360></a>
+### Titre Ier : Dispositions applicables dans les territoires d'outre-mer et en Nouvelle-Calédonie<a id=358></a>
 
-#### Chapitre Ier : Dispositions générales<a id=361></a>
+#### Chapitre Ier : Dispositions générales<a id=359></a>
 
 ###### Article R711-1
 
@@ -36923,7 +37912,7 @@ _Cite_:
   - Code pénal - art. R711-1 (V)
 
 
-#### Chapitre II : Adaptation du livre Ier<a id=362></a>
+#### Chapitre II : Adaptation du livre Ier<a id=360></a>
 
 ###### Article R712-1
 
@@ -37107,7 +38096,7 @@ _Cite_:
   - Code pénal - art. R131-36 (V)
 
 
-#### Chapitre VI : Adaptation du livre V<a id=363></a>
+#### Chapitre VI : Adaptation du livre V<a id=361></a>
 
 ###### Article R716-1
 
@@ -37131,9 +38120,9 @@ _Cite_:
   - Code pénal - art. R511-1 (V)
 
 
-### Titre II : Dispositions applicables à Mayotte.<a id=364></a>
+### Titre II : Dispositions applicables à Mayotte.<a id=362></a>
 
-#### Chapitre Ier : Dispositions générales<a id=365></a>
+#### Chapitre Ier : Dispositions générales<a id=363></a>
 
 ###### Article R721-1
 
@@ -37181,7 +38170,7 @@ _Abrogé par_:
   - Décret n°2011-338 du 29 mars 2011 - art. 3
 
 
-#### Chapitre II : Adaptation du livre Ier<a id=366></a>
+#### Chapitre II : Adaptation du livre Ier<a id=364></a>
 
 ###### Article R722-1
 
