@@ -1,5 +1,5 @@
 # Code pénal  
-Version Consolidée au 2001-11-17
+Version Consolidée au 2001-12-12
 ## Contenu: 
   - [Partie législative (art. 111-1 à 727-3)](#1)
     - [Livre Ier : Dispositions générales (art. 111-1 à 133-17)](#2)
@@ -220,7 +220,7 @@ Version Consolidée au 2001-11-17
           - [Section 3 : Peines complémentaires et responsabilité des personnes morales (art. 435-5 à 435-6)](#217)
       - [Titre IV : Des atteintes à la confiance publique (art. 441-1 à 444-9)](#218)
         - [Chapitre Ier : Des faux (art. 441-1 à 441-12)](#219)
-        - [Chapitre II : De la fausse monnaie (art. 442-1 à 442-14)](#220)
+        - [Chapitre II : De la fausse monnaie (art. 442-1 à 442-15)](#220)
         - [Chapitre III : De la falsification des titres ou autres valeurs fiduciaires émises par l'autorité publique (art. 443-1 à 443-8)](#221)
         - [Chapitre IV : De la falsification des marques de l'autorité (art. 444-1 à 444-9)](#222)
       - [Titre V : De la participation à une association de malfaiteurs (art. 450-1 à 450-4)](#223)
@@ -805,25 +805,32 @@ _Cite_:
 
 La loi pénale française s'applique aux crimes et délits qualifiés d'atteintes aux intérêts fondamentaux de la nation et
 réprimés par le titre Ier du livre IV, à la falsification et à la contrefaçon du sceau de l'Etat, de pièces de monnaie, de
-billets de banque ou d'effets publics réprimées par les articles 442-1, 443-1 et 444-1 et à tout crime ou délit contre les
-agents ou les locaux diplomatiques ou consulaires français, commis hors du territoire de la République.
+billets de banque ou d'effets publics réprimées par les articles 442-1, 442-2, 
+442-5, 442-15, 443-1 et 444-1 et à tout crime ou délit contre les agents ou les locaux diplomatiques ou consulaires français,
+commis hors du territoire de la République.
 
 **Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Loi n°92-683 1992-07-22
 
 **Liens**:
 
   - SPEC_APPLI: Loi n°92-683 1992-07-22 art. 1
   - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
 
+_Codifié par_:
+
+  - Loi n°92-683 du 22 juillet 1992 (V)
+
+_Modifié par_:
+
+  - Loi n°2001-1168 du 11 décembre 2001 - art. 17 (V)
+
 _Cite_:
 
-  - Code pénal - art. 442-1 (M)
-  - Code pénal - art. 443-1 (M)
-  - Code pénal - art. 444-1 (M)
+  - Code pénal - art. 442-1 (V)
+  - Code pénal - art. 442-15 (V)
+  - Code pénal - art. 442-5 (V)
+  - Code pénal - art. 443-1 (V)
+  - Code pénal - art. 444-1 (V)
 
 
 ###### Article 113-11
@@ -27413,8 +27420,9 @@ _Codifié par_:
 
 ###### Article 442-5
 
-L'emploi ou la détention sans autorisation des matières et instruments spécialement destinés à la fabrication des pièces de
-monnaie et des billets de banque est puni d'un an d'emprisonnement et de 100 000 F d'amende.
+La fabrication, l'emploi ou la détention sans autorisation des matières, instruments, programmes informatiques ou de tout
+autre élément spécialement destinés à la fabrication ou à la protection contre la contrefaçon ou la falsification des billets
+de banque ou des pièces de monnaie sont punis de deux ans d'emprisonnement et de 30 000 euros d'amende.
 
 **Liens relatifs à cet article**
 
@@ -27426,6 +27434,10 @@ _Codifié par_:
 
   - SPEC_APPLI: Loi n°92-686 1992-07-22 art. 1
   - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
+
+_Modifié par_:
+
+  - Loi n°2001-1168 du 11 décembre 2001 - art. 17 (V)
 
 _Cité par_:
 
@@ -27671,6 +27683,33 @@ _Cite_:
   - Code pénal - art. 131-38 (M)
   - Code pénal - art. 131-39 (MMN)
   - Code pénal - art. 442-13 (M)
+
+
+###### Article 442-15
+
+Les dispositions des articles 442-1, 442-2 et 442-5 à 442-14 sont applicables lorsque sont en cause les billets de banque et
+pièces de monnaie qui, bien que destinés à être mis en circulation, n'ont pas été encore émis par les institutions habilitées
+à cette fin et n'ont pas encore cours légal.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°92-686 1992-07-22
+
+_Créé par_:
+
+  - Loi n°2001-1168 du 11 décembre 2001 - art. 17 (V)
+
+_Cité par_:
+
+  - Code pénal - art. 113-10 (V)
+
+_Cite_:
+
+  - Code pénal - art. 442-1 (M)
+  - Code pénal - art. 442-2 (M)
+  - Code pénal 442-1, 442-2, 442-5 à 442-14
 
 
 #### Chapitre III : De la falsification des titres ou autres valeurs fiduciaires émises par l'autorité publique<a id=221></a>
