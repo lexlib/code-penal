@@ -1,5 +1,5 @@
 # Code pénal  
-Version Consolidée au 1992-07-23
+Version Consolidée au 1994-01-01
 ## Contenu: 
   - [Partie législative (art. 131-6 à 434-42)](#1)
     - [Livre Ier : Dispositions générales (art. 131-6 à 133-1)](#2)
@@ -10,45 +10,47 @@ Version Consolidée au 1992-07-23
             - [Sous-section 5 : Du contenu et des modalités d'application de certaines peines (art. 131-21 à 131-22)](#7)
           - [Section 2 : Des peines applicables aux personnes morales (art. 131-46)](#8)
             - [Sous-section 3 : Du contenu et des modalités d'application de certaines peines (art. 131-46)](#9)
-        - [Chapitre II : Du régime des peines (art. 132-5 à 132-57)](#10)
+        - [Chapitre II : Du régime des peines (art. 132-5 à 132-70-1)](#10)
           - [Section 1 : Dispositions générales (art. 132-5 à 132-6)](#11)
             - [Sous-section 1 : Des peines applicables en cas de concours d'infractions (art. 132-5 à 132-6)](#12)
-          - [Section 2 : Des modes de personnalisation des peines (art. 132-32 à 132-57)](#13)
+          - [Section 2 : Des modes de personnalisation des peines (art. 132-32 à 132-70-1)](#13)
             - [Sous-section 3 : Du sursis simple (art. 132-32)](#14)
               - [Paragraphe 1 : Des conditions d'octroi du sursis simple (art. 132-32)](#15)
             - [Sous-section 4 : Du sursis avec mise à l'épreuve (art. 132-47 à 132-48)](#16)
               - [Paragraphe 3 : De la révocation du sursis avec mise à l'épreuve en cas de nouvelle infraction (art. 132-47 à 132-48)](#17)
             - [Sous-section 5 : Du sursis assorti de l'obligation d'accomplir un travail d'intérêt général (art. 132-57)](#18)
-        - [Chapitre III : De l'extinction des peines et de l'effacement des condamnations (art. 133-1)](#19)
-    - [Livre II : Des crimes et délits contre les personnes (art. 222-34 à 226-25)](#20)
-      - [Titre II : Des atteintes à la personne humaine (art. 222-34 à 226-25)](#21)
-        - [Chapitre II : Des atteintes à l'intégrité physique ou psychique de la personne (art. 222-34 à 222-50)](#22)
-          - [Section 4 : Du trafic de stupéfiants (art. 222-34 à 222-39)](#23)
-          - [Section 5 : Peines complémentaires applicables aux personnes physiques (art. 222-45)](#24)
-          - [Section 6 : Dispositions communes aux personnes physiques et aux personnes morales (art. 222-49 à 222-50)](#25)
-        - [Chapitre IV : Des atteintes aux libertés de la personne (art. 224-8)](#26)
-          - [Section 2 : Du détournement d'aéronef, de navire ou de tout autre moyen de transport (art. 224-8)](#27)
-        - [Chapitre VI : Des atteintes à la personnalité (art. 226-16 à 226-25)](#28)
-          - [Section 5 : Des atteintes aux droits de la personne résultant des fichiers ou des traitements informatiques. (art. 226-16)](#29)
-          - [Section 6 : Peines complémentaires applicables aux personnes physiques. (art. 226-25)](#30)
-    - [Livre III : Des crimes et délits contre les biens (art. 321-7 à 322-12)](#31)
-      - [Titre II : Des autres atteintes aux biens (art. 321-7 à 322-12)](#32)
-        - [Chapitre Ier : Du recel et des infractions assimilées ou voisines (art. 321-7)](#33)
-          - [Section 2 : Des infractions assimilées au recel ou voisines de celui-ci (art. 321-7)](#34)
-        - [Chapitre II : Des destructions, dégradations et détériorations (art. 322-12)](#35)
-          - [Section 3 : Des menaces de destruction, de dégradation ou de détérioration et des fausses alertes (art. 322-12)](#36)
-    - [Livre IV : Des crimes et délits contre la nation, l'Etat et la paix publique (art. 412-1 à 434-42)](#37)
-      - [Titre Ier : Des atteintes aux intérêts fondamentaux de la nation (art. 412-1)](#38)
-        - [Chapitre II : Des autres atteintes aux institutions de la République ou à l'intégrité du territoire national (art. 412-1)](#39)
-          - [Section 1 : De l'attentat et du complot (art. 412-1)](#40)
-      - [Titre III : Des atteintes à l'autorité de l'Etat (art. 432-17 à 434-42)](#41)
-        - [Chapitre II : Des atteintes à l'administration publique commises par des personnes exerçant une fonction publique (art. 432-17)](#42)
-          - [Section 4 : Peines complémentaires (art. 432-17)](#43)
-        - [Chapitre IV : Des atteintes à l'action de justice (art. 434-8 à 434-42)](#44)
-          - [Section 2 : Des entraves à l'exercice de la justice (art. 434-8)](#45)
-          - [Section 3 : Des atteintes à l'autorité de la justice (art. 434-29 à 434-42)](#46)
-            - [Paragraphe 2 : De l'évasion (art. 434-29)](#47)
-            - [Paragraphe 3 : Des autres atteintes à l'autorité de la justice pénale (art. 434-42)](#48)
+            - [Sous-section 6 : De la dispense de peine et de l'ajournement (art. 132-70-1)](#19)
+              - [Paragraphe 5 : De l'ajournement avec rétention judiciaire. (art. 132-70-1)](#20)
+        - [Chapitre III : De l'extinction des peines et de l'effacement des condamnations (art. 133-1)](#21)
+    - [Livre II : Des crimes et délits contre les personnes (art. 222-34 à 226-25)](#22)
+      - [Titre II : Des atteintes à la personne humaine (art. 222-34 à 226-25)](#23)
+        - [Chapitre II : Des atteintes à l'intégrité physique ou psychique de la personne (art. 222-34 à 222-50)](#24)
+          - [Section 4 : Du trafic de stupéfiants (art. 222-34 à 222-39)](#25)
+          - [Section 5 : Peines complémentaires applicables aux personnes physiques (art. 222-45)](#26)
+          - [Section 6 : Dispositions communes aux personnes physiques et aux personnes morales (art. 222-49 à 222-50)](#27)
+        - [Chapitre IV : Des atteintes aux libertés de la personne (art. 224-8)](#28)
+          - [Section 2 : Du détournement d'aéronef, de navire ou de tout autre moyen de transport (art. 224-8)](#29)
+        - [Chapitre VI : Des atteintes à la personnalité (art. 226-16 à 226-25)](#30)
+          - [Section 5 : Des atteintes aux droits de la personne résultant des fichiers ou des traitements informatiques. (art. 226-16)](#31)
+          - [Section 6 : Peines complémentaires applicables aux personnes physiques. (art. 226-25)](#32)
+    - [Livre III : Des crimes et délits contre les biens (art. 321-7 à 322-12)](#33)
+      - [Titre II : Des autres atteintes aux biens (art. 321-7 à 322-12)](#34)
+        - [Chapitre Ier : Du recel et des infractions assimilées ou voisines (art. 321-7)](#35)
+          - [Section 2 : Des infractions assimilées au recel ou voisines de celui-ci (art. 321-7)](#36)
+        - [Chapitre II : Des destructions, dégradations et détériorations (art. 322-12)](#37)
+          - [Section 3 : Des menaces de destruction, de dégradation ou de détérioration et des fausses alertes (art. 322-12)](#38)
+    - [Livre IV : Des crimes et délits contre la nation, l'Etat et la paix publique (art. 412-1 à 434-42)](#39)
+      - [Titre Ier : Des atteintes aux intérêts fondamentaux de la nation (art. 412-1)](#40)
+        - [Chapitre II : Des autres atteintes aux institutions de la République ou à l'intégrité du territoire national (art. 412-1)](#41)
+          - [Section 1 : De l'attentat et du complot (art. 412-1)](#42)
+      - [Titre III : Des atteintes à l'autorité de l'Etat (art. 432-17 à 434-42)](#43)
+        - [Chapitre II : Des atteintes à l'administration publique commises par des personnes exerçant une fonction publique (art. 432-17)](#44)
+          - [Section 4 : Peines complémentaires (art. 432-17)](#45)
+        - [Chapitre IV : Des atteintes à l'action de justice (art. 434-8 à 434-42)](#46)
+          - [Section 2 : Des entraves à l'exercice de la justice (art. 434-8)](#47)
+          - [Section 3 : Des atteintes à l'autorité de la justice (art. 434-29 à 434-42)](#48)
+            - [Paragraphe 2 : De l'évasion (art. 434-29)](#49)
+            - [Paragraphe 3 : Des autres atteintes à l'autorité de la justice pénale (art. 434-42)](#50)
 # Partie législative<a id=1></a>
 
 ## Livre Ier : Dispositions générales<a id=2></a>
@@ -538,7 +540,128 @@ _Cite_:
   - CODE DE PROCEDURE PENALE - art. 712 (M)
 
 
-#### Chapitre III : De l'extinction des peines et de l'effacement des condamnations<a id=19></a>
+##### Sous-section 6 : De la dispense de peine et de l'ajournement<a id=19></a>
+
+##### Paragraphe 5 : De l'ajournement avec rétention judiciaire.<a id=20></a>
+
+###### Article 132-70-1
+
+I.  La juridiction peut, après avoir déclaré le prévenu coupable de l'infraction prévue au deuxième alinéa de l'article 27 de
+l'ordonnance n° 45-2658 du 2 novembre 1945 relative aux conditions d'entrée et de séjour des étrangers en France, ajourner le
+prononcé de la peine en enjoignant au prévenu de présenter à l'autorité administrative compétente les documents de voyage
+permettant l'exécution de la mesure d'éloignement prononcée à son encontre ou de communiquer les renseignements permettant
+cette exécution.
+
+Dans ce cas, la juridiction place le prévenu, par ordonnance, sous le régime de la rétention judiciaire, pour une durée de
+trois mois au plus.
+
+La décision d'ajournement avec rétention est exécutoire par provision.
+
+La juridiction fixe dans sa décision le jour où il sera statué sur la peine.
+
+Lorsqu'elle ajourne le prononcé de la peine, la juridiction informe l'intéressé qu'il peut, pendant la période de rétention,
+demander l'assistance d'un interprète, d'un médecin ou d'un conseil et qu'il peut, s'il le désire, communiquer avec toute
+personne de son choix et recevoir les visites autorisées par le magistrat délégué par le président de la juridiction. Ce
+magistrat ne peut refuser de délivrer un permis de visite à un membre de la famille de la personne retenue que par une
+décision écrite et spécialement motivée au regard des nécessités de la rétention. Il peut, à titre exceptionnel, accorder une
+autorisation de sortie sous escorte. Toute démarche auprès de l'autorité consulaire est facilitée au prévenu.
+
+II.  Le prévenu est maintenu dans des locaux ne relevant pas de l'administration pénitentiaire.
+
+L'état civil des personnes placées en rétention ainsi que les conditions de leur maintien sont mentionnés sur le registre
+prévu par l'article 35 bis de l'ordonnance n° 45-2658 du 2 novembre 1945 précitée.
+
+Pendant la durée du maintien en rétention, le ministère public ainsi que le président de la juridiction dans le ressort de
+laquelle s'exécute la rétention ou un magistrat délégué par lui peuvent se transporter sur les lieux, vérifier les conditions
+de la rétention et se faire communiquer le registre mentionné à l'alinéa précédent.
+
+III.  Si le prévenu se soumet à l'injonction prévue au premier alinéa du I, le ministère public saisit, avant expiration du
+délai d'ajournement, la juridiction, soit d'office, soit sur demande du prévenu ou de son avocat, afin qu'il soit statué sur
+la peine. Il peut aussi saisir la juridiction sur demande de l'autorité administrative.
+
+Le prévenu peut également, au cours du délai d'ajournement, demander la levée de la mesure de rétention, par déclaration au
+greffe de la juridiction.
+
+La demande est constatée et datée par le greffier qui la signe ; elle est également signée par le demandeur ou son avocat. Si
+le demandeur ne peut signer, il en est fait mention par le greffier.
+
+La demande peut également être formulée par déclaration auprès du responsable des locaux dans lesquels s'effectue la mesure
+et selon les modalités prévues à l'alinéa précédent. Ce fonctionnaire l'adresse sans délai, en original ou en copie, au
+greffe de la juridiction précitée.
+
+La juridiction qui a ordonné la rétention peut prononcer d'office sa levée. Dans tous les cas, elle se prononce après
+audition du ministère public, du prévenu ou de son avocat.
+
+Selon qu'elle est du premier ou du second degré, la juridiction rend sa décision dans les dix jours ou dans les vingt jours
+de la réception de la demande ; toutefois, lorsqu'au jour de la réception de cette demande, il n'a pas encore été statué sur
+une précédente demande de levée de la mesure ou sur l'appel d'une précédente décision refusant cette levée, le délai de dix
+ou vingt jours ne commence à courir qu'à compter de la décision rendue par la juridiction compétente ; faute de décision à
+l'expiration de ce délai, il est mis fin à la rétention et le prévenu est mis d'office en liberté.
+
+Lorsque la décision de rejet de la demande est prise par une juridiction du premier degré, l'appel est recevable dans les dix
+jours de la signification de la décision.
+
+La décision de la juridiction est immédiatement exécutoire nonobstant appel ; lorsque le prévenu est maintenu en rétention,
+la cour se prononce dans les vingt jours de l'appel, faute de quoi le prévenu est mis d'office en liberté.
+
+Dans le cas où la mesure de rétention est levée, le prévenu est tenu de répondre à toute convocation des autorités
+compétentes tendant à s'assurer de son identité ou de son maintien à la disposition de la justice, d'informer la juridiction
+de tous ses déplacements et changements d'adresse et de se présenter le jour prévu pour l'audience de renvoi. Lorsque
+l'intéressé se soustrait volontairement à ces obligations, le ministère public saisit la juridiction afin qu'il soit statué
+sur la peine.
+
+Les décisions rendues en matière de rétention n'ont pas pour effet de modifier la date fixée par la juridiction en vertu du
+quatrième alinéa du I.
+
+IV.  A l'audience de renvoi, la juridiction peut soit dispenser le prévenu de peine, soit prononcer la sanction prévue par la
+loi, soit ajourner une nouvelle fois le prononcé de la peine dans les conditions prévues aux premier à quatrième alinéas du
+I.
+
+La décision sur la peine intervient au plus tard trois mois après la première décision d'ajournement.
+
+La durée de la rétention est imputée sur celle de la peine privative de liberté éventuellement prononcée.
+
+Lorsque, à l'audience de renvoi, la juridiction ne prononce pas de peine privative de liberté et qu'il ne peut être procédé à
+l'éloignement immédiat de l'intéressé, celui-ci peut être maintenu dans des locaux ne relevant pas de l'administration
+pénitentiaire, dans les conditions et selon les modalités prévues par l'article 35 bis de l'ordonnance n° 45-2658 du 2
+novembre 1945 précitée.
+
+V.  En cas de rétention suivie d'une relaxe en appel devenue définitive, une indemnité peut être accordée à l'intéressé pour
+le motif et selon les modalités prévues aux articles 149 à 150 du code de procédure pénale.
+
+VI.  Les dispositions du présent article ne sont pas applicables aux mineurs de seize ans.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Ordonnance 45-2658 1945-11-02 art. 27, art. 35 bis
+  - Ordonnance n°45-2658 du 2 novembre 1945 - art. 27 (M)
+  - Code de procédure pénale 149 à 150
+
+_Codifié par_:
+
+  - Loi n°92-683 1992-07-22
+
+**Liens**:
+
+  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
+
+_Créé par_:
+
+  - Loi n°93-1417 1993-12-30 art. 10 JORF 1er janvier 1994
+
+_Cité par_:
+
+  - Loi n°98-349 du 11 mai 1998 - art. 44 (V)
+  - Code de procédure pénale - art. 397-3-1 (V)
+  - Code de procédure pénale - art. D548 (V)
+  - Code de procédure pénale - art. D549 (V)
+  - Code pénal - art. 711-1 (M)
+  - Code pénal - art. 721-1 (V)
+
+
+#### Chapitre III : De l'extinction des peines et de l'effacement des condamnations<a id=21></a>
 
 ###### Article 133-1
 
@@ -563,13 +686,13 @@ _Codifié par_:
   - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
 
 
-## Livre II : Des crimes et délits contre les personnes<a id=20></a>
+## Livre II : Des crimes et délits contre les personnes<a id=22></a>
 
-### Titre II : Des atteintes à la personne humaine<a id=21></a>
+### Titre II : Des atteintes à la personne humaine<a id=23></a>
 
-#### Chapitre II : Des atteintes à l'intégrité physique ou psychique de la personne<a id=22></a>
+#### Chapitre II : Des atteintes à l'intégrité physique ou psychique de la personne<a id=24></a>
 
-##### Section 4 : Du trafic de stupéfiants<a id=23></a>
+##### Section 4 : Du trafic de stupéfiants<a id=25></a>
 
 ###### Article 222-34
 
@@ -823,7 +946,7 @@ _Cite_:
   - Code pénal - art. 132-23 (M)
 
 
-##### Section 5 : Peines complémentaires applicables aux personnes physiques<a id=24></a>
+##### Section 5 : Peines complémentaires applicables aux personnes physiques<a id=26></a>
 
 ###### Article 222-45
 
@@ -854,7 +977,7 @@ _Cite_:
   - Code pénal - art. 131-27 (V)
 
 
-##### Section 6 : Dispositions communes aux personnes physiques et aux personnes morales<a id=25></a>
+##### Section 6 : Dispositions communes aux personnes physiques et aux personnes morales<a id=27></a>
 
 ###### Article 222-49
 
@@ -923,9 +1046,9 @@ _Cite_:
   - Code pénal 222-35 à 222-40
 
 
-#### Chapitre IV : Des atteintes aux libertés de la personne<a id=26></a>
+#### Chapitre IV : Des atteintes aux libertés de la personne<a id=28></a>
 
-##### Section 2 : Du détournement d'aéronef, de navire ou de tout autre moyen de transport<a id=27></a>
+##### Section 2 : Du détournement d'aéronef, de navire ou de tout autre moyen de transport<a id=29></a>
 
 ###### Article 224-8
 
@@ -949,9 +1072,9 @@ _Cité par_:
   - Code de procédure pénale - art. 689-5 (V)
 
 
-#### Chapitre VI : Des atteintes à la personnalité<a id=28></a>
+#### Chapitre VI : Des atteintes à la personnalité<a id=30></a>
 
-##### Section 5 : Des atteintes aux droits de la personne résultant des fichiers ou des traitements informatiques.<a id=29></a>
+##### Section 5 : Des atteintes aux droits de la personne résultant des fichiers ou des traitements informatiques.<a id=31></a>
 
 ###### Article 226-16
 
@@ -977,7 +1100,7 @@ _Codifié par_:
   - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
 
 
-##### Section 6 : Peines complémentaires applicables aux personnes physiques.<a id=30></a>
+##### Section 6 : Peines complémentaires applicables aux personnes physiques.<a id=32></a>
 
 ###### Article 226-25
 
@@ -1029,13 +1152,13 @@ _Cite_:
   - Code pénal - art. 131-35 (M)
 
 
-## Livre III : Des crimes et délits contre les biens<a id=31></a>
+## Livre III : Des crimes et délits contre les biens<a id=33></a>
 
-### Titre II : Des autres atteintes aux biens<a id=32></a>
+### Titre II : Des autres atteintes aux biens<a id=34></a>
 
-#### Chapitre Ier : Du recel et des infractions assimilées ou voisines<a id=33></a>
+#### Chapitre Ier : Du recel et des infractions assimilées ou voisines<a id=35></a>
 
-##### Section 2 : Des infractions assimilées au recel ou voisines de celui-ci<a id=34></a>
+##### Section 2 : Des infractions assimilées au recel ou voisines de celui-ci<a id=36></a>
 
 ###### Article 321-7
 
@@ -1087,9 +1210,9 @@ _Cité par_:
   - Livre des procédures fiscales - art. L96 H (V)
 
 
-#### Chapitre II : Des destructions, dégradations et détériorations<a id=35></a>
+#### Chapitre II : Des destructions, dégradations et détériorations<a id=37></a>
 
-##### Section 3 : Des menaces de destruction, de dégradation ou de détérioration et des fausses alertes<a id=36></a>
+##### Section 3 : Des menaces de destruction, de dégradation ou de détérioration et des fausses alertes<a id=38></a>
 
 ###### Article 322-12
 
@@ -1118,13 +1241,13 @@ _Cité par_:
   - Code pénal - art. 322-17 (V)
 
 
-## Livre IV : Des crimes et délits contre la nation, l'Etat et la paix publique<a id=37></a>
+## Livre IV : Des crimes et délits contre la nation, l'Etat et la paix publique<a id=39></a>
 
-### Titre Ier : Des atteintes aux intérêts fondamentaux de la nation<a id=38></a>
+### Titre Ier : Des atteintes aux intérêts fondamentaux de la nation<a id=40></a>
 
-#### Chapitre II : Des autres atteintes aux institutions de la République ou à l'intégrité du territoire national<a id=39></a>
+#### Chapitre II : Des autres atteintes aux institutions de la République ou à l'intégrité du territoire national<a id=41></a>
 
-##### Section 1 : De l'attentat et du complot<a id=40></a>
+##### Section 1 : De l'attentat et du complot<a id=42></a>
 
 ###### Article 412-1
 
@@ -1160,11 +1283,11 @@ _Cité par_:
   - Code pénal - art. 414-5 (V)
 
 
-### Titre III : Des atteintes à l'autorité de l'Etat<a id=41></a>
+### Titre III : Des atteintes à l'autorité de l'Etat<a id=43></a>
 
-#### Chapitre II : Des atteintes à l'administration publique commises par des personnes exerçant une fonction publique<a id=42></a>
+#### Chapitre II : Des atteintes à l'administration publique commises par des personnes exerçant une fonction publique<a id=44></a>
 
-##### Section 4 : Peines complémentaires<a id=43></a>
+##### Section 4 : Peines complémentaires<a id=45></a>
 
 ###### Article 432-17
 
@@ -1203,9 +1326,9 @@ _Cite_:
   - Code pénal - art. 131-27 (V)
 
 
-#### Chapitre IV : Des atteintes à l'action de justice<a id=44></a>
+#### Chapitre IV : Des atteintes à l'action de justice<a id=46></a>
 
-##### Section 2 : Des entraves à l'exercice de la justice<a id=45></a>
+##### Section 2 : Des entraves à l'exercice de la justice<a id=47></a>
 
 ###### Article 434-8
 
@@ -1229,9 +1352,9 @@ _Cité par_:
   - Code pénal - art. 434-23-1 (V)
 
 
-##### Section 3 : Des atteintes à l'autorité de la justice<a id=46></a>
+##### Section 3 : Des atteintes à l'autorité de la justice<a id=48></a>
 
-##### Paragraphe 2 : De l'évasion<a id=47></a>
+##### Paragraphe 2 : De l'évasion<a id=49></a>
 
 ###### Article 434-29
 
@@ -1270,7 +1393,7 @@ _Cité par_:
   - Code pénal - art. 434-44 (V)
 
 
-##### Paragraphe 3 : Des autres atteintes à l'autorité de la justice pénale<a id=48></a>
+##### Paragraphe 3 : Des autres atteintes à l'autorité de la justice pénale<a id=50></a>
 
 ###### Article 434-42
 
