@@ -1,5 +1,5 @@
 # Code pénal  
-Version Consolidée au 2002-09-10
+Version Consolidée au 2002-12-31
 ## Contenu: 
   - [Partie législative (art. 111-1 à 727-3)](#1)
     - [Livre Ier : Dispositions générales (art. 111-1 à 133-17)](#2)
@@ -9134,8 +9134,13 @@ _Codifié par_:
 
 ###### Article 133-4
 
-Les peines prononcées pour une contravention se prescrivent par deux années révolues à compter de la date à laquelle la
+Les peines prononcées pour une contravention se prescrivent par trois années révolues à compter de la date à laquelle la
 décision de condamnation est devenue définitive.
+
+**Nota:**
+
+(Art. 81 II de la loi n° 2002-1576 du 31 décembre 2002 : Ces dispositions s'appliquent aux condamnations prononcées à compter
+du 1er janvier 2003).
 
 **Liens relatifs à cet article**
 
@@ -9147,6 +9152,10 @@ _Codifié par_:
 
   - SPEC_APPLI: Loi n°92-683 1992-07-22 art. 1
   - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
+
+_Modifié par_:
+
+  - Loi - art. 81 (V) JORF 31 décembre 2002
 
 
 ###### Article 133-5
