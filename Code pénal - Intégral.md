@@ -1,5 +1,5 @@
 # Code pénal  
-Version Consolidée au 2000-04-13
+Version Consolidée au 2000-06-16
 ## Contenu: 
   - [Partie législative (art. 111-1 à 727-3)](#1)
     - [Livre Ier : Dispositions générales (art. 111-1 à 133-17)](#2)
@@ -7526,15 +7526,15 @@ _Cite_:
 
 Les mesures de contrôle auxquelles le condamné doit se soumettre sont les suivantes :
 
-1° Répondre aux convocations du juge de l'application des peines ou de l'agent de probation désigné ;
+1° Répondre aux convocations du juge de l'application des peines ou du travailleur social désigné ;
 
-2° Recevoir les visites de l'agent de probation et lui communiquer les renseignements ou documents de nature à permettre le
+2° Recevoir les visites du travailleur social et lui communiquer les renseignements ou documents de nature à permettre le
 contrôle de ses moyens d'existence et de l'exécution de ses obligations ;
 
-3° Prévenir l'agent de probation de ses changements d'emploi ;
+3° Prévenir le travailleur social de ses changements d'emploi ;
 
-4° Prévenir l'agent de probation de ses changements de résidence ou de tout déplacement dont la durée excéderait quinze jours
-et rendre compte de son retour ;
+4° Prévenir le travailleur social de ses changements de résidence ou de tout déplacement dont la durée excéderait quinze
+jours et rendre compte de son retour ;
 
 5° Obtenir l'autorisation préalable du juge de l'application des peines pour tout déplacement à l'étranger et, lorsqu'il est
 de nature à mettre obstacle à l'exécution de ses obligations, pour tout changement d'emploi ou de résidence.
@@ -7583,6 +7583,10 @@ _Cité par_:
   - Code pénal - art. 131-36-2 (V)
   - Code pénal - art. 131-4-1 (VD)
   - Code pénal - art. 132-43 (V)
+
+_Modifié par_:
+
+  - Loi n°2000-516 du 15 juin 2000 - art. 124 () JORF 16 juin 2000
 
 
 ###### Article 132-45
@@ -7933,7 +7937,7 @@ _Cite_:
 Au cours du délai fixé par la juridiction pour accomplir un travail d'intérêt général, le condamné doit, outre l'obligation
 d'accomplir le travail prescrit, satisfaire aux mesures de contrôle suivantes :
 
-1° Répondre aux convocations du juge de l'application des peines ou de l'agent de probation désigné ;
+1° Répondre aux convocations du juge de l'application des peines ou du travailleur social désigné ;
 
 2° Se soumettre à l'examen médical préalable à l'exécution de la peine qui a pour but de rechercher s'il n'est pas atteint
 d'une affection dangereuse pour les autres travailleurs et de s'assurer qu'il est médicalement apte au travail auquel il est
@@ -7945,7 +7949,7 @@ général selon les modalités fixées ;
 4° Obtenir l'autorisation préalable du juge de l'application des peines pour tout déplacement qui ferait obstacle à
 l'exécution du travail d'intérêt général selon les modalités fixées ;
 
-5° Recevoir les visites de l'agent de probation et lui communiquer tous documents ou renseignements relatifs à l'exécution de
+5° Recevoir les visites du travailleur social et lui communiquer tous documents ou renseignements relatifs à l'exécution de
 la peine.
 
 Il doit également satisfaire à celles des obligations particulières prévues à l'article 132-45 que la juridiction lui a
@@ -7961,6 +7965,10 @@ _Codifié par_:
 
   - SPEC_APPLI: Loi n°92-683 1992-07-22 art. 1
   - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
+
+_Modifié par_:
+
+  - Loi n°2000-516 du 15 juin 2000 - art. 124 () JORF 16 juin 2000
 
 _Cité par_:
 
