@@ -1,5 +1,5 @@
 # Code pénal  
-Version Consolidée au 2000-07-11
+Version Consolidée au 2000-09-21
 ## Contenu: 
   - [Partie législative (art. 111-1 à 727-3)](#1)
     - [Livre Ier : Dispositions générales (art. 111-1 à 133-17)](#2)
@@ -33092,19 +33092,15 @@ _Cite_:
 
 Les prescriptions relatives aux expériences ou recherches scientifiques ou expérimentales sur les animaux mentionnées à
 l'article 511-2 sont fixées par le décret n° 87-848 du 19 octobre 1987 pris pour l'application de cet article et du troisième
-alinéa de l'article 276 du code rural.
+alinéa de l'article L. 214-3 du code rural.
 
 **Liens relatifs à cet article**
 
 _Cite_:
 
-  - Code pénal - art. 511-2 (M)
-  - Code rural 276
+  - Code rural L214-3
   - Décret n°87-848 1987-10-19
-
-_Cité par_:
-
-  - Code pénal - art. R716-1 (V)
+  - Code pénal - art. 511-2 (M)
 
 **Liens**:
 
@@ -33113,6 +33109,14 @@ _Cité par_:
 _Codifié par_:
 
   - Décret n°93-726 1993-03-29
+
+_Modifié par_:
+
+  - Ordonnance n°2000-914 du 18 septembre 2000 - art. 11 () JORF 21 septembre 2000
+
+_Cité par_:
+
+  - Code pénal - art. R716-1 (V)
 
 
 ## Livre VI : Des contraventions<a id=293></a>
