@@ -1,5 +1,5 @@
 # Code pénal  
-Version Consolidée au 1997-12-31
+Version Consolidée au 1998-05-12
 ## Contenu: 
   - [Partie législative (art. 111-1 à 716-5)](#1)
     - [Livre Ier : Dispositions générales (art. 111-1 à 133-17)](#2)
@@ -3846,20 +3846,26 @@ Lorsque l'interdiction du territoire accompagne une peine privative de liberté 
 pendant le délai d'exécution de la peine. Elle reprend, pour la durée fixée par la décision de condamnation, à compter du
 jour où la privation de liberté a pris fin.
 
-Le tribunal ne peut prononcer que par une décision spécialement motivée au regard de la gravité de l'infraction
-l'interdiction du territoire français à l'encontre :
+Le tribunal ne peut prononcer que par une décision spécialement motivée au regard de la gravité de l'infraction et de la
+situation personnelle et familiale de l'étranger condamné l'interdiction du territoire français, lorsque est en cause :
 
-1° D'un condamné étranger père ou mère d'un enfant français résidant en France, à condition qu'il exerce, même partiellement,
+1° Un condamné étranger père ou mère d'un enfant français résidant en France, à condition qu'il exerce, même partiellement,
 l'autorité parentale à l'égard de cet enfant ou qu'il subvienne effectivement à ses besoins ;
 
-2° D'un condamné étranger marié depuis au moins un an avec un conjoint de nationalité française, à condition que ce mariage
+2° Un condamné étranger marié depuis au moins un an avec un conjoint de nationalité française, à condition que ce mariage
 soit antérieur aux faits ayant entraîné sa condamnation, que la communauté de vie n'ait pas cessé et que le conjoint ait
 conservé la nationalité française ;
 
-3° D'un condamné étranger qui justifie qu'il réside habituellement en France depuis qu'il a atteint au plus l'âge de dix
-ans ;
+3° Un condamné étranger qui justifie qu'il réside habituellement en France depuis qu'il a atteint au plus l'âge de dix ans ;
 
-4° D'un condamné étranger qui justifie qu'il réside régulièrement en France depuis plus de quinze ans.
+4° Un condamné étranger qui justifie qu'il réside habituellement en France depuis plus de quinze ans ;
+
+5° Un condamné étranger titulaire d'une rente d'accident de travail ou de maladie professionnelle servie par un organisme
+français et dont le taux d'incapacité permanente est égal ou supérieur à 20 % ;
+
+6° Un condamné étranger résidant habituellement en France dont l'état de santé nécessite une prise en charge médicale dont le
+défaut pourrait entraîner pour lui des conséquences d'une exceptionnelle gravité, sous réserve qu'il ne puisse bénéficier
+d'un traitement approprié dans le pays dont il est originaire.
 
 **Liens relatifs à cet article**
 
@@ -3946,7 +3952,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°97-396 du 24 avril 1997 - art. 16 () JORF 25 avril 1997
+  - Loi n°98-349 du 11 mai 1998 - art. 37 () JORF 12 mai 1998
 
 
 ###### Article 131-31
@@ -8955,7 +8961,7 @@ _Cite_:
 
 L'interdiction du territoire français peut être prononcée dans les conditions prévues par l'article 131-30, soit à titre
 définitif, soit pour une durée de dix ans au plus, à l'encontre de tout étranger coupable de l'une des infractions définies
-au présent titre. Les dispositions des cinq derniers alinéas de l'article 131-10 ne sont pas applicables.
+au présent titre. Les dispositions des sept derniers alinéas de l'article 131-10 ne sont pas applicables.
 
 **Liens relatifs à cet article**
 
@@ -8970,7 +8976,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°93-1027 du 24 août 1993 - art. 33 () JORF 29 août 1993
+  - Loi n°98-349 du 11 mai 1998 - art. 37 () JORF 12 mai 1998
 
 _Cite_:
 
@@ -11415,7 +11421,7 @@ définitif, soit pour une durée de dix ans au plus, à l'encontre de tout étra
 aux articles 222-1 à 222-8 et 222-10, aux 1° et 2° de l'article 222-14, aux articles 222-23 à 222-26, 222-30, 222-34 à 222-39
 ainsi qu'à l'article 222-15 dans les cas visés au deuxième alinéa de cet article.
 
-Les dispositions des cinq derniers alinéas de l'article 131-30 ne sont pas applicables aux personnes coupables des
+Les dispositions des sept derniers alinéas de l'article 131-30 ne sont pas applicables aux personnes coupables des
 infractions définies aux articles 222-34, 222-35, 222-36 et 222-38.
 
 **Liens relatifs à cet article**
@@ -11431,7 +11437,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°93-1027 du 24 août 1993 - art. 33 () JORF 29 août 1993
+  - Loi n°98-349 du 11 mai 1998 - art. 37 () JORF 12 mai 1998
 
 _Cite_:
 
@@ -20724,7 +20730,7 @@ _Cité par_:
 
 L'interdiction du territoire français peut être prononcée dans les conditions prévues par l'article 131-30, soit à titre
 définitif, soit pour une durée de dix ans au plus, à l'encontre de tout étranger coupable de l'une des infractions définies
-aux chapitres Ier, II et IV du présent titre et aux articles 413-1 à 413-4, 413-10 et 413-11. Les dispositions des cinq
+aux chapitres Ier, II et IV du présent titre et aux articles 413-1 à 413-4, 413-10 et 413-11. Les dispositions des sept
 derniers alinéas de l'article 131-10 ne sont pas applicables.
 
 **Liens relatifs à cet article**
@@ -20740,7 +20746,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°93-1027 du 24 août 1993 - art. 33 () JORF 29 août 1993
+  - Loi n°98-349 du 11 mai 1998 - art. 37 () JORF 12 mai 1998
 
 _Cité par_:
 
@@ -21239,7 +21245,7 @@ _Modifié par_:
 
 L'interdiction du territoire français peut être prononcée dans les conditions prévues par l'article 131-30, soit à titre
 définitif, soit pour une durée de dix ans au plus, à l'encontre de tout étranger coupable de l'une des infractions définies
-au présent titre. Les dispositions des cinq derniers alinéas de l'article 131-10 ne sont pas applicables.
+au présent titre. Les dispositions des sept derniers alinéas de l'article 131-10 ne sont pas applicables.
 
 **Liens relatifs à cet article**
 
@@ -21254,7 +21260,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°93-1027 du 24 août 1993 - art. 33 () JORF 29 août 1993
+  - Loi n°98-349 du 11 mai 1998 - art. 37 () JORF 12 mai 1998
 
 _Cite_:
 
@@ -25584,7 +25590,7 @@ _Codifié par_:
 
 L'interdiction du territoire français peut être prononcée dans les conditions prévues par l'article 131-30, soit à titre
 définitif, soit pour une durée de dix ans au plus, à l'encontre de tout étranger coupable de l'une des infractions définies
-aux articles 442-1 à 442-4. Les dispositions des cinq derniers alinéas de l'article 131-10 ne sont pas applicables.
+aux articles 442-1 à 442-4. Les dispositions des sept derniers alinéas de l'article 131-10 ne sont pas applicables.
 
 **Liens relatifs à cet article**
 
@@ -25599,7 +25605,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°93-1027 du 24 août 1993 - art. 33 () JORF 29 août 1993
+  - Loi n°98-349 du 11 mai 1998 - art. 37 () JORF 12 mai 1998
 
 _Cite_:
 
