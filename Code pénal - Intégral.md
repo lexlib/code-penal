@@ -1,5 +1,5 @@
 # Code pénal  
-Version Consolidée au 2000-09-21
+Version Consolidée au 2000-12-31
 ## Contenu: 
   - [Partie législative (art. 111-1 à 727-3)](#1)
     - [Livre Ier : Dispositions générales (art. 111-1 à 133-17)](#2)
@@ -24628,6 +24628,30 @@ _Codifié par_:
 
   - SPEC_APPLI: Loi n°92-686 1992-07-22 art. 1
   - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
+
+
+###### Article 434-15-1
+
+Le fait de ne pas comparaître, de ne pas prêter serment ou de ne pas déposer, sans excuse ni justification, devant le juge
+d'instruction par une personne qui a été citée par lui pour y être entendue comme témoin est puni [*taux*] de 25 000 F
+d'amende.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°92-686 1992-07-22
+
+_Modifié par_:
+
+  - Loi n°2000-1354 du 30 décembre 2000 - art. 11 () JORF 31 décembre 2000
+
+_Cité par_:
+
+  - Code de justice militaire. - art. L212-78 (V)
+  - Code de justice militaire. - art. L222-34 (V)
+  - Code de procédure pénale - art. 153 (V)
+  - Code de procédure pénale - art. 694-5 (V)
 
 
 ###### Article 434-16
