@@ -1,5 +1,5 @@
 # Code pénal  
-Version Consolidée au 2002-03-05
+Version Consolidée au 2002-09-10
 ## Contenu: 
   - [Partie législative (art. 111-1 à 727-3)](#1)
     - [Livre Ier : Dispositions générales (art. 111-1 à 133-17)](#2)
@@ -1979,22 +1979,28 @@ _Codifié par_:
 
 ###### Article 122-8
 
-Les mineurs reconnus coupables d'infractions pénales font l'objet de mesures de protection, d'assistance, de surveillance et
-d'éducation dans les conditions fixées par une loi particulière.
+Les mineurs capables de discernement sont pénalement responsables des crimes, délits ou contraventions dont ils ont été
+reconnus coupables, dans des conditions fixées par une loi particulière qui détermine les mesures de protection,
+d'assistance, de surveillance et d'éducation dont ils peuvent faire l'objet.
 
-Cette loi détermine également les conditions dans lesquelles des peines peuvent être prononcées à l'encontre des mineurs âgés
-de plus de treize ans.
+Cette loi détermine également les sanctions éducatives qui peuvent être prononcées à l'encontre des mineurs de dix à dix-huit
+ans ainsi que les peines auxquelles peuvent être condamnés les mineurs de treize à dix-huit ans, en tenant compte de
+l'atténuation de responsabilité dont ils bénéficient en raison de leur âge.
 
 **Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Loi n°92-683 1992-07-22
 
 **Liens**:
 
   - SPEC_APPLI: Loi n°92-683 1992-07-22 art. 1
   - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
+
+_Codifié par_:
+
+  - Loi n°92-683 du 22 juillet 1992 (V)
+
+_Modifié par_:
+
+  - Loi n°2002-1138 du 9 septembre 2002 - art. 11 () JORF 10 septembre 2002
 
 
 ### Titre III : Des peines<a id=12></a>
@@ -10806,12 +10812,14 @@ l'occasion de l'exercice de ses fonctions ou de sa mission ;
 10° Avec usage ou menace d'une arme ;
 
 11° Lorsque les faits sont commis à l'intérieur d'un établissement scolaire ou éducatif, ou, à l'occasion des entrées ou des
-sorties des élèves, aux abords d'un tel établissement.
+sorties des élèves, aux abords d'un tel établissement ;
+
+12° Par un majeur agissant avec l'aide ou l'assistance d'un mineur.
 
 Les peines encourues sont portées à dix ans d'emprisonnement et à 150000 euros d'amende lorsque l'infraction définie à
 l'article 222-11 est commise sur un mineur de quinze ans par un ascendant légitime, naturel ou adoptif ou par toute autre
 personne ayant autorité sur le mineur. Les peines sont portées à sept ans d'emprisonnement et 100000 euros d'amende lorsque
-cette infraction est commise dans deux des circonstances prévues aux 1° à 10° du présent article. Les peines sont portées à
+cette infraction est commise dans deux des circonstances prévues aux 1° à 12° du présent article. Les peines sont portées à
 dix ans d'emprisonnement et 150000 euros d'amende lorsqu'elle est commise dans trois de ces circonstances.
 
 Les deux premiers alinéas de l'article 132-23 relatif à la période de sûreté sont applicables aux infractions prévues par le
@@ -10855,7 +10863,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+  - Loi n°2002-1138 du 9 septembre 2002 - art. 25 () JORF 10 septembre 2002
 
 _Cite_:
 
@@ -10896,13 +10904,15 @@ l'occasion de l'exercice de ses fonctions ou de sa mission ;
 10° Avec usage ou menace d'une arme ;
 
 11° Lorsque les faits sont commis à l'intérieur d'un établissement scolaire ou éducatif, ou, à l'occasion des entrées ou des
-sorties des élèves, aux abords d'un tel établissement.
+sorties des élèves, aux abords d'un tel établissement ;
+
+12° Par un majeur agissant avec l'aide ou l'assistance d'un mineur.
 
 Les peines encourues sont portées à cinq ans d'emprisonnement et à 75000 euros d'amende lorsque l'infraction définie au
 premier alinéa est commise sur un mineur de quinze ans par un ascendant légitime, naturel ou adoptif ou par toute autre
 personne ayant autorité sur le mineur. Les peines sont également portées à cinq ans d'emprisonnement et 75000 euros d'amende
 lorsque cette infraction, ayant entraîné une incapacité totale de travail inférieure ou égale à huit jours, est commise dans
-deux des circonstances prévues aux 1° à 10° du présent article. Les peines sont portées à sept ans d'emprisonnement et 100000
+deux des circonstances prévues aux 1° à 12° du présent article. Les peines sont portées à sept ans d'emprisonnement et 100000
 euros d'amende lorsqu'elle est commise dans trois de ces circonstances.
 
 **Liens relatifs à cet article**
@@ -10936,7 +10946,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+  - Loi n°2002-1138 du 9 septembre 2002 - art. 25 () JORF 10 septembre 2002
 
 
 ###### Article 222-14
@@ -17489,8 +17499,8 @@ _Cité par_:
 ###### Article 227-17
 
 Le fait, par le père ou la mère légitime, naturel ou adoptif, de se soustraire, sans motif légitime, à ses obligations
-légales au point de compromettre gravement la santé, la sécurité, la moralité ou l'éducation de son enfant mineur est puni de
-deux ans d'emprisonnement et de 30000 euros d'amende.
+légales au point de compromettre la santé, la sécurité, la moralité ou l'éducation de son enfant mineur est puni de deux ans
+d'emprisonnement et de 30000 euros d'amende.
 
 L'infraction prévue par le présent article est assimilée à un abandon de famille pour l'application du 3° de l'article 373 du
 code civil.
@@ -17508,7 +17518,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+  - Loi n°2002-1138 du 9 septembre 2002 - art. 27 () JORF 10 septembre 2002
 
 _Cite_:
 
@@ -17715,12 +17725,13 @@ _Cité par_:
 
 ###### Article 227-21
 
-Le fait de provoquer directement un mineur à commettre habituellement des crimes ou des délits est puni de cinq ans
-d'emprisonnement et de 150000 euros d'amende.
+Le fait de provoquer directement un mineur à commettre un crime ou un délit est puni de cinq ans d'emprisonnement et de
+150000 euros d'amende.
 
-Lorsqu'il s'agit d'un mineur de quinze ans ou que les faits sont commis à l'intérieur d'un établissement scolaire ou éducatif
-ou, à l'occasion des entrées ou des sorties des élèves, aux abords d'un tel établissement, l'infraction définie par le
-présent article est punie de sept ans d'emprisonnement et de 150000 euros d'amende.
+Lorsqu'il s'agit d'un mineur de quinze ans, que le mineur est provoqué à commettre habituellement des crimes ou des délits ou
+que les faits sont commis à l'intérieur d'un établissement scolaire ou éducatif ou, à l'occasion des entrées ou des sorties
+des élèves, aux abords d'un tel établissement, l'infraction définie par le présent article est punie de sept ans
+d'emprisonnement et de 150000 euros d'amende.
 
 **Liens relatifs à cet article**
 
@@ -17735,7 +17746,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+  - Loi n°2002-1138 du 9 septembre 2002 - art. 28 () JORF 10 septembre 2002
 
 _Cité par_:
 
@@ -18349,6 +18360,25 @@ _Codifié par_:
 _Modifié par_:
 
   - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+
+
+###### Article 311-4-1
+
+Le vol est puni de sept ans d'emprisonnement et de 100 000 euros d'amende lorsqu'il est commis par un majeur avec l'aide d'un
+ou plusieurs mineurs, agissant comme auteurs ou complices.
+
+Les peines sont portées à dix ans d'emprisonnement et 150 000 euros d'amende lorsque le majeur est aidé d'un ou plusieurs
+mineurs âgés de moins de treize ans.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°92-685 1992-07-22
+
+_Créé par_:
+
+  - Loi n°2002-1138 du 9 septembre 2002 - art. 26 () JORF 10 septembre 2002
 
 
 ###### Article 311-5
@@ -20604,10 +20634,11 @@ _Cite_:
 ###### Article 322-1
 
 La destruction, la dégradation ou la détérioration d'un bien appartenant à autrui est punie de deux ans d'emprisonnement et
-de 30000 euros d'amende, sauf s'il n'en est résulté qu'un dommage léger.
+de 30 000 euros d'amende, sauf s'il n'en est résulté qu'un dommage léger.
 
 Le fait de tracer des inscriptions, des signes ou des dessins, sans autorisation préalable, sur les façades, les véhicules,
-les voies publiques ou le mobilier urbain est puni de 3750 euros d'amende lorsqu'il n'en est résulté qu'un dommage léger.
+les voies publiques ou le mobilier urbain est puni de 3 750 euros d'amende et d'une peine de travail d'intérêt général
+lorsqu'il n'en est résulté qu'un dommage léger.
 
 **Liens relatifs à cet article**
 
@@ -20650,14 +20681,14 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+  - Loi n°2002-1138 du 9 septembre 2002 - art. 24 () JORF 10 septembre 2002
 
 
 ###### Article 322-2
 
 L'infraction définie au premier alinéa de l'article 322-1 est punie de trois ans d'emprisonnement et de 45000 euros d'amende
-et celle définie au deuxième alinéa du même article de 7500 euros d'amende, lorsque le bien détruit, dégradé ou détérioré
-est :
+et celle définie au deuxième alinéa du même article de 7500 euros d'amende et d'une peine de travail d'intérêt général,
+lorsque le bien détruit, dégradé ou détérioré est :
 
 1° Destiné à l'utilité ou à la décoration publiques et appartient à une personne publique ou chargée d'une mission de service
 public ;
@@ -20714,7 +20745,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2002-5 du 4 janvier 2002 - art. 27 (Ab) JORF 5 janvier 2002
+  - Loi n°2002-1138 du 9 septembre 2002 - art. 24 () JORF 10 septembre 2002
 
 _Cite_:
 
@@ -20724,7 +20755,7 @@ _Cite_:
 ###### Article 322-3
 
 L'infraction définie au premier alinéa de l'article 322-1 est punie de cinq ans d'emprisonnement et de 75000 euros d'amende
-et celle définie au deuxième alinéa du même article de 15000 euros d'amende :
+et celle définie au deuxième alinéa du même article de 15000 euros d'amende et d'une peine de travail d'intérêt général :
 
 1° Lorsqu'elle est commise par plusieurs personnes agissant en qualité d'auteur ou de complice ;
 
@@ -20765,7 +20796,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+  - Loi n°2002-1138 du 9 septembre 2002 - art. 24 () JORF 10 septembre 2002
 
 _Cite_:
 
@@ -23360,10 +23391,10 @@ _Cite_:
 
 ###### Article 421-4
 
-L'acte de terrorisme défini à l'article 421-2 est puni de quinze ans de réclusion criminelle et de 225000 euros  d'amende.
+L'acte de terrorisme défini à l'article 421-2 est puni de vingt ans de réclusion criminelle et de 350 000 euros d'amende. 
 
 Lorsque cet acte a entraîné la mort d'une ou plusieurs personnes, il est puni de la réclusion criminelle à perpétuité et de
-750000 euros d'amende.
+750 000 euros d'amende. 
 
 Les deux premiers alinéas de l'article 132-23 relatif à la période de sûreté sont applicables au crime prévu par le présent
 article.
@@ -23381,7 +23412,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+  - Loi n°2002-1138 du 9 septembre 2002 - art. 46 () JORF 10 septembre 2002
 
 _Cité par_:
 
@@ -23390,8 +23421,8 @@ _Cité par_:
 
 _Cite_:
 
-  - Code pénal - art. 132-23 (M)
-  - Code pénal - art. 421-2 (M)
+  - Code pénal - art. 132-23 (V)
+  - Code pénal - art. 421-2 (V)
 
 
 ###### Article 421-5
@@ -25253,16 +25284,20 @@ _Modifié par_:
 
 ###### Article 433-5
 
-Constituent un outrage puni de 7500 euros d'amende les paroles, gestes ou menaces, les écrits ou images de toute nature non
+Constituent un outrage puni de 7 500 euros d'amende les paroles, gestes ou menaces, les écrits ou images de toute nature non
 rendus publics ou l'envoi d'objets quelconques adressés à une personne chargée d'une mission de service public, dans
 l'exercice ou à l'occasion de l'exercice de sa mission, et de nature à porter atteinte à sa dignité ou au respect dû à la
 fonction dont elle est investie.
 
 Lorsqu'il est adressé à une personne dépositaire de l'autorité publique, l'outrage est puni de six mois d'emprisonnement et
-de 7500 euros d'amende.
+de 7 500 euros d'amende.
+
+Lorsqu'il est adressé à une personne chargée d'une mission de service public et que les faits ont été commis à l'intérieur
+d'un établissement scolaire ou éducatif, ou, à l'occasion des entrées ou sorties des élèves, aux abords d'un tel
+établissement, l'outrage est puni de six mois d'emprisonnement et de 7 500 euros d'amende.
 
 Lorsqu'il est commis en réunion, l'outrage prévu au premier alinéa est puni de six mois d'emprisonnement et de 7 500 euros
-d'amende, et l'outrage prévu au deuxième alinéa est puni d'un an d'emprisonnement et de 15000 euros d'amende.
+d'amende, et l'outrage prévu au deuxième alinéa est puni d'un an d'emprisonnement et de 15 000 euros d'amende.
 
 **Liens relatifs à cet article**
 
@@ -25299,7 +25334,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+  - Loi n°2002-1138 du 9 septembre 2002 - art. 45 () JORF 10 septembre 2002
 
 
 ##### Section 5 : De la rébellion<a id=198></a>
@@ -26567,7 +26602,8 @@ _Modifié par_:
 ###### Article 434-15-1
 
 Le fait de ne pas comparaître, de ne pas prêter serment ou de ne pas déposer, sans excuse ni justification, devant le juge
-d'instruction par une personne qui a été citée par lui pour y être entendue comme témoin est puni de 3750 euros d'amende.
+d'instruction ou devant un officier de police judiciaire agissant sur commission rogatoire par une personne qui a été citée
+par lui pour y être entendue comme témoin est puni de 3 750 euros d'amende.
 
 **Liens relatifs à cet article**
 
@@ -26577,7 +26613,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+  - Loi n°2002-1138 du 9 septembre 2002 - art. 39 () JORF 10 septembre 2002
 
 _Cité par_:
 
