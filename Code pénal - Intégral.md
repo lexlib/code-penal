@@ -1,5 +1,5 @@
 # Code pénal  
-Version Consolidée au 1995-02-09
+Version Consolidée au 1995-02-14
 ## Contenu: 
   - [Partie législative (art. 111-1 à 521-2)](#1)
     - [Livre Ier : Dispositions générales (art. 111-1 à 133-17)](#2)
@@ -223,8 +223,8 @@ Version Consolidée au 1995-02-09
       - [Titre II : Autres dispositions (art. 521-1 à 521-2)](#220)
         - [Chapitre unique : Des sévices graves ou actes de cruauté envers les animaux (art. 521-1 à 521-2)](#221)
   - [Partie réglementaire - Décrets en Conseil d'Etat (art. R131-1 à R655-1)](#222)
-    - [Livre Ier : Dispositions générales (art. R131-1 à R131-36)](#223)
-      - [Titre III : Des peines (art. R131-1 à R131-36)](#224)
+    - [Livre Ier : Dispositions générales (art. R131-1 à R133-2)](#223)
+      - [Titre III : Des peines (art. R131-1 à R133-2)](#224)
         - [Chapitre Ier : De la nature des peines (art. R131-1 à R131-36)](#225)
           - [Section 1 : Des peines applicables aux personnes physiques (art. R131-1 à R131-34)](#226)
             - [Sous-section 1 : De la suspension du permis de conduire, de l'interdiction de conduire certains véhicules et de l'immobilisation de véhicule (art. R131-1 à R131-11)](#227)
@@ -240,92 +240,94 @@ Version Consolidée au 1995-02-09
                 - [A. : De la décision du juge de l'application des peines fixant les modalités d'exécution du travail d'intérêt général (art. R131-23 à R131-28)](#237)
                 - [B. : Du contrôle de l'exécution du travail d'intérêt général (art. R131-29 à R131-34)](#238)
           - [Section 2 : Des peines applicables aux personnes morales. (art. R131-35 à R131-36)](#239)
-    - [Livre II : Des crimes et délits contre les personnes (art. R226-1 à R226-12)](#240)
-      - [Titre II : Des atteintes à la personne humaine (art. R226-1 à R226-12)](#241)
-        - [Chapitre VI : Des atteintes à la personnalité (art. R226-1 à R226-12)](#242)
-          - [Section 1 : De l'atteinte à la vie privée (art. R226-1 à R226-12)](#243)
-    - [Livre III : Des crimes et délits contre les biens (art. R321-1 à R321-12)](#244)
-      - [Titre II : Des autres atteintes aux biens (art. R321-1 à R321-12)](#245)
-        - [Chapitre Ier : Du recel et des infractions assimilées ou voisines (art. R321-1 à R321-12)](#246)
-          - [Section 2 : Des infractions assimilées au recel ou voisines de celui-ci (art. R321-1 à R321-12)](#247)
-            - [Sous-section 1 : Dispositions relatives aux personnes dont l'activité professionnelle comporte la vente ou l'échange de certains objets mobiliers (art. R321-1 à R321-8)](#248)
-            - [Sous-section 2 : Dispositions concernant les manifestations publiques en vue de la vente ou de l'échange de certains objets mobiliers (art. R321-9 à R321-12)](#249)
-    - [Livre IV : Des crimes et délits contre la nation, l'Etat et la paix publique (art. R413-1 à R431-2)](#250)
-      - [Titre Ier : Des atteintes aux intérêts fondamentaux de la nation (art. R413-1 à R413-6)](#251)
-        - [Chapitre III : Des autres atteintes à la défense nationale (art. R413-1 à R413-6)](#252)
-          - [Section 1 : Des atteintes à la sécurité des forces armées et aux zones protégées intéressant la défense nationale (art. R413-1 à R413-5)](#253)
-          - [Section 2 : Des atteintes au secret de la défense nationale (art. R413-6)](#254)
-      - [Titre III : Des atteintes à l'autorité de l'Etat (art. R431-1 à R431-2)](#255)
-        - [Chapitre Ier : Des atteintes à la paix publique (art. R431-1 à R431-2)](#256)
-          - [Section 2 : De la participation délictueuse à un attroupement. (art. R431-1 à R431-2)](#257)
-    - [Livre V : Des autres crimes et délits (art. R511-1)](#258)
-      - [Chapitre Ier : Des sévices graves ou actes de cruauté envers les animaux (art. R511-1)](#259)
-    - [Livre VI : Des contraventions (art. R610-1 à R655-1)](#260)
-      - [Titre Ier : Dispositions générales (art. R610-1 à R610-5)](#261)
-      - [Titre II : Des contraventions contre les personnes (art. R621-1 à R625-9)](#262)
-        - [Chapitre Ier : Des contraventions de la 1re classe contre les personnes (art. R621-1 à R621-2)](#263)
-          - [Section 1 : De la diffamation et de l'injure non publiques (art. R621-1 à R621-2)](#264)
-        - [Chapitre II : Des contraventions de la 2e classe contre les personnes (art. R622-1 à R622-2)](#265)
-          - [Section 1 : Des atteintes involontaires à l'intégrité de la personne n'ayant entraîné aucune incapacité totale de travail (art. R622-1)](#266)
-          - [Section 2 : De la divagation d'animaux dangereux (art. R622-2)](#267)
-        - [Chapitre III : Des contraventions de la 3e classe contre les personnes (art. R623-1 à R623-4)](#268)
-          - [Section 1 : Des menaces de violences (art. R623-1)](#269)
-          - [Section 2 : Des bruits ou tapages injurieux ou nocturnes (art. R623-2)](#270)
-          - [Section 3 : De l'excitation d'animaux dangereux (art. R623-3)](#271)
-          - [Section 4 : De la violation des dispositions réglementant le commerce de certains matériels susceptibles d'être utilisés pour porter atteinte à l'intimité de la vie privée (art. R623-4)](#272)
-        - [Chapitre IV : Des contraventions de la 4e classe contre les personnes (art. R624-1 à R624-6)](#273)
-          - [Section 1 : Des violences légères (art. R624-1)](#274)
-          - [Section 2 : De la diffusion de messages contraires à la décence (art. R624-2)](#275)
-          - [Section 3 : De la diffamation et de l'injure non publiques présentant un caractère raciste ou discriminatoire (art. R624-3 à R624-6)](#276)
-        - [Chapitre V : Des contraventions de la 5e classe contre les personnes (art. R625-1 à R625-9)](#277)
-          - [Section 1 : Des violences (art. R625-1)](#278)
-          - [Section 2 : Des atteintes involontaires à l'intégrité de la personne (art. R625-2 à R625-6)](#279)
-          - [Section 3 : De la provocation non publique à la discrimination, à la haine ou à la violence raciales. (art. R625-7)](#280)
-          - [Section 4 : Du racolage. (art. R625-8)](#281)
-          - [Section 5 : De la violation des dispositions réglementant le commerce de certains matériels susceptibles d'être utilisés pour porter atteinte à l'intimité de la vie privée (art. R625-9)](#282)
-      - [Titre III : Des contraventions contre les biens (art. R631-1 à R635-8)](#283)
-        - [Chapitre Ier : Des contraventions de la 1re classe contre les biens (art. R631-1)](#284)
-          - [Section unique : Des menaces de destruction, de dégradation ou de détérioration n'entraînant qu'un dommage léger (art. R631-1)](#285)
-        - [Chapitre II : Des contraventions de la 2e classe contre les biens (art. R632-1)](#286)
-          - [Section unique : De l'abandon d'ordures, déchets, matériaux ou autres objets. (art. R632-1)](#287)
-        - [Chapitre III : Des contraventions de la 3e classe contre les biens (art. R633-1 à R633-5)](#288)
-          - [Section 1 : De la violation des dispositions réglementant la vente ou l'échange de certains objets mobiliers (art. R633-1 à R633-4)](#289)
-          - [Section 2 : De la violation des dispositions concernant les manifestations publiques en vue de la vente ou de l'échange de certains objets mobiliers (art. R633-5)](#290)
-        - [Chapitre IV : Des contraventions de la 4e classe contre les biens (art. R634-1)](#291)
-          - [Section 1 : Des menaces de destruction, de dégradation ou de détérioration ne présentant pas de danger pour les personnes (art. R634-1)](#292)
-        - [Chapitre V : Des contraventions de la 5e classe contre les biens (art. R635-1 à R635-8)](#293)
-          - [Section 1 : Des destructions, dégradations et détériorations dont il n'est résulté qu'un dommage léger (art. R635-1)](#294)
-          - [Section 2 : De la vente forcée par correspondance (art. R635-2)](#295)
-          - [Section 3 : De la violation des dispositions réglementant la vente ou l'échange de certains objets mobiliers (art. R635-3 à R635-7)](#296)
-          - [Section 4 : De l'abandon d'épaves de véhicules ou d'ordures, déchets, matériaux et autres objets transportés dans un véhicule (art. R635-8)](#297)
-      - [Titre IV : Des contraventions contre la nation, l'Etat ou la paix publique (art. R641-1 à R645-11)](#298)
-        - [Chapitre Ier : Des contraventions de la 1re classe contre la nation, l'Etat ou la paix publique (art. R641-1)](#299)
-          - [Section unique : De l'abandon d'armes ou d'objets dangereux (art. R641-1)](#300)
-        - [Chapitre II : Des contraventions de la 2e classe contre la nation, l'Etat ou la paix publique (art. R642-1 à R642-4)](#301)
-          - [Section 1 : Du défaut de réponse à une réquisition des autorités judiciaires ou administratives (art. R642-1)](#302)
-          - [Section 2 : Des atteintes à la monnaie (art. R642-2 à R642-4)](#303)
-        - [Chapitre III : Des contraventions de la 3e classe contre la nation, l'Etat ou la paix publique (art. R643-1 à R643-2)](#304)
-          - [Section 1 : De l'usurpation de signes réservés à l'autorité publique (art. R643-1)](#305)
-          - [Section 2 : De l'utilisation de poids ou mesures différents de ceux établis par les lois et règlements en vigueur (art. R643-2)](#306)
-        - [Chapitre IV : Des contraventions de la 4e classe contre la nation, l'Etat ou la paix publique (art. R644-1 à R644-3)](#307)
-          - [Section 1 : De l'accès sans autorisation à un terrain, une construction, un engin ou un appareil militaires (art. R644-1)](#308)
-          - [Section 2 : Des entraves à la libre circulation sur la voie publique (art. R644-2)](#309)
-          - [Section 3 : De la violation des dispositions réglementant les professions exercées dans les lieux publics (art. R644-3)](#310)
-        - [Chapitre V : Des contraventions de la 5e classe contre la nation, l'Etat ou la paix publique (art. R645-1 à R645-11)](#311)
-          - [Section 1 : Du port ou de l'exhibition d'uniformes, insignes ou emblèmes rappelant ceux d'organisations ou de personnes responsables de crimes contre l'humanité (art. R645-1)](#312)
-          - [Section 2 : Des dessins, levés ou enregistrements effectués sans autorisation dans une zone d'interdiction fixée par l'autorité militaire (art. R645-2)](#313)
-          - [Section 3 : Des atteintes à l'état civil des personnes (art. R645-3 à R645-6)](#314)
-          - [Section 4 : De la soustraction d'une pièce produite en justice (art. R645-7)](#315)
-          - [Section 5 : De l'utilisation d'un document délivré par une administration publique comportant des mentions devenues incomplètes ou inexactes (art. R645-8)](#316)
-          - [Section 6 : Du refus de restitution de signes monétaires contrefaits ou falsifiés (art. R645-9)](#317)
-          - [Section 7 : De l'altération ou de la contrefaçon des timbres-poste ou des timbres émis par l'administration des finances (art. R645-10 à R645-11)](#318)
-      - [Titre V : Des autres contraventions (art. R653-1 à R655-1)](#319)
-        - [Chapitre III : Des contraventions de la 3e classe (art. R653-1)](#320)
-          - [Section unique : Des atteintes involontaires à la vie ou à l'intégrité d'un animal (art. R653-1)](#321)
-        - [Chapitre IV : Des contraventions de la 4e classe (art. R654-1)](#322)
-          - [Section unique : Des mauvais traitements envers un animal (art. R654-1)](#323)
-        - [Chapitre V : Des contraventions de la 5e classe (art. R655-1)](#324)
-          - [Section unique : Des atteintes volontaires à la vie d'un animal (art. R655-1)](#325)
+        - [Chapitre III : De l'extinction des peines et de l'effacement des condamnations (art. R133-1 à R133-2)](#240)
+          - [Section 2 : De la grâce (art. R133-1 à R133-2)](#241)
+    - [Livre II : Des crimes et délits contre les personnes (art. R226-1 à R226-12)](#242)
+      - [Titre II : Des atteintes à la personne humaine (art. R226-1 à R226-12)](#243)
+        - [Chapitre VI : Des atteintes à la personnalité (art. R226-1 à R226-12)](#244)
+          - [Section 1 : De l'atteinte à la vie privée (art. R226-1 à R226-12)](#245)
+    - [Livre III : Des crimes et délits contre les biens (art. R321-1 à R321-12)](#246)
+      - [Titre II : Des autres atteintes aux biens (art. R321-1 à R321-12)](#247)
+        - [Chapitre Ier : Du recel et des infractions assimilées ou voisines (art. R321-1 à R321-12)](#248)
+          - [Section 2 : Des infractions assimilées au recel ou voisines de celui-ci (art. R321-1 à R321-12)](#249)
+            - [Sous-section 1 : Dispositions relatives aux personnes dont l'activité professionnelle comporte la vente ou l'échange de certains objets mobiliers (art. R321-1 à R321-8)](#250)
+            - [Sous-section 2 : Dispositions concernant les manifestations publiques en vue de la vente ou de l'échange de certains objets mobiliers (art. R321-9 à R321-12)](#251)
+    - [Livre IV : Des crimes et délits contre la nation, l'Etat et la paix publique (art. R413-1 à R431-2)](#252)
+      - [Titre Ier : Des atteintes aux intérêts fondamentaux de la nation (art. R413-1 à R413-6)](#253)
+        - [Chapitre III : Des autres atteintes à la défense nationale (art. R413-1 à R413-6)](#254)
+          - [Section 1 : Des atteintes à la sécurité des forces armées et aux zones protégées intéressant la défense nationale (art. R413-1 à R413-5)](#255)
+          - [Section 2 : Des atteintes au secret de la défense nationale (art. R413-6)](#256)
+      - [Titre III : Des atteintes à l'autorité de l'Etat (art. R431-1 à R431-2)](#257)
+        - [Chapitre Ier : Des atteintes à la paix publique (art. R431-1 à R431-2)](#258)
+          - [Section 2 : De la participation délictueuse à un attroupement. (art. R431-1 à R431-2)](#259)
+    - [Livre V : Des autres crimes et délits (art. R511-1)](#260)
+      - [Chapitre Ier : Des sévices graves ou actes de cruauté envers les animaux (art. R511-1)](#261)
+    - [Livre VI : Des contraventions (art. R610-1 à R655-1)](#262)
+      - [Titre Ier : Dispositions générales (art. R610-1 à R610-5)](#263)
+      - [Titre II : Des contraventions contre les personnes (art. R621-1 à R625-9)](#264)
+        - [Chapitre Ier : Des contraventions de la 1re classe contre les personnes (art. R621-1 à R621-2)](#265)
+          - [Section 1 : De la diffamation et de l'injure non publiques (art. R621-1 à R621-2)](#266)
+        - [Chapitre II : Des contraventions de la 2e classe contre les personnes (art. R622-1 à R622-2)](#267)
+          - [Section 1 : Des atteintes involontaires à l'intégrité de la personne n'ayant entraîné aucune incapacité totale de travail (art. R622-1)](#268)
+          - [Section 2 : De la divagation d'animaux dangereux (art. R622-2)](#269)
+        - [Chapitre III : Des contraventions de la 3e classe contre les personnes (art. R623-1 à R623-4)](#270)
+          - [Section 1 : Des menaces de violences (art. R623-1)](#271)
+          - [Section 2 : Des bruits ou tapages injurieux ou nocturnes (art. R623-2)](#272)
+          - [Section 3 : De l'excitation d'animaux dangereux (art. R623-3)](#273)
+          - [Section 4 : De la violation des dispositions réglementant le commerce de certains matériels susceptibles d'être utilisés pour porter atteinte à l'intimité de la vie privée (art. R623-4)](#274)
+        - [Chapitre IV : Des contraventions de la 4e classe contre les personnes (art. R624-1 à R624-6)](#275)
+          - [Section 1 : Des violences légères (art. R624-1)](#276)
+          - [Section 2 : De la diffusion de messages contraires à la décence (art. R624-2)](#277)
+          - [Section 3 : De la diffamation et de l'injure non publiques présentant un caractère raciste ou discriminatoire (art. R624-3 à R624-6)](#278)
+        - [Chapitre V : Des contraventions de la 5e classe contre les personnes (art. R625-1 à R625-9)](#279)
+          - [Section 1 : Des violences (art. R625-1)](#280)
+          - [Section 2 : Des atteintes involontaires à l'intégrité de la personne (art. R625-2 à R625-6)](#281)
+          - [Section 3 : De la provocation non publique à la discrimination, à la haine ou à la violence raciales. (art. R625-7)](#282)
+          - [Section 4 : Du racolage. (art. R625-8)](#283)
+          - [Section 5 : De la violation des dispositions réglementant le commerce de certains matériels susceptibles d'être utilisés pour porter atteinte à l'intimité de la vie privée (art. R625-9)](#284)
+      - [Titre III : Des contraventions contre les biens (art. R631-1 à R635-8)](#285)
+        - [Chapitre Ier : Des contraventions de la 1re classe contre les biens (art. R631-1)](#286)
+          - [Section unique : Des menaces de destruction, de dégradation ou de détérioration n'entraînant qu'un dommage léger (art. R631-1)](#287)
+        - [Chapitre II : Des contraventions de la 2e classe contre les biens (art. R632-1)](#288)
+          - [Section unique : De l'abandon d'ordures, déchets, matériaux ou autres objets. (art. R632-1)](#289)
+        - [Chapitre III : Des contraventions de la 3e classe contre les biens (art. R633-1 à R633-5)](#290)
+          - [Section 1 : De la violation des dispositions réglementant la vente ou l'échange de certains objets mobiliers (art. R633-1 à R633-4)](#291)
+          - [Section 2 : De la violation des dispositions concernant les manifestations publiques en vue de la vente ou de l'échange de certains objets mobiliers (art. R633-5)](#292)
+        - [Chapitre IV : Des contraventions de la 4e classe contre les biens (art. R634-1)](#293)
+          - [Section 1 : Des menaces de destruction, de dégradation ou de détérioration ne présentant pas de danger pour les personnes (art. R634-1)](#294)
+        - [Chapitre V : Des contraventions de la 5e classe contre les biens (art. R635-1 à R635-8)](#295)
+          - [Section 1 : Des destructions, dégradations et détériorations dont il n'est résulté qu'un dommage léger (art. R635-1)](#296)
+          - [Section 2 : De la vente forcée par correspondance (art. R635-2)](#297)
+          - [Section 3 : De la violation des dispositions réglementant la vente ou l'échange de certains objets mobiliers (art. R635-3 à R635-7)](#298)
+          - [Section 4 : De l'abandon d'épaves de véhicules ou d'ordures, déchets, matériaux et autres objets transportés dans un véhicule (art. R635-8)](#299)
+      - [Titre IV : Des contraventions contre la nation, l'Etat ou la paix publique (art. R641-1 à R645-11)](#300)
+        - [Chapitre Ier : Des contraventions de la 1re classe contre la nation, l'Etat ou la paix publique (art. R641-1)](#301)
+          - [Section unique : De l'abandon d'armes ou d'objets dangereux (art. R641-1)](#302)
+        - [Chapitre II : Des contraventions de la 2e classe contre la nation, l'Etat ou la paix publique (art. R642-1 à R642-4)](#303)
+          - [Section 1 : Du défaut de réponse à une réquisition des autorités judiciaires ou administratives (art. R642-1)](#304)
+          - [Section 2 : Des atteintes à la monnaie (art. R642-2 à R642-4)](#305)
+        - [Chapitre III : Des contraventions de la 3e classe contre la nation, l'Etat ou la paix publique (art. R643-1 à R643-2)](#306)
+          - [Section 1 : De l'usurpation de signes réservés à l'autorité publique (art. R643-1)](#307)
+          - [Section 2 : De l'utilisation de poids ou mesures différents de ceux établis par les lois et règlements en vigueur (art. R643-2)](#308)
+        - [Chapitre IV : Des contraventions de la 4e classe contre la nation, l'Etat ou la paix publique (art. R644-1 à R644-3)](#309)
+          - [Section 1 : De l'accès sans autorisation à un terrain, une construction, un engin ou un appareil militaires (art. R644-1)](#310)
+          - [Section 2 : Des entraves à la libre circulation sur la voie publique (art. R644-2)](#311)
+          - [Section 3 : De la violation des dispositions réglementant les professions exercées dans les lieux publics (art. R644-3)](#312)
+        - [Chapitre V : Des contraventions de la 5e classe contre la nation, l'Etat ou la paix publique (art. R645-1 à R645-11)](#313)
+          - [Section 1 : Du port ou de l'exhibition d'uniformes, insignes ou emblèmes rappelant ceux d'organisations ou de personnes responsables de crimes contre l'humanité (art. R645-1)](#314)
+          - [Section 2 : Des dessins, levés ou enregistrements effectués sans autorisation dans une zone d'interdiction fixée par l'autorité militaire (art. R645-2)](#315)
+          - [Section 3 : Des atteintes à l'état civil des personnes (art. R645-3 à R645-6)](#316)
+          - [Section 4 : De la soustraction d'une pièce produite en justice (art. R645-7)](#317)
+          - [Section 5 : De l'utilisation d'un document délivré par une administration publique comportant des mentions devenues incomplètes ou inexactes (art. R645-8)](#318)
+          - [Section 6 : Du refus de restitution de signes monétaires contrefaits ou falsifiés (art. R645-9)](#319)
+          - [Section 7 : De l'altération ou de la contrefaçon des timbres-poste ou des timbres émis par l'administration des finances (art. R645-10 à R645-11)](#320)
+      - [Titre V : Des autres contraventions (art. R653-1 à R655-1)](#321)
+        - [Chapitre III : Des contraventions de la 3e classe (art. R653-1)](#322)
+          - [Section unique : Des atteintes involontaires à la vie ou à l'intégrité d'un animal (art. R653-1)](#323)
+        - [Chapitre IV : Des contraventions de la 4e classe (art. R654-1)](#324)
+          - [Section unique : Des mauvais traitements envers un animal (art. R654-1)](#325)
+        - [Chapitre V : Des contraventions de la 5e classe (art. R655-1)](#326)
+          - [Section unique : Des atteintes volontaires à la vie d'un animal (art. R655-1)](#327)
 # Partie législative<a id=1></a>
 
 ## Livre Ier : Dispositions générales<a id=2></a>
@@ -27621,13 +27623,57 @@ _Nouveaux textes_:
   - Code pénal art. R131-46
 
 
-## Livre II : Des crimes et délits contre les personnes<a id=240></a>
+#### Chapitre III : De l'extinction des peines et de l'effacement des condamnations<a id=240></a>
 
-### Titre II : Des atteintes à la personne humaine<a id=241></a>
+##### Section 2 : De la grâce<a id=241></a>
 
-#### Chapitre VI : Des atteintes à la personnalité<a id=242></a>
+###### Article R133-1
 
-##### Section 1 : De l'atteinte à la vie privée<a id=243></a>
+Les recours en grâce sont instruits par le ministre de la justice après, le cas échéant, examen préalable par le ou les
+ministres intéressés.
+
+**Liens relatifs à cet article**
+
+**Liens**:
+
+  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
+
+_Codifié par_:
+
+  - Décret n°93-726 1993-03-29
+
+_Créé par_:
+
+  - Décret n°95-152 du 7 février 1995 - art. 1 () JORF 14 février 1995
+
+
+###### Article R133-2
+
+Le décret de grâce, signé par le Président de la République, est contresigné par le Premier ministre, par le ministre de la
+justice et, le cas échéant, le ou les ministres ayant procédé à l'examen préalable du recours.
+
+**Liens relatifs à cet article**
+
+**Liens**:
+
+  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
+
+_Codifié par_:
+
+  - Décret n°93-726 1993-03-29
+
+_Créé par_:
+
+  - Décret n°95-152 du 7 février 1995 - art. 1 () JORF 14 février 1995
+
+
+## Livre II : Des crimes et délits contre les personnes<a id=242></a>
+
+### Titre II : Des atteintes à la personne humaine<a id=243></a>
+
+#### Chapitre VI : Des atteintes à la personnalité<a id=244></a>
+
+##### Section 1 : De l'atteinte à la vie privée<a id=245></a>
 
 ###### Article R226-1
 
@@ -28001,15 +28047,15 @@ _Cite_:
   - Code pénal - art. R226-7 (V)
 
 
-## Livre III : Des crimes et délits contre les biens<a id=244></a>
+## Livre III : Des crimes et délits contre les biens<a id=246></a>
 
-### Titre II : Des autres atteintes aux biens<a id=245></a>
+### Titre II : Des autres atteintes aux biens<a id=247></a>
 
-#### Chapitre Ier : Du recel et des infractions assimilées ou voisines<a id=246></a>
+#### Chapitre Ier : Du recel et des infractions assimilées ou voisines<a id=248></a>
 
-##### Section 2 : Des infractions assimilées au recel ou voisines de celui-ci<a id=247></a>
+##### Section 2 : Des infractions assimilées au recel ou voisines de celui-ci<a id=249></a>
 
-##### Sous-section 1 : Dispositions relatives aux personnes dont l'activité professionnelle comporte la vente ou l'échange de certains objets mobiliers<a id=248></a>
+##### Sous-section 1 : Dispositions relatives aux personnes dont l'activité professionnelle comporte la vente ou l'échange de certains objets mobiliers<a id=250></a>
 
 ###### Article R321-1
 
@@ -28264,7 +28310,7 @@ _Cité par_:
   - Code pénal - art. R633-3 (V)
 
 
-##### Sous-section 2 : Dispositions concernant les manifestations publiques en vue de la vente ou de l'échange de certains objets mobiliers<a id=249></a>
+##### Sous-section 2 : Dispositions concernant les manifestations publiques en vue de la vente ou de l'échange de certains objets mobiliers<a id=251></a>
 
 ###### Article R321-9
 
@@ -28356,13 +28402,13 @@ _Codifié par_:
   - Décret n°93-726 1993-03-29
 
 
-## Livre IV : Des crimes et délits contre la nation, l'Etat et la paix publique<a id=250></a>
+## Livre IV : Des crimes et délits contre la nation, l'Etat et la paix publique<a id=252></a>
 
-### Titre Ier : Des atteintes aux intérêts fondamentaux de la nation<a id=251></a>
+### Titre Ier : Des atteintes aux intérêts fondamentaux de la nation<a id=253></a>
 
-#### Chapitre III : Des autres atteintes à la défense nationale<a id=252></a>
+#### Chapitre III : Des autres atteintes à la défense nationale<a id=254></a>
 
-##### Section 1 : Des atteintes à la sécurité des forces armées et aux zones protégées intéressant la défense nationale<a id=253></a>
+##### Section 1 : Des atteintes à la sécurité des forces armées et aux zones protégées intéressant la défense nationale<a id=255></a>
 
 ###### Article R413-1
 
@@ -28501,7 +28547,7 @@ _Cité par_:
   - Code pénal - art. R413-5-1 (V)
 
 
-##### Section 2 : Des atteintes au secret de la défense nationale<a id=254></a>
+##### Section 2 : Des atteintes au secret de la défense nationale<a id=256></a>
 
 ###### Article R413-6
 
@@ -28531,11 +28577,11 @@ _Créé par_:
   - Décret n°94-167 du 25 février 1994 - art. 16 () JORF 26 février 1994 en vigueur le 1er mars 1994
 
 
-### Titre III : Des atteintes à l'autorité de l'Etat<a id=255></a>
+### Titre III : Des atteintes à l'autorité de l'Etat<a id=257></a>
 
-#### Chapitre Ier : Des atteintes à la paix publique<a id=256></a>
+#### Chapitre Ier : Des atteintes à la paix publique<a id=258></a>
 
-##### Section 2 : De la participation délictueuse à un attroupement.<a id=257></a>
+##### Section 2 : De la participation délictueuse à un attroupement.<a id=259></a>
 
 ###### Article R431-1
 
@@ -28615,9 +28661,9 @@ _Cite_:
   - Code pénal - art. 431-3
 
 
-## Livre V : Des autres crimes et délits<a id=258></a>
+## Livre V : Des autres crimes et délits<a id=260></a>
 
-### Chapitre Ier : Des sévices graves ou actes de cruauté envers les animaux<a id=259></a>
+### Chapitre Ier : Des sévices graves ou actes de cruauté envers les animaux<a id=261></a>
 
 ###### Article R511-1
 
@@ -28646,9 +28692,9 @@ _Codifié par_:
   - Décret n°93-726 1993-03-29
 
 
-## Livre VI : Des contraventions<a id=260></a>
+## Livre VI : Des contraventions<a id=262></a>
 
-### Titre Ier : Dispositions générales<a id=261></a>
+### Titre Ier : Dispositions générales<a id=263></a>
 
 ###### Article R610-1
 
@@ -28767,11 +28813,11 @@ _Cité par_:
   - Code général des collectivités territoriales - art. R2512-15-12 (VT)
 
 
-### Titre II : Des contraventions contre les personnes<a id=262></a>
+### Titre II : Des contraventions contre les personnes<a id=264></a>
 
-#### Chapitre Ier : Des contraventions de la 1re classe contre les personnes<a id=263></a>
+#### Chapitre Ier : Des contraventions de la 1re classe contre les personnes<a id=265></a>
 
-##### Section 1 : De la diffamation et de l'injure non publiques<a id=264></a>
+##### Section 1 : De la diffamation et de l'injure non publiques<a id=266></a>
 
 ###### Article R621-1
 
@@ -28817,9 +28863,9 @@ _Cité par_:
   - Code de procédure pénale - art. R41-11 (V)
 
 
-#### Chapitre II : Des contraventions de la 2e classe contre les personnes<a id=265></a>
+#### Chapitre II : Des contraventions de la 2e classe contre les personnes<a id=267></a>
 
-##### Section 1 : Des atteintes involontaires à l'intégrité de la personne n'ayant entraîné aucune incapacité totale de travail<a id=266></a>
+##### Section 1 : Des atteintes involontaires à l'intégrité de la personne n'ayant entraîné aucune incapacité totale de travail<a id=268></a>
 
 ###### Article R622-1
 
@@ -28856,7 +28902,7 @@ _Cite_:
   - Code pénal - art. R625-3 (M)
 
 
-##### Section 2 : De la divagation d'animaux dangereux<a id=267></a>
+##### Section 2 : De la divagation d'animaux dangereux<a id=269></a>
 
 ###### Article R622-2
 
@@ -28883,9 +28929,9 @@ _Cité par_:
   - Code de procédure pénale - art. R48-1 (V)
 
 
-#### Chapitre III : Des contraventions de la 3e classe contre les personnes<a id=268></a>
+#### Chapitre III : Des contraventions de la 3e classe contre les personnes<a id=270></a>
 
-##### Section 1 : Des menaces de violences<a id=269></a>
+##### Section 1 : Des menaces de violences<a id=271></a>
 
 ###### Article R623-1
 
@@ -28908,7 +28954,7 @@ _Cite_:
   - Code pénal - art. 222-17 (V)
 
 
-##### Section 2 : Des bruits ou tapages injurieux ou nocturnes<a id=270></a>
+##### Section 2 : Des bruits ou tapages injurieux ou nocturnes<a id=272></a>
 
 ###### Article R623-2
 
@@ -28938,7 +28984,7 @@ _Cité par_:
   - Code de procédure pénale - art. R48-1 (V)
 
 
-##### Section 3 : De l'excitation d'animaux dangereux<a id=271></a>
+##### Section 3 : De l'excitation d'animaux dangereux<a id=273></a>
 
 ###### Article R623-3
 
@@ -28964,7 +29010,7 @@ _Cité par_:
   - Code de procédure pénale - art. R15-33-29-3 (V)
 
 
-##### Section 4 : De la violation des dispositions réglementant le commerce de certains matériels susceptibles d'être utilisés pour porter atteinte à l'intimité de la vie privée<a id=272></a>
+##### Section 4 : De la violation des dispositions réglementant le commerce de certains matériels susceptibles d'être utilisés pour porter atteinte à l'intimité de la vie privée<a id=274></a>
 
 ###### Article R623-4
 
@@ -28994,9 +29040,9 @@ _Cite_:
   - Code pénal - art. R226-3 (M)
 
 
-#### Chapitre IV : Des contraventions de la 4e classe contre les personnes<a id=273></a>
+#### Chapitre IV : Des contraventions de la 4e classe contre les personnes<a id=275></a>
 
-##### Section 1 : Des violences légères<a id=274></a>
+##### Section 1 : Des violences légères<a id=276></a>
 
 ###### Article R624-1
 
@@ -29036,7 +29082,7 @@ _Cite_:
   - Code pénal - art. 222-13 (V)
 
 
-##### Section 2 : De la diffusion de messages contraires à la décence<a id=275></a>
+##### Section 2 : De la diffusion de messages contraires à la décence<a id=277></a>
 
 ###### Article R624-2
 
@@ -29077,7 +29123,7 @@ _Cite_:
   - Code pénal - art. 131-41 (V)
 
 
-##### Section 3 : De la diffamation et de l'injure non publiques présentant un caractère raciste ou discriminatoire<a id=276></a>
+##### Section 3 : De la diffamation et de l'injure non publiques présentant un caractère raciste ou discriminatoire<a id=278></a>
 
 ###### Article R624-3
 
@@ -29185,9 +29231,9 @@ _Cite_:
   - Code pénal - art. R624-4 (M)
 
 
-#### Chapitre V : Des contraventions de la 5e classe contre les personnes<a id=277></a>
+#### Chapitre V : Des contraventions de la 5e classe contre les personnes<a id=279></a>
 
-##### Section 1 : Des violences<a id=278></a>
+##### Section 1 : Des violences<a id=280></a>
 
 ###### Article R625-1
 
@@ -29237,7 +29283,7 @@ _Cite_:
   - Code pénal - art. 222-13 (V)
 
 
-##### Section 2 : Des atteintes involontaires à l'intégrité de la personne<a id=279></a>
+##### Section 2 : Des atteintes involontaires à l'intégrité de la personne<a id=281></a>
 
 ###### Article R625-2
 
@@ -29380,7 +29426,7 @@ _Cite_:
   - Code pénal - art. R625-2 (V)
 
 
-##### Section 3 : De la provocation non publique à la discrimination, à la haine ou à la violence raciales.<a id=280></a>
+##### Section 3 : De la provocation non publique à la discrimination, à la haine ou à la violence raciales.<a id=282></a>
 
 ###### Article R625-7
 
@@ -29434,7 +29480,7 @@ _Cite_:
   - Code pénal - art. 132-15 (V)
 
 
-##### Section 4 : Du racolage.<a id=281></a>
+##### Section 4 : Du racolage.<a id=283></a>
 
 ###### Article R625-8
 
@@ -29480,7 +29526,7 @@ _Cite_:
   - Code pénal - art. 132-11 (M)
 
 
-##### Section 5 : De la violation des dispositions réglementant le commerce de certains matériels susceptibles d'être utilisés pour porter atteinte à l'intimité de la vie privée<a id=282></a>
+##### Section 5 : De la violation des dispositions réglementant le commerce de certains matériels susceptibles d'être utilisés pour porter atteinte à l'intimité de la vie privée<a id=284></a>
 
 ###### Article R625-9
 
@@ -29529,11 +29575,11 @@ _Cite_:
   - Code pénal - art. R226-3 (M)
 
 
-### Titre III : Des contraventions contre les biens<a id=283></a>
+### Titre III : Des contraventions contre les biens<a id=285></a>
 
-#### Chapitre Ier : Des contraventions de la 1re classe contre les biens<a id=284></a>
+#### Chapitre Ier : Des contraventions de la 1re classe contre les biens<a id=286></a>
 
-##### Section unique : Des menaces de destruction, de dégradation ou de détérioration n'entraînant qu'un dommage léger<a id=285></a>
+##### Section unique : Des menaces de destruction, de dégradation ou de détérioration n'entraînant qu'un dommage léger<a id=287></a>
 
 ###### Article R631-1
 
@@ -29574,9 +29620,9 @@ _Cite_:
   - Code pénal - art. 322-13 (MMN)
 
 
-#### Chapitre II : Des contraventions de la 2e classe contre les biens<a id=286></a>
+#### Chapitre II : Des contraventions de la 2e classe contre les biens<a id=288></a>
 
-##### Section unique : De l'abandon d'ordures, déchets, matériaux ou autres objets.<a id=287></a>
+##### Section unique : De l'abandon d'ordures, déchets, matériaux ou autres objets.<a id=289></a>
 
 ###### Article R632-1
 
@@ -29615,9 +29661,9 @@ _Cite_:
   - Code pénal - art. R635-8 (M)
 
 
-#### Chapitre III : Des contraventions de la 3e classe contre les biens<a id=288></a>
+#### Chapitre III : Des contraventions de la 3e classe contre les biens<a id=290></a>
 
-##### Section 1 : De la violation des dispositions réglementant la vente ou l'échange de certains objets mobiliers<a id=289></a>
+##### Section 1 : De la violation des dispositions réglementant la vente ou l'échange de certains objets mobiliers<a id=291></a>
 
 ###### Article R633-1
 
@@ -29726,7 +29772,7 @@ _Cite_:
   - Code pénal - art. R633-3
 
 
-##### Section 2 : De la violation des dispositions concernant les manifestations publiques en vue de la vente ou de l'échange de certains objets mobiliers<a id=290></a>
+##### Section 2 : De la violation des dispositions concernant les manifestations publiques en vue de la vente ou de l'échange de certains objets mobiliers<a id=292></a>
 
 ###### Article R633-5
 
@@ -29758,9 +29804,9 @@ _Cite_:
   - Code pénal 321-7, R321-9, R321-10, 121-2, 134-41
 
 
-#### Chapitre IV : Des contraventions de la 4e classe contre les biens<a id=291></a>
+#### Chapitre IV : Des contraventions de la 4e classe contre les biens<a id=293></a>
 
-##### Section 1 : Des menaces de destruction, de dégradation ou de détérioration ne présentant pas de danger pour les personnes<a id=292></a>
+##### Section 1 : Des menaces de destruction, de dégradation ou de détérioration ne présentant pas de danger pour les personnes<a id=294></a>
 
 ###### Article R634-1
 
@@ -29801,9 +29847,9 @@ _Cite_:
   - Code pénal - art. 322-13 (MMN)
 
 
-#### Chapitre V : Des contraventions de la 5e classe contre les biens<a id=293></a>
+#### Chapitre V : Des contraventions de la 5e classe contre les biens<a id=295></a>
 
-##### Section 1 : Des destructions, dégradations et détériorations dont il n'est résulté qu'un dommage léger<a id=294></a>
+##### Section 1 : Des destructions, dégradations et détériorations dont il n'est résulté qu'un dommage léger<a id=296></a>
 
 ###### Article R635-1
 
@@ -29866,7 +29912,7 @@ _Cite_:
   - Code pénal - art. 132-15 (V)
 
 
-##### Section 2 : De la vente forcée par correspondance<a id=295></a>
+##### Section 2 : De la vente forcée par correspondance<a id=297></a>
 
 ###### Article R635-2
 
@@ -29922,7 +29968,7 @@ _Cite_:
   - Code pénal - art. 132-15 (V)
 
 
-##### Section 3 : De la violation des dispositions réglementant la vente ou l'échange de certains objets mobiliers<a id=296></a>
+##### Section 3 : De la violation des dispositions réglementant la vente ou l'échange de certains objets mobiliers<a id=298></a>
 
 ###### Article R635-3
 
@@ -30056,7 +30102,7 @@ _Cite_:
   - Code pénal - art. R635-3 (V)
 
 
-##### Section 4 : De l'abandon d'épaves de véhicules ou d'ordures, déchets, matériaux et autres objets transportés dans un véhicule<a id=297></a>
+##### Section 4 : De l'abandon d'épaves de véhicules ou d'ordures, déchets, matériaux et autres objets transportés dans un véhicule<a id=299></a>
 
 ###### Article R635-8
 
@@ -30109,11 +30155,11 @@ _Cite_:
   - Code pénal - art. 132-15 (V)
 
 
-### Titre IV : Des contraventions contre la nation, l'Etat ou la paix publique<a id=298></a>
+### Titre IV : Des contraventions contre la nation, l'Etat ou la paix publique<a id=300></a>
 
-#### Chapitre Ier : Des contraventions de la 1re classe contre la nation, l'Etat ou la paix publique<a id=299></a>
+#### Chapitre Ier : Des contraventions de la 1re classe contre la nation, l'Etat ou la paix publique<a id=301></a>
 
-##### Section unique : De l'abandon d'armes ou d'objets dangereux<a id=300></a>
+##### Section unique : De l'abandon d'armes ou d'objets dangereux<a id=302></a>
 
 ###### Article R641-1
 
@@ -30135,9 +30181,9 @@ _Codifié par_:
   - Décret n°93-726 1993-03-29
 
 
-#### Chapitre II : Des contraventions de la 2e classe contre la nation, l'Etat ou la paix publique<a id=301></a>
+#### Chapitre II : Des contraventions de la 2e classe contre la nation, l'Etat ou la paix publique<a id=303></a>
 
-##### Section 1 : Du défaut de réponse à une réquisition des autorités judiciaires ou administratives<a id=302></a>
+##### Section 1 : Du défaut de réponse à une réquisition des autorités judiciaires ou administratives<a id=304></a>
 
 ###### Article R642-1
 
@@ -30157,7 +30203,7 @@ _Codifié par_:
   - Décret n°93-726 1993-03-29
 
 
-##### Section 2 : Des atteintes à la monnaie<a id=303></a>
+##### Section 2 : Des atteintes à la monnaie<a id=305></a>
 
 ###### Article R642-2
 
@@ -30276,9 +30322,9 @@ _Cite_:
   - Code pénal - art. 442-13 (M)
 
 
-#### Chapitre III : Des contraventions de la 3e classe contre la nation, l'Etat ou la paix publique<a id=304></a>
+#### Chapitre III : Des contraventions de la 3e classe contre la nation, l'Etat ou la paix publique<a id=306></a>
 
-##### Section 1 : De l'usurpation de signes réservés à l'autorité publique<a id=305></a>
+##### Section 1 : De l'usurpation de signes réservés à l'autorité publique<a id=307></a>
 
 ###### Article R643-1
 
@@ -30316,7 +30362,7 @@ _Cite_:
   - Code pénal - art. 433-15 (M)
 
 
-##### Section 2 : De l'utilisation de poids ou mesures différents de ceux établis par les lois et règlements en vigueur<a id=306></a>
+##### Section 2 : De l'utilisation de poids ou mesures différents de ceux établis par les lois et règlements en vigueur<a id=308></a>
 
 ###### Article R643-2
 
@@ -30351,9 +30397,9 @@ _Cite_:
   - Code pénal - art. 131-41 (V)
 
 
-#### Chapitre IV : Des contraventions de la 4e classe contre la nation, l'Etat ou la paix publique<a id=307></a>
+#### Chapitre IV : Des contraventions de la 4e classe contre la nation, l'Etat ou la paix publique<a id=309></a>
 
-##### Section 1 : De l'accès sans autorisation à un terrain, une construction, un engin ou un appareil militaires<a id=308></a>
+##### Section 1 : De l'accès sans autorisation à un terrain, une construction, un engin ou un appareil militaires<a id=310></a>
 
 ###### Article R644-1
 
@@ -30386,7 +30432,7 @@ _Cite_:
   - Code pénal - art. 413-5 (V)
 
 
-##### Section 2 : Des entraves à la libre circulation sur la voie publique<a id=309></a>
+##### Section 2 : Des entraves à la libre circulation sur la voie publique<a id=311></a>
 
 ###### Article R644-2
 
@@ -30419,7 +30465,7 @@ _Cité par_:
   - Code pénal - art. R633-6 (V)
 
 
-##### Section 3 : De la violation des dispositions réglementant les professions exercées dans les lieux publics<a id=310></a>
+##### Section 3 : De la violation des dispositions réglementant les professions exercées dans les lieux publics<a id=312></a>
 
 ###### Article R644-3
 
@@ -30455,9 +30501,9 @@ _Cite_:
   - Code pénal - art. 131-41 (V)
 
 
-#### Chapitre V : Des contraventions de la 5e classe contre la nation, l'Etat ou la paix publique<a id=311></a>
+#### Chapitre V : Des contraventions de la 5e classe contre la nation, l'Etat ou la paix publique<a id=313></a>
 
-##### Section 1 : Du port ou de l'exhibition d'uniformes, insignes ou emblèmes rappelant ceux d'organisations ou de personnes responsables de crimes contre l'humanité<a id=312></a>
+##### Section 1 : Du port ou de l'exhibition d'uniformes, insignes ou emblèmes rappelant ceux d'organisations ou de personnes responsables de crimes contre l'humanité<a id=314></a>
 
 ###### Article R645-1
 
@@ -30517,7 +30563,7 @@ _Cité par_:
   - Code de procédure pénale - art. R40-25 (V)
 
 
-##### Section 2 : Des dessins, levés ou enregistrements effectués sans autorisation dans une zone d'interdiction fixée par l'autorité militaire<a id=313></a>
+##### Section 2 : Des dessins, levés ou enregistrements effectués sans autorisation dans une zone d'interdiction fixée par l'autorité militaire<a id=315></a>
 
 ###### Article R645-2
 
@@ -30553,7 +30599,7 @@ _Cite_:
   - Code pénal - art. 132-11 (V)
 
 
-##### Section 3 : Des atteintes à l'état civil des personnes<a id=314></a>
+##### Section 3 : Des atteintes à l'état civil des personnes<a id=316></a>
 
 ###### Article R645-3
 
@@ -30679,7 +30725,7 @@ _Cité par_:
   - Code pénal - art. R711-1 (V)
 
 
-##### Section 4 : De la soustraction d'une pièce produite en justice<a id=315></a>
+##### Section 4 : De la soustraction d'une pièce produite en justice<a id=317></a>
 
 ###### Article R645-7
 
@@ -30711,7 +30757,7 @@ _Cite_:
   - Code pénal - art. 132-15 (V)
 
 
-##### Section 5 : De l'utilisation d'un document délivré par une administration publique comportant des mentions devenues incomplètes ou inexactes<a id=316></a>
+##### Section 5 : De l'utilisation d'un document délivré par une administration publique comportant des mentions devenues incomplètes ou inexactes<a id=318></a>
 
 ###### Article R645-8
 
@@ -30751,7 +30797,7 @@ _Codifié par_:
   - Décret n°93-726 1993-03-29
 
 
-##### Section 6 : Du refus de restitution de signes monétaires contrefaits ou falsifiés<a id=317></a>
+##### Section 6 : Du refus de restitution de signes monétaires contrefaits ou falsifiés<a id=319></a>
 
 ###### Article R645-9
 
@@ -30807,7 +30853,7 @@ _Cité par_:
   - Code monétaire et financier - art. R162-4 (V)
 
 
-##### Section 7 : De l'altération ou de la contrefaçon des timbres-poste ou des timbres émis par l'administration des finances<a id=318></a>
+##### Section 7 : De l'altération ou de la contrefaçon des timbres-poste ou des timbres émis par l'administration des finances<a id=320></a>
 
 ###### Article R645-10
 
@@ -30894,11 +30940,11 @@ _Cite_:
   - Code pénal - art. 132-15 (V)
 
 
-### Titre V : Des autres contraventions<a id=319></a>
+### Titre V : Des autres contraventions<a id=321></a>
 
-#### Chapitre III : Des contraventions de la 3e classe<a id=320></a>
+#### Chapitre III : Des contraventions de la 3e classe<a id=322></a>
 
-##### Section unique : Des atteintes involontaires à la vie ou à l'intégrité d'un animal<a id=321></a>
+##### Section unique : Des atteintes involontaires à la vie ou à l'intégrité d'un animal<a id=323></a>
 
 ###### Article R653-1
 
@@ -30929,9 +30975,9 @@ _Cité par_:
   - Code de procédure pénale - art. R15-33-29-3 (V)
 
 
-#### Chapitre IV : Des contraventions de la 4e classe<a id=322></a>
+#### Chapitre IV : Des contraventions de la 4e classe<a id=324></a>
 
-##### Section unique : Des mauvais traitements envers un animal<a id=323></a>
+##### Section unique : Des mauvais traitements envers un animal<a id=325></a>
 
 ###### Article R654-1
 
@@ -30969,9 +31015,9 @@ _Cite_:
   - Code pénal - art. 521-1 (V)
 
 
-#### Chapitre V : Des contraventions de la 5e classe<a id=324></a>
+#### Chapitre V : Des contraventions de la 5e classe<a id=326></a>
 
-##### Section unique : Des atteintes volontaires à la vie d'un animal<a id=325></a>
+##### Section unique : Des atteintes volontaires à la vie d'un animal<a id=327></a>
 
 ###### Article R655-1
 
