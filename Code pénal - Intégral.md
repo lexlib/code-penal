@@ -1,5 +1,5 @@
 # Code pénal  
-Version Consolidée au 1996-05-14
+Version Consolidée au 1996-05-29
 ## Contenu: 
   - [Partie législative (art. 111-1 à 727-3)](#1)
     - [Livre Ier : Dispositions générales (art. 111-1 à 133-17)](#2)
@@ -26396,6 +26396,10 @@ Le fait de procéder à la distribution ou à la cession d'organes, de tissus, d
 sans qu'aient été respectées les règles de sécurité sanitaire exigées en application des dispositions de l'article L. 665-15
 du code de la santé publique est puni de deux ans d'emprisonnement et de 200 000 F d'amende.
 
+Est puni des mêmes peines le fait de transformer, d'importer, d'exporter, de distribuer, de céder ou d'utiliser des organes,
+tissus, cellules ou produits du corps humain en violation des dispositions prises en application de l'article L. 665-15-1 du
+code de la santé publique.
+
 **Liens relatifs à cet article**
 
 _Codifié par_:
@@ -26424,13 +26428,14 @@ _Cité par_:
   - Code pénal - art. 716-4 (Ab)
   - Code pénal - art. 726-4 (V)
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°94-653 du 29 juillet 1994 - art. 9 () JORF 30 juillet 1994
+  - Loi n°96-452 du 28 mai 1996 - art. 10 () JORF 29 mai 1996
 
 _Cite_:
 
   - Code de la santé publique - art. L665-15 (Ab)
+  - Code de la santé publique - art. L665-15-1 (Ab)
 
 
 ###### Article 511-9
