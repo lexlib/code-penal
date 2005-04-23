@@ -1,5 +1,5 @@
 # Code pénal  
-Version Consolidée au 2005-04-06
+Version Consolidée au 2005-04-24
 ## Contenu: 
   - [Partie législative (art. 111-1 à 727-3)](#1)
     - [Livre Ier : Dispositions générales (art. 111-1 à 133-17)](#2)
@@ -19302,14 +19302,14 @@ _Cite_:
 
 Le fait, par les parents d'un enfant ou toute personne exerçant à son égard l'autorité parentale ou une autorité de fait de
 façon continue, de ne pas l'inscrire dans un établissement d'enseignement, sans excuse valable, en dépit d'une mise en
-demeure de l'inspecteur d'académie, est puni de six mois d'emprisonnement et de 7500 euros d'amende.
+demeure de l'inspecteur d'académie, est puni de six mois d'emprisonnement et de 7 500 euros d'amende.
 
 Le fait, par un directeur d'établissement privé accueillant des classes hors contrat, de n'avoir pas pris, malgré la mise en
 demeure de l'inspecteur d'académie, les dispositions nécessaires pour que l'enseignement qui y est dispensé soit conforme à
-l'objet de l'instruction obligatoire, tel que celui-ci est défini par l'article L. 131-10 du code de l'éducation, et de
-n'avoir pas procédé à la fermeture de ces classes est puni de six mois d'emprisonnement et de 7500 euros d'amende. En outre,
-le tribunal peut ordonner à l'encontre de celui-ci l'interdiction de diriger ou d'enseigner ainsi que la fermeture de
-l'établissement.
+l'objet de l'instruction obligatoire, tel que celui-ci est défini par l'article L. 131-1-1 et L. 131-10 du code de
+l'éducation, et de n'avoir pas procédé à la fermeture de ces classes est puni de six mois d'emprisonnement et de 7 500 euros
+d'amende. En outre, le tribunal peut ordonner à l'encontre de celui-ci l'interdiction de diriger ou d'enseigner ainsi que la
+fermeture de l'établissement.
 
 **Liens relatifs à cet article**
 
@@ -19319,7 +19319,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+  - Loi n°2005-380 du 23 avril 2005 - art. 8 () JORF 24 avril 2005
 
 _Cité par_:
 
@@ -19333,6 +19333,7 @@ _Cité par_:
 
 _Cite_:
 
+  - Code de l'éducation - art. L131-1-1 (V)
   - Code de l'éducation - art. L131-10 (M)
 
 
