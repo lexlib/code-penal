@@ -1,5 +1,5 @@
 # Code pénal  
-Version Consolidée au 2005-12-13
+Version Consolidée au 2005-12-31
 ## Contenu: 
   - [Partie législative (art. 111-1 à 727-3)](#1)
     - [Livre Ier : Dispositions générales (art. 111-1 à 133-17)](#2)
@@ -973,11 +973,10 @@ _Codifié par_:
 ###### Article 121-2
 
 Les personnes morales, à l'exclusion de l'Etat, sont responsables pénalement, selon les distinctions des articles 121-4 à
-121-7 et dans les cas prévus par la loi ou le règlement, des infractions commises, pour leur compte, par leurs organes ou
-représentants.
+121-7, des infractions commises, pour leur compte, par leurs organes ou représentants. 
 
 Toutefois, les collectivités territoriales et leurs groupements ne sont responsables pénalement que des infractions commises
-dans l'exercice d'activités susceptibles de faire l'objet de conventions de délégation de service public.
+dans l'exercice d'activités susceptibles de faire l'objet de conventions de délégation de service public. 
 
 La responsabilité pénale des personnes morales n'exclut pas celle des personnes physiques auteurs ou complices des mêmes
 faits, sous réserve des dispositions du quatrième alinéa de l'article 121-3.
@@ -1610,21 +1609,16 @@ _Cité par_:
 
 _Codifié par_:
 
-  - Loi n°92-683 1992-07-22
-
-**Liens**:
-
-  - SPEC_APPLI: Loi n°92-683 1992-07-22 art. 1
-  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
+  - Loi n°92-683 du 22 juillet 1992 (V)
 
 _Modifié par_:
 
-  - Loi n°2000-647 du 10 juillet 2000 - art. 8 () JORF 11 juillet 2000
+  - Loi n°2004-204 du 9 mars 2004 - art. 54 () JORF 10 mars 2004 en vigueur le 31 décembre 2005
 
 _Cite_:
 
-  - Code pénal - art. 121-3 (M)
-  - Code pénal 121-4 à 121-7, 121-3
+  - Code pénal - art. 121-3 (V)
+  - Code pénal - art. 121-4 (V)
 
 
 ###### Article 121-3
