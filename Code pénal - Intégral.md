@@ -1,5 +1,5 @@
 # Code pénal  
-Version Consolidée au 2006-01-06
+Version Consolidée au 2006-01-24
 ## Contenu: 
   - [Partie législative (art. 111-1 à 727-3)](#1)
     - [Livre Ier : Dispositions générales (art. 111-1 à 133-17)](#2)
@@ -182,7 +182,7 @@ Version Consolidée au 2006-01-06
           - [Section 2 : Des atteintes au secret de la défense nationale (art. 413-9 à 413-12)](#179)
         - [Chapitre IV : Dispositions particulières (art. 414-1 à 414-9)](#180)
       - [Titre II : Du terrorisme (art. 421-1 à 422-7)](#181)
-        - [Chapitre Ier : Des actes de terrorisme (art. 421-1 à 421-5)](#182)
+        - [Chapitre Ier : Des actes de terrorisme (art. 421-1 à 421-6)](#182)
         - [Chapitre II : Dispositions particulières (art. 422-1 à 422-7)](#183)
       - [Titre III : Des atteintes à l'autorité de l'Etat (art. 431-1 à 436-5)](#184)
         - [Chapitre Ier : Des atteintes à la paix publique (art. 431-1 à 431-21)](#185)
@@ -13570,48 +13570,6 @@ _Cite_:
   - Code pénal - art. 132-23 (M)
 
 
-###### Article 222-39-1
-
-Le fait de ne pas pouvoir justifier de ressources correspondant à son train de vie, tout en étant en relations habituelles
-avec une ou plusieurs personnes se livrant à l'une des activités réprimées par la présente section, ou avec plusieurs
-personnes se livrant à l'usage de stupéfiants, est puni de cinq ans d'emprisonnement et de 75000 euros d'amende.
-
-La peine d'emprisonnement est portée à dix ans lorsqu'une ou plusieurs des personnes visées à l'alinéa précédent sont
-mineures.
-
-Les deux premiers alinéas de l'article 132-23 relatifs à la période de sûreté sont applicables à l'infraction prévue par
-l'alinéa précédent.
-
-**Liens relatifs à cet article**
-
-_Cité par_:
-
-  - Ordonnance n°45-2658 du 2 novembre 1945 - art. 12 (Ab)
-  - Ordonnance n°2000-373 du 26 avril 2000 - art. 15 (VT)
-  - Ordonnance n°2000-371 du 26 avril 2000 - art. 15 (V)
-  - Ordonnance n°2000-372 du 26 avril 2000 - art. 16 (V)
-  - Ordonnance n°2002-388 du 20 mars 2002 - art. 16 (V)
-  - Code de l'entrée et du séjour des étrangers et du  - art. L313-5 (M)
-  - Code pénal - art. 222-49 (V)
-  - Livre des procédures fiscales - art. L10 B (V)
-
-_Codifié par_:
-
-  - Loi n°92-684 1992-07-22
-
-_Modifié par_:
-
-  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
-
-_Abrogé par_:
-
-  - Loi n°2006-64 du 23 janvier 2006 - art. 24 () JORF 24 janvier 2006
-
-_Cite_:
-
-  - Code pénal - art. 132-23 (M)
-
-
 ###### Article 222-40
 
 La tentative des délits prévus par les articles 222-36 (premier alinéa) à 222-39 est punie des mêmes peines.
@@ -15645,38 +15603,6 @@ _Créé par_:
 
   - Loi n°2003-239 du 18 mars 2003 - art. 32 () JORF 19 mars 2003
   - Loi n°2003-239 du 18 mars 2003 - art. 32
-
-
-###### Article 225-4-8
-
-Le fait de ne pas pouvoir justifier de ressources correspondant à son train de vie, tout en étant en relations habituelles
-avec une ou plusieurs personnes victimes ou auteurs des infractions prévues aux articles 225-4-1 à 225-4-6, est puni de sept
-ans d'emprisonnement et de 750 000 Euros d'amende.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Loi n°92-684 1992-07-22
-
-_Créé par_:
-
-  - Loi n°2003-239 du 18 mars 2003 - art. 32 () JORF 19 mars 2003
-  - Loi n°2003-239 du 18 mars 2003 - art. 32
-
-_Abrogé par_:
-
-  - Loi n°2006-64 du 23 janvier 2006 - art. 24 () JORF 24 janvier 2006
-
-_Cité par_:
-
-  - Code de procédure pénale - art. 706-35-1 (V)
-  - Code pénal - art. 132-16-3 (V)
-  - Livre des procédures fiscales - art. L10 B (V)
-
-_Cite_:
-
-  - Code pénal 225-4-1 à 225-4-6
 
 
 ###### Article 225-4-9
@@ -21115,33 +21041,6 @@ _Cite_:
   - Code pénal - art. 132-23 (V)
 
 
-###### Article 312-7-1
-
-Le fait de ne pouvoir justifier de ressources correspondant à son train de vie tout en étant en relations habituelles avec
-une ou plusieurs personnes ayant commis les infractions prévues aux articles 312-6 et 312-7 ou le fait de faciliter la
-justification de ressources fictives pour ces mêmes personnes sont punis de dix ans d'emprisonnement et de 150 000 Euros
-d'amende.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Loi n°92-685 1992-07-22
-
-_Créé par_:
-
-  - Loi n°2004-204 du 9 mars 2004 - art. 6 () JORF 10 mars 2004
-
-_Abrogé par_:
-
-  - Loi n°2006-64 du 23 janvier 2006 - art. 24 () JORF 24 janvier 2006
-
-_Cite_:
-
-  - Code pénal - art. 312-6 (M)
-  - Code pénal - art. 312-7 (M)
-
-
 ###### Article 312-8
 
 Constitue, au sens des articles 312-2,312-3,312-4,312-6 et 312-7, une extorsion suivie de violences l'extorsion à la suite de
@@ -22556,10 +22455,15 @@ _Codifié par_:
 
 ###### Article 321-6
 
-Le fait, par une personne ayant autorité sur un mineur qui vit avec elle et se livre habituellement à des crimes ou à des
-délits contre les biens d'autrui, de ne pouvoir justifier de ressources correspondant à son train de vie, est puni de cinq
-ans d'emprisonnement et de 375000 euros d'amende. L'amende peut être élevée au-delà de 375000 euros jusqu'à la moitié de la
-valeur des biens recelés.
+Le fait de ne pas pouvoir justifier de ressources correspondant à son train de vie ou de ne pas pouvoir justifier de
+l'origine d'un bien détenu, tout en étant en relations habituelles avec une ou plusieurs personnes qui soit se livrent à la
+commission de crimes ou de délits punis d'au moins cinq ans d'emprisonnement et procurant à celles-ci un profit direct ou
+indirect, soit sont les victimes d'une de ces infractions, est puni d'une peine de trois ans d'emprisonnement et de 75 000
+euros d'amende.
+
+Est puni des mêmes peines le fait de faciliter la justification de ressources fictives pour des personnes se livrant à la
+commission de crimes ou de délits punis d'au moins cinq ans d'emprisonnement et procurant à celles-ci un profit direct ou
+indirect.
 
 **Liens relatifs à cet article**
 
@@ -22567,14 +22471,9 @@ _Codifié par_:
 
   - Loi n°92-685 1992-07-22
 
-**Liens**:
-
-  - SPEC_APPLI: Loi n°92-685 1992-07-22 art. 1
-  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
-
 _Modifié par_:
 
-  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+  - Loi n°2006-64 du 23 janvier 2006 - art. 24 () JORF 24 janvier 2006
 
 _Cité par_:
 
@@ -22586,6 +22485,47 @@ _Cité par_:
   - Code pénal - art. 321-6-1 (V)
   - Code pénal - art. 321-9 (V)
   - Livre des procédures fiscales - art. L10 B (V)
+
+
+###### Article 321-6-1
+
+Les peines prévues par l'article 321-6 sont portées à cinq ans d'emprisonnement et 150 000 Euros d'amende lorsque les crimes
+et délits sont commis par un mineur sur lequel la personne ne pouvant justifier ses ressources a autorité.
+
+Elles sont portées à sept ans d'emprisonnement et 200 000 Euros d'amende lorsque les infractions commises constituent les
+crimes ou délits de traite des êtres humains, d'extorsion ou d'association de malfaiteurs, ou qu'elles constituent les crimes
+ou délits de trafic de stupéfiants, y compris en cas de relations habituelles avec une ou plusieurs personnes faisant usage
+de stupéfiants.
+
+Elles sont portées à dix ans d'emprisonnement et 300 000 Euros d'amende lorsqu'il s'agit d'une infraction mentionnée à
+l'alinéa précédent commise par un ou plusieurs mineurs.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°92-685 1992-07-22
+
+_Cité par_:
+
+  - Loi n°2001-1062 du 15 novembre 2001 - art. 71 (V)
+  - Loi n°2015-993 du 17 août 2015 - art. 11
+  - Loi n°2016-274 du 7 mars 2016 - art. 10
+  - Décret n°2016-1456 du 28 octobre 2016 - art. 3
+  - Code de l'entrée et du séjour des étrangers et ... - art. L313-5 (VD)
+  - Code de l'entrée et du séjour des étrangers et ... - art. R311-15 (V)
+  - Code de procédure pénale - art. 704 (VT)
+  - Code de procédure pénale - art. 706-73 (V)
+  - Code de procédure pénale - art. 706-73-1 (V)
+  - Code pénal - art. 450-5 (V)
+
+_Créé par_:
+
+  - Loi n°2006-64 du 23 janvier 2006 - art. 24 () JORF 24 janvier 2006
+
+_Cite_:
+
+  - Code pénal - art. 321-6 (M)
 
 
 ###### Article 321-7
@@ -22751,6 +22691,30 @@ _Codifié par_:
 _Cite_:
 
   - Code pénal 321-1 à 321-4
+
+
+###### Article 321-10-1
+
+Les personnes physiques coupables des délits prévus aux articles 321-6 et 321-6-1 encourent également la peine complémentaire
+de confiscation de tout ou partie de leurs biens, quelle qu'en soit la nature, meuble ou immeuble, divis ou indivis, dont
+elles n'ont pu justifier l'origine. 
+
+Peuvent également être prononcées les peines complémentaires encourues pour les crimes ou les délits commis par la ou les
+personnes avec lesquelles l'auteur des faits était en relations habituelles.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°92-685 1992-07-22
+
+_Créé par_:
+
+  - Loi n°2006-64 du 23 janvier 2006 - art. 24 () JORF 24 janvier 2006
+
+_Cite_:
+
+  - Code pénal - art. 321-6 (V)
 
 
 ###### Article 321-11
@@ -25793,6 +25757,50 @@ _Cite_:
   - Code pénal - art. 132-23 (V)
   - Code pénal - art. 421-2-1 (V)
   - Code pénal - art. 421-2-2 (V)
+
+
+###### Article 421-6
+
+Les peines sont portées à vingt ans de réclusion criminelle et 350 000 euros d'amende lorsque le groupement ou l'entente
+définie à l'article 421-2-1 a pour objet la préparation : 
+
+1° Soit d'un ou plusieurs crimes d'atteintes aux personnes visés au 1° de l'article 421-1 ; 
+
+2° Soit d'une ou plusieurs destructions par substances explosives ou incendiaires visées au 2° de l'article 421-1 et devant
+être réalisées dans des circonstances de temps ou de lieu susceptibles d'entraîner la mort d'une ou plusieurs personnes ; 
+
+3° Soit de l'acte de terrorisme défini à l'article 421-2 lorsqu'il est susceptible d'entraîner la mort d'une ou plusieurs
+personnes. 
+
+Le fait de diriger ou d'organiser un tel groupement ou une telle entente est puni de trente ans de réclusion criminelle et
+500 000 euros d'amende. 
+
+Les deux premiers alinéas de l'article 132-23 relatifs à la période de sûreté sont applicables aux crimes prévus par le
+présent article.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°92-686 1992-07-22
+
+_Créé par_:
+
+  - Loi n°2006-64 du 23 janvier 2006 - art. 11 () JORF 24 janvier 2006
+
+_Cité par_:
+
+  - Loi n°2006-64 du 23 janvier 2006 - art. 28 (V)
+  - Code de procédure pénale - art. 706-47-4 (V)
+  - Code de procédure pénale - art. 720-1 (V)
+  - Code pénal - art. 422-3 (V)
+
+_Cite_:
+
+  - Code pénal - art. 132-23 (V)
+  - Code pénal - art. 421-1 (V)
+  - Code pénal - art. 421-2 (V)
+  - Code pénal - art. 421-2-1 (V)
 
 
 #### Chapitre II : Dispositions particulières<a id=183></a>
@@ -32101,41 +32109,6 @@ _Cité par_:
   - Loi n°1825-04-10 du 10 avril 1825 - art. 9 (Ab)
 
 
-###### Article 450-2-1
-
-Le fait de ne pas pouvoir justifier de ressources correspondant à son train de vie, tout en étant en relations habituelles
-avec une ou plusieurs personnes se livrant aux activités visées à l'article 450-1, est puni de cinq ans d'emprisonnement et
-de 75 000 euros d'amende.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Loi n°92-686 1992-07-22
-
-_Modifié par_:
-
-  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
-
-**Liens**:
-
-  - SPEC_APPLI: Loi n°2001-420 2001-05-15 art. 127 V
-  - SPEC_APPLI: Loi n°2001-1062 du 15 novembre 2001 - art. 71 (M)
-
-_Cité par_:
-
-  - Loi n°2001-1062 du 15 novembre 2001 - art. 71 (M)
-  - Décret n°2003-196 du 7 mars 2003 - art. 7 (Ab)
-  - CODE DE PROCEDURE PENALE - art. 704 (M)
-  - Code monétaire et financier - art. R153-10 (V)
-  - Code pénal - art. 450-5 (M)
-  - Livre des procédures fiscales - art. L10 B (V)
-
-_Abrogé par_:
-
-  - Loi n°2006-64 du 23 janvier 2006 - art. 24 () JORF 24 janvier 2006
-
-
 ###### Article 450-3
 
 Les personnes physiques coupables de l'infraction prévue par l'article 450-1 encourent également les peines complémentaires
@@ -32198,7 +32171,7 @@ _Cite_:
 ###### Article 450-5
 
 Les personnes physiques et morales reconnues coupables des infractions prévues au deuxième alinéa de l'article 450-1 et à
-l'article 450-2-1 encourent également la peine complémentaire de confiscation de tout ou partie de leurs biens, quelle qu'en
+l'article 321-6-1 encourent également la peine complémentaire de confiscation de tout ou partie de leurs biens, quelle qu'en
 soit la nature, meubles ou immeubles, divis ou indivis.
 
 **Liens relatifs à cet article**
@@ -32207,14 +32180,14 @@ _Codifié par_:
 
   - Loi n°92-686 1992-07-22
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°2004-204 du 9 mars 2004 - art. 6 () JORF 10 mars 2004
+  - Loi n°2006-64 du 23 janvier 2006 - art. 24 () JORF 24 janvier 2006
 
 _Cite_:
 
+  - Code pénal - art. 321-6-1 (V)
   - Code pénal - art. 450-1 (M)
-  - Code pénal - art. 450-2-1 (M)
 
 
 ## Livre V : Des autres crimes et délits<a id=241></a>
