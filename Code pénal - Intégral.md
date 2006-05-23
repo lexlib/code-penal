@@ -1,5 +1,5 @@
 # Code pénal  
-Version Consolidée au 2006-04-05
+Version Consolidée au 2006-05-24
 ## Contenu: 
   - [Partie législative (art. 111-1 à 727-3)](#1)
     - [Livre Ier : Dispositions générales (art. 111-1 à 133-17)](#2)
@@ -39587,7 +39587,7 @@ _Cite_:
 
 Le fait, pour l'un ou l'autre parent d'un enfant soumis à l'obligation scolaire ou pour toute personne exerçant à son égard
 l'autorité parentale ou une autorité de fait de façon continue, après avertissement donné par l'inspecteur d'académie et mise
-en oeuvre des procédures définies à l'article R. 131-19 du code de l'éducation, de ne pas imposer à l'enfant l'obligation
+en oeuvre des procédures définies à l'article R. 131-7 du code de l'éducation, de ne pas imposer à l'enfant l'obligation
 d'assiduité scolaire sans faire connaître de motif légitime ou d'excuse valable ou en donnant des motifs d'absence inexacts
 est puni de l'amende prévue pour les contraventions de la 4e classe.
 
@@ -39613,7 +39613,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2004-703 du 13 juillet 2004 - art. 5 () JORF 17 juillet 2004
+  - Décret n°2006-583 du 23 mai 2006 - art. 6 () JORF 24 mai 2006
 
 **Liens**:
 
