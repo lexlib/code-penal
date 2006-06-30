@@ -1,5 +1,5 @@
 # Code pénal  
-Version Consolidée au 2006-05-24
+Version Consolidée au 2006-07-01
 ## Contenu: 
   - [Partie législative (art. 111-1 à 727-3)](#1)
     - [Livre Ier : Dispositions générales (art. 111-1 à 133-17)](#2)
@@ -19113,10 +19113,10 @@ _Codifié par_:
 ###### Article 227-3
 
 Le fait, pour une personne, de ne pas exécuter une décision judiciaire ou une convention judiciairement homologuée lui
-imposant de verser au profit d'un enfant mineur, légitime, naturel ou adoptif, d'un descendant, d'un ascendant ou du conjoint
-une pension, une contribution, des subsides ou des prestations de toute nature dues en raison de l'une des obligations
-familiales prévues par les titres V, VI, VII et VIII du livre Ier du code civil, en demeurant plus de deux mois sans
-s'acquitter intégralement de cette obligation, est puni de deux ans d'emprisonnement et de 15000 euros d'amende.
+imposant de verser au profit d'un enfant mineur, d'un descendant, d'un ascendant ou du conjoint une pension, une
+contribution, des subsides ou des prestations de toute nature dues en raison de l'une des obligations familiales prévues par
+les titres V, VI, VII et VIII du livre Ier du code civil, en demeurant plus de deux mois sans s'acquitter intégralement de
+cette obligation, est puni de deux ans d'emprisonnement et de 15 000 euros d'amende.
 
 Les infractions prévues par le premier alinéa du présent article sont assimilées à des abandons de famille pour l'application
 du 3° de l'article 373 du code civil.
@@ -19127,11 +19127,6 @@ _Codifié par_:
 
   - Loi n°92-684 1992-07-22
 
-**Liens**:
-
-  - SPEC_APPLI: Loi n°92-684 1992-07-22 art. 1
-  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
-
 _Cité par_:
 
   - Loi n°95-884 du 3 août 1995 - art. 25 (V)
@@ -19141,9 +19136,13 @@ _Cité par_:
   - Code de procédure pénale - art. R40-27 (V)
   - Code pénal - art. 227-4 (V)
 
+**Liens**:
+
+  - SPEC_APPLI: Ordonnance 2005-759 2005-07-04 art. 20 : spécificités d'application
+
 _Modifié par_:
 
-  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+  - Ordonnance n°2005-759 du 4 juillet 2005 - art. 19 () JORF 7 juillet 2005 en vigueur le 1er juillet 2006
 
 _Cite_:
 
@@ -19270,9 +19269,8 @@ _Modifié par_:
 
 ###### Article 227-7
 
-Le fait, par tout ascendant légitime, naturel ou adoptif, de soustraire un enfant mineur des mains de ceux qui exercent
-l'autorité parentale ou auxquels il a été confié ou chez qui il a sa résidence habituelle, est puni d'un an d'emprisonnement
-et de 15000 euros d'amende.
+Le fait, par tout ascendant, de soustraire un enfant mineur des mains de ceux qui exercent l'autorité parentale ou auxquels
+il a été confié ou chez qui il a sa résidence habituelle, est puni d'un an d'emprisonnement et de 15 000 euros d'amende.
 
 **Liens relatifs à cet article**
 
@@ -19282,12 +19280,11 @@ _Codifié par_:
 
 **Liens**:
 
-  - SPEC_APPLI: Loi n°92-684 1992-07-22 art. 1
-  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
+  - SPEC_APPLI: Ordonnance 2005-759 2005-07-04 art. 20 : spécificités d'application
 
 _Modifié par_:
 
-  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+  - Ordonnance n°2005-759 du 4 juillet 2005 - art. 19 () JORF 7 juillet 2005 en vigueur le 1er juillet 2006
 
 _Cité par_:
 
@@ -19497,9 +19494,9 @@ _Cite_:
 
 ###### Article 227-15
 
-Le fait, par un ascendant légitime, naturel ou adoptif ou toute autre personne exerçant à son égard l'autorité parentale ou
-ayant autorité sur un mineur de quinze ans, de priver celui-ci d'aliments ou de soins au point de compromettre sa santé est
-puni de sept ans d'emprisonnement et de 100000 euros d'amende.
+Le fait, par un ascendant ou toute autre personne exerçant à son égard l'autorité parentale ou ayant autorité sur un mineur
+de quinze ans, de priver celui-ci d'aliments ou de soins au point de compromettre sa santé est puni de sept ans
+d'emprisonnement et de 100 000 euros d'amende.
 
 Constitue notamment une privation de soins le fait de maintenir un enfant de moins de six ans sur la voie publique ou dans un
 espace affecté au transport collectif de voyageurs, dans le but de solliciter la générosité des passants.
@@ -19512,7 +19509,12 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2003-239 du 18 mars 2003 - art. 44 () JORF 19 mars 2003
+  - Loi n°2003-239 du 18 mars 2003 - art. 44
+  - Ordonnance n°2005-759 du 4 juillet 2005 - art. 19 () JORF 7 juillet 2005 en vigueur le 1er juillet 2006
+
+**Liens**:
+
+  - SPEC_APPLI: Ordonnance 2005-759 2005-07-04 art. 20 : spécificités d'application
 
 _Cité par_:
 
@@ -19548,9 +19550,9 @@ _Cité par_:
 
 ###### Article 227-17
 
-Le fait, par le père ou la mère légitime, naturel ou adoptif, de se soustraire, sans motif légitime, à ses obligations
-légales au point de compromettre la santé, la sécurité, la moralité ou l'éducation de son enfant mineur est puni de deux ans
-d'emprisonnement et de 30000 euros d'amende.
+Le fait, par le père ou la mère, de se soustraire, sans motif légitime, à ses obligations légales au point de compromettre la
+santé, la sécurité, la moralité ou l'éducation de son enfant mineur est puni de deux ans d'emprisonnement et de 30 000 euros
+d'amende. 
 
 L'infraction prévue par le présent article est assimilée à un abandon de famille pour l'application du 3° de l'article 373 du
 code civil.
@@ -19563,16 +19565,15 @@ _Codifié par_:
 
 **Liens**:
 
-  - SPEC_APPLI: Loi n°92-684 1992-07-22 art. 1
-  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
+  - SPEC_APPLI: Ordonnance 2005-759 2005-07-04 art. 20 : spécificités d'application
 
 _Modifié par_:
 
-  - Loi n°2002-1138 du 9 septembre 2002 - art. 27 () JORF 10 septembre 2002
+  - Ordonnance n°2005-759 du 4 juillet 2005 - art. 19 () JORF 7 juillet 2005 en vigueur le 1er juillet 2006
 
 _Cite_:
 
-  - Code civil - art. 373 (M)
+  - Code civil - art. 373 (V)
 
 
 ###### Article 227-17-1
