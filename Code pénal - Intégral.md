@@ -1,5 +1,5 @@
 # Code pénal  
-Version Consolidée au 2006-10-06
+Version Consolidée au 2006-12-27
 ## Contenu: 
   - [Partie législative (art. 111-1 à 727-3)](#1)
     - [Livre Ier : Dispositions générales (art. 111-1 à 133-17)](#2)
@@ -31325,13 +31325,12 @@ La confiscation des pièces de monnaie et des billets de banque contrefaits ou f
 destinés à servir à leur fabrication est obligatoire.
 
 Selon que la contrefaçon ou la falsification a porté sur des pièces de monnaie ou des billets de banque, les signes
-monétaires contrefaits ou falsifiés sont remis à l'administration des monnaies et médailles ou à la Banque de France, aux
-fins de destruction éventuelle. Leur sont également remis, aux mêmes fins, ceux des matériels et instruments confisqués
-qu'elles désignent.
+monétaires contrefaits ou falsifiés sont remis à la Monnaie de Paris ou à la Banque de France, aux fins de destruction
+éventuelle. Leur sont également remis, aux mêmes fins, ceux des matériels et instruments confisqués qu'elles désignent.
 
 La confiscation des objets, imprimés ou formules visés à l'article 442-6 est également obligatoire. Elle entraîne remise de
-la chose confisquée à l'administration des monnaies et médailles ou à la Banque de France, selon la distinction prévue à
-l'alinéa précédent, aux fins de destruction éventuelle.
+la chose confisquée à la Monnaie de Paris ou à la Banque de France, selon la distinction prévue à l'alinéa précédent, aux
+fins de destruction éventuelle.
 
 **Liens relatifs à cet article**
 
@@ -31352,6 +31351,10 @@ _Cité par_:
   - Code pénal - art. 442-14 (V)
   - Code pénal - art. R642-4 (V)
   - Code pénal - art. R645-9 (V)
+
+_Modifié par_:
+
+  - Loi n°2006-1666 du 21 décembre 2006 - art. 36 (V) JORF 27 décembre 2006
 
 _Cite_:
 
