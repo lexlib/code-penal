@@ -1,5 +1,5 @@
 # Code pénal  
-Version Consolidée au 2006-12-31
+Version Consolidée au 2007-02-28
 ## Contenu: 
   - [Partie législative (art. 111-1 à 727-3)](#1)
     - [Livre Ier : Dispositions générales (art. 111-1 à 133-17)](#2)
@@ -41109,8 +41109,8 @@ _Cite_:
 ###### Article R645-9
 
 Le fait, par une personne ayant reçu des pièces de monnaie ou billets de banque ayant cours légal en France contrefaits ou
-falsifiés, de refuser de les remettre ou de les faire remettre à la Banque de France ou à l'administration des Monnaies et
-médailles, conformément aux prescriptions de l'article 38-2 du code des instruments monétaires et des médailles, est puni de
+falsifiés, de refuser de les remettre ou de les faire remettre à la Banque de France ou à l'établissement public la Monnaie
+de Paris, conformément aux prescriptions de l'article 38-2 du code des instruments monétaires et des médailles, est puni de
 l'amende prévue pour les contraventions de la 5e classe.
 
 Les personnes coupables de la contravention prévue au présent article encourent également la peine complémentaire de
@@ -41140,9 +41140,9 @@ _Codifié par_:
 
   - Décret n°93-726 1993-03-29
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°93-726 1993-03-29 JORF 30 mars 1993 en vigueur le 1er mars 1994 rectificatif JORF 26 février 1994
+  - Décret n°2007-259 du 27 février 2007 - art. 8 (V) JORF 28 février 2007
 
 _Cite_:
 
