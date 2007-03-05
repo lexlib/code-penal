@@ -1,5 +1,5 @@
 # Code pénal  
-Version Consolidée au 2007-02-28
+Version Consolidée au 2007-03-06
 ## Contenu: 
   - [Partie législative (art. 111-1 à 727-3)](#1)
     - [Livre Ier : Dispositions générales (art. 111-1 à 133-17)](#2)
@@ -215,7 +215,7 @@ Version Consolidée au 2007-02-28
           - [Section 8 : De l'usurpation de signes réservés à l'autorité publique (art. 433-14 à 433-16)](#212)
           - [Section 9 : De l'usurpation de titres (art. 433-17)](#213)
           - [Section 10 : De l'usage irrégulier de qualité (art. 433-18)](#214)
-          - [Section 11 : Des atteintes à l'état civil des personnes (art. 433-19 à 433-21-1)](#215)
+          - [Section 11 : Des atteintes à l'état civil des personnes (art. 433-18-1 à 433-21-1)](#215)
           - [Section 12 : Peines complémentaires et responsabilité des personnes morales (art. 433-22 à 433-25)](#216)
         - [Chapitre IV : Des atteintes à l'action de justice (art. 434-1 à 434-47)](#217)
           - [Section 1 : Des entraves à la saisine de la justice (art. 434-1 à 434-7)](#218)
@@ -19902,7 +19902,9 @@ l'image ou de la représentation du mineur à destination d'un public non déter
 
 La tentative des délits prévus aux alinéas précédents est punie des mêmes peines.
 
-Le fait de détenir une telle image ou représentation est puni de deux ans d'emprisonnement et 30000 euros d'amende.
+Le fait de consulter habituellement un service de communication au public en ligne mettant à disposition une telle image ou
+représentation ou de détenir une telle image ou représentation par quelque moyen que ce soit est puni de deux ans
+d'emprisonnement et 30000 euros d'amende.
 
 Les infractions prévues au présent article sont punies de dix ans d'emprisonnement et de 500 000 Euros d'amende lorsqu'elles
 sont commises en bande organisée.
@@ -19941,7 +19943,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2006-399 du 4 avril 2006 - art. 16 () JORF 5 avril 2006
+  - Loi n°2007-293 du 5 mars 2007 - art. 29 () JORF 6 mars 2007
 
 
 ###### Article 227-24
@@ -25482,8 +25484,12 @@ _Cite_:
 
 ###### Article 414-8
 
-Les dispositions des articles 411-1 à 411-11 et 413-1 à 413-12 sont applicables aux actes visés par ces dispositions qui
-seraient commis au préjudice des puissances signataires du traité de l'Atlantique-Nord.
+Les dispositions des articles 411-1 à 411-11 et 413-1 à 413-12 sont applicables aux actes mentionnés par ces dispositions qui
+seraient commis au préjudice : 
+
+1° Des puissances signataires du traité de l'Atlantique Nord ; 
+
+2° De l'organisation du traité de l'Atlantique Nord.
 
 **Liens relatifs à cet article**
 
@@ -25491,10 +25497,9 @@ _Codifié par_:
 
   - Loi n°92-686 1992-07-22
 
-**Liens**:
+_Modifié par_:
 
-  - SPEC_APPLI: Loi n°92-686 1992-07-22 art. 1
-  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
+  - Loi n°2007-288 du 5 mars 2007 - art. 1 () JORF 6 mars 2007
 
 _Cité par_:
 
@@ -25502,14 +25507,19 @@ _Cité par_:
 
 _Cite_:
 
-  - Code pénal 411-1 à 411-11, 413-1 à 413-12
+  - Code pénal - art. 411-1 (V)
+  - Code pénal - art. 413-1 (V)
 
 
 ###### Article 414-9
 
-Les dispositions des articles 411-6 à 411-8 et 413-10 à 413-12 sont applicables aux informations faisant l'objet de l'accord
-de sécurité relatif à certains échanges d'informations à caractère secret entre le Gouvernement de la République française et
-le Gouvernement du Royaume de Suède, signé à Stockholm le 22 octobre 1973.
+Les dispositions des articles 411-6 à 411-11 et 413-9 à 413-12 sont applicables : 
+
+1° Aux informations échangées en vertu d'un accord de sécurité relatif à la protection des informations classifiées conclu
+entre la France et un ou des Etats étrangers ou une organisation internationale, régulièrement approuvé et publié ; 
+
+2° Aux informations échangées entre la France et une institution ou un organe de l'Union européenne et classifiées en vertu
+des règlements de sécurité de ces derniers qui ont fait l'objet d'une publication au Journal officiel de l'Union européenne.
 
 **Liens relatifs à cet article**
 
@@ -25517,14 +25527,14 @@ _Codifié par_:
 
   - Loi n°92-686 1992-07-22
 
-**Liens**:
+_Modifié par_:
 
-  - SPEC_APPLI: Loi n°92-686 1992-07-22 art. 1
-  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
+  - Loi n°2007-288 du 5 mars 2007 - art. 2 () JORF 6 mars 2007
 
 _Cite_:
 
-  - Code pénal 411-6 à 411-8, 413-10 à 413-12
+  - Code pénal - art. 411-6 (V)
+  - Code pénal - art. 413-9 (V)
 
 
 ### Titre II : Du terrorisme<a id=181></a>
@@ -28287,6 +28297,27 @@ _Modifié par_:
 
 
 ##### Section 11 : Des atteintes à l'état civil des personnes<a id=215></a>
+
+###### Article 433-18-1
+
+Le fait, pour une personne ayant assisté à un accouchement, de ne pas faire la déclaration prescrite par l'article 56 du code
+civil dans les délais fixés par l'article 55 du même code est puni de six mois d'emprisonnement et de 3 750 euros d'amende.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°92-686 1992-07-22
+
+_Créé par_:
+
+  - Loi n°2007-293 du 5 mars 2007 - art. 36 () JORF 6 mars 2007
+
+_Cite_:
+
+  - Code civil - art. 55 (V)
+  - Code civil - art. 56 (V)
+
 
 ###### Article 433-19
 
