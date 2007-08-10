@@ -1,5 +1,5 @@
 # Code pénal  
-Version Consolidée au 2007-04-27
+Version Consolidée au 2007-08-11
 ## Contenu: 
   - [Partie législative (art. 111-1 à 727-3)](#1)
     - [Livre Ier : Dispositions générales (art. 111-1 à 133-17)](#2)
@@ -8054,6 +8054,45 @@ _Modifié par_:
   - Loi n°2005-1549 du 12 décembre 2005 - art. 3 () JORF 13 décembre 2005
 
 
+###### Article 132-18-1
+
+Pour les crimes commis en état de récidive légale, la peine d'emprisonnement, de réclusion ou de détention ne peut être
+inférieure aux seuils suivants :
+
+1° Cinq ans, si le crime est puni de quinze ans de réclusion ou de détention ;
+
+2° Sept ans, si le crime est puni de vingt ans de réclusion ou de détention ;
+
+3° Dix ans, si le crime est puni de trente ans de réclusion ou de détention ;
+
+4° Quinze ans, si le crime est puni de la réclusion ou de la détention à perpétuité.
+
+Toutefois, la juridiction peut prononcer une peine inférieure à ces seuils en considération des circonstances de
+l'infraction, de la personnalité de son auteur ou des garanties d'insertion ou de réinsertion présentées par celui-ci.
+
+Lorsqu'un crime est commis une nouvelle fois en état de récidive légale, la juridiction ne peut prononcer une peine
+inférieure à ces seuils que si l'accusé présente des garanties exceptionnelles d'insertion ou de réinsertion.
+
+**Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Ordonnance n°45-174 du 2 février 1945 - art. 20-2 (V)
+  - Code de procédure pénale - art. 362 (VD)
+
+_Codifié par_:
+
+  - Loi n°92-683 du 22 juillet 1992
+
+_Créé par_:
+
+  - Loi n°2007-1198 du 10 août 2007 - art. 1 () JORF 11 août 2007
+
+_Abrogé par_:
+
+  - Loi n°2014-896 du 15 août 2014 - art. 7
+
+
 ###### Article 132-19
 
 Lorsqu'une infraction est punie d'une peine d'emprisonnement, la juridiction peut prononcer une peine d'emprisonnement pour
@@ -8075,6 +8114,59 @@ _Modifié par_:
   - Loi n°2005-1549 du 12 décembre 2005 - art. 3 () JORF 13 décembre 2005
 
 
+###### Article 132-19-1
+
+Pour les délits commis en état de récidive légale, la peine d'emprisonnement ne peut être inférieure aux seuils suivants :
+
+1° Un an, si le délit est puni de trois ans d'emprisonnement ;
+
+2° Deux ans, si le délit est puni de cinq ans d'emprisonnement ;
+
+3° Trois ans, si le délit est puni de sept ans d'emprisonnement ;
+
+4° Quatre ans, si le délit est puni de dix ans d'emprisonnement.
+
+Toutefois, la juridiction peut prononcer, par une décision spécialement motivée, une peine inférieure à ces seuils ou une
+peine autre que l'emprisonnement en considération des circonstances de l'infraction, de la personnalité de son auteur ou des
+garanties d'insertion ou de réinsertion présentées par celui-ci.
+
+La juridiction ne peut prononcer une peine autre que l'emprisonnement lorsque est commis une nouvelle fois en état de
+récidive légale un des délits suivants :
+
+1° Violences volontaires ;
+
+2° Délit commis avec la circonstance aggravante de violences ;
+
+3° Agression ou atteinte sexuelle ;
+
+4° Délit puni de dix ans d'emprisonnement.
+
+Par décision spécialement motivée, la juridiction peut toutefois prononcer une peine d'emprisonnement d'une durée inférieure
+aux seuils prévus par le présent article si le prévenu présente des garanties exceptionnelles d'insertion ou de réinsertion.
+
+Les dispositions du présent article ne sont pas exclusives d'une peine d'amende et d'une ou plusieurs peines complémentaires.
+
+**Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Ordonnance n°45-174 du 2 février 1945 - art. 20-2 (V)
+  - Code de procédure pénale - art. 362 (VD)
+  - Code pénal - art. 132-24 (V)
+
+_Codifié par_:
+
+  - Loi n°92-683 du 22 juillet 1992
+
+_Créé par_:
+
+  - Loi n°2007-1198 du 10 août 2007 - art. 2 () JORF 11 août 2007
+
+_Abrogé par_:
+
+  - Loi n°2014-896 du 15 août 2014 - art. 7
+
+
 ###### Article 132-20
 
 Lorsqu'une infraction est punie d'une peine d'amende, la juridiction peut prononcer une amende d'un montant inférieur à celle
@@ -8093,6 +8185,23 @@ _Modifié par_:
 _Cité par_:
 
   - Code de procédure pénale - art. 707-6 (V)
+
+
+###### Article 132-20-1
+
+Lorsque les circonstances de l'infraction ou la personnalité de l'auteur le justifient, le président de la juridiction
+avertit, lors du prononcé de la peine, le condamné des conséquences qu'entraînerait une condamnation pour une nouvelle
+infraction commise en état de récidive légale.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°92-683 1992-07-22
+
+_Créé par_:
+
+  - Loi n°2007-1198 du 10 août 2007 - art. 3 () JORF 11 août 2007
 
 
 ###### Article 132-21
@@ -8300,10 +8409,6 @@ La nature, le quantum et le régime des peines prononcées sont fixés de maniè
 société, la sanction du condamné et les intérêts de la victime avec la nécessité de favoriser l'insertion ou la réinsertion
 du condamné et de prévenir la commission de nouvelles infractions.
 
-En matière correctionnelle, lorsque l'infraction est commise en état de récidive légale ou de réitération, la juridiction
-motive spécialement le choix de la nature, du quantum et du régime de la peine qu'elle prononce au regard des peines
-encourues.
-
 **Liens relatifs à cet article**
 
 _Codifié par_:
@@ -8312,7 +8417,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2007-297 du 5 mars 2007 - art. 68 () JORF 7 mars 2007
+  - Loi n°2007-1198 du 10 août 2007 - art. 4 () JORF 11 août 2007
 
 _Cité par_:
 
