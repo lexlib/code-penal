@@ -1,5 +1,5 @@
 # Code pénal  
-Version Consolidée au 2008-05-24
+Version Consolidée au 2008-05-29
 ## Contenu: 
   - [Partie législative (art. 111-1 à 727-3)](#1)
     - [Livre Ier : Dispositions générales (art. 111-1 à 133-17)](#2)
@@ -16041,20 +16041,19 @@ encore déclarée ou une prédisposition génétique à une maladie ;
 licenciement fondé sur l'inaptitude médicalement constatée soit dans le cadre du titre IV du livre II du code du travail,
 soit dans le cadre des lois portant dispositions statutaires relatives à la fonction publique ;
 
-3° Aux discriminations fondées, en matière d'embauche, sur le sexe lorsque l'appartenance à l'un ou l'autre sexe constitue,
-conformément aux dispositions du code du travail ou aux lois portant dispositions statutaires relatives à la fonction
-publique, la condition déterminante de l'exercice d'un emploi ou d'une activité professionnelle.
+3° Aux discriminations fondées, en matière d'embauche, sur le sexe, l'âge ou l'apparence physique, lorsqu'un tel motif
+constitue une exigence professionnelle essentielle et déterminante et pour autant que l'objectif soit légitime et l'exigence
+proportionnée ; 
+
+4° Aux discriminations fondées, en matière d'accès aux biens et services, sur le sexe lorsque cette discrimination est
+justifiée par la protection des victimes de violences à caractère sexuel, des considérations liées au respect de la vie
+privée et de la décence, la promotion de l'égalité des sexes ou des intérêts des hommes ou des femmes, la liberté
+d'association ou l'organisation d'activités sportives ; 
+
+5° Aux refus d'embauche fondés sur la nationalité lorsqu'ils résultent de l'application des dispositions statutaires
+relatives à la fonction publique.
 
 **Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Loi n°92-684 1992-07-22
-
-**Liens**:
-
-  - SPEC_APPLI: Loi n°92-684 1992-07-22 art. 1
-  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
 
 _Cité par_:
 
@@ -16064,11 +16063,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2002-303 du 4 mars 2002 - art. 4 () JORF 5 mars 2002
-
-_Cite_:
-
-  - Code pénal - art. 225-2 (M)
+  - Loi n°2008-496 du 27 mai 2008 - art. 7
 
 
 ###### Article 225-3-1
