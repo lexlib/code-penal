@@ -1,5 +1,5 @@
 # Code pénal  
-Version Consolidée au 2008-05-29
+Version Consolidée au 2008-06-22
 ## Contenu: 
   - [Partie législative (art. 111-1 à 727-3)](#1)
     - [Livre Ier : Dispositions générales (art. 111-1 à 133-17)](#2)
@@ -11708,6 +11708,52 @@ _Cite_:
   - Code pénal - art. 221-6 (M)
 
 
+###### Article 221-6-2
+
+Lorsque l'homicide involontaire prévu par l'article 221-6 résulte de l'agression commise par un chien, le propriétaire ou
+celui qui détient le chien au moment des faits est puni de cinq ans d'emprisonnement et de 75 000 euros d'amende. 
+
+Les peines sont portées à sept ans d'emprisonnement et à 100 000 euros d'amende lorsque : 
+
+1° La propriété ou la détention du chien est illicite en application de dispositions législatives ou réglementaires ou d'une
+décision judiciaire ou administrative ; 
+
+2° Le propriétaire ou le détenteur du chien se trouvait en état d'ivresse manifeste ou sous l'emprise manifeste de produits
+stupéfiants ; 
+
+3° Le propriétaire ou le détenteur du chien n'avait pas exécuté les mesures prescrites par le maire, conformément à l'article
+L. 211-11 du code rural, pour prévenir le danger présenté par l'animal ; 
+
+4° Le propriétaire ou le détenteur du chien n'était pas titulaire du permis de détention prévu à l'article L. 211-14 du code
+rural ; 
+
+5° Le propriétaire ou le détenteur du chien ne justifie pas d'une vaccination antirabique de son animal en cours de validité
+lorsqu'elle est obligatoire ; 
+
+6° Il s'agissait d'un chien de la première ou de la deuxième catégorie prévues à l'article L. 211-12 du code rural qui
+n'était pas muselé ou tenu en laisse par une personne majeure conformément aux dispositions prévues au II de l'article L.
+211-16 du même code ; 
+
+7° Il s'agissait d'un chien ayant fait l'objet de mauvais traitements de la part de son propriétaire ou de son détenteur. 
+
+Les peines sont portées à dix ans d'emprisonnement et à 150 000 euros d'amende lorsque l'homicide involontaire a été commis
+avec deux ou plusieurs des circonstances mentionnées aux 1° et suivants du présent article.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2008-582 du 20 juin 2008 - art. 13
+
+_Cite_:
+
+  - Code pénal - art. 221-6
+  - Code rural - art. L211-11
+  - Code rural - art. L211-12
+  - Code rural - art. L211-14
+  - Code rural - art. L211-16
+
+
 ###### Article 221-7
 
 Les personnes morales peuvent être déclarées responsables pénalement, dans les conditions prévues par l'article 121-2, de
@@ -13260,6 +13306,53 @@ _Cite_:
   - Code pénal - art. 222-19 (M)
 
 
+###### Article 222-19-2
+
+Lorsque l'atteinte involontaire à l'intégrité de la personne ayant entraîné une incapacité totale de travail de plus de trois
+mois prévue par l'article 222-19 résulte de l'agression commise par un chien, le propriétaire ou celui qui détient le chien
+au moment des faits est puni de trois ans d'emprisonnement et de 45 000 euros d'amende. 
+
+Les peines sont portées à cinq ans d'emprisonnement et à 75 000 euros d'amende lorsque : 
+
+1° La propriété ou la détention du chien est illicite en application de dispositions législatives ou réglementaires ou d'une
+décision judiciaire ou administrative ; 
+
+2° Le propriétaire ou le détenteur du chien se trouvait en état d'ivresse manifeste ou sous l'emprise manifeste de produits
+stupéfiants ; 
+
+3° Le propriétaire ou le détenteur du chien n'avait pas exécuté les mesures prescrites par le maire, conformément à l'article
+L. 211-11 du code rural, pour prévenir le danger présenté par l'animal ; 
+
+4° Le propriétaire ou le détenteur du chien n'était pas titulaire du permis de détention prévu à l'article L. 211-14 du code
+rural ; 
+
+5° Le propriétaire ou le détenteur du chien ne justifie pas d'une vaccination antirabique de son animal en cours de validité
+lorsqu'elle est obligatoire ; 
+
+6° Il s'agissait d'un chien de la première ou de la deuxième catégorie prévues à l'article L. 211-12 du code rural qui
+n'était pas muselé ou tenu en laisse par une personne majeure conformément aux dispositions prévues au II de l'article L.
+211-16 du même code ; 
+
+7° Il s'agissait d'un chien ayant fait l'objet de mauvais traitements de la part de son propriétaire ou de son détenteur. 
+
+Les peines sont portées à sept ans d'emprisonnement et à 100 000 euros d'amende lorsque l'atteinte involontaire à l'intégrité
+de la personne a été commise avec deux ou plusieurs des circonstances mentionnées aux 1° et suivants du présent article.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2008-582 du 20 juin 2008 - art. 13
+
+_Cite_:
+
+  - Code pénal - art. 222-19
+  - Code rural - art. L211-1
+  - Code rural - art. L211-12
+  - Code rural - art. L211-14
+  - Code rural - art. L211-16
+
+
 ###### Article 222-20
 
 Le fait de causer à autrui, par la violation manifestement délibérée d'une obligation particulière de sécurité ou de prudence
@@ -13372,33 +13465,82 @@ _Cite_:
   - Code pénal - art. 222-19 (M)
 
 
+###### Article 222-20-2
+
+Lorsque l'atteinte involontaire à l'intégrité de la personne ayant entraîné une incapacité totale de travail de moins de
+trois mois prévue par l'article 222-20 résulte de l'agression commise par un chien, le propriétaire ou celui qui détient le
+chien au moment des faits est puni de deux ans d'emprisonnement et de 30 000 euros d'amende. 
+
+Les peines sont portées à trois ans d'emprisonnement et à 45 000 euros d'amende lorsque : 
+
+1° La propriété ou la détention du chien est illicite en application de dispositions législatives ou réglementaires ou d'une
+décision judiciaire ou administrative ; 
+
+2° Le propriétaire ou le détenteur du chien se trouvait en état d'ivresse manifeste ou sous l'emprise manifeste de produits
+stupéfiants ; 
+
+3° Le propriétaire ou le détenteur du chien n'avait pas exécuté les mesures prescrites par le maire, conformément à l'article
+L. 211-11 du code rural, pour prévenir le danger présenté par l'animal ; 
+
+4° Le propriétaire ou le détenteur du chien n'était pas titulaire du permis de détention prévu à l'article L. 211-14 du code
+rural ; 
+
+5° Le propriétaire ou le détenteur du chien ne justifie pas d'une vaccination antirabique de son animal en cours de validité
+lorsqu'elle est obligatoire ; 
+
+6° Il s'agissait d'un chien de la première ou de la deuxième catégorie prévues à l'article L. 211-12 du code rural qui
+n'était pas muselé ou tenu en laisse par une personne majeure conformément aux dispositions prévues au II de l'article L.
+211-16 du même code ; 
+
+7° Il s'agissait d'un chien ayant fait l'objet de mauvais traitements de la part de son propriétaire ou de son détenteur. 
+
+Les peines sont portées à cinq ans d'emprisonnement et à 75 000 euros d'amende lorsque l'atteinte involontaire à l'intégrité
+de la personne a été commise avec deux ou plusieurs des circonstances mentionnées aux 1° et suivants du présent article.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2008-582 du 20 juin 2008 - art. 13
+
+_Cite_:
+
+  - Code pénal - art. 222-20
+  - Code rural - art. L211-11
+  - Code rural - art. L211-12
+  - Code rural - art. L211-14
+  - Code rural - art. L211-16
+
+
 ###### Article 222-21
 
 Les personnes morales peuvent être déclarées responsables pénalement, dans les conditions prévues par l'article 121-2, des
-infractions définies aux articles 222-19 et 222-20.
+infractions prévues par la présente section. 
 
-Les peines encourues par les personnes morales sont :
+Les peines encourues par les personnes morales sont : 
 
-1° L'amende, suivant les modalités prévues par l'article 131-38 ;
+1° L'amende, suivant les modalités prévues par l'article 131-38 ; 
 
 2° Les peines mentionnées aux 2°, 3°, 8° et 9° de l'article 131-39.
 
 L'interdiction mentionnée au 2° de l'article 131-39 porte sur l'activité dans l'exercice ou à l'occasion de l'exercice de
-laquelle l'infraction a été commise.
+laquelle l'infraction a été commise. 
 
 Dans les cas visés au deuxième alinéa de l'article 222-19 est en outre encourue la peine mentionnée au 4° de l'article
 131-39.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Modifié par_:
 
-  - Loi n°92-684 1992-07-22
+  - Loi n°2008-582 du 20 juin 2008 - art. 13
 
-**Liens**:
+_Cite_:
 
-  - SPEC_APPLI: Loi n°92-684 1992-07-22 art. 1
-  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
+  - Code pénal - art. 121-2
+  - Code pénal - art. 131-38
+  - Code pénal - art. 131-39
+  - Code pénal - art. 222-19
 
 
 ##### Section 3 : Des agressions sexuelles<a id=81></a>
