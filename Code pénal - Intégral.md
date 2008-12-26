@@ -1,5 +1,5 @@
 # Code pénal  
-Version Consolidée au 2008-12-21
+Version Consolidée au 2008-12-27
 ## Contenu: 
   - [Partie législative (art. 111-1 à 727-3)](#1)
     - [Livre Ier : Dispositions générales (art. 111-1 à 133-17)](#2)
@@ -366,7 +366,7 @@ Version Consolidée au 2008-12-21
           - [Section 2 : De la vente forcée par correspondance (art. R635-2)](#363)
           - [Section 3 : De la violation des dispositions réglementant la vente ou l'échange de certains objets mobiliers (art. R635-3 à R635-7)](#364)
           - [Section 4 : De l'abandon d'épaves de véhicules ou d'ordures, déchets, matériaux et autres objets transportés dans un véhicule (art. R635-8)](#365)
-      - [Titre IV : Des contraventions contre la nation, l'Etat ou la paix publique (art. R641-1 à R645-12)](#366)
+      - [Titre IV : Des contraventions contre la nation, l'Etat ou la paix publique (art. R641-1 à R645-13)](#366)
         - [Chapitre Ier : Des contraventions de la 1re classe contre la nation, l'Etat ou la paix publique (art. R641-1)](#367)
           - [Section unique : De l'abandon d'armes ou d'objets dangereux (art. R641-1)](#368)
         - [Chapitre II : Des contraventions de la 2e classe contre la nation, l'Etat ou la paix publique (art. R642-1 à R642-4)](#369)
@@ -379,7 +379,7 @@ Version Consolidée au 2008-12-21
           - [Section 1 : De l'accès sans autorisation à un terrain, une construction, un engin ou un appareil militaires (art. R644-1)](#376)
           - [Section 2 : Des entraves à la libre circulation sur la voie publique (art. R644-2)](#377)
           - [Section 3 : De la violation des dispositions réglementant les professions exercées dans les lieux publics (art. R644-3)](#378)
-        - [Chapitre V : Des contraventions de la 5e classe contre la nation, l'Etat ou la paix publique (art. R645-1 à R645-12)](#379)
+        - [Chapitre V : Des contraventions de la 5e classe contre la nation, l'Etat ou la paix publique (art. R645-1 à R645-13)](#379)
           - [Section 1 : Du port ou de l'exhibition d'uniformes, insignes ou emblèmes rappelant ceux d'organisations ou de personnes responsables de crimes contre l'humanité (art. R645-1)](#380)
           - [Section 2 : Des dessins, levés ou enregistrements effectués sans autorisation dans une zone d'interdiction fixée par l'autorité militaire (art. R645-2)](#381)
           - [Section 3 : Des atteintes à l'état civil des personnes (art. R645-3 à R645-6)](#382)
@@ -389,21 +389,22 @@ Version Consolidée au 2008-12-21
           - [Section 6 : Du refus de restitution de signes monétaires contrefaits ou falsifiés (art. R645-9)](#386)
           - [Section 7 : De l'altération ou de la contrefaçon des timbres-poste ou des timbres émis par l'administration des finances (art. R645-10 à R645-11)](#387)
           - [Section 8 : De l'intrusion dans les établissements scolaires (art. R645-12)](#388)
-      - [Titre V : Des autres contraventions (art. R653-1 à R655-1)](#389)
-        - [Chapitre III : Des contraventions de la 3e classe (art. R653-1)](#390)
-          - [Section unique : Des atteintes involontaires à la vie ou à l'intégrité d'un animal (art. R653-1)](#391)
-        - [Chapitre IV : Des contraventions de la 4e classe (art. R654-1)](#392)
-          - [Section unique : Des mauvais traitements envers un animal (art. R654-1)](#393)
-        - [Chapitre V : Des contraventions de la 5e classe (art. R655-1)](#394)
-          - [Section unique : Des atteintes volontaires à la vie d'un animal (art. R655-1)](#395)
-    - [Livre VII : Dispositions applicables dans les territoires d'outre-mer, en Nouvelle-Calédonie et à Mayotte. (art. R711-1 à R722-7)](#396)
-      - [Titre Ier : Dispositions applicables dans les territoires d'outre-mer et en Nouvelle-Calédonie (art. R711-1 à R716-1)](#397)
-        - [Chapitre Ier : Dispositions générales (art. R711-1 à R711-3)](#398)
-        - [Chapitre II : Adaptation du livre Ier (art. R712-1 à R712-8)](#399)
-        - [Chapitre VI : Adaptation du livre V (art. R716-1)](#400)
-      - [Titre II : Dispositions applicables à Mayotte. (art. R721-1 à R722-7)](#401)
-        - [Chapitre Ier : Dispositions générales (art. R721-1 à R721-2)](#402)
-        - [Chapitre II : Adaptation du livre Ier (art. R722-1 à R722-7)](#403)
+          - [Section 9 : De l'intrusion dans les lieux historiques ou culturels (art. R645-13)](#389)
+      - [Titre V : Des autres contraventions (art. R653-1 à R655-1)](#390)
+        - [Chapitre III : Des contraventions de la 3e classe (art. R653-1)](#391)
+          - [Section unique : Des atteintes involontaires à la vie ou à l'intégrité d'un animal (art. R653-1)](#392)
+        - [Chapitre IV : Des contraventions de la 4e classe (art. R654-1)](#393)
+          - [Section unique : Des mauvais traitements envers un animal (art. R654-1)](#394)
+        - [Chapitre V : Des contraventions de la 5e classe (art. R655-1)](#395)
+          - [Section unique : Des atteintes volontaires à la vie d'un animal (art. R655-1)](#396)
+    - [Livre VII : Dispositions applicables dans les territoires d'outre-mer, en Nouvelle-Calédonie et à Mayotte. (art. R711-1 à R722-7)](#397)
+      - [Titre Ier : Dispositions applicables dans les territoires d'outre-mer et en Nouvelle-Calédonie (art. R711-1 à R716-1)](#398)
+        - [Chapitre Ier : Dispositions générales (art. R711-1 à R711-3)](#399)
+        - [Chapitre II : Adaptation du livre Ier (art. R712-1 à R712-8)](#400)
+        - [Chapitre VI : Adaptation du livre V (art. R716-1)](#401)
+      - [Titre II : Dispositions applicables à Mayotte. (art. R721-1 à R722-7)](#402)
+        - [Chapitre Ier : Dispositions générales (art. R721-1 à R721-2)](#403)
+        - [Chapitre II : Adaptation du livre Ier (art. R722-1 à R722-7)](#404)
 # Partie législative<a id=1></a>
 
 ## Livre Ier : Dispositions générales<a id=2></a>
@@ -42076,44 +42077,80 @@ _Cite_:
 
 ###### Article R645-12
 
-Le fait de pénétrer dans l'enceinte d'un établissement scolaire, public ou privé, sans y être habilité en vertu de
-dispositions législatives ou réglementaires ou y avoir été autorisé par les autorités compétentes est puni de l'amende prévue
-pour les contraventions de la 5e classe.
+Le fait de pénétrer ou de se maintenir dans l'enceinte d'un établissement scolaire, public ou privé, sans y être habilité en
+vertu de dispositions législatives ou réglementaires ou y avoir été autorisé par les autorités compétentes est puni de
+l'amende prévue pour les contraventions de la 5e classe. 
 
 Les personnes coupables de la contravention prévue au présent article encourent également les peines complémentaires
-suivantes :
+suivantes : 
 
-1° La confiscation de la chose qui a servi à commettre l'infraction ou de la chose qui en est le produit ;
+1° La confiscation de la chose qui a servi à commettre l'infraction ou de la chose qui en est le produit ; 
 
-2° Le travail d'intérêt général pour une durée de vingt à cent vingt heures.
+2° Le travail d'intérêt général pour une durée de vingt à cent vingt heures. 
 
 La récidive de la contravention prévue au présent article est réprimée conformément à l'article 132-11.
 
 **Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°96-378 1996-05-06
 
 _Cité par_:
 
   - Décret n°2001-583 du 5 juillet 2001 - art. 2 (M)
   - Code de l'éducation - art. R472-1 (V)
 
-_Nouveaux textes_:
+_Modifié par_:
 
-  - Code de l'éducation - art. R472-1 (V)
+  - Décret n°2008-1412 du 19 décembre 2008 - art. 1
 
 _Cite_:
 
-  - Code pénal - art. 132-11 (M)
+  - Code pénal - art. 132-11
 
 
-### Titre V : Des autres contraventions<a id=389></a>
+##### Section 9 : De l'intrusion dans les lieux historiques ou culturels<a id=389></a>
 
-#### Chapitre III : Des contraventions de la 3e classe<a id=390></a>
+###### Article R645-13
 
-##### Section unique : Des atteintes involontaires à la vie ou à l'intégrité d'un animal<a id=391></a>
+Le fait de pénétrer ou de se maintenir dans un immeuble classé ou inscrit en application des dispositions des articles L.
+621-1 et L. 621-25 du code du patrimoine, un musée de France, une bibliothèque ou une médiathèque ouvertes au public, un
+service d'archives, ou leurs dépendances, appartenant à une personne publique ou à une personne privée assurant une mission
+d'intérêt général, dont l'accès est interdit ou réglementé de façon apparente, sans y être habilité en vertu de dispositions
+législatives ou réglementaires ou y avoir été autorisé par les autorités compétentes ou le propriétaire est puni de l'amende
+prévue pour les contraventions de la 5e classe.
+
+Est puni des mêmes peines le fait de pénétrer ou de se maintenir dans les mêmes conditions sur un terrain sur lequel se
+déroulent des opérations archéologiques.
+
+Les personnes coupables de la contravention prévue au présent article encourent également les peines complémentaires
+suivantes :
+
+1° La confiscation de la chose qui a servi à commettre l'infraction conformément à l'article 131-21 ;
+
+2° Un travail d'intérêt général pour une durée de vingt à cent vingt heures.
+
+La récidive de la contravention prévue au présent article est réprimée conformément à l'article 132-11.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2008-1412 du 19 décembre 2008 - art. 2
+
+_Cité par_:
+
+  - Code du patrimoine. - art. R114-5 (V)
+
+_Cite_:
+
+  - Code pénal - art. 131-21
+  - Code pénal - art. 132-11
+  - Code du patrimoine - art. L621-1
+
+
+### Titre V : Des autres contraventions<a id=390></a>
+
+#### Chapitre III : Des contraventions de la 3e classe<a id=391></a>
+
+##### Section unique : Des atteintes involontaires à la vie ou à l'intégrité d'un animal<a id=392></a>
 
 ###### Article R653-1
 
@@ -42144,9 +42181,9 @@ _Cité par_:
   - Code de procédure pénale - art. R15-33-29-3 (V)
 
 
-#### Chapitre IV : Des contraventions de la 4e classe<a id=392></a>
+#### Chapitre IV : Des contraventions de la 4e classe<a id=393></a>
 
-##### Section unique : Des mauvais traitements envers un animal<a id=393></a>
+##### Section unique : Des mauvais traitements envers un animal<a id=394></a>
 
 ###### Article R654-1
 
@@ -42184,9 +42221,9 @@ _Cite_:
   - Code pénal - art. 521-1 (V)
 
 
-#### Chapitre V : Des contraventions de la 5e classe<a id=394></a>
+#### Chapitre V : Des contraventions de la 5e classe<a id=395></a>
 
-##### Section unique : Des atteintes volontaires à la vie d'un animal<a id=395></a>
+##### Section unique : Des atteintes volontaires à la vie d'un animal<a id=396></a>
 
 ###### Article R655-1
 
@@ -42220,11 +42257,11 @@ _Cite_:
   - Code pénal - art. 132-11 (V)
 
 
-## Livre VII : Dispositions applicables dans les territoires d'outre-mer, en Nouvelle-Calédonie et à Mayotte.<a id=396></a>
+## Livre VII : Dispositions applicables dans les territoires d'outre-mer, en Nouvelle-Calédonie et à Mayotte.<a id=397></a>
 
-### Titre Ier : Dispositions applicables dans les territoires d'outre-mer et en Nouvelle-Calédonie<a id=397></a>
+### Titre Ier : Dispositions applicables dans les territoires d'outre-mer et en Nouvelle-Calédonie<a id=398></a>
 
-#### Chapitre Ier : Dispositions générales<a id=398></a>
+#### Chapitre Ier : Dispositions générales<a id=399></a>
 
 ###### Article R711-1
 
@@ -42302,7 +42339,7 @@ _Cite_:
   - Code pénal - art. R711-1 (V)
 
 
-#### Chapitre II : Adaptation du livre Ier<a id=399></a>
+#### Chapitre II : Adaptation du livre Ier<a id=400></a>
 
 ###### Article R712-1
 
@@ -42486,7 +42523,7 @@ _Cite_:
   - Code pénal - art. R131-36 (V)
 
 
-#### Chapitre VI : Adaptation du livre V<a id=400></a>
+#### Chapitre VI : Adaptation du livre V<a id=401></a>
 
 ###### Article R716-1
 
@@ -42510,9 +42547,9 @@ _Cite_:
   - Code pénal - art. R511-1 (V)
 
 
-### Titre II : Dispositions applicables à Mayotte.<a id=401></a>
+### Titre II : Dispositions applicables à Mayotte.<a id=402></a>
 
-#### Chapitre Ier : Dispositions générales<a id=402></a>
+#### Chapitre Ier : Dispositions générales<a id=403></a>
 
 ###### Article R721-1
 
@@ -42560,7 +42597,7 @@ _Abrogé par_:
   - Décret n°2011-338 du 29 mars 2011 - art. 3
 
 
-#### Chapitre II : Adaptation du livre Ier<a id=403></a>
+#### Chapitre II : Adaptation du livre Ier<a id=404></a>
 
 ###### Article R722-1
 
