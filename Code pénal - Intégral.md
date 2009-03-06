@@ -1,5 +1,5 @@
 # Code pénal  
-Version Consolidée au 2009-01-10
+Version Consolidée au 2009-03-07
 ## Contenu: 
   - [Partie législative (art. 111-1 à 727-3)](#1)
     - [Livre Ier : Dispositions générales (art. 111-1 à 133-17)](#2)
@@ -39356,27 +39356,19 @@ _Cité par_:
 
 Pour l'application de l'article 413-9, les niveaux de classification des renseignements, procédés, objets, documents, données
 informatisées ou fichiers présentant un caractère de secret de la défense nationale ainsi que les autorités chargées de
-définir les modalités selon lesquelles est organisée leur protection sont déterminés par le décret n° 98-608 du 17 juillet
-1998 relatif à la protection des secrets de la défense nationale.
+définir les modalités selon lesquelles est organisée leur protection sont déterminés par les articles R. 2311-1 et suivants
+du code de la défense relatifs à la protection du secret de la défense nationale.
 
 **Liens relatifs à cet article**
 
-**Liens**:
+_Modifié par_:
 
-  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
-
-_Codifié par_:
-
-  - Décret n°93-726 1993-03-29
+  - Décret n°2009-254 du 4 mars 2009 - art. 2 (V)
 
 _Cite_:
 
-  - Décret n°98-608 1998-07-17
-  - Code pénal - art. 413-9 (MMN)
-
-_Modifié par_:
-
-  - Décret n°98-608 du 17 juillet 1998 - art. 10 () JORF 19 juillet 1998
+  - Code pénal - art. 413-9 (V)
+  - Code de la défense. - art. R2311-1 (V)
 
 
 ### Titre III : Des atteintes à l'autorité de l'Etat<a id=322></a>
