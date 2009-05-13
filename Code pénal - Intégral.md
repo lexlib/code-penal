@@ -1,5 +1,5 @@
 # Code pénal  
-Version Consolidée au 2009-04-01
+Version Consolidée au 2009-05-14
 ## Contenu: 
   - [Partie législative (art. 111-1 à 727-3)](#1)
     - [Livre Ier : Dispositions générales (art. 111-1 à 133-17)](#2)
@@ -10952,29 +10952,24 @@ _Cite_:
 
 ###### Article 213-3
 
-Les personnes morales peuvent être déclarées responsables pénalement de crimes contre l'humanité dans les conditions prévues
-par l'article 121-2.
+Les personnes morales déclarées responsables pénalement, dans les conditions prévues par l'article 121-2, de crimes contre
+l'humanité encourent, outre l'amende suivant les modalités prévues par l'article 131-38 : 
 
-Les peines encourues par les personnes morales sont :
-
-1° Les peines mentionnées à l'article 131-39 ;
+1° Les peines mentionnées à l'article 131-39 ; 
 
 2° La confiscation de tout ou partie de leurs biens.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
-
-  - Loi n°92-684 1992-07-22
-
 _Modifié par_:
 
-  - Loi n°2004-800 du 6 août 2004 - art. 28 () JORF 7 août 2004
+  - Loi n°2009-526 du 12 mai 2009 - art. 124
 
 _Cite_:
 
-  - Code pénal - art. 121-2 (M)
-  - Code pénal - art. 131-39 (MMN)
+  - Code pénal - art. 121-2
+  - Code pénal - art. 131-38 (V)
+  - Code pénal - art. 131-39 (V)
 
 
 ###### Article 213-4
@@ -11184,32 +11179,26 @@ _Cite_:
 
 ###### Article 215-3
 
-Les personnes morales peuvent être déclarées responsables pénalement des infractions définies au présent sous-titre, dans les
-conditions prévues par l'article 121-2.
+Les personnes morales déclarées responsables pénalement, dans les conditions prévues par l'article 121-2, des infractions
+définies au présent sous-titre encourent, outre l'amende suivant les modalités prévues par l'article 131-38 : 
 
-Les peines encourues par les personnes morales sont :
+1° (Abrogé) ; 
 
-1° L'amende, selon les modalités prévues par l'article 131-38 ;
-
-2° Les peines mentionnées à l'article 131-39 ;
+2° Les peines mentionnées à l'article 131-39 ; 
 
 3° La confiscation de tout ou partie de leurs biens, meubles ou immeubles, divis ou indivis.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Modifié par_:
 
-  - Loi n°92-684 1992-07-22
-
-_Créé par_:
-
-  - Loi n°2004-800 du 6 août 2004 - art. 28 () JORF 7 août 2004
+  - Loi n°2009-526 du 12 mai 2009 - art. 124
 
 _Cite_:
 
-  - Code pénal - art. 121-2 (M)
-  - Code pénal - art. 131-38 (M)
-  - Code pénal - art. 131-39 (MMN)
+  - Code pénal - art. 121-2
+  - Code pénal - art. 131-38 (V)
+  - Code pénal - art. 131-39 (V)
 
 
 ###### Article 215-4
@@ -11475,33 +11464,24 @@ _Nouveaux textes_:
 
 ###### Article 221-5-2
 
-Les personnes morales peuvent être déclarées pénalement responsables dans les conditions prévues par l'article 121-2 des
-infractions définies à la présente section.
-
-Les peines encourues par les personnes morales sont :
-
-1° L'amende, suivant les modalités prévues par l'article 131-38 ;
-
-2° Les peines mentionnées à l'article 131-39.
+Les personnes morales déclarées responsables pénalement, dans les conditions prévues par l'article 121-2, des infractions
+définies à la présente section encourent, outre l'amende suivant les modalités prévues par l'article 131-38, les peines
+prévues par l'article 131-39.
 
 L'interdiction mentionnée au 2° de l'article 131-39 porte sur l'activité dans l'exercice ou à l'occasion de l'exercice de
 laquelle l'infraction a été commise.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Modifié par_:
 
-  - Loi n°92-684 1992-07-22
-
-_Créé par_:
-
-  - Loi n°2004-204 du 9 mars 2004 - art. 6 () JORF 10 mars 2004
+  - Loi n°2009-526 du 12 mai 2009 - art. 124
 
 _Cite_:
 
-  - Code pénal - art. 121-2 (M)
-  - Code pénal - art. 131-38 (M)
-  - Code pénal - art. 131-39 (MMN)
+  - Code pénal - art. 121-2
+  - Code pénal - art. 131-38 (V)
+  - Code pénal - art. 131-39 (V)
 
 _Anciens textes_:
 
@@ -11723,36 +11703,26 @@ _Cite_:
 
 ###### Article 221-7
 
-Les personnes morales peuvent être déclarées responsables pénalement, dans les conditions prévues par l'article 121-2, de
-l'infraction définie à l'article 221-6.
-
-Les peines encourues par les personnes morales sont :
-
-1° L'amende, suivant les modalités prévues par l'article 131-38 ;
-
-2° Les peines mentionnées aux 2°, 3°, 8° et 9° de l'article 131-39.
+Les personnes morales déclarées responsables pénalement, dans les conditions prévues par l'article 121-2, des infractions
+définies à l'article 221-6 encourent, outre l'amende suivant les modalités prévues par l'article 131-38, les peines prévues
+par les 2°, 3°, 8° et 9° de l'article 131-39. 
 
 L'interdiction mentionnée au 2° de l'article 131-39 porte sur l'activité dans l'exercice ou à l'occasion de l'exercice de
-laquelle l'infraction a été commise.
+laquelle l'infraction a été commise. 
 
 Dans les cas visés au second alinéa de l'article 221-6, est en outre encourue la peine mentionnée au 4° de l'article 131-39.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Modifié par_:
 
-  - Loi n°92-684 1992-07-22
-
-**Liens**:
-
-  - SPEC_APPLI: Loi n°92-684 1992-07-22 art. 1
-  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
+  - Loi n°2009-526 du 12 mai 2009 - art. 124
 
 _Cite_:
 
-  - Code pénal - art. 131-38 (M)
-  - Code pénal - art. 131-39 (MMN)
-  - Code pénal - art. 221-6 (M)
+  - Code pénal - art. 121-2 (V)
+  - Code pénal - art. 131-38 (V)
+  - Code pénal - art. 131-39 (V)
 
 
 ##### Section 3 : Peines complémentaires applicables aux personnes physiques<a id=74></a>
@@ -12192,33 +12162,24 @@ _Cite_:
 
 ###### Article 222-6-1
 
-Les personnes morales peuvent être déclarées pénalement responsables dans les conditions prévues par l'article 121-2 des
-infractions définies au présent paragraphe.
-
-Les peines encourues par les personnes morales sont :
-
-1° L'amende, suivant les modalités prévues par l'article 131-38 ;
-
-2° Les peines mentionnées à l'article 131-39.
+Les personnes morales déclarées responsables pénalement, dans les conditions prévues par l'article 121-2, des infractions
+définies au présent paragraphe encourent, outre l'amende suivant les modalités prévues par l'article 131-38, les peines
+prévues par l'article 131-39. 
 
 L'interdiction mentionnée au 2° de l'article 131-39 porte sur l'activité dans l'exercice ou à l'occasion de l'exercice de
 laquelle l'infraction a été commise.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Modifié par_:
 
-  - Loi n°92-684 1992-07-22
-
-_Créé par_:
-
-  - Loi n°2001-504 du 12 juin 2001 - art. 5 () JORF 13 juin 2001
+  - Loi n°2009-526 du 12 mai 2009 - art. 124
 
 _Cite_:
 
-  - Code pénal - art. 121-2 (M)
-  - Code pénal - art. 131-38 (M)
-  - Code pénal - art. 131-39 (MMN)
+  - Code pénal - art. 121-2 (V)
+  - Code pénal - art. 131-38 (V)
+  - Code pénal - art. 131-39 (V)
 
 
 ###### Article 222-6-2
@@ -12928,33 +12889,24 @@ _Cité par_:
 
 ###### Article 222-16-1
 
-Les personnes morales peuvent être déclarées pénalement responsables dans les conditions prévues par l'article 121-2 des
-infractions définies au présent paragraphe.
-
-Les peines encourues par les personnes morales sont :
-
-1° L'amende, suivant les modalités prévues par l'article 131-38 ;
-
-2° Les peines mentionnées à l'article 131-39.
+Les personnes morales déclarées responsables pénalement, dans les conditions prévues par l'article 121-2, des infractions
+définies au présent paragraphe encourent, outre l'amende suivant les modalités prévues par l'article 131-38, les peines
+prévues par l'article 131-39. 
 
 L'interdiction mentionnée au 2° de l'article 131-39 porte sur l'activité dans l'exercice ou à l'occasion de l'exercice de
 laquelle l'infraction a été commise.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Modifié par_:
 
-  - Loi n°92-684 1992-07-22
-
-_Créé par_:
-
-  - Loi n°2001-504 du 12 juin 2001 - art. 6 () JORF 13 juin 2001
+  - Loi n°2009-526 du 12 mai 2009 - art. 124
 
 _Cite_:
 
-  - Code pénal - art. 121-2 (M)
-  - Code pénal - art. 131-38 (M)
-  - Code pénal - art. 131-39 (MMN)
+  - Code pénal - art. 121-2 (V)
+  - Code pénal - art. 131-38 (V)
+  - Code pénal - art. 131-39 (V)
 
 
 ###### Article 222-16-2
@@ -13089,14 +13041,12 @@ _Nouveaux textes_:
 
 ###### Article 222-18-2
 
-Les personnes morales peuvent être déclarées pénalement responsables dans les conditions prévues par l'article 121-2 des
-infractions définies au présent paragraphe.
+Les personnes morales déclarées responsables pénalement, dans les conditions prévues par l'article 121-2, des infractions
+définies au présent paragraphe encourent, outre l'amende suivant les modalités prévues par l'article 131-38 : 
 
-Les peines encourues par les personnes morales sont :
+1° (Abrogé) ; 
 
-1° L'amende, suivant les modalités prévues par l'article 131-38 ;
-
-2° Les peines mentionnées aux 2° à 9° de l'article 131-39 ;
+2° Les peines mentionnées aux 2° à 9° de l'article 131-39 ; 
 
 3° La peine mentionnée au 1° de l'article 131-39 pour les infractions définies par les articles 222-17 (deuxième alinéa),
 222-18 et 222-18-1.
@@ -13106,22 +13056,18 @@ laquelle l'infraction a été commise.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Modifié par_:
 
-  - Loi n°92-684 1992-07-22
-
-_Créé par_:
-
-  - Loi n°2004-204 du 9 mars 2004 - art. 39 () JORF 10 mars 2004
+  - Loi n°2009-526 du 12 mai 2009 - art. 124
 
 _Cite_:
 
-  - Code pénal - art. 121-2 (M)
-  - Code pénal - art. 131-38 (M)
-  - Code pénal - art. 131-39 (MMN)
-  - Code pénal - art. 222-17 (M)
-  - Code pénal - art. 222-18 (M)
-  - Code pénal - art. 222-18-1 (T)
+  - Code pénal - art. 121-2 (V)
+  - Code pénal - art. 131-38 (V)
+  - Code pénal - art. 131-39 (V)
+  - Code pénal - art. 222-17 (V)
+  - Code pénal - art. 222-18 (V)
+  - Code pénal - art. 222-18-1
 
 _Anciens textes_:
 
@@ -13486,14 +13432,9 @@ _Cite_:
 
 ###### Article 222-21
 
-Les personnes morales peuvent être déclarées responsables pénalement, dans les conditions prévues par l'article 121-2, des
-infractions prévues par la présente section. 
-
-Les peines encourues par les personnes morales sont : 
-
-1° L'amende, suivant les modalités prévues par l'article 131-38 ; 
-
-2° Les peines mentionnées aux 2°, 3°, 8° et 9° de l'article 131-39.
+Les personnes morales déclarées responsables pénalement, dans les conditions prévues par l'article 121-2, des infractions
+définies par la présente section encourent, outre l'amende suivant les modalités prévues par l'article 131-38, les peines
+prévues par les 2°, 3°, 8° et 9° de l'article 131-39. 
 
 L'interdiction mentionnée au 2° de l'article 131-39 porte sur l'activité dans l'exercice ou à l'occasion de l'exercice de
 laquelle l'infraction a été commise. 
@@ -13505,14 +13446,14 @@ Dans les cas visés au deuxième alinéa de l'article 222-19 est en outre encour
 
 _Modifié par_:
 
-  - Loi n°2008-582 du 20 juin 2008 - art. 13
+  - Loi n°2009-526 du 12 mai 2009 - art. 124
 
 _Cite_:
 
-  - Code pénal - art. 121-2
-  - Code pénal - art. 131-38
-  - Code pénal - art. 131-39
-  - Code pénal - art. 222-19
+  - Code pénal - art. 121-2 (V)
+  - Code pénal - art. 131-38 (V)
+  - Code pénal - art. 131-39 (V)
+  - Code pénal - art. 222-19 (V)
 
 
 ##### Section 3 : Des agressions sexuelles<a id=81></a>
@@ -13996,34 +13937,26 @@ _Modifié par_:
 
 ###### Article 222-33-1
 
-Les personnes morales peuvent être déclarées pénalement responsables dans les conditions prévues par l'article 121-2 des
-infractions définies aux articles 222-22 à 222-31.
-
-Les peines encourues par les personnes morales sont :
-
-1° L'amende, suivant les modalités prévues par l'article 131-38 ;
-
-2° Les peines mentionnées à l'article 131-39.
+Les personnes morales déclarées responsables pénalement, dans les conditions prévues par l'article 121-2, des infractions
+définies aux articles 222-22 à 222-31 encourent, outre l'amende suivant les modalités prévues par l'article 131-38, les
+peines prévues par l'article 131-39.
 
 L'interdiction mentionnée au 2° de l'article 131-39 porte sur l'activité dans l'exercice ou à l'occasion de l'exercice de
 laquelle l'infraction a été commise.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Modifié par_:
 
-  - Loi n°92-684 1992-07-22
-
-_Créé par_:
-
-  - Loi n°2001-504 du 12 juin 2001 - art. 8 () JORF 13 juin 2001
+  - Loi n°2009-526 du 12 mai 2009 - art. 124
 
 _Cite_:
 
-  - Code pénal - art. 121-2 (M)
-  - Code pénal - art. 131-38 (M)
-  - Code pénal - art. 131-39 (MMN)
-  - Code pénal 121-2, 222-22 à 222-31, 131-38, 131-39
+  - Code pénal
+  - Code pénal - art. 121-2 (V)
+  - Code pénal - art. 131-38
+  - Code pénal - art. 131-39 (V)
+  - Code pénal - art. 222-22 (V)
 
 
 ##### Section 3 bis : Du harcèlement moral<a id=85></a>
@@ -14432,35 +14365,25 @@ _Cite_:
 
 ###### Article 222-42
 
-Les personnes morales peuvent être déclarées responsables pénalement, dans les conditions prévues par l'article 121-2, des
-infractions définies aux articles 222-34 à 222-39.
-
-Les peines encourues par les personnes morales sont :
-
-1° L'amende, suivant les modalités prévues par l'article 131-38 ;
-
-2° Les peines mentionnées à l'article 131-39.
+Les personnes morales déclarées responsables pénalement, dans les conditions prévues par l'article 121-2, des infractions
+définies aux articles 222-34 à 222-39 encourent, outre l'amende suivant les modalités prévues par l'article 131-38, les
+peines prévues par l'article 131-39. 
 
 L'interdiction mentionnée au 2° de l'article 131-39 porte sur l'activité dans l'exercice ou à l'occasion de l'exercice de
 laquelle l'infraction a été commise.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Modifié par_:
 
-  - Loi n°92-684 1992-07-22
-
-**Liens**:
-
-  - SPEC_APPLI: Loi n°92-684 1992-07-22 art. 1
-  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
+  - Loi n°2009-526 du 12 mai 2009 - art. 124
 
 _Cite_:
 
-  - Code pénal - art. 121-2 (M)
-  - Code pénal - art. 131-38 (M)
-  - Code pénal - art. 131-39 (MMN)
-  - Code pénal 121-2, 222-34 à 222-39, 131-38, 131-39
+  - Code pénal - art. 121-2 (V)
+  - Code pénal - art. 131-38 (V)
+  - Code pénal - art. 131-39 (V)
+  - Code pénal - art. 222-34 (V)
 
 
 ###### Article 222-43
@@ -14881,32 +14804,25 @@ _Modifié par_:
 
 ###### Article 223-2
 
-Les personnes morales peuvent être déclarées responsables pénalement, dans les conditions prévues par l'article 121-2, de
-l'infraction définie à l'article 223-1. Les peines encourues par les personnes morales sont :
-
-1° L'amende, suivant les modalités prévues par l'article 131-38 ;
-
-2° Les peines mentionnées aux 2°, 3°, 8° et 9° de l'article 131-39.
+Les personnes morales déclarées responsables pénalement, dans les conditions prévues par l'article 121-2, des infractions
+définies à l'article 223-1 encourent, outre l'amende suivant les modalités prévues par l'article 131-38, les peines prévues
+par les 2°, 3°, 8° et 9° de l'article 131-39. 
 
 L'interdiction mentionnée au 2° de l'article 131-39 porte sur l'activité dans l'exercice ou à l'occasion de l'exercice de
 laquelle l'infraction a été commise.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Modifié par_:
 
-  - Loi n°92-684 1992-07-22
-
-**Liens**:
-
-  - SPEC_APPLI: Loi n°92-684 1992-07-22 art. 1
-  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
+  - Loi n°2009-526 du 12 mai 2009 - art. 124
 
 _Cite_:
 
-  - Code pénal - art. 131-38 (M)
-  - Code pénal - art. 131-39 (MMN)
-  - Code pénal - art. 223-1 (M)
+  - Code pénal - art. 121-2 (V)
+  - Code pénal - art. 131-38 (V)
+  - Code pénal - art. 131-39 (V)
+  - Code pénal - art. 223-1 (V)
 
 
 ##### Section 2 : Du délaissement d'une personne hors d'état de se protéger<a id=92></a>
@@ -15047,14 +14963,12 @@ _Modifié par_:
 
 ###### Article 223-7-1
 
-Les personnes morales peuvent être déclarées pénalement responsables dans les conditions prévues par l'article 121-2 des
-infractions définies à la présente section.
+Les personnes morales déclarées responsables pénalement, dans les conditions prévues par l'article 121-2, des infractions
+définies à la présente section encourent, outre l'amende suivant les modalités prévues par l'article 131-38 : 
 
-Les peines encourues par les personnes morales sont :
+1° (Abrogé) ; 
 
-1° L'amende, suivant les modalités prévues par l'article 131-38 ;
-
-2° Les peines mentionnées aux 2° à 9° de l'article 131-39 ;
+2° Les peines mentionnées aux 2° à 9° de l'article 131-39 ; 
 
 3° La peine mentionnée au 1° de l'article 131-39 pour les infractions prévues aux articles 223-5 et 223-6.
 
@@ -15063,21 +14977,16 @@ laquelle l'infraction a été commise.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Modifié par_:
 
-  - Loi n°92-684 1992-07-22
-
-_Créé par_:
-
-  - Loi n°2001-504 du 12 juin 2001 - art. 9 () JORF 13 juin 2001
+  - Loi n°2009-526 du 12 mai 2009 - art. 124
 
 _Cite_:
 
-  - Code pénal - art. 121-2 (M)
-  - Code pénal - art. 131-38 (M)
-  - Code pénal - art. 131-39 (MMN)
-  - Code pénal - art. 223-5 (M)
-  - Code pénal - art. 223-6 (M)
+  - Code pénal - art. 121-2 (V)
+  - Code pénal - art. 131-38 (V)
+  - Code pénal - art. 131-39 (V)
+  - Code pénal - art. 223-5 (V)
 
 
 ##### Section 4 : De l'expérimentation sur la personne humaine<a id=94></a>
@@ -15129,28 +15038,21 @@ _Cité par_:
 
 ###### Article 223-9
 
-Les personnes morales peuvent être déclarées responsables pénalement, dans les conditions prévues par l'article 121-2, de
-l'infraction définie à l'article 223-8.
-
-Les peines encourues par les personnes morales sont :
-
-1° L'amende, suivant les modalités prévues par l'article 131-38 ;
-
-2° Les peines mentionnées à l'article 131-39.
+Les personnes morales déclarées responsables pénalement, dans les conditions prévues par l'article 121-2, des infractions
+définies à l'article 223-8 encourent, outre l'amende suivant les modalités prévues par l'article 131-38, les peines prévues
+par l'article 131-39.
 
 L'interdiction mentionnée au 2° de l'article 131-39 porte sur l'activité dans l'exercice ou à l'occasion de l'exercice de
 laquelle l'infraction a été commise.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Modifié par_:
 
-  - Loi n°92-684 1992-07-22
+  - Loi n°2009-526 du 12 mai 2009 - art. 124
 
 **Liens**:
 
-  - SPEC_APPLI: Loi n°92-684 1992-07-22 art. 1
-  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
   - PILOTE_SUIVEUR: Code de la santé publique - art. L1126-2 (V)
 
 _Cité par_:
@@ -15159,9 +15061,10 @@ _Cité par_:
 
 _Cite_:
 
-  - Code pénal - art. 131-38 (M)
-  - Code pénal - art. 131-39 (MMN)
-  - Code pénal - art. 223-8 (M)
+  - Code pénal - art. 121-2 (V)
+  - Code pénal - art. 131-38
+  - Code pénal - art. 131-39 (V)
+  - Code pénal - art. 223-8 (V)
 
 
 ##### Section 5 : De l'interruption illégale de la grossesse<a id=95></a>
@@ -15282,62 +15185,48 @@ _Cite_:
 
 ###### Article 223-15-1
 
-Les personnes morales peuvent être déclarées pénalement responsables dans les conditions prévues par l'article 121-2 des
-infractions définies à la présente section.
+Les personnes morales déclarées responsables pénalement, dans les conditions prévues par l'article 121-2, des infractions
+définies à la présente section encourent, outre l'amende suivant les modalités prévues par l'article 131-38 : 
 
-Les peines encourues par les personnes morales sont :
+1° (Abrogé) ; 
 
-1° L'amende, suivant les modalités prévues par l'article 131-38 ;
+2° Les peines mentionnées aux 2° à 9° de l'article 131-39 ; 
 
-2° Les peines mentionnées aux 2° à 9° de l'article 131-39 ;
-
-3° La peine mentionnée au 1° de l'article 131-39 pour l'infraction prévue au deuxième alinéa de l'article 223-13.
+3° La peine mentionnée au 1° de l'article 131-39 pour l'infraction prévue au deuxième alinéa de l'article 223-13. 
 
 L'interdiction mentionnée au 2° de l'article 131-39 porte sur l'activité dans l'exercice ou à l'occasion de l'exercice de
 laquelle l'infraction a été commise.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Modifié par_:
 
-  - Loi n°92-684 1992-07-22
-
-_Créé par_:
-
-  - Loi n°2001-504 du 12 juin 2001 - art. 10 () JORF 13 juin 2001
+  - Loi n°2009-526 du 12 mai 2009 - art. 124
 
 _Cite_:
 
-  - Code pénal - art. 121-2 (M)
-  - Code pénal - art. 131-38 (M)
-  - Code pénal - art. 131-39 (MMN)
-  - Code pénal - art. 223-13 (M)
+  - Code pénal - art. 121-2 (V)
+  - Code pénal - art. 131-38 (V)
+  - Code pénal - art. 131-39 (V)
+  - Code pénal - art. 223-13 (V)
 
 
 ##### Section 6 bis : De l'abus frauduleux de l'état d'ignorance ou de faiblesse<a id=97></a>
 
 ###### Article 223-15-2
 
-Est puni de trois ans d'emprisonnement et de 375000 euros d'amende l'abus frauduleux de l'état d'ignorance ou de la situation
-de faiblesse soit d'un mineur, soit d'une personne dont la particulière vulnérabilité, due à son âge, à une maladie, à une
-infirmité, à une déficience physique ou psychique ou à un état de grossesse, est apparente et connue de son auteur, soit
-d'une personne en état de sujétion psychologique ou physique résultant de l'exercice de pressions graves ou réitérées ou de
-techniques propres à altérer son jugement, pour conduire ce mineur ou cette personne à un acte ou à une abstention qui lui
-sont gravement préjudiciables.
+Est puni de trois ans d'emprisonnement et de 375 000 euros d'amende l'abus frauduleux de l'état d'ignorance ou de la
+situation de faiblesse soit d'un mineur, soit d'une personne dont la particulière vulnérabilité, due à son âge, à une
+maladie, à une infirmité, à une déficience physique ou psychique ou à un état de grossesse, est apparente ou connue de son
+auteur, soit d'une personne en état de sujétion psychologique ou physique résultant de l'exercice de pressions graves ou
+réitérées ou de techniques propres à altérer son jugement, pour conduire ce mineur ou cette personne à un acte ou à une
+abstention qui lui sont gravement préjudiciables. 
 
 Lorsque l'infraction est commise par le dirigeant de fait ou de droit d'un groupement qui poursuit des activités ayant pour
 but ou pour effet de créer, de maintenir ou d'exploiter la sujétion psychologique ou physique des personnes qui participent à
-ces activités, les peines sont portées à cinq ans d'emprisonnement et à 750000 euros d'amende.
+ces activités, les peines sont portées à cinq ans d'emprisonnement et à 750 000 euros d'amende.
 
 **Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Loi n°92-684 1992-07-22
-
-_Modifié par_:
-
-  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 _Cité par_:
 
@@ -15352,6 +15241,10 @@ _Cité par_:
   - Code de procédure pénale - art. 704 (VT)
   - Code de procédure pénale - art. 8 (M)
   - Code monétaire et financier - art. R153-10 (V)
+
+_Modifié par_:
+
+  - Loi n°2009-526 du 12 mai 2009 - art. 133
 
 
 ###### Article 223-15-3
@@ -15398,33 +15291,24 @@ _Cite_:
 
 ###### Article 223-15-4
 
-Les personnes morales peuvent être déclarées responsables pénalement, dans les conditions prévues par l'article 121-2, de
-l'infraction définie à la présente section.
-
-Les peines encourues par les personnes morales sont :
-
-1° L'amende, suivant les modalités prévues par l'article 131-38 ;
-
-2° Les peines mentionnées à l'article 131-39.
+Les personnes morales déclarées responsables pénalement, dans les conditions prévues par l'article 121-2, des infractions
+définies à la présente section encourent, outre l'amende suivant les modalités prévues par l'article 131-38, les peines
+prévues par l'article 131-39.
 
 L'interdiction mentionnée au 2° de l'article 131-39 porte sur l'activité dans l'exercice ou à l'occasion de l'exercice de
 laquelle l'infraction a été commise.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Modifié par_:
 
-  - Loi n°92-684 1992-07-22
-
-_Créé par_:
-
-  - Loi n°2001-504 du 12 juin 2001 - art. 20 () JORF 13 juin 2001
+  - Loi n°2009-526 du 12 mai 2009 - art. 124
 
 _Cite_:
 
-  - Code pénal - art. 121-2 (M)
-  - Code pénal - art. 131-38 (M)
-  - Code pénal - art. 131-39 (MMN)
+  - Code pénal - art. 121-2 (V)
+  - Code pénal - art. 131-38 (V)
+  - Code pénal - art. 131-39
 
 
 ##### Section 7 : Peines complémentaires applicables aux personnes physiques<a id=98></a>
@@ -16208,26 +16092,18 @@ _Cite_:
 
 ###### Article 225-4
 
-Les personnes morales peuvent être déclarées responsables pénalement, dans les conditions prévues par l'article 121-2, des
-infractions définies à l'article 225-2. Les peines encourues par les personnes morales sont :
-
-1° L'amende, suivant les modalités prévues par l'article 131-38 ;
-
-2° Les peines mentionnées aux 2°, 3°, 4°, 5°, 8° et 9° de l'article 131-39.
+Les personnes morales déclarées responsables pénalement, dans les conditions prévues par l'article 121-2, des infractions
+définies à l'article 225-2 encourent, outre l'amende suivant les modalités prévues par l'article 131-38, les peines prévues
+par les 2° à 5°, 8° et 9° de l'article 131-39.
 
 L'interdiction mentionnée au 2° de l'article 131-39 porte sur l'activité dans l'exercice ou à l'occasion de l'exercice de
 laquelle l'infraction a été commise.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Modifié par_:
 
-  - Loi n°92-684 1992-07-22
-
-**Liens**:
-
-  - SPEC_APPLI: Loi n°92-684 1992-07-22 art. 1
-  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
+  - Loi n°2009-526 du 12 mai 2009 - art. 124
 
 _Cité par_:
 
@@ -16235,10 +16111,10 @@ _Cité par_:
 
 _Cite_:
 
-  - Code pénal - art. 121-2 (M)
-  - Code pénal - art. 131-38 (M)
-  - Code pénal - art. 131-39 (MMN)
-  - Code pénal - art. 225-2 (M)
+  - Code pénal - art. 121-2 (V)
+  - Code pénal - art. 131-38 (V)
+  - Code pénal - art. 131-39 (V)
+  - Code pénal - art. 225-2 (V)
 
 
 ##### Section 1 bis : De la traite des êtres humains<a id=105></a>
@@ -16428,22 +16304,19 @@ _Cite_:
 
 ###### Article 225-4-6
 
-Les personnes morales peuvent être déclarées responsables pénalement, dans les conditions prévues par l'article 121-2, des
-infractions prévues à la présente section. Les peines encourues par les personnes morales sont :
-
-1° L'amende, suivant les modalités prévues par l'article 131-38 ;
-
-2° Les peines mentionnées à l'article 131-39.
+Les personnes morales déclarées responsables pénalement, dans les conditions prévues par l'article 121-2, des infractions
+définies à la présente section encourent, outre l'amende suivant les modalités prévues par l'article 131-38, les peines
+prévues par l'article 131-39.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
-
-  - Loi n°92-684 1992-07-22
-
 _Créé par_:
 
-  - Loi n°2003-239 du 18 mars 2003 - art. 32 () JORF 19 mars 2003
+  - Loi n°2003-239 du 18 mars 2003 - art. 32
+
+_Modifié par_:
+
+  - Loi n°2009-526 du 12 mai 2009 - art. 124
 
 _Cité par_:
 
@@ -16451,9 +16324,9 @@ _Cité par_:
 
 _Cite_:
 
-  - Code pénal - art. 121-2 (M)
-  - Code pénal - art. 131-38 (M)
-  - Code pénal - art. 131-39 (MMN)
+  - Code pénal - art. 121-2 (V)
+  - Code pénal - art. 131-38 (V)
+  - Code pénal - art. 131-39 (V)
 
 
 ###### Article 225-4-7
@@ -16915,31 +16788,23 @@ _Cite_:
 
 ###### Article 225-12
 
-Les personnes morales peuvent être déclarées responsables pénalement, dans les conditions prévues par l'article 121-2, des
-infractions définies aux articles 225-5 à 225-10.
-
-Les peines encourues par les personnes morales sont :
-
-1° L'amende, suivant les modalités prévues par l'article 131-38 ;
-
-2° Les peines mentionnées à l'article 131-39.
+Les personnes morales déclarées responsables pénalement, dans les conditions prévues par l'article 121-2, des infractions
+définies aux articles 225-5 à 225-10 encourent, outre l'amende suivant les modalités prévues par l'article 131-38, les peines
+prévues par l'article 131-39.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
-
-  - Loi n°92-684 1992-07-22
-
 _Modifié par_:
 
-  - Loi n°2003-239 2003-03-18 art. 50 1° JORF 19 mars 2003
+  - Loi n°2009-526 du 12 mai 2009 - art. 124
 
 _Cite_:
 
-  - Code pénal - art. 121-2 (M)
-  - Code pénal - art. 131-38 (M)
-  - Code pénal - art. 131-39 (MMN)
-  - Code pénal 121-2, 225-5 à 225-10, 131-38, 131-39
+  - Code pénal
+  - Code pénal - art. 121-2 (V)
+  - Code pénal - art. 131-38 (V)
+  - Code pénal - art. 131-39 (V)
+  - Code pénal - art. 225-5 (V)
 
 
 ##### Section 2 bis : Du recours à la prostitution de mineurs ou de personnes particulièrement vulnérables.<a id=107></a>
@@ -17044,33 +16909,24 @@ _Cite_:
 
 ###### Article 225-12-4
 
-Les personnes morales peuvent être déclarées responsables pénalement dans les conditions prévues par l'article 121-2 des
-infractions prévues par la présente section.
-
-Les peines encourues par les personnes morales sont :
-
-1° L'amende, suivant les modalités prévues par l'article 131-38 ;
-
-2° Les peines mentionnées à l'article 131-39.
+Les personnes morales déclarées responsables pénalement, dans les conditions prévues par l'article 121-2, des infractions
+définies à la présente section encourent, outre l'amende suivant les modalités prévues par l'article 131-38, les peines
+prévues par l'article 131-39. 
 
 L'interdiction mentionnée au 2° de l'article 131-39 porte sur l'activité dans l'exercice ou à l'occasion de l'exercice de
 laquelle l'infraction a été commise.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
-
-  - Loi n°92-684 1992-07-22
-
 _Modifié par_:
 
-  - Loi n°2003-239 2003-03-18 art. 50 3° JORF 19 mars 2003
+  - Loi n°2009-526 du 12 mai 2009 - art. 124
 
 _Cite_:
 
-  - Code pénal - art. 121-2 (M)
-  - Code pénal - art. 131-38 (M)
-  - Code pénal - art. 131-39 (MMN)
+  - Code pénal - art. 121-2 (V)
+  - Code pénal - art. 131-38 (V)
+  - Code pénal - art. 131-39 (V)
 
 
 ##### Section 2 ter : De l'exploitation de la mendicité<a id=108></a>
@@ -17289,30 +17145,21 @@ _Cite_:
 
 ###### Article 225-16
 
-Les personnes morales peuvent être déclarées responsables pénalement, dans les conditions prévues par l'article 121-2, des
-infractions définies aux articles 225-13 à 225-15. Les peines encourues par les personnes morales sont :
+Les personnes morales déclarées responsables pénalement, dans les conditions prévues par l'article 121-2, des infractions
+définies aux articles 225-13 à 225-15 encourent, outre l'amende suivant les modalités prévues par l'article 131-38 : 
 
-1° L'amende, suivant les modalités prévues par l'article 131-38 ;
+1° (Abrogé) ; 
 
-2° Les peines mentionnées à l'article 131-39 ;
+2° Les peines mentionnées à l'article 131-39 ; 
 
 3° La confiscation du fonds de commerce destiné à l'hébergement de personnes et ayant servi à commettre l'infraction prévue à
 l'article 225-14.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
-
-  - Loi n°92-684 1992-07-22
-
-**Liens**:
-
-  - SPEC_APPLI: Loi n°92-684 1992-07-22 art. 1
-  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
-
 _Modifié par_:
 
-  - Loi n°98-657 du 29 juillet 1998 - art. 124 () JORF 31 juillet 1998
+  - Loi n°2009-526 du 12 mai 2009 - art. 124
 
 _Cité par_:
 
@@ -17320,11 +17167,11 @@ _Cité par_:
 
 _Cite_:
 
-  - Code pénal - art. 121-2 (M)
-  - Code pénal - art. 131-38 (M)
-  - Code pénal - art. 131-39 (MMN)
-  - Code pénal - art. 225-14 (M)
-  - Code pénal 121-2, 225-13 à 225-15, 131-38, 131-39, 225-14
+  - Code pénal - art. 121-2 (V)
+  - Code pénal - art. 131-38 (V)
+  - Code pénal - art. 131-39 (V)
+  - Code pénal - art. 225-13 (V)
+  - Code pénal - art. 225-14 (V)
 
 
 ##### Section 3 bis : Du bizutage<a id=110></a>
@@ -17388,25 +17235,15 @@ _Cite_:
 
 ###### Article 225-16-3
 
-Les personnes morales peuvent être déclarées responsables pénalement, dans les conditions prévues par l'article 121-2, des
-infractions commises lors de manifestations ou de réunions liées aux milieux scolaire et socio-éducatif prévues par les
-articles 225-16-1 et 225-16-2.
-
-Les peines encourues par les personnes morales sont :
-
-1° L'amende, suivant les modalités prévues par l'article 131-38 ;
-
-2° Les peines mentionnées aux 4° et 9° de l'article 131-39.
+Les personnes morales déclarées responsables pénalement, dans les conditions prévues par l'article 121-2, des infractions
+définies aux articles 225-16-1 et 225-16-2 encourent, outre l'amende suivant les modalités prévues par l'article 131-38, les
+peines prévues par les 4° et 9° de l'article 131-39.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Modifié par_:
 
-  - Loi n°92-684 1992-07-22
-
-_Créé par_:
-
-  - Loi n°98-468 du 17 juin 1998 - art. 14 () JORF 18 juin 1998
+  - Loi n°2009-526 du 12 mai 2009 - art. 124
 
 **Liens**:
 
@@ -17414,11 +17251,10 @@ _Créé par_:
 
 _Cite_:
 
-  - Code pénal - art. 121-2 (M)
-  - Code pénal - art. 131-38 (M)
-  - Code pénal - art. 131-39 (MMN)
-  - Code pénal - art. 225-16-1 (M)
-  - Code pénal - art. 225-16-2 (M)
+  - Code pénal - art. 121-2 (V)
+  - Code pénal - art. 131-38 (V)
+  - Code pénal - art. 131-39 (V)
+  - Code pénal - art. 225-16-1 (V)
 
 
 ##### Section 4 : Des atteintes au respect dû aux morts<a id=111></a>
@@ -17497,37 +17333,31 @@ _Cite_:
 
 ###### Article 225-18-1
 
-Les personnes morales peuvent être déclarées pénalement responsables dans les conditions prévues par l'article 121-2 des
-infractions définies aux articles 225-17 et 225-18.
+Les personnes morales déclarées responsables pénalement, dans les conditions prévues par l'article 121-2, des infractions
+définies aux articles 225-17 et 225-18 encourent, outre l'amende suivant les modalités prévues par l'article 131-38 : 
 
-Les peines encourues par les personnes morales sont :
+1° (Abrogé) ; 
 
-1° L'amende, suivant les modalités prévues par l'article 131-38 ;
+2° Les peines mentionnées aux 2° à 9° de l'article 131-39 ; 
 
-2° Les peines mentionnées aux 2° à 9° de l'article 131-39 ;
-
-3° La peine mentionnée au 1° de l'article 131-39 pour les infractions définies par l'article 225-18.
+3° La peine mentionnée au 1° de l'article 131-39 pour les infractions définies par l'article 225-18. 
 
 L'interdiction mentionnée au 2° de l'article 131-39 porte sur l'activité dans l'exercice ou à l'occasion de l'exercice de
 laquelle l'infraction a été commise.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Modifié par_:
 
-  - Loi n°92-684 1992-07-22
-
-_Créé par_:
-
-  - Loi n°2001-504 du 12 juin 2001 - art. 11 () JORF 13 juin 2001
+  - Loi n°2009-526 du 12 mai 2009 - art. 124
 
 _Cite_:
 
-  - Code pénal - art. 121-2 (M)
-  - Code pénal - art. 131-38 (M)
-  - Code pénal - art. 131-39 (MMN)
-  - Code pénal - art. 225-17 (M)
-  - Code pénal - art. 225-18 (M)
+  - Code pénal - art. 121-2 (V)
+  - Code pénal - art. 131-38 (V)
+  - Code pénal - art. 131-39 (V)
+  - Code pénal - art. 225-17 (V)
+  - Code pénal - art. 225-18 (V)
 
 
 ##### Section 5 : Peines complémentaires applicables aux personnes physiques<a id=112></a>
@@ -18013,39 +17843,32 @@ _Cite_:
 
 ###### Article 226-7
 
-Les personnes morales peuvent être déclarées responsables pénalement, dans les conditions prévues par l'article 121-2, des
-infractions définies à la présente section.
+Les personnes morales déclarées responsables pénalement, dans les conditions prévues par l'article 121-2, des infractions
+définies à la présente section encourent, outre l'amende suivant les modalités prévues par l'article 131-38 : 
 
-Les peines encourues par les personnes morales sont :
-
-1° L'amende, suivant les modalités prévues par l'article 131-38 ;
+1° (Abrogé) ; 
 
 2° L'interdiction, à titre définitif ou pour une durée de cinq ans au plus, d'exercer directement ou indirectement l'activité
-professionnelle ou sociale dans l'exercice ou à l'occasion de l'exercice de laquelle l'infraction a été commise ;
+professionnelle ou sociale dans l'exercice ou à l'occasion de l'exercice de laquelle l'infraction a été commise ; 
 
 3° L'affichage ou la diffusion de la décision prononcée, dans les conditions prévues par l'article 131-35.
 
 **Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Loi n°92-684 1992-07-22
-
-**Liens**:
-
-  - SPEC_APPLI: Loi n°92-684 1992-07-22 art. 1
-  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
 
 _Cité par_:
 
   - Arrêté du 29 juillet 2004 - art. ANNEXE II (Ab)
   - Code pénal - art. 226-9 (V)
 
+_Modifié par_:
+
+  - Loi n°2009-526 du 12 mai 2009 - art. 124
+
 _Cite_:
 
-  - Code pénal - art. 121-2 (M)
-  - Code pénal - art. 131-35 (M)
-  - Code pénal - art. 131-38 (M)
+  - Code pénal - art. 121-2 (V)
+  - Code pénal - art. 131-35 (V)
+  - Code pénal - art. 131-38 (V)
 
 
 ##### Section 2 : De l'atteinte à la représentation de la personne<a id=116></a>
@@ -18172,34 +17995,28 @@ _Codifié par_:
 
 ###### Article 226-12
 
-Les personnes morales peuvent être déclarées responsables pénalement, dans les conditions prévues par l'article 121-2, de
-l'infraction définie à l'article 226-10.
+Les personnes morales déclarées responsables pénalement, dans les conditions prévues par l'article 121-2, de l'infraction
+définie à l'article 226-10 encourent, outre l'amende suivant les modalités prévues par l'article 131-38 : 
 
-Les peines encourues par les personnes morales sont :
-
-1° L'amende, suivant les modalités prévues par l'article 131-38 ;
+1° (Abrogé) ; 
 
 2° L'interdiction à titre définitif ou pour une durée de cinq ans au plus d'exercer directement ou indirectement une activité
-professionnelle ou sociale dans l'exercice ou à l'occasion de l'exercice de laquelle l'infraction a été commise ;
+professionnelle ou sociale dans l'exercice ou à l'occasion de l'exercice de laquelle l'infraction a été commise ; 
 
 3° L'affichage ou la diffusion de la décision prononcée, dans les conditions prévues par l'article 131-35.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Modifié par_:
 
-  - Loi n°92-684 1992-07-22
-
-**Liens**:
-
-  - SPEC_APPLI: Loi n°92-684 1992-07-22 art. 1
-  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
+  - Loi n°2009-526 du 12 mai 2009 - art. 124
 
 _Cite_:
 
-  - Code pénal - art. 131-35 (M)
-  - Code pénal - art. 131-38 (M)
-  - Code pénal - art. 226-10 (M)
+  - Code pénal - art. 121-2 (V)
+  - Code pénal - art. 131-35 (V)
+  - Code pénal - art. 131-38 (V)
+  - Code pénal - art. 226-10 (V)
 
 
 ##### Section 4 : De l'atteinte au secret<a id=118></a>
@@ -19541,33 +19358,24 @@ _Cité par_:
 
 ###### Article 226-24
 
-Les personnes morales peuvent être déclarées responsables pénalement, dans les conditions prévues par l'article 121-2, des
-infractions définies à la présente section.
-
-Les peines encourues par les personnes morales sont :
-
-1° L'amende, suivant les modalités prévues par l'article 131-38 ;
-
-2° Les peines mentionnées aux 2°, 3°, 4°, 5°, 7°, 8° et 9° de l'article 131-39.
+Les personnes morales déclarées responsables pénalement, dans les conditions prévues par l'article 121-2, des infractions
+définies à la présente section encourent, outre l'amende suivant les modalités prévues par l'article 131-38, les peines
+prévues par les 2° à 5° et 7° à 9° de l'article 131-39. 
 
 L'interdiction mentionnée au 2° de l'article 131-39 porte sur l'activité dans l'exercice ou à l'occasion de l'exercice de
 laquelle l'infraction a été commise.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
-
-  - Loi n°92-684 1992-07-22
-
 _Modifié par_:
 
-  - Loi n°2004-801 du 6 août 2004 - art. 14 () JORF 7 août 2004
+  - Loi n°2009-526 du 12 mai 2009 - art. 124
 
 _Cite_:
 
-  - Code pénal - art. 121-2 (M)
-  - Code pénal - art. 131-38 (M)
-  - Code pénal - art. 131-39 (MMN)
+  - Code pénal - art. 121-2 (V)
+  - Code pénal - art. 131-38 (V)
+  - Code pénal - art. 131-39 (V)
 
 
 ##### Section 6 : Des atteintes à la personne résultant de l'examen de ses caractéristiques génétiques ou de l'identification par ses empreintes génétiques<a id=122></a>
@@ -19775,27 +19583,18 @@ _Cite_:
 
 ###### Article 226-30
 
-Les personnes morales peuvent être déclarées responsables pénalement, dans les conditions prévues par l'article 121-2, des
-infractions définies à la présente section.
-
-Les peines encourues par les personnes morales sont :
-
-1° L'amende, suivant les modalités prévues par l'article 131-38 ;
-
-2° Les peines mentionnées aux 2°, 3°, 4°, 5°, 7°, 8° et 9° de l'article 131-39.
+Les personnes morales déclarées responsables pénalement, dans les conditions prévues par l'article 121-2, des infractions
+définies à la présente section encourent, outre l'amende suivant les modalités prévues par l'article 131-38, les peines
+prévues par les 2° à 5° et 7° à 9° de l'article 131-39. 
 
 L'interdiction mentionnée au 2° de l'article 131-39 porte sur l'activité dans l'exercice ou à l'occasion de l'exercice de
 laquelle l'infraction a été commise.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
-
-  - Loi n°92-684 1992-07-22
-
 _Modifié par_:
 
-  - Loi n°2004-800 du 6 août 2004 - art. 4 () JORF 7 août 2004
+  - Loi n°2009-526 du 12 mai 2009 - art. 124
 
 _Cité par_:
 
@@ -19809,9 +19608,9 @@ _Cité par_:
 
 _Cite_:
 
-  - Code pénal - art. 121-2 (M)
-  - Code pénal - art. 131-38 (M)
-  - Code pénal - art. 131-39 (MMN)
+  - Code pénal - art. 121-2 (V)
+  - Code pénal - art. 131-38 (V)
+  - Code pénal - art. 131-39 (V)
 
 
 ##### Section 7 : Peines complémentaires applicables aux personnes physiques<a id=123></a>
@@ -19968,17 +19767,13 @@ _Codifié par_:
 Le fait, pour une personne, de ne pas exécuter une décision judiciaire ou une convention judiciairement homologuée lui
 imposant de verser au profit d'un enfant mineur, d'un descendant, d'un ascendant ou du conjoint une pension, une
 contribution, des subsides ou des prestations de toute nature dues en raison de l'une des obligations familiales prévues par
-les titres V, VI, VII et VIII du livre Ier du code civil, en demeurant plus de deux mois sans s'acquitter intégralement de
-cette obligation, est puni de deux ans d'emprisonnement et de 15 000 euros d'amende.
+le titre IX du livre Ier du code civil, en demeurant plus de deux mois sans s'acquitter intégralement de cette obligation,
+est puni de deux ans d'emprisonnement et de 15 000 euros d'amende. 
 
 Les infractions prévues par le premier alinéa du présent article sont assimilées à des abandons de famille pour l'application
 du 3° de l'article 373 du code civil.
 
 **Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Loi n°92-684 1992-07-22
 
 _Cité par_:
 
@@ -19989,17 +19784,13 @@ _Cité par_:
   - Code de procédure pénale - art. R40-27 (V)
   - Code pénal - art. 227-4 (V)
 
-**Liens**:
-
-  - SPEC_APPLI: Ordonnance 2005-759 2005-07-04 art. 20 : spécificités d'application
-
 _Modifié par_:
 
-  - Ordonnance n°2005-759 du 4 juillet 2005 - art. 19 () JORF 7 juillet 2005 en vigueur le 1er juillet 2006
+  - Loi n°2009-526 du 12 mai 2009 - art. 133
 
 _Cite_:
 
-  - Code civil - art. 373 (M)
+  - Code civil - art. 373 (V)
 
 
 ###### Article 227-4
@@ -20037,33 +19828,24 @@ _Cite_:
 
 ###### Article 227-4-1
 
-Les personnes morales peuvent être déclarées pénalement responsables dans les conditions prévues par l'article 121-2 des
-infractions définies à la présente section.
-
-Les peines encourues par les personnes morales sont :
-
-1° L'amende, suivant les modalités prévues par l'article 131-38 ;
-
-2° Les peines mentionnées aux 2° à 9° de l'article 131-39.
+Les personnes morales déclarées responsables pénalement, dans les conditions prévues par l'article 121-2, des infractions
+définies à la présente section encourent, outre l'amende suivant les modalités prévues par l'article 131-38, les peines
+prévues par les 2° à 9° de l'article 131-39. 
 
 L'interdiction mentionnée au 2° de l'article 131-39 porte sur l'activité dans l'exercice ou à l'occasion de l'exercice de
 laquelle l'infraction a été commise.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Modifié par_:
 
-  - Loi n°92-684 1992-07-22
-
-_Créé par_:
-
-  - Loi n°2001-504 du 12 juin 2001 - art. 12 () JORF 13 juin 2001
+  - Loi n°2009-526 du 12 mai 2009 - art. 124
 
 _Cite_:
 
-  - Code pénal - art. 121-2 (M)
-  - Code pénal - art. 131-38 (M)
-  - Code pénal - art. 131-39 (MMN)
+  - Code pénal - art. 121-2 (V)
+  - Code pénal - art. 131-38 (V)
+  - Code pénal - art. 131-39 (V)
 
 
 ##### Section 3 : Des atteintes à l'exercice de l'autorité parentale<a id=127></a>
@@ -20319,31 +20101,21 @@ _Cité par_:
 
 ###### Article 227-14
 
-Les personnes morales peuvent être déclarées responsables pénalement, dans les conditions prévues par l'article 121-2, des
-infractions définies à la présente section.
-
-Les peines encourues par les personnes morales sont :
-
-1° L'amende, suivant les modalités prévues par l'article 131-38 ;
-
-2° Les peines mentionnées aux 1°, 2°, 3°, 8° et 9° de l'article 131-39.
+Les personnes morales déclarées responsables pénalement, dans les conditions prévues par l'article 121-2, des infractions
+définies à la présente section encourent, outre l'amende suivant les modalités prévues par l'article 131-38, les peines
+prévues par les 1° à 3°, 8° et 9° de l'article 131-39.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Modifié par_:
 
-  - Loi n°92-684 1992-07-22
-
-**Liens**:
-
-  - SPEC_APPLI: Loi n°92-684 1992-07-22 art. 1
-  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
+  - Loi n°2009-526 du 12 mai 2009 - art. 124
 
 _Cite_:
 
-  - Code pénal - art. 121-2 (M)
-  - Code pénal - art. 131-38 (M)
-  - Code pénal - art. 131-39 (MMN)
+  - Code pénal - art. 121-2 (V)
+  - Code pénal - art. 131-38
+  - Code pénal - art. 131-39 (V)
 
 
 ##### Section 5 : De la mise en péril des mineurs<a id=129></a>
@@ -20473,24 +20245,15 @@ _Cite_:
 
 ###### Article 227-17-2
 
-Les personnes morales peuvent être déclarées responsables pénalement, dans les conditions prévues par l'article 121-2, des
-infractions définies aux articles 227-15 à 227-17-1.
-
-Les peines encourues par les personnes morales sont :
-
-1° L'amende, suivant les modalités prévues par l'article 131-38 ;
-
-2° Les peines mentionnées à l'article 131-39.
+Les personnes morales déclarées responsables pénalement, dans les conditions prévues par l'article 121-2, des infractions
+définies aux articles 227-15 à 227-17-1 encourent, outre l'amende suivant les modalités prévues par l'article 131-38, les
+peines prévues par l'article 131-39.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
-
-  - Loi n°92-684 1992-07-22
-
 _Modifié par_:
 
-  - Loi n°2001-504 du 12 juin 2001 - art. 13 () JORF 13 juin 2001
+  - Loi n°2009-526 du 12 mai 2009 - art. 124
 
 _Cité par_:
 
@@ -20502,10 +20265,10 @@ _Cité par_:
 
 _Cite_:
 
-  - Code pénal - art. 121-2 (M)
-  - Code pénal - art. 131-38 (M)
-  - Code pénal - art. 131-39 (MMN)
-  - Code pénal 121-2, 227-15 à 227-17-1, 131-38, 131-39
+  - Code pénal - art. 121-2 (V)
+  - Code pénal - art. 131-38 (V)
+  - Code pénal - art. 131-39 (V)
+  - Code pénal - art. 227-15 (V)
 
 
 ###### Article 227-18
@@ -20998,38 +20761,25 @@ _Cite_:
 
 ###### Article 227-28-1
 
-Les personnes morales peuvent être déclarées responsables pénalement, dans les conditions prévues par l'article 121-2, des
-infractions prévues par les articles 227-18 à 227-26.
-
-Les peines encourues par les personnes morales sont :
-
-1° L'amende, suivant les modalités prévues par l'article 131-38 ;
-
-2° Les peines mentionnées aux 2°, 3°, 4°, 5°, 7°, 8° et 9° de l'article 131-39.
+Les personnes morales déclarées responsables pénalement, dans les conditions prévues par l'article 121-2, des infractions
+définies aux articles 227-18 à 227-26 encourent, outre l'amende suivant les modalités prévues par l'article 131-38, les
+peines prévues par les 2° à 5° et 7° à 9° de l'article 131-39. 
 
 L'interdiction mentionnée au 2° de l'article 131-39 porte sur l'activité dans l'exercice ou à l'occasion de l'exercice de
 laquelle l'infraction a été commise.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
-
-  - Loi n°92-684 1992-07-22
-
-**Liens**:
-
-  - SPEC_APPLI: Loi n°2002-305 2002-03-04 art. 19
-
 _Modifié par_:
 
-  - Loi n°2002-305 du 4 mars 2002 - art. 13 (V) JORF 5 mars 2002
+  - Loi n°2009-526 du 12 mai 2009 - art. 124
 
 _Cite_:
 
-  - Code pénal - art. 121-2 (M)
-  - Code pénal - art. 131-38 (M)
-  - Code pénal - art. 131-39 (MMN)
-  - Code pénal 121-2, 227-18 à 227-26, 131-38, 131-39
+  - Code pénal - art. 121-2 (V)
+  - Code pénal - art. 131-38 (V)
+  - Code pénal - art. 131-39 (V)
+  - Code pénal - art. 227-18 (V)
 
 
 ###### Article 227-28-2
@@ -21798,31 +21548,24 @@ _Cite_:
 
 ###### Article 311-16
 
-Les personnes morales peuvent être déclarées responsables pénalement, dans les conditions prévues par l'article 121-2, des
-infractions définies au présent chapitre.
+Les personnes morales déclarées responsables pénalement, dans les conditions prévues par l'article 121-2, des infractions
+définies au présent chapitre encourent, outre l'amende suivant les modalités prévues par l'article 131-38 : 
 
-Les peines encourues par les personnes morales sont :
-
-1° L'amende, suivant les modalités prévues par l'article 131-38 ;
+1° (Abrogé) ; 
 
 2° La peine mentionnée au 2° de l'article 131-39, à titre définitif ou provisoire dans les cas prévus aux articles 311-6 à
-311-10 et pour une durée de cinq ans au plus dans les cas prévus aux articles 311-3 à 311-5 ;
+311-10 et pour une durée de cinq ans au plus dans les cas prévus aux articles 311-3 à 311-5 ; 
 
-3° La peine mentionnée au 8° de l'article 131-39.
+3° La peine mentionnée au 8° de l'article 131-39. 
 
 L'interdiction mentionnée au 2° de l'article 131-39 porte sur l'activité dans l'exercice ou à l'occasion de l'exercice de
 laquelle l'infraction a été commise.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Modifié par_:
 
-  - Loi n°92-685 1992-07-22
-
-**Liens**:
-
-  - SPEC_APPLI: Loi n°92-685 1992-07-22 art. 1
-  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
+  - Loi n°2009-526 du 12 mai 2009 - art. 124
 
 _Cité par_:
 
@@ -21832,10 +21575,11 @@ _Cité par_:
 
 _Cite_:
 
-  - Code pénal - art. 121-2 (M)
-  - Code pénal - art. 131-38 (M)
-  - Code pénal - art. 131-39 (MMN)
-  - Code pénal 121-2, 131-38, 131-39, 311-6 à 311-10, 311-3 à 311-5
+  - Code pénal - art. 121-2 (V)
+  - Code pénal - art. 131-38 (V)
+  - Code pénal - art. 131-39 (V)
+  - Code pénal - art. 311-3 (V)
+  - Code pénal - art. 311-6 (V)
 
 
 #### Chapitre II : De l'extorsion<a id=138></a>
@@ -22323,34 +22067,24 @@ _Cite_:
 
 ###### Article 312-15
 
-Les personnes morales peuvent être déclarées responsables pénalement, dans les conditions prévues par l'article 121-2, des
-infractions définies au présent chapitre.
-
-Les peines encourues par les personnes morales sont :
-
-1° L'amende, suivant les modalités prévues par l'article 131-38 ;
-
-2° Les peines mentionnées à l'article 131-39.
+Les personnes morales déclarées responsables pénalement, dans les conditions prévues par l'article 121-2, des infractions
+définies au présent chapitre encourent, outre l'amende suivant les modalités prévues par l'article 131-38, les peines prévues
+par l'article 131-39.
 
 L'interdiction mentionnée au 2° de l'article 131-39 porte sur l'activité dans l'exercice ou à l'occasion de l'exercice de
 laquelle l'infraction a été commise.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Modifié par_:
 
-  - Loi n°92-685 1992-07-22
-
-**Liens**:
-
-  - SPEC_APPLI: Loi n°92-685 1992-07-22 art. 1
-  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
+  - Loi n°2009-526 du 12 mai 2009 - art. 124
 
 _Cite_:
 
-  - Code pénal - art. 121-2 (M)
-  - Code pénal - art. 131-38 (M)
-  - Code pénal - art. 131-39 (MMN)
+  - Code pénal - art. 121-2 (V)
+  - Code pénal - art. 131-38
+  - Code pénal - art. 131-39 (V)
 
 
 #### Chapitre III : De l'escroquerie et des infractions voisines<a id=143></a>
@@ -22760,35 +22494,27 @@ _Cite_:
 
 ###### Article 313-9
 
-Les personnes morales peuvent être déclarées responsables pénalement, dans les conditions prévues par l'article 121-2, des
-infractions définies aux articles 313-1 à 313-3 et à l'article 313-6-1.
-
-Les peines encourues par les personnes morales sont :
-
-1° L'amende, suivant les modalités prévues par l'article 131-38 ;
-
-2° Les peines mentionnées à l'article 131-39.
+Les personnes morales déclarées responsables pénalement, dans les conditions prévues par l'article 121-2, des infractions
+définies aux articles 313-1 à 313-3 et à l'article 313-6-1 encourent, outre l'amende suivant les modalités prévues par
+l'article 131-38, les peines prévues par les 2° à 9° de l'article 131-39.
 
 L'interdiction mentionnée au 2° de l'article 131-39 porte sur l'activité dans l'exercice ou à l'occasion de l'exercice de
 laquelle l'infraction a été commise.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
-
-  - Loi n°92-685 1992-07-22
-
 _Modifié par_:
 
-  - Loi n°2003-239 2003-03-18 art. 57 4° JORF 19 mars 2003
+  - Loi n°2009-526 du 12 mai 2009 - art. 124
 
 _Cite_:
 
-  - Code pénal - art. 121-2 (M)
-  - Code pénal - art. 131-38 (M)
-  - Code pénal - art. 131-39 (MMN)
+  - Code pénal
+  - Code pénal - art. 121-2
+  - Code pénal - art. 131-38
+  - Code pénal - art. 131-39
+  - Code pénal - art. 313-1 (V)
   - Code pénal - art. 313-6-1 (V)
-  - Code pénal 121-2, 313-1 à 313-3, 313-6-1, 131-38, 131-39
 
 
 #### Chapitre IV : Des détournements<a id=147></a>
@@ -23248,76 +22974,45 @@ _Cite_:
 
 ###### Article 314-12
 
-Les personnes morales peuvent être déclarées responsables pénalement, dans les conditions prévues par l'article 121-2, des
-infractions définies aux articles 314-1 et 314-2.
-
-Les peines encourues par les personnes morales sont :
-
-1° L'amende, suivant les modalités prévues par l'article 131-38 ;
-
-2° Les peines mentionnées à l'article 131-39.
+Les personnes morales déclarées responsables pénalement, dans les conditions prévues par l'article 121-2, des infractions
+définies aux articles 314-1 et 314-2 encourent, outre l'amende suivant les modalités prévues par l'article 131-38, les peines
+prévues par l'article 131-39. 
 
 L'interdiction mentionnée au 2° de l'article 131-39 porte sur l'activité dans l'exercice ou à l'occasion de l'exercice de
 laquelle l'infraction a été commise.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Modifié par_:
 
-  - Loi n°92-685 1992-07-22
-
-_Créé par_:
-
-  - Loi n°92-685 1992-07-22 JORF 23 juillet 1992 rectificatif JORF 23 décembre 1992 en vigueur le 1er mars 1994
-
-**Liens**:
-
-  - SPEC_APPLI: Loi n°92-685 1992-07-22 art. 1
-  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
+  - Loi n°2009-526 du 12 mai 2009 - art. 124
 
 _Cite_:
 
-  - Code pénal - art. 121-2 (M)
-  - Code pénal - art. 131-38 (M)
-  - Code pénal - art. 131-39 (MMN)
-  - Code pénal - art. 314-1 (M)
-  - Code pénal - art. 314-2 (M)
+  - Code pénal - art. 121-2 (V)
+  - Code pénal - art. 131-38 (V)
+  - Code pénal - art. 131-39 (V)
+  - Code pénal - art. 314-1 (V)
 
 
 ###### Article 314-13
 
-Les personnes morales peuvent être déclarées responsables pénalement, dans les conditions prévues par l'article 121-2, des
-infractions définies aux articles 314-5, 314-6 et 314-7.
-
-Les peines encourues par les personnes morales sont :
-
-1° L'amende, suivant les modalités prévues par l'article 131-38 ;
-
-2° Les peines prévues aux 8° et 9° de l'article 131-39.
+Les personnes morales déclarées responsables pénalement, dans les conditions prévues par l'article 121-2, des infractions
+définies aux articles 314-5,314-6 et 314-7 encourent, outre l'amende suivant les modalités prévues par l'article 131-38, les
+peines prévues par les 8° et 9° de l'article 131-39.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Modifié par_:
 
-  - Loi n°92-685 1992-07-22
-
-_Créé par_:
-
-  - Loi n°92-685 1992-07-22 JORF 23 juillet 1992 rectificatif JORF 23 décembre 1992 en vigueur le 1er mars 1994
-
-**Liens**:
-
-  - SPEC_APPLI: Loi n°92-685 1992-07-22 art. 1
-  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
+  - Loi n°2009-526 du 12 mai 2009 - art. 124
 
 _Cite_:
 
-  - Code pénal - art. 121-2 (M)
-  - Code pénal - art. 131-38 (M)
-  - Code pénal - art. 131-39 (MMN)
-  - Code pénal - art. 314-5 (M)
-  - Code pénal - art. 314-6 (M)
-  - Code pénal - art. 314-7 (M)
+  - Code pénal - art. 121-2 (V)
+  - Code pénal - art. 131-38 (V)
+  - Code pénal - art. 131-39 (V)
+  - Code pénal - art. 314-5 (V)
 
 
 ### Titre II : Des autres atteintes aux biens<a id=152></a>
@@ -23796,41 +23491,33 @@ _Cite_:
 
 ###### Article 321-12
 
-Les personnes morales peuvent être déclarées responsables pénalement, dans les conditions prévues par l'article 121-2, des
-infractions définies aux articles 321-1 à 321-4, 321-7 et 321-8.
+Les personnes morales déclarées responsables pénalement, dans les conditions prévues par l'article 121-2, des infractions
+définies aux articles 321-1 à 321-4, 321-7 et 321-8 encourent, outre l'amende suivant les modalités prévues par l'article
+131-38 :
 
-Les peines encourues par les personnes morales sont :
-
-1° L'amende, suivant les modalités prévues par l'article 131-38 ;
+1° (Abrogé) ;
 
 2° Dans les cas prévus par les articles 321-1 à 321-4, les peines mentionnées à l'article 131-39 ;
 
 3° Dans les cas prévus par les articles 321-7 et 321-8, les peines mentionnées aux 2°, 4°, 5°, 6°, 7°, 8° et 9° de l'article
 131-39.
 
-L'interdiction mentionnée au 1° de l'article 131-37 porte sur l'activité dans l'exercice ou à l'occasion de laquelle
+L'interdiction mentionnée au 2° de l'article 131-39 porte sur l'activité dans l'exercice ou à l'occasion de laquelle
 l'infraction a été commise.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Modifié par_:
 
-  - Loi n°92-685 1992-07-22
-
-**Liens**:
-
-  - SPEC_APPLI: Loi n°92-685 1992-07-22 art. 1
-  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
+  - Loi n°2009-526 du 12 mai 2009 - art. 124
 
 _Cite_:
 
-  - Code pénal - art. 121-2 (M)
-  - Code pénal - art. 131-37 (M)
-  - Code pénal - art. 131-38 (M)
-  - Code pénal - art. 131-39 (MMN)
-  - Code pénal - art. 321-7 (M)
-  - Code pénal - art. 321-8 (M)
-  - Code pénal 121-2, 321-1 à 321-4, 321-7, 321-8, 131-38, 131-39, 131-37
+  - Code pénal - art. 121-2 (V)
+  - Code pénal - art. 131-38 (V)
+  - Code pénal - art. 131-39 (V)
+  - Code pénal - art. 321-1 (V)
+  - Code pénal - art. 321-7 (V)
 
 
 #### Chapitre II : Des destructions, dégradations et détériorations<a id=157></a>
@@ -24582,30 +24269,19 @@ _Cite_:
 
 ###### Article 322-17
 
-Les personnes morales peuvent être déclarées responsables pénalement, dans les conditions prévues par l'article 121-2, des
-infractions définies au présent chapitre.
-
-Les peines encourues par les personnes morales sont :
-
-1° L'amende, suivant les modalités prévues par l'article 131-38 ;
-
-2° La peine mentionnée au 2° de l'article 131-39, pour une durée de cinq ans au plus dans les cas prévus par les articles
-322-1, 322-3, 322-5, 322-12, 322-13 et 322-14 et sans limitation de durée dans les cas prévus par les articles 322-6 à
-322-10.
+Les personnes morales déclarées responsables pénalement, dans les conditions prévues par l'article 121-2, des infractions
+définies au présent chapitre encourent, outre l'amende suivant les modalités prévues par l'article 131-38, la peine prévue
+par le 2° de l'article 131-39, pour une durée de cinq ans au plus dans les cas prévus par les articles
+322-1,322-3,322-5,322-12,322-13 et 322-14 et sans limitation de durée dans les cas prévus par les articles 322-6 à 322-10. 
 
 L'interdiction mentionnée au 2° de l'article 131-39 porte sur l'activité dans l'exercice ou à l'occasion de l'exercice de
 laquelle l'infraction a été commise.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Modifié par_:
 
-  - Loi n°92-685 1992-07-22
-
-**Liens**:
-
-  - SPEC_APPLI: Loi n°92-685 1992-07-22 art. 1
-  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
+  - Loi n°2009-526 du 12 mai 2009 - art. 124
 
 _Cité par_:
 
@@ -24614,16 +24290,12 @@ _Cité par_:
 
 _Cite_:
 
-  - Code pénal - art. 121-2 (M)
-  - Code pénal - art. 131-38 (M)
-  - Code pénal - art. 131-39 (MMN)
-  - Code pénal - art. 322-1 (M)
-  - Code pénal - art. 322-12 (M)
-  - Code pénal - art. 322-13 (MMN)
-  - Code pénal - art. 322-14 (M)
-  - Code pénal - art. 322-3 (M)
-  - Code pénal - art. 322-5 (M)
-  - Code pénal 121-2, 131-38, 131-39, 322-1, 322-3, 322-5, 322-12, 322-13, 322-14, 322-6 à 322-10
+  - Code pénal - art. 121-2 (V)
+  - Code pénal - art. 131-38 (V)
+  - Code pénal - art. 131-39 (V)
+  - Code pénal - art. 322-1 (V)
+  - Code pénal - art. 322-12 (V)
+  - Code pénal - art. 322-6 (V)
 
 
 ###### Article 322-18
@@ -24816,34 +24488,24 @@ _Cite_:
 
 ###### Article 323-6
 
-Les personnes morales peuvent être déclarées responsables pénalement, dans les conditions prévues par l'article 121-2, des
-infractions définies au présent chapitre.
-
-Les peines encourues par les personnes morales sont :
-
-1° L'amende, suivant les modalités prévues par l'article 131-38 ;
-
-2° Les peines mentionnées à l'article 131-39.
+Les personnes morales déclarées responsables pénalement, dans les conditions prévues par l'article 121-2, des infractions
+définies au présent chapitre encourent, outre l'amende suivant les modalités prévues par l'article 131-38, les peines prévues
+par l'article 131-39.
 
 L'interdiction mentionnée au 2° de l'article 131-39 porte sur l'activité dans l'exercice ou à l'occasion de l'exercice de
 laquelle l'infraction a été commise.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Modifié par_:
 
-  - Loi n°92-685 1992-07-22
-
-**Liens**:
-
-  - SPEC_APPLI: Loi n°92-685 1992-07-22 art. 1
-  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
+  - Loi n°2009-526 du 12 mai 2009 - art. 124
 
 _Cite_:
 
-  - Code pénal - art. 121-2 (M)
-  - Code pénal - art. 131-38 (M)
-  - Code pénal - art. 131-39 (MMN)
+  - Code pénal - art. 121-2 (V)
+  - Code pénal - art. 131-38 (V)
+  - Code pénal - art. 131-39
 
 
 ###### Article 323-7
@@ -25149,33 +24811,26 @@ _Cite_:
 
 ###### Article 324-9
 
-Les personnes morales peuvent être déclarées responsables pénalement, dans les conditions prévues par l'article 121-2, des
-infractions définies aux articles 324-1 et 324-2. Les peines encourues par les personnes morales sont :
-
-1° L'amende, suivant les modalités prévues par l'article 131-38 ;
-
-2° Les peines mentionnées à l'article 131-39.
+Les personnes morales déclarées responsables pénalement, dans les conditions prévues par l'article 121-2, des infractions
+définies aux articles 324-1 et 324-2 encourent, outre l'amende suivant les modalités prévues par l'article 131-38, les peines
+prévues par l'article 131-39.
 
 L'interdiction mentionnée au 2° de l'article 131-39 porte sur l'activité dans l'exercice ou à l'occasion de l'exercice de
 laquelle l'infraction a été commise.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Modifié par_:
 
-  - Loi n°92-685 1992-07-22
-
-_Créé par_:
-
-  - Loi n°96-392 du 13 mai 1996 - art. 1 () JORF 14 mai 1996
+  - Loi n°2009-526 du 12 mai 2009 - art. 124
 
 _Cite_:
 
-  - Code pénal - art. 121-2 (M)
-  - Code pénal - art. 131-38 (M)
-  - Code pénal - art. 131-39 (MMN)
-  - Code pénal - art. 324-1 (M)
-  - Code pénal - art. 324-2 (M)
+  - Code pénal - art. 121-2
+  - Code pénal - art. 131-38
+  - Code pénal - art. 131-39
+  - Code pénal - art. 324-1 (V)
+  - Code pénal - art. 324-2
 
 
 ## Livre IV : Des crimes et délits contre la nation, l'Etat et la paix publique<a id=166></a>
@@ -26444,34 +26099,24 @@ _Cite_:
 
 ###### Article 414-7
 
-Les personnes morales peuvent être déclarées responsables pénalement, dans les conditions prévues par l'article 121-2, des
-infractions définies au présent titre.
-
-Les peines encourues par les personnes morales sont :
-
-1° L'amende, suivant les modalités prévues par l'article 131-38 ;
-
-2° Les peines mentionnées à l'article 131-39.
+Les personnes morales déclarées responsables pénalement, dans les conditions prévues par l'article 121-2, des infractions
+définies au présent titre encourent, outre l'amende suivant les modalités prévues par l'article 131-38, les peines prévues
+par l'article 131-39. 
 
 L'interdiction mentionnée au 2° de l'article 131-39 porte sur l'activité dans l'exercice ou à l'occasion de l'exercice de
 laquelle l'infraction a été commise.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Modifié par_:
 
-  - Loi n°92-686 1992-07-22
-
-**Liens**:
-
-  - SPEC_APPLI: Loi n°92-686 1992-07-22 art. 1
-  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
+  - Loi n°2009-526 du 12 mai 2009 - art. 124
 
 _Cite_:
 
-  - Code pénal - art. 121-2 (M)
-  - Code pénal - art. 131-38 (M)
-  - Code pénal - art. 131-39 (MMN)
+  - Code pénal - art. 121-2 (V)
+  - Code pénal - art. 131-38 (V)
+  - Code pénal - art. 131-39 (V)
 
 
 ###### Article 414-8
@@ -27049,34 +26694,24 @@ _Cite_:
 
 ###### Article 422-5
 
-Les personnes morales peuvent être déclarées responsables pénalement, dans les conditions prévues par l'article 121-2, des
-actes de terrorisme définis au présent titre.
-
-Les peines encourues par les personnes morales sont :
-
-1° L'amende, suivant les modalités prévues par l'article 131-38 ;
-
-2° Les peines mentionnées à l'article 131-39.
+Les personnes morales déclarées responsables pénalement, dans les conditions prévues par l'article 121-2, des infractions
+définies au présent titre encourent, outre l'amende suivant les modalités prévues par l'article 131-38, les peines prévues
+par l'article 131-39. 
 
 L'interdiction mentionnée au 2° de l'article 131-39 porte sur l'activité dans l'exercice ou à l'occasion de l'exercice de
 laquelle l'infraction a été commise.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Modifié par_:
 
-  - Loi n°92-686 1992-07-22
-
-**Liens**:
-
-  - SPEC_APPLI: Loi n°92-686 1992-07-22 art. 1
-  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
+  - Loi n°2009-526 du 12 mai 2009 - art. 124
 
 _Cite_:
 
-  - Code pénal - art. 121-2 (M)
-  - Code pénal - art. 131-38 (M)
-  - Code pénal - art. 131-39 (MMN)
+  - Code pénal - art. 121-2 (V)
+  - Code pénal - art. 131-38 (V)
+  - Code pénal - art. 131-39 (V)
 
 
 ###### Article 422-6
@@ -27679,34 +27314,24 @@ _Cite_:
 
 ###### Article 431-20
 
-Les personnes morales peuvent être déclarées responsables pénalement, dans les conditions prévues par l'article 121-2, des
-infractions définies par la présente section.
-
-Les peines encourues par les personnes morales sont :
-
-1° L'amende, selon les modalités prévues par l'article 131-38 ;
-
-2° Les peines mentionnées à l'article 131-39.
+Les personnes morales déclarées responsables pénalement, dans les conditions prévues par l'article 121-2, des infractions
+définies à la présente section encourent, outre l'amende suivant les modalités prévues par l'article 131-38, les peines
+prévues par l'article 131-39.
 
 L'interdiction mentionnée au 2° de l'article 131-39 porte sur l'activité dans l'exercice ou à l'occasion de l'exercice de
 laquelle l'infraction a été commise.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Modifié par_:
 
-  - Loi n°92-686 1992-07-22
-
-**Liens**:
-
-  - SPEC_APPLI: Loi n°92-686 1992-07-22 art. 1
-  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
+  - Loi n°2009-526 du 12 mai 2009 - art. 124
 
 _Cite_:
 
-  - Code pénal - art. 121-2 (M)
-  - Code pénal - art. 131-38 (M)
-  - Code pénal - art. 131-39 (MMN)
+  - Code pénal - art. 121-2 (V)
+  - Code pénal - art. 131-38 (V)
+  - Code pénal - art. 131-39 (V)
 
 
 ###### Article 431-21
@@ -29470,18 +29095,17 @@ _Cite_:
 
 ###### Article 433-25
 
-Les personnes morales peuvent être déclarées responsables pénalement, dans les conditions prévues par l'article 121-2, des
-infractions définies aux sections 1, 6, 7, 9 et 10 du présent chapitre.
+Les personnes morales déclarées responsables pénalement, dans les conditions prévues par l'article 121-2, des infractions
+définies aux sections 1,6,7,9 et 10 du présent chapitre encourent, outre l'amende suivant les modalités prévues par l'article
+131-38 : 
 
-Les peines encourues par les personnes morales sont :
+1° (Abrogé) ; 
 
-1° L'amende suivant les modalités prévues par l'article 131-38 ;
+2° Pour une durée de cinq ans au plus, les peines mentionnées aux 2°, 3°, 4°, 5°, 6° et 7° de l'article 131-39 ; 
 
-2° Pour une durée de cinq ans au plus, les peines mentionnées aux 2°, 3°, 4°, 5°, 6° et 7° de l'article 131-39 ;
+3° La confiscation prévue à l'article 131-21 ; 
 
-3° La confiscation prévue à l'article 131-21 ;
-
-4° L'affichage ou la diffusion de la décision prononcée dans les conditions prévues par l'article 131-35.
+4° L'affichage ou la diffusion de la décision prononcée dans les conditions prévues par l'article 131-35. 
 
 L'interdiction mentionnée au 2° de l'article 131-39 porte sur l'activité dans l'exercice ou à l'occasion de l'exercice de
 laquelle l'infraction a été commise.
@@ -29509,22 +29133,17 @@ _Cité par_:
   - Code de la santé publique - art. L6222-2 (V)
   - Code de la santé publique - art. L6242-1 (V)
 
-_Codifié par_:
+_Modifié par_:
 
-  - Loi n°92-686 1992-07-22
-
-**Liens**:
-
-  - SPEC_APPLI: Loi n°92-686 1992-07-22 art. 1
-  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
+  - Loi n°2009-526 du 12 mai 2009 - art. 124
 
 _Cite_:
 
-  - Code pénal - art. 121-2 (M)
-  - Code pénal - art. 131-21 (M)
-  - Code pénal - art. 131-35 (M)
-  - Code pénal - art. 131-38 (M)
-  - Code pénal - art. 131-39 (MMN)
+  - Code pénal - art. 121-2 (V)
+  - Code pénal - art. 131-21 (V)
+  - Code pénal - art. 131-35 (V)
+  - Code pénal - art. 131-38 (V)
+  - Code pénal - art. 131-39 (V)
 
 
 #### Chapitre IV : Des atteintes à l'action de justice<a id=219></a>
@@ -31813,33 +31432,28 @@ _Cite_:
 
 ###### Article 436-5
 
-Les personnes morales peuvent être déclarées responsables pénalement, dans les conditions prévues par l'article 121-2, de
-l'infraction définie à l'article 436-2.
-
-Les peines encourues par les personnes morales sont :
-
-1° L'amende, selon les modalités prévues par l'article 131-38 ;
-
-2° Les peines mentionnées à l'article 131-39.
+Les personnes morales déclarées responsables pénalement, dans les conditions prévues par l'article 121-2, de l'infraction
+définie à l'article 436-2 encourent, outre l'amende suivant les modalités prévues par l'article 131-38, les peines prévues
+par l'article 131-39.
 
 L'interdiction mentionnée au 2° de l'article 131-39 porte sur l'activité dans l'exercice ou à l'occasion de l'exercice de
 laquelle l'infraction a été commise.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
-
-  - Loi n°92-686 1992-07-22
-
 _Créé par_:
 
-  - Loi n°2003-340 2003-04-14 art. 1 JORF 15 avril 2003
+  - Loi n°2003-340 du 14 avril 2003 - art. unique
+
+_Modifié par_:
+
+  - Loi n°2009-526 du 12 mai 2009 - art. 124
 
 _Cite_:
 
-  - Code pénal - art. 121-2 (M)
-  - Code pénal - art. 131-38 (M)
-  - Code pénal - art. 131-39 (MMN)
+  - Code pénal - art. 121-2 (V)
+  - Code pénal - art. 131-38 (V)
+  - Code pénal - art. 131-39 (V)
   - Code pénal - art. 436-2 (V)
 
 
@@ -32319,39 +31933,29 @@ _Cite_:
 
 ###### Article 441-12
 
-Les personnes morales peuvent être déclarées responsables pénalement, dans les conditions prévues par l'article 121-2, des
-infractions définies au présent chapitre.
-
-Les peines encourues par les personnes morales sont :
-
-1° L'amende, suivant les modalités prévues par l'article 131-38 ;
-
-2° Les peines mentionnées à l'article 131-39.
+Les personnes morales déclarées responsables pénalement, dans les conditions prévues par l'article 121-2, des infractions
+définies au présent chapitre encourent, outre l'amende suivant les modalités prévues par l'article 131-38, les peines prévues
+par l'article 131-39. 
 
 L'interdiction mentionnée au 2° de l'article 131-39 porte sur l'activité dans l'exercice ou à l'occasion de l'exercice de
 laquelle l'infraction a été commise.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
-
-  - Loi n°92-686 1992-07-22
-
-**Liens**:
-
-  - SPEC_APPLI: Loi n°92-686 1992-07-22 art. 1
-  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
-
 _Cité par_:
 
   - Loi n°2005-781 du 13 juillet 2005 - art. 17 (VT)
   - Code de l'énergie - art. L222-8 (V)
 
+_Modifié par_:
+
+  - Loi n°2009-526 du 12 mai 2009 - art. 124
+
 _Cite_:
 
-  - Code pénal - art. 121-2 (M)
-  - Code pénal - art. 131-38 (M)
-  - Code pénal - art. 131-39 (MMN)
+  - Code pénal - art. 121-2 (V)
+  - Code pénal - art. 131-38 (V)
+  - Code pénal - art. 131-39 (V)
 
 
 #### Chapitre II : De la fausse monnaie<a id=241></a>
@@ -32724,14 +32328,12 @@ _Cite_:
 
 ###### Article 442-14
 
-Les personnes morales peuvent être déclarées responsables pénalement, dans les conditions prévues par l'article 121-2, des
-infractions définies au présent chapitre.
+Les personnes morales déclarées responsables pénalement, dans les conditions prévues par l'article 121-2, des infractions
+définies au présent chapitre encourent, outre l'amende suivant les modalités prévues par l'article 131-38 : 
 
-Les peines encourues par les personnes morales sont :
+1° (Abrogé) ; 
 
-1° L'amende, suivant les modalités prévues par l'article 131-38 ;
-
-2° Les peines mentionnées à l'article 131-39 ;
+2° Les peines mentionnées à l'article 131-39 ; 
 
 3° La confiscation, suivant les modalités prévues par l'article 442-13.
 
@@ -32740,21 +32342,16 @@ laquelle l'infraction a été commise.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Modifié par_:
 
-  - Loi n°92-686 1992-07-22
-
-**Liens**:
-
-  - SPEC_APPLI: Loi n°92-686 1992-07-22 art. 1
-  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
+  - Loi n°2009-526 du 12 mai 2009 - art. 124
 
 _Cite_:
 
-  - Code pénal - art. 121-2 (M)
-  - Code pénal - art. 131-38 (M)
-  - Code pénal - art. 131-39 (MMN)
-  - Code pénal - art. 442-13 (M)
+  - Code pénal - art. 121-2 (V)
+  - Code pénal - art. 131-38 (V)
+  - Code pénal - art. 131-39 (V)
+  - Code pénal - art. 442-13 (V)
 
 
 ###### Article 442-15
@@ -32993,37 +32590,29 @@ _Cite_:
 
 ###### Article 443-8
 
-Les personnes morales peuvent être déclarées responsables pénalement, dans les conditions prévues par l'article 121-2, des
-infractions prévues au présent chapitre.
+Les personnes morales déclarées responsables pénalement, dans les conditions prévues par l'article 121-2, des infractions
+définies au présent chapitre encourent, outre l'amende suivant les modalités prévues par l'article 131-38 : 
 
-Les peines encourues par les personnes morales sont :
+1° (Abrogé) ; 
 
-1° L'amende, suivant les modalités prévues par l'article 131-38 ;
+2° Les peines mentionnées à l'article 131-39 ; 
 
-2° Les peines mentionnées à l'article 131-39 ;
-
-3° La confiscation suivant les modalités prévues par l'article 443-6.
+3° La confiscation suivant les modalités prévues par l'article 443-6. 
 
 L'interdiction mentionnée au 2° de l'article 131-39 porte sur l'activité dans l'exercice ou à l'occasion de l'exercice de
 laquelle l'infraction a été commise.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Modifié par_:
 
-  - Loi n°92-686 1992-07-22
-
-**Liens**:
-
-  - SPEC_APPLI: Loi n°92-686 1992-07-22 art. 1
-  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
+  - Loi n°2009-526 du 12 mai 2009 - art. 124
 
 _Cite_:
 
-  - Code pénal - art. 121-2 (M)
-  - Code pénal - art. 131-38 (M)
-  - Code pénal - art. 131-39 (MMN)
-  - Code pénal - art. 443-6 (V)
+  - Code pénal - art. 121-2 (V)
+  - Code pénal - art. 131-38 (V)
+  - Code pénal - art. 131-39 (V)
 
 
 #### Chapitre IV : De la falsification des marques de l'autorité<a id=243></a>
@@ -33266,36 +32855,29 @@ _Cite_:
 
 ###### Article 444-9
 
-Les personnes morales peuvent être déclarées pénalement responsables, dans les conditions prévues par l'article 121-2, des
-infractions définies au présent chapitre.
+Les personnes morales déclarées responsables pénalement, dans les conditions prévues par l'article 121-2, des infractions
+définies au présent chapitre encourent, outre l'amende suivant les modalités prévues par l'article 131-38 : 
 
-Les peines encourues par les personnes morales sont :
+1° (Abrogé) ; 
 
-1° L'amende, suivant les modalités prévues par l'article 131-38 ;
+2° Les peines mentionnées à l'article 131-39 ; 
 
-2° Les peines mentionnées à l'article 131-39 ;
-
-3° La confiscation, suivant les modalités prévues par l'article 444-7.
+3° La confiscation, suivant les modalités prévues par l'article 444-7. 
 
 L'interdiction mentionnée au 2° de l'article 131-39 porte sur l'activité dans l'exercice ou à l'occasion de l'exercice de
 laquelle l'infraction a été commise.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Modifié par_:
 
-  - Loi n°92-686 1992-07-22
-
-**Liens**:
-
-  - SPEC_APPLI: Loi n°92-686 1992-07-22 art. 1
-  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
+  - Loi n°2009-526 du 12 mai 2009 - art. 124
 
 _Cite_:
 
-  - Code pénal - art. 121-2 (M)
-  - Code pénal - art. 131-38 (M)
-  - Code pénal - art. 131-39 (MMN)
+  - Code pénal - art. 121-2 (V)
+  - Code pénal - art. 131-38 (V)
+  - Code pénal - art. 131-39 (V)
   - Code pénal - art. 444-7 (V)
 
 
@@ -33415,42 +32997,36 @@ _Cite_:
 
 ###### Article 445-4
 
-Les personnes morales peuvent être déclarées responsables pénalement, dans les conditions prévues par l'article 121-2, des
-infractions définies aux articles 445-1 et 445-2.
+Les personnes morales déclarées responsables pénalement, dans les conditions prévues par l'article 121-2, des infractions
+définies aux articles 445-1 et 445-2 encourent, outre l'amende suivant les modalités prévues par l'article 131-38 : 
 
-Les peines encourues par les personnes morales sont :
-
-1° L'amende suivant les modalités prévues par l'article 131-38 ;
+1° (Abrogé) ; 
 
 2° Pour une durée de cinq ans au plus, les peines mentionnées aux 2°, 3°, 4°, 5°, 6° et 7° de l'article 131-39.
 
 L'interdiction mentionnée au 2° de l'article 131-39 porte sur l'activité dans l'exercice ou à l'occasion de laquelle
-l'infraction a été commise ;
+l'infraction a été commise ; 
 
 3° La confiscation, suivant les modalités prévues par l'article 131-21, de la chose qui a servi ou était destinée à commettre
-l'infraction ou de la chose qui en est le produit, à l'exception des objets susceptibles de restitution ;
+l'infraction ou de la chose qui en est le produit, à l'exception des objets susceptibles de restitution ; 
 
 4° L'affichage ou la diffusion de la décision prononcée dans les conditions prévues par l'article 131-35.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Modifié par_:
 
-  - Loi n°92-686 1992-07-22
-
-_Créé par_:
-
-  - Loi n°2005-750 du 4 juillet 2005 - art. 3 () JORF 6 juillet 2005
+  - Loi n°2009-526 du 12 mai 2009 - art. 124
 
 _Cite_:
 
-  - Code pénal - art. 121-2 (M)
-  - Code pénal - art. 131-21 (M)
-  - Code pénal - art. 131-35 (M)
-  - Code pénal - art. 131-38 (M)
-  - Code pénal - art. 131-39 (MMN)
-  - Code pénal - art. 445-1 (M)
-  - Code pénal - art. 445-2 (M)
+  - Code pénal - art. 121-2
+  - Code pénal - art. 131-21
+  - Code pénal - art. 131-35
+  - Code pénal - art. 131-38
+  - Code pénal - art. 131-39
+  - Code pénal - art. 445-1
+  - Code pénal - art. 445-2
 
 
 ### Titre V : De la participation à une association de malfaiteurs<a id=247></a>
@@ -33581,34 +33157,25 @@ _Cite_:
 
 ###### Article 450-4
 
-Les personnes morales peuvent être déclarées responsables pénalement, dans les conditions prévues par l'article 121-2, de
-l'infraction prévue par l'article 450-1.
-
-Les peines encourues par les personnes morales sont :
-
-1° L'amende, suivant les modalités prévues par l'article 131-38 ;
-
-2° Les peines mentionnées à l'article 131-39.
+Les personnes morales déclarées responsables pénalement, dans les conditions prévues par l'article 121-2, de l'infraction
+définie à l'article 450-1 encourent, outre l'amende suivant les modalités prévues par l'article 131-38, les peines prévues
+par l'article 131-39.
 
 L'interdiction mentionnée au 2° de l'article 131-39 porte sur l'activité dans l'exercice ou à l'occasion de l'exercice de
 laquelle l'infraction a été commise.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Modifié par_:
 
-  - Loi n°92-686 1992-07-22
-
-_Créé par_:
-
-  - Loi n°98-468 du 17 juin 1998 - art. 22 () JORF 18 juin 1998
+  - Loi n°2009-526 du 12 mai 2009 - art. 124
 
 _Cite_:
 
-  - Code pénal - art. 121-2 (M)
-  - Code pénal - art. 131-38 (M)
-  - Code pénal - art. 131-39 (MMN)
-  - Code pénal - art. 450-1 (M)
+  - Code pénal - art. 121-2 (V)
+  - Code pénal - art. 131-38 (V)
+  - Code pénal - art. 131-39 (V)
+  - Code pénal - art. 450-1
 
 
 ###### Article 450-5
@@ -34988,29 +34555,18 @@ _Créé par_:
 
 ###### Article 511-28
 
-Les personnes morales peuvent être déclarées responsables pénalement, dans les conditions prévues par l'article 121-2, des
-infractions définies au présent chapitre. Les peines encourues par les personnes morales sont :
-
-1° L'amende, suivant la modalités prévues par l'article 131-38 ;
-
-2° Les peines mentionnées à l'article 131-39.
+Les personnes morales déclarées responsables pénalement, dans les conditions prévues par l'article 121-2, des infractions
+définies au présent chapitre encourent, outre l'amende suivant les modalités prévues par l'article 131-38, les peines prévues
+par l'article 131-39. 
 
 L'interdiction mentionnée au 2° de l'article 131-39 porte sur l'activité dans l'exercice ou à l'occasion de l'exercice de
 laquelle l'infraction a été commise.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Modifié par_:
 
-  - Loi n°92-1336 1992-12-16
-
-**Liens**:
-
-  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
-
-_Créé par_:
-
-  - Loi n°94-653 du 29 juillet 1994 - art. 9 () JORF 30 juillet 1994
+  - Loi n°2009-526 du 12 mai 2009 - art. 124
 
 _Cité par_:
 
@@ -35023,9 +34579,9 @@ _Cité par_:
 
 _Cite_:
 
-  - Code pénal - art. 121-2 (M)
-  - Code pénal - art. 131-38 (M)
-  - Code pénal - art. 131-39 (MMN)
+  - Code pénal - art. 121-2 (V)
+  - Code pénal - art. 131-38 (V)
+  - Code pénal - art. 131-39 (V)
 
 
 ### Titre II : Autres dispositions<a id=255></a>
@@ -35658,37 +35214,25 @@ _Cité par_:
 
 ###### Article 717-3
 
-Les personnes morales peuvent être déclarées responsables pénalement, dans les conditions prévues par l'article 121-2, des
-infractions définies aux deux premiers alinéas de l'article précédent.
-
-Les peines encourues par les personnes morales sont :
-
-1° L'amende, suivant les modalités prévues par l'article 131-38 ;
-
-2° Les peines mentionnées aux 2°, 3°, 4°, 5°, 6° et 9° de l'article 131-39.
+Les personnes morales déclarées responsables pénalement, dans les conditions prévues par l'article 121-2, des infractions
+définies aux deux premiers alinéas de l'article 717-2 encourent, outre l'amende suivant les modalités prévues par l'article
+131-38, les peines prévues par les 2° à 6° et 9° de l'article 131-39.
 
 L'interdiction mentionnée au 2° de l'article 131-39 porte sur l'activité dans l'exercice ou à l'occasion de l'exercice de
 laquelle l'infraction a été commise.
 
 **Liens relatifs à cet article**
 
-**Liens**:
-
-  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
-
-_Codifié par_:
-
-  - Ordonnance 96-267 1996-03-28
-
 _Modifié par_:
 
-  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+  - Loi n°2009-526 du 12 mai 2009 - art. 124
 
 _Cite_:
 
-  - Code pénal - art. 121-2 (M)
-  - Code pénal - art. 131-38 (M)
-  - Code pénal - art. 131-39 (MMN)
+  - Code pénal - art. 121-2 (V)
+  - Code pénal - art. 131-38 (V)
+  - Code pénal - art. 131-39 (V)
+  - Code pénal - art. 717-2 (V)
 
 
 ### Titre II : Dispositions applicables à Mayotte.<a id=266></a>
@@ -36879,37 +36423,24 @@ _Cite_:
 
 ###### Article 727-3
 
-Les personnes morales peuvent être déclarées responsables pénalement, dans les conditions prévues par l'article 121-2, des
-infractions définies aux deux premiers alinéas de l'article précédent.
-
-Les peines encourues par les personnes morales sont :
-
-1° L'amende, suivant les modalités prévues à l'article 131-38 ;
-
-2° Les peines mentionnées aux 2°, 3°, 4°, 5°, 6° et 9° de l'article 131-39.
+Les personnes morales déclarées responsables pénalement, dans les conditions prévues par l'article 121-2, des infractions
+définies aux deux premiers alinéas de l'article 727-2 encourent, outre l'amende suivant les modalités prévues par l'article
+131-38, les peines prévues par les 2° à 6° et 9° de l'article 131-39. 
 
 L'interdiction mentionnée au 2° de l'article 131-39 porte sur l'activité dans l'exercice ou à l'occasion de l'exercice de
 laquelle l'infraction a été commise.
 
 **Liens relatifs à cet article**
 
-**Liens**:
-
-  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
-
-_Codifié par_:
-
-  - Ordonnance 96-267 1996-03-28
-
 _Modifié par_:
 
-  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+  - Loi n°2009-526 du 12 mai 2009 - art. 124
 
 _Cite_:
 
-  - Code pénal - art. 121-2 (M)
-  - Code pénal - art. 131-38 (M)
-  - Code pénal - art. 131-39 (MMN)
+  - Code pénal - art. 121-2 (V)
+  - Code pénal - art. 131-38 (V)
+  - Code pénal - art. 131-39 (V)
 
 
 # Partie réglementaire - Décrets en Conseil d'Etat<a id=274></a>
