@@ -1,5 +1,5 @@
 # Code pénal  
-Version Consolidée au 2010-03-04
+Version Consolidée au 2010-03-05
 ## Contenu: 
   - [Partie législative (art. 111-1 à 727-3)](#1)
     - [Livre Ier : Dispositions générales (art. 111-1 à 133-17)](#2)
@@ -37871,43 +37871,34 @@ _Créé par_:
 
 Lorsque le stage de citoyenneté concerne des mineurs, il est élaboré et mis en oeuvre sous le contrôle d'un service du
 secteur public de protection judiciaire de la jeunesse. Le projet de stage est transmis par le responsable de ce service au
-directeur départemental de la protection judiciaire de la jeunesse. Pour en autoriser la mise en oeuvre, le directeur
-recueille l'avis du juge des enfants et l'accord du procureur de la République du lieu où se déroulera habituellement le
-stage.
+directeur territorial de la protection judiciaire de la jeunesse. Pour en autoriser la mise en oeuvre, le directeur recueille
+l'avis du juge des enfants et l'accord du procureur de la République du lieu où se déroulera habituellement le stage.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Modifié par_:
 
-  - Décret n°93-726 1993-03-29
-
-_Créé par_:
-
-  - Décret n°2004-1021 du 27 septembre 2004 - art. 1 () JORF 29 septembre 2004
+  - Décret n°2010-214 du 2 mars 2010 - art. 8 (V)
 
 
 ###### Article R131-42
 
 La convention prévue à l'article R. 131-38 est passée entre les personnes mentionnées au premier alinéa de cet article et le
-service du secteur public de la protection judiciaire de la jeunesse.
+service du secteur public de la protection judiciaire de la jeunesse. 
 
-Le directeur départemental de la protection judiciaire de la jeunesse informe le juge des enfants et le procureur de la
+Le directeur territorial de la protection judiciaire de la jeunesse informe le juge des enfants et le procureur de la
 République de l'identité des services mettant en oeuvre des stages de citoyenneté pour les mineurs dans le département et du
 contenu de ces stages.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Modifié par_:
 
-  - Décret n°93-726 1993-03-29
-
-_Créé par_:
-
-  - Décret n°2004-1021 du 27 septembre 2004 - art. 1 () JORF 29 septembre 2004
+  - Décret n°2010-214 du 2 mars 2010 - art. 8 (V)
 
 _Cite_:
 
-  - Code pénal - art. R131-38 (V)
+  - Code pénal - art. 131-38 (V)
 
 
 ###### Article R131-43
