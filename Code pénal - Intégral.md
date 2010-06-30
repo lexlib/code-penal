@@ -1,5 +1,5 @@
 # Code pénal  
-Version Consolidée au 2010-06-30
+Version Consolidée au 2010-07-01
 ## Contenu: 
   - [Partie législative (art. 111-1 à 727-3)](#1)
     - [Livre Ier : Dispositions générales (art. 111-1 à 133-17)](#2)
@@ -27,389 +27,390 @@ Version Consolidée au 2010-06-30
             - [Sous-section 2 : Des peines contraventionnelles (art. 131-40 à 131-44-1)](#24)
             - [Sous-section 3 : Du contenu et des modalités d'application de certaines peines (art. 131-45 à 131-49)](#25)
         - [Chapitre II : Du régime des peines (art. 132-1 à 132-80)](#26)
-          - [Section 1 : Dispositions générales (art. 132-2 à 132-23)](#27)
+          - [Section 1 : Dispositions générales (art. 132-2 à 132-23-2)](#27)
             - [Sous-section 1 : Des peines applicables en cas de concours d'infractions (art. 132-2 à 132-7)](#28)
-            - [Sous-section 2 : Des peines applicables en cas de récidive (art. 132-8 à 132-16-6)](#29)
+            - [Sous-section 2 : Des peines applicables en cas de récidive (art. 132-8 à 132-16-5)](#29)
               - [Paragraphe 1 : Personnes physiques (art. 132-8 à 132-11)](#30)
               - [Paragraphe 2 : Personnes morales (art. 132-12 à 132-15)](#31)
-              - [Paragraphe 3 : Dispositions générales (art. 132-16 à 132-16-6)](#32)
+              - [Paragraphe 3 : Dispositions générales (art. 132-16 à 132-16-5)](#32)
             - [Sous-section 3 : Des peines applicables en cas de réitération d'infractions (art. 132-16-7)](#33)
             - [Sous-section 4 : Du prononcé des peines (art. 132-17 à 132-22)](#34)
             - [Sous-section 5 : De la période de sûreté (art. 132-23)](#35)
-          - [Section 2 : Des modes de personnalisation des peines (art. 132-24 à 132-70)](#36)
-            - [Sous-section 1 : De la semi-liberté, du placement à l'extérieur et du placement sous surveillance électronique (art. 132-25 à 132-26-3)](#37)
-              - [Paragraphe 1 : De la semi-liberté et du placement à l'extérieur (art. 132-25 à 132-26)](#38)
-              - [Paragraphe 2 : Du placement sous surveillance électronique (art. 132-26-1 à 132-26-3)](#39)
-            - [Sous-section 2 : Du fractionnement des peines (art. 132-27 à 132-28)](#40)
-            - [Sous-section 3 : Du sursis simple (art. 132-29 à 132-39)](#41)
-              - [Paragraphe 1 : Des conditions d'octroi du sursis simple (art. 132-30 à 132-34)](#42)
-              - [Paragraphe 2 : Des effets du sursis simple (art. 132-35 à 132-39)](#43)
-            - [Sous-section 4 : Du sursis avec mise à l'épreuve (art. 132-40 à 132-53)](#44)
-              - [Paragraphe 1 : Des conditions d'octroi du sursis avec mise à l'épreuve (art. 132-40 à 132-42)](#45)
-              - [Paragraphe 2 : Du régime de la mise à l'épreuve (art. 132-43 à 132-46)](#46)
-              - [Paragraphe 3 : De la révocation du sursis avec mise à l'épreuve en cas de nouvelle infraction (art. 132-47 à 132-51)](#47)
-              - [Paragraphe 4 : Des effets du sursis avec mise à l'épreuve (art. 132-52 à 132-53)](#48)
-            - [Sous-section 5 : Du sursis assorti de l'obligation d'accomplir un travail d'intérêt général (art. 132-54 à 132-57)](#49)
-            - [Sous-section 6 : De la dispense de peine et de l'ajournement (art. 132-58 à 132-70)](#50)
-              - [Paragraphe 1 : De la dispense de la peine (art. 132-59)](#51)
-              - [Paragraphe 2 : De l'ajournement simple (art. 132-60 à 132-62)](#52)
-              - [Paragraphe 3 : De l'ajournement avec mise à l'épreuve (art. 132-63 à 132-65)](#53)
-              - [Paragraphe 4 : De l'ajournement avec injonction (art. 132-66 à 132-70)](#54)
-          - [Section 3 : De la définition de certaines circonstances entraînant l'aggravation, la diminution ou l'exemption des peines (art. 132-71 à 132-80)](#55)
-        - [Chapitre III : De l'extinction des peines et de l'effacement des condamnations (art. 133-1 à 133-17)](#56)
-          - [Section 1 : De la prescription (art. 133-2 à 133-6)](#57)
-          - [Section 2 : De la grâce (art. 133-7 à 133-8)](#58)
-          - [Section 3 : De l'amnistie (art. 133-9 à 133-11)](#59)
-          - [Section 4 : De la réhabilitation (art. 133-12 à 133-17)](#60)
-    - [Livre II : Des crimes et délits contre les personnes (art. 211-1 à 227-33)](#61)
-      - [Titre Ier : Des crimes contre l'humanité et contre l'espèce humaine (art. 211-1 à 215-4)](#62)
-        - [Sous-titre Ier : Des crimes contre l'humanité (art. 211-1 à 213-5)](#63)
-          - [Chapitre Ier : Du génocide (art. 211-1)](#64)
-          - [Chapitre II : Des autres crimes contre l'humanité (art. 212-1 à 212-3)](#65)
-          - [Chapitre III : Dispositions communes (art. 213-1 à 213-5)](#66)
-        - [Sous-titre II : Des crimes contre l'espèce humaine (art. 214-1 à 215-4)](#67)
-          - [Chapitre Ier : Des crimes d'eugénisme et de clonage reproductif (art. 214-1 à 214-4)](#68)
-          - [Chapitre II : Dispositions communes (art. 215-1 à 215-4)](#69)
-      - [Titre II : Des atteintes à la personne humaine (art. 221-1 à 227-33)](#70)
-        - [Chapitre Ier : Des atteintes à la vie de la personne (art. 221-1 à 221-11)](#71)
-          - [Section 1 : Des atteintes volontaires à la vie (art. 221-1 à 221-5-3)](#72)
-          - [Section 2 : Des atteintes involontaires à la vie (art. 221-6 à 221-7)](#73)
-          - [Section 3 : Peines complémentaires applicables aux personnes physiques (art. 221-8 à 221-11)](#74)
-        - [Chapitre II : Des atteintes à l'intégrité physique ou psychique de la personne (art. 222-1 à 222-51)](#75)
-          - [Section 1 : Des atteintes volontaires à l'intégrité de la personne (art. 222-1 à 222-18-2)](#76)
-            - [Paragraphe 1 : Des tortures et actes de barbarie (art. 222-1 à 222-6-2)](#77)
-            - [Paragraphe 2 : Des violences (art. 222-7 à 222-16-2)](#78)
-            - [Paragraphe 3 : Des menaces (art. 222-17 à 222-18-2)](#79)
-          - [Section 2 : Des atteintes involontaires à l'intégrité de la personne (art. 222-19 à 222-21)](#80)
-          - [Section 3 : Des agressions sexuelles (art. 222-22 à 222-33-1)](#81)
-            - [Paragraphe 1 : Du viol (art. 222-23 à 222-26)](#82)
-            - [Paragraphe 2 : Des autres agressions sexuelles (art. 222-27 à 222-31)](#83)
-            - [Paragraphe 3 : De l'inceste commis sur les mineurs (art. 222-31-1 à 222-31-2)](#84)
-            - [Paragraphe 4 : De l'exhibition sexuelle et du harcèlement sexuel (art. 222-32 à 222-33)](#85)
-            - [Paragraphe 5 : Responsabilité pénale des personnes morales (art. 222-33-1)](#86)
-          - [Section 3 bis : Du harcèlement moral (art. 222-33-2)](#87)
-          - [Section 3 ter : De l'enregistrement et de la diffusion d'images de violence (art. 222-33-3)](#88)
-          - [Section 4 : Du trafic de stupéfiants (art. 222-34 à 222-43-1)](#89)
-          - [Section 5 : Peines complémentaires applicables aux personnes physiques (art. 222-44 à 222-48-1)](#90)
-          - [Section 6 : Dispositions communes aux personnes physiques et aux personnes morales (art. 222-49 à 222-51)](#91)
-        - [Chapitre III : De la mise en danger de la personne (art. 223-1 à 223-20)](#92)
-          - [Section 1 : Des risques causés à autrui (art. 223-1 à 223-2)](#93)
-          - [Section 2 : Du délaissement d'une personne hors d'état de se protéger (art. 223-3 à 223-4)](#94)
-          - [Section 3 : De l'entrave aux mesures d'assistance et de l'omission de porter secours (art. 223-5 à 223-7-1)](#95)
-          - [Section 4 : De l'expérimentation sur la personne humaine (art. 223-8 à 223-9)](#96)
-          - [Section 5 : De l'interruption illégale de la grossesse (art. 223-10)](#97)
-          - [Section 6 : De la provocation au suicide (art. 223-13 à 223-15-1)](#98)
-          - [Section 6 bis : De l'abus frauduleux de l'état d'ignorance ou de faiblesse (art. 223-15-2 à 223-15-4)](#99)
-          - [Section 7 : Peines complémentaires applicables aux personnes physiques (art. 223-16 à 223-20)](#100)
-        - [Chapitre IV : Des atteintes aux libertés de la personne (art. 224-1 à 224-10)](#101)
-          - [Section 1 : De l'enlèvement et de la séquestration. (art. 224-1 à 224-5-2)](#102)
-          - [Section 2 : Du détournement d'aéronef, de navire ou de tout autre moyen de transport (art. 224-6 à 224-8-1)](#103)
-          - [Section 3 : Peines complémentaires applicables aux personnes physiques (art. 224-9 à 224-10)](#104)
-        - [Chapitre V : Des atteintes à la dignité de la personne (art. 225-1 à 225-25)](#105)
-          - [Section 1 : Des discriminations (art. 225-1 à 225-4)](#106)
-          - [Section 1 bis : De la traite des êtres humains (art. 225-4-1 à 225-4-9)](#107)
-          - [Section 2 : Du proxénétisme et des infractions qui en résultent (art. 225-5 à 225-12)](#108)
-          - [Section 2 bis : Du recours à la prostitution de mineurs ou de personnes particulièrement vulnérables. (art. 225-12-1 à 225-12-4)](#109)
-          - [Section 2 ter : De l'exploitation de la mendicité (art. 225-12-5 à 225-12-7)](#110)
-          - [Section 3 : Des conditions de travail et d'hébergement contraires à la dignité de la personne. (art. 225-13 à 225-16)](#111)
-          - [Section 3 bis : Du bizutage (art. 225-16-1 à 225-16-3)](#112)
-          - [Section 4 : Des atteintes au respect dû aux morts (art. 225-17 à 225-18-1)](#113)
-          - [Section 5 : Peines complémentaires applicables aux personnes physiques (art. 225-19 à 225-21)](#114)
-          - [Section 6 : Dispositions communes aux personnes physiques et aux personnes morales (art. 225-22 à 225-25)](#115)
-        - [Chapitre VI : Des atteintes à la personnalité (art. 226-1 à 226-32)](#116)
-          - [Section 1 : De l'atteinte à la vie privée (art. 226-1 à 226-7)](#117)
-          - [Section 2 : De l'atteinte à la représentation de la personne (art. 226-8 à 226-9)](#118)
-          - [Section 3 : De la dénonciation calomnieuse (art. 226-10 à 226-12)](#119)
-          - [Section 4 : De l'atteinte au secret (art. 226-13 à 226-15)](#120)
-            - [Paragraphe 1 : De l'atteinte au secret professionnel (art. 226-13 à 226-14)](#121)
-            - [Paragraphe 2 : De l'atteinte au secret des correspondances (art. 226-15)](#122)
-          - [Section 5 : Des atteintes aux droits de la personne résultant des fichiers ou des traitements informatiques. (art. 226-16 à 226-24)](#123)
-          - [Section 6 : Des atteintes à la personne résultant de l'examen de ses caractéristiques génétiques ou de l'identification par ses empreintes génétiques (art. 226-25 à 226-30)](#124)
-          - [Section 7 : Peines complémentaires applicables aux personnes physiques (art. 226-31 à 226-32)](#125)
-        - [Chapitre VII : Des atteintes aux mineurs et à la famille (art. 227-1 à 227-33)](#126)
-          - [Section 1 : Du délaissement de mineur (art. 227-1 à 227-2)](#127)
-          - [Section 2 : De l'abandon de famille (art. 227-3 à 227-4-1)](#128)
-          - [Section 3 : Des atteintes à l'exercice de l'autorité parentale (art. 227-5 à 227-11)](#129)
-          - [Section 4 : Des atteintes à la filiation (art. 227-12 à 227-14)](#130)
-          - [Section 5 : De la mise en péril des mineurs (art. 227-15 à 227-28-3)](#131)
-          - [Section 6 : Peines complémentaires applicables aux personnes physiques (art. 227-29 à 227-32)](#132)
-          - [Section 7 : Peine complémentaire commune aux personnes physiques et aux personnes morales (art. 227-33)](#133)
-    - [Livre III : Des crimes et délits contre les biens (art. 311-1 à 324-9)](#134)
-      - [Titre Ier : Des appropriations frauduleuses (art. 311-1 à 314-13)](#135)
-        - [Chapitre Ier : Du vol (art. 311-1 à 311-16)](#136)
-          - [Section 1 : Du vol simple et des vols aggravés (art. 311-1 à 311-11)](#137)
-          - [Section 2 : Dispositions générales (art. 311-12 à 311-13)](#138)
-          - [Section 3 : Peines complémentaires applicables aux personnes physiques et responsabilité des personnes morales (art. 311-14 à 311-16)](#139)
-        - [Chapitre II : De l'extorsion (art. 312-1 à 312-15)](#140)
-          - [Section 1 : De l'extorsion (art. 312-1 à 312-9)](#141)
-          - [Section 2 : Du chantage (art. 312-10 à 312-12)](#142)
-          - [Section 2 bis : De la demande de fonds sous contrainte (art. 312-12-1)](#143)
-          - [Section 3 : Peines complémentaires applicables aux personnes physiques et responsabilité des personnes morales (art. 312-13 à 312-15)](#144)
-        - [Chapitre III : De l'escroquerie et des infractions voisines (art. 313-1 à 313-9)](#145)
-          - [Section 1 : De l'escroquerie (art. 313-1 à 313-3)](#146)
-          - [Section 2 : Des infractions voisines de l'escroquerie (art. 313-5 à 313-6-1)](#147)
-          - [Section 3 : Peines complémentaires applicables aux personnes physiques et responsabilité des personnes morales (art. 313-7 à 313-9)](#148)
-        - [Chapitre IV : Des détournements (art. 314-1 à 314-13)](#149)
-          - [Section 1 : De l'abus de confiance (art. 314-1 à 314-4)](#150)
-          - [Section 2 : Du détournement de gage ou d'objet saisi (art. 314-5 à 314-6)](#151)
-          - [Section 3 : De l'organisation frauduleuse de l'insolvabilité (art. 314-7 à 314-9)](#152)
-          - [Section 4 : Peines complémentaires applicables aux personnes physiques et responsabilité des personnes morales (art. 314-10 à 314-13)](#153)
-      - [Titre II : Des autres atteintes aux biens (art. 321-1 à 324-9)](#154)
-        - [Chapitre Ier : Du recel et des infractions assimilées ou voisines (art. 321-1 à 321-12)](#155)
-          - [Section 1 : Du recel (art. 321-1 à 321-5)](#156)
-          - [Section 2 : Des infractions assimilées au recel ou voisines de celui-ci (art. 321-6 à 321-8)](#157)
-          - [Section 3 : Peines complémentaires applicables aux personnes physiques et responsabilité de personnes morales (art. 321-9 à 321-12)](#158)
-        - [Chapitre II : Des destructions, dégradations et détériorations (art. 322-1 à 322-18)](#159)
-          - [Section 1 : Des destructions, dégradations et détériorations ne présentant pas de danger pour les personnes (art. 322-1 à 322-4-1)](#160)
-          - [Section 2 : Des destructions, dégradations et détériorations dangereuses pour les personnes (art. 322-5 à 322-11-1)](#161)
-          - [Section 3 : Des menaces de destruction, de dégradation ou de détérioration et des fausses alertes (art. 322-12 à 322-14)](#162)
-          - [Section 4 : Peines complémentaires applicables aux personnes physiques et responsabilité des personnes morales (art. 322-15 à 322-18)](#163)
-        - [Chapitre III : Des atteintes aux systèmes de traitement automatisé de données (art. 323-1 à 323-7)](#164)
-        - [Chapitre IV : Du blanchiment (art. 324-1 à 324-9)](#165)
-          - [Section 1 : Du blanchiment simple et du blanchiment aggravé (art. 324-1 à 324-6)](#166)
-          - [Section 2 : Peines complémentaires applicables aux personnes physiques et responsabilité pénale des personnes morales (art. 324-7 à 324-9)](#167)
-    - [Livre IV : Des crimes et délits contre la nation, l'Etat et la paix publique (art. 410-1 à 450-5)](#168)
-      - [Titre Ier : Des atteintes aux intérêts fondamentaux de la nation (art. 410-1 à 414-9)](#169)
-        - [Chapitre Ier : De la trahison et de l'espionnage (art. 411-1 à 411-11)](#170)
-          - [Section 1 : De la livraison de tout ou partie du territoire national, de forces armées ou de matériel à une puissance étrangère (art. 411-2 à 411-3)](#171)
-          - [Section 2 : Des intelligences avec une puissance étrangère (art. 411-4 à 411-5)](#172)
-          - [Section 3 : De la livraison d'informations à une puissance étrangère (art. 411-6 à 411-8)](#173)
-          - [Section 4 : Du sabotage (art. 411-9)](#174)
-          - [Section 5 : De la fourniture de fausses informations (art. 411-10)](#175)
-          - [Section 6 : De la provocation aux crimes prévus au présent chapitre (art. 411-11)](#176)
-        - [Chapitre II : Des autres atteintes aux institutions de la République ou à l'intégrité du territoire national (art. 412-1 à 412-8)](#177)
-          - [Section 1 : De l'attentat et du complot (art. 412-1 à 412-2)](#178)
-          - [Section 2 : Du mouvement insurrectionnel (art. 412-3 à 412-6)](#179)
-          - [Section 3 : De l'usurpation de commandement, de la levée de forces armées et de la provocation à s'armer illégalement (art. 412-7 à 412-8)](#180)
-        - [Chapitre III : Des autres atteintes à la défense nationale (art. 413-1 à 413-12)](#181)
-          - [Section 1 : Des atteintes à la sécurité des forces armées et aux zones protégées intéressant la défense nationale (art. 413-1 à 413-8)](#182)
-          - [Section 2 : Des atteintes au secret de la défense nationale (art. 413-9 à 413-12)](#183)
-        - [Chapitre IV : Dispositions particulières (art. 414-1 à 414-9)](#184)
-      - [Titre II : Du terrorisme (art. 421-1 à 422-7)](#185)
-        - [Chapitre Ier : Des actes de terrorisme (art. 421-1 à 421-6)](#186)
-        - [Chapitre II : Dispositions particulières (art. 422-1 à 422-7)](#187)
-      - [Titre III : Des atteintes à l'autorité de l'Etat (art. 431-1 à 436-5)](#188)
-        - [Chapitre Ier : Des atteintes à la paix publique (art. 431-1 à 431-28)](#189)
-          - [Section 1 : Des entraves à l'exercice des libertés d'expression, du travail, d'association, de réunion ou de manifestation (art. 431-1 à 431-2)](#190)
-          - [Section 2 : De la participation délictueuse à un attroupement (art. 431-3 à 431-8)](#191)
-          - [Section 3 : Des manifestations illicites et de la participation délictueuse à une manifestation ou à une réunion publique (art. 431-9 à 431-12)](#192)
-          - [Section 4 : Des groupes de combat et des mouvements dissous (art. 431-13 à 431-21)](#193)
-          - [Section 5 : De l'intrusion dans un établissement   d'enseignement scolaire (art. 431-22 à 431-27)](#194)
-          - [Section 6 : De l'introduction d'armes dans un établissement scolaire (art. 431-28)](#195)
-        - [Chapitre II : Des atteintes à l'administration publique commises par des personnes exerçant une fonction publique (art. 432-1 à 432-17)](#196)
-          - [Section 1 : Des abus d'autorité dirigés contre l'administration (art. 432-1 à 432-3)](#197)
-          - [Section 2 : Des abus d'autorité commis contre les particuliers (art. 432-4 à 432-9)](#198)
-            - [Paragraphe 1 : Des atteintes à la liberté individuelle (art. 432-4 à 432-6)](#199)
-            - [Paragraphe 2 : Des discriminations (art. 432-7)](#200)
-            - [Paragraphe 3 : Des atteintes à l'inviolabilité du domicile (art. 432-8)](#201)
-            - [Paragraphe 4 : Des atteintes au secret des correspondances (art. 432-9)](#202)
-          - [Section 3 : Des manquements au devoir de probité (art. 432-10 à 432-16)](#203)
-            - [Paragraphe 1 : De la concussion (art. 432-10)](#204)
-            - [Paragraphe 2 : De la corruption passive et du trafic d'influence commis par des personnes exerçant une fonction publique (art. 432-11)](#205)
-            - [Paragraphe 3 : De la prise illégale d'intérêts (art. 432-12 à 432-13)](#206)
-            - [Paragraphe 4 : Des atteintes à la liberté d'accès et à l'égalité des candidats dans les marchés publics et les délégations de service public (art. 432-14)](#207)
-            - [Paragraphe 5 : De la soustraction et du détournement de biens (art. 432-15 à 432-16)](#208)
-          - [Section 4 : Peines complémentaires (art. 432-17)](#209)
-        - [Chapitre III : Des atteintes à l'administration publique commises par les particuliers (art. 433-1 à 433-25)](#210)
-          - [Section 1 : De la corruption active et du trafic d'influence commis par les particuliers (art. 433-1 à 433-2)](#211)
-          - [Section 2 : Des menaces et actes d'intimidation commis contre les personnes exerçant une fonction publique (art. 433-3)](#212)
-          - [Section 3 : De la soustraction et du détournement de biens contenus dans un dépôt public (art. 433-4)](#213)
-          - [Section 4 : De l'outrage (art. 433-5 à 433-5-1)](#214)
-          - [Section 5 : De la rébellion (art. 433-6 à 433-10)](#215)
-          - [Section 6 : De l'opposition à l'exécution de travaux publics (art. 433-11)](#216)
-          - [Section 7 : De l'usurpation de fonctions (art. 433-12 à 433-13)](#217)
-          - [Section 8 : De l'usurpation de signes réservés à l'autorité publique (art. 433-14 à 433-16)](#218)
-          - [Section 9 : De l'usurpation de titres (art. 433-17)](#219)
-          - [Section 10 : De l'usage irrégulier de qualité (art. 433-18)](#220)
-          - [Section 11 : Des atteintes à l'état civil des personnes (art. 433-18-1 à 433-21-1)](#221)
-          - [Section 12 : Peines complémentaires et responsabilité des personnes morales (art. 433-22 à 433-25)](#222)
-        - [Chapitre IV : Des atteintes à l'action de justice (art. 434-1 à 434-47)](#223)
-          - [Section 1 : Des entraves à la saisine de la justice (art. 434-1 à 434-7)](#224)
-          - [Section 2 : Des entraves à l'exercice de la justice (art. 434-7-1 à 434-23)](#225)
-          - [Section 3 : Des atteintes à l'autorité de la justice (art. 434-24 à 434-43)](#226)
-            - [Paragraphe 1 : Des atteintes au respect dû à la justice (art. 434-24 à 434-26)](#227)
-            - [Paragraphe 2 : De l'évasion (art. 434-27 à 434-37)](#228)
-            - [Paragraphe 3 : Des autres atteintes à l'autorité de la justice pénale (art. 434-38 à 434-43)](#229)
-          - [Section 4 : Peines complémentaires et responsabilité des personnes morales (art. 434-44 à 434-47)](#230)
-        - [Chapitre V : Des atteintes à l'administration publique et à l'action de la justice des Communautés européennes, des Etats membres de l'Union européenne, des autres Etats étrangers et des autres organisations internationales publiques (art. 435-1 à 435-15)](#231)
-          - [Section 1 : Des atteintes à l'administration publique (art. 435-1 à 435-6)](#232)
-            - [Sous-section 1 : De la corruption et du trafic d'influence passifs (art. 435-1 à 435-2)](#233)
-            - [Sous-section 2 : De la corruption et du trafic d'influence actifs (art. 435-3 à 435-4)](#234)
-            - [Sous-section 3 : Dispositions communes (art. 435-5 à 435-6)](#235)
-          - [Section 2 : Des atteintes à l'action de la justice (art. 435-7 à 435-13)](#236)
-            - [Sous-section 1 : De la corruption et du trafic d'influence passifs (art. 435-7 à 435-8)](#237)
-            - [Sous-section 2 : De la corruption et du trafic d'influence actifs (art. 435-9 à 435-10)](#238)
-            - [Sous-section 3 : Dispositions communes (art. 435-11)](#239)
-            - [Sous-section 4 : Des autres entraves à l'exercice de la justice (art. 435-12 à 435-13)](#240)
-          - [Section 3 : Peines complémentaires et responsabilité des personnes morales (art. 435-14 à 435-15)](#241)
-        - [Chapitre VI : De la participation à une activité mercenaire (art. 436-1 à 436-5)](#242)
-      - [Titre IV : Des atteintes à la confiance publique (art. 441-1 à 445-4)](#243)
-        - [Chapitre Ier : Des faux (art. 441-1 à 441-12)](#244)
-        - [Chapitre II : De la fausse monnaie (art. 442-1 à 442-16)](#245)
-        - [Chapitre III : De la falsification des titres ou autres valeurs fiduciaires émises par l'autorité publique (art. 443-1 à 443-8)](#246)
-        - [Chapitre IV : De la falsification des marques de l'autorité (art. 444-1 à 444-9)](#247)
-        - [Chapitre V : De la corruption des personnes n'exerçant pas une fonction publique (art. 445-1 à 445-4)](#248)
-          - [Section 1 : De la corruption passive et active des personnes n'exerçant pas une fonction publique (art. 445-1 à 445-2)](#249)
-          - [Section 2 : Peines complémentaires applicables aux personnes physiques et responsabilité pénale des personnes morales (art. 445-3 à 445-4)](#250)
-      - [Titre V : De la participation à une association de malfaiteurs (art. 450-1 à 450-5)](#251)
-    - [Livre V : Des autres crimes et délits (art. 511-1 à 521-2)](#252)
-      - [Titre Ier : Des infractions en matière de santé publique (art. 511-1 à 511-28)](#253)
-        - [Chapitre Ier : Des infractions en matière d'éthique biomédicale (art. 511-1 à 511-28)](#254)
-          - [Section 1 : De la protection de l'espèce humaine (art. 511-1 à 511-1-2)](#255)
-          - [Section 2 : De la protection du corps humain (art. 511-2 à 511-13)](#256)
-          - [Section 3 : De la protection de l'embryon humain (art. 511-15 à 511-25-1)](#257)
-          - [Section 4 : Autres dispositions et peines complémentaires applicables aux personnes physiques et responsabilité des personnes morales (art. 511-26 à 511-28)](#258)
-      - [Titre II : Autres dispositions (art. 521-1 à 521-2)](#259)
-        - [Chapitre unique : Des sévices graves ou actes de cruauté envers les animaux (art. 521-1 à 521-2)](#260)
-    - [Livre VII : Dispositions applicables dans les territoires d'outre-mer, en Nouvelle-Calédonie et à Mayotte. (art. 711-1 à 727-3)](#261)
-      - [Titre Ier : Dispositions applicables dans les territoires d'outre-mer et en Nouvelle-Calédonie. (art. 711-1 à 717-3)](#262)
-        - [Chapitre Ier : Dispositions générales (art. 711-1 à 711-4)](#263)
-        - [Chapitre II : Adaptation du livre Ier (art. 712-1 à 712-2)](#264)
-        - [Chapitre III : Adaptation du livre II (art. 713-3)](#265)
-        - [Chapitre IV : Adaptation du livre III (art. 714-1)](#266)
-        - [Chapitre V : Adaptation du livre IV (art. 715-1 à 715-5)](#267)
-        - [Chapitre VI : Adaptation du livre V (art. 716-16)](#268)
-        - [Chapitre VII : Dispositions diverses (art. 717-1 à 717-3)](#269)
-      - [Titre II : Dispositions applicables à Mayotte. (art. 721-1 à 727-3)](#270)
-        - [Chapitre Ier : Dispositions générales (art. 721-1 à 721-2)](#271)
-        - [Chapitre II : Adaptation du livre Ier. (art. 722-1)](#272)
-        - [Chapitre III : Adaptation du livre II (art. 723-1 à 723-6)](#273)
-        - [Chapitre IV : Adaptation du livre III (art. 724-1)](#274)
-        - [Chapitre V : Adaptation du livre IV (art. 725-1 à 725-6)](#275)
-        - [Chapitre VI : Adaptation du livre V (art. 726-1 à 726-15)](#276)
-        - [Chapitre VII : Dispositions diverses (art. 727-1 à 727-3)](#277)
-  - [Partie réglementaire - Décrets en Conseil d'Etat (art. R131-1 à R722-7)](#278)
-    - [Livre Ier : Dispositions générales (art. R131-1 à R133-2)](#279)
-      - [Titre III : Des peines (art. R131-1 à R133-2)](#280)
-        - [Chapitre Ier : De la nature des peines (art. R131-1 à R131-53)](#281)
-          - [Section 1 : Des peines applicables aux personnes physiques (art. R131-1 à R131-51)](#282)
-            - [Sous-section 1 : De la suspension du permis de conduire, de l'interdiction de conduire certains véhicules, de l'immobilisation du véhicule et de l'obligation d'accomplir un stage de sensibilisation à la sécurité routière (art. R131-1 à R131-11-1)](#283)
-              - [Paragraphe 1 : De la suspension du permis de conduire (art. R131-1 à R131-2)](#284)
-              - [Paragraphe 2 : De l'interdiction de conduire certains véhicules. (art. R131-3 à R131-4)](#285)
-              - [Paragraphe 3 : De l'immobilisation de véhicule (art. R131-5 à R131-11)](#286)
-              - [Paragraphe 4 : De l'obligation d'accomplir un stage de sensibilisation à la sécurité routière (art. R131-11-1)](#287)
-            - [Sous-section 2 : Du travail d'intérêt général (art. R131-12 à R131-34)](#288)
-              - [Paragraphe 1 : Des modalités d'habilitation des personnes morales et d'établissement de la liste des travaux d'intérêt général (art. R131-12 à R131-22)](#289)
-                - [A. : Des modalités d'habilitation des personnes morales (art. R131-12 à R131-16)](#290)
-                - [B. : De l'établissement de la liste des travaux d'intérêt général (art. R131-17 à R131-20)](#291)
-                - [C. : Dispositions diverses (art. R131-21 à R131-22)](#292)
-              - [Paragraphe 2 : De l'exécution du travail d'intérêt général (art. R131-23 à R131-34)](#293)
-                - [A. : De la décision du juge de l'application des peines fixant les modalités d'exécution du travail d'intérêt général (art. R131-23 à R131-28)](#294)
-                - [B. : Du contrôle de l'exécution du travail d'intérêt général (art. R131-29 à R131-34)](#295)
-            - [Sous-section 3 : De la peine de stage de citoyenneté (art. R131-35 à R131-44)](#296)
-              - [Paragraphe 1 : Objet et durée du stage (art. R131-35 à R131-36)](#297)
-              - [Paragraphe 2 : Organisation du stage (art. R131-37 à R131-38)](#298)
-              - [Paragraphe 3 : Déroulement et fin du stage. (art. R131-39 à R131-40)](#299)
-              - [Paragraphe 4 : Dispositions spécifiques applicables aux mineurs. (art. R131-41 à R131-44)](#300)
-            - [Sous-section 4 : De la peine de sanction-réparation. (art. R131-45)](#301)
-            - [Sous-section 5 : De la peine de stage de sensibilisation aux dangers de l'usage de produits stupéfiants. (art. R131-46 à R131-47)](#302)
-            - [Sous-section 6 : De la peine de stage de responsabilité parentale. (art. R131-48 à R131-49)](#303)
-            - [Sous-section 7 : De la peine de confiscation d'un animal. (art. R131-50 à R131-51)](#304)
-          - [Section 2 : Des peines applicables aux personnes morales (art. R131-52 à R131-53)](#305)
-        - [Chapitre II : Du régime des peines (art. R132-45)](#306)
-          - [Section 2 : Des modes de personnalisation des peines (art. R132-45)](#307)
-            - [Sous-section 4 : Du sursis avec mise à l'épreuve (art. R132-45)](#308)
-        - [Chapitre III : De l'extinction des peines et de l'effacement des condamnations (art. R133-1 à R133-2)](#309)
-          - [Section 2 : De la grâce (art. R133-1 à R133-2)](#310)
-    - [Livre II : Des crimes et délits contre les personnes (art. R226-1 à R226-12)](#311)
-      - [Titre II : Des atteintes à la personne humaine (art. R226-1 à R226-12)](#312)
-        - [Chapitre VI : Des atteintes à la personnalité (art. R226-1 à R226-12)](#313)
-          - [Section 1 : De l'atteinte à la vie privée (art. R226-1 à R226-12)](#314)
-    - [Livre III : Des crimes et délits contre les biens (art. R321-1 à R321-12)](#315)
-      - [Titre II : Des autres atteintes aux biens (art. R321-1 à R321-12)](#316)
-        - [Chapitre Ier : Du recel et des infractions assimilées ou voisines (art. R321-1 à R321-12)](#317)
-          - [Section 2 : Des infractions assimilées au recel ou voisines de celui-ci (art. R321-1 à R321-12)](#318)
-            - [Sous-section 1 : Dispositions relatives aux personnes dont l'activité professionnelle comporte la vente ou l'échange de certains objets mobiliers (art. R321-1 à R321-8)](#319)
-            - [Sous-section 2 : Dispositions concernant les manifestations publiques en vue de la vente ou de l'échange de certains objets mobiliers (art. R321-9 à R321-12)](#320)
-    - [Livre IV : Des crimes et délits contre la nation, l'Etat et la paix publique (art. R413-1 à R431-2)](#321)
-      - [Titre Ier : Des atteintes aux intérêts fondamentaux de la nation (art. R413-1 à R413-6)](#322)
-        - [Chapitre III : Des autres atteintes à la défense nationale (art. R413-1 à R413-6)](#323)
-          - [Section 1 : Des atteintes à la sécurité des forces armées et aux zones protégées intéressant la défense nationale (art. R413-1 à R413-5)](#324)
-          - [Section 2 : Des atteintes au secret de la défense nationale (art. R413-6)](#325)
-      - [Titre III : Des atteintes à l'autorité de l'Etat (art. R431-1 à R431-2)](#326)
-        - [Chapitre Ier : Des atteintes à la paix publique (art. R431-1 à R431-2)](#327)
-          - [Section 2 : De la participation délictueuse à un attroupement. (art. R431-1 à R431-2)](#328)
-    - [Livre V : Des autres crimes et délits (art. R511-1)](#329)
-      - [Chapitre Ier : Des sévices graves ou actes de cruauté envers les animaux (art. R511-1)](#330)
-    - [Livre VI : Des contraventions (art. R610-1 à R655-1)](#331)
-      - [Titre Ier : Dispositions générales (art. R610-1 à R610-5)](#332)
-      - [Titre II : Des contraventions contre les personnes (art. R621-1 à R625-13)](#333)
-        - [Chapitre Ier : Des contraventions de la 1re classe contre les personnes (art. R621-1 à R621-2)](#334)
-          - [Section 1 : De la diffamation et de l'injure non publiques (art. R621-1 à R621-2)](#335)
-        - [Chapitre II : Des contraventions de la 2e classe contre les personnes (art. R622-1 à R622-2)](#336)
-          - [Section 1 : Des atteintes involontaires à l'intégrité de la personne n'ayant entraîné aucune incapacité totale de travail (art. R622-1)](#337)
-          - [Section 2 : De la divagation d'animaux dangereux (art. R622-2)](#338)
-        - [Chapitre III : Des contraventions de la 3e classe contre les personnes (art. R623-1 à R623-4)](#339)
-          - [Section 1 : Des menaces de violences (art. R623-1)](#340)
-          - [Section 2 : Des bruits ou tapages injurieux ou nocturnes (art. R623-2)](#341)
-          - [Section 3 : De l'excitation d'animaux dangereux (art. R623-3)](#342)
-          - [Section 4 : De la violation des dispositions réglementant le commerce de certains matériels susceptibles d'être utilisés pour porter atteinte à l'intimité de la vie privée (art. R623-4)](#343)
-        - [Chapitre IV : Des contraventions de la 4e classe contre les personnes (art. R624-1 à R624-7)](#344)
-          - [Section 1 : Des violences légères (art. R624-1)](#345)
-          - [Section 2 : De la diffusion de messages contraires à la décence (art. R624-2)](#346)
-          - [Section 3 : De la diffamation et de l'injure non publiques présentant un caractère raciste ou discriminatoire (art. R624-3 à R624-6)](#347)
-          - [Section 4 : Du manquement à l'obligation d'assiduité scolaire (art. R624-7)](#348)
-        - [Chapitre V : Des contraventions de la 5e classe contre les personnes (art. R625-1 à R625-13)](#349)
-          - [Section 1 : Des violences (art. R625-1)](#350)
-          - [Section 2 : Des atteintes involontaires à l'intégrité de la personne (art. R625-2 à R625-6)](#351)
-          - [Section 3 : De la provocation non publique à la discrimination, à la haine ou à la violence (art. R625-7)](#352)
-          - [Section 5 : De la violation des dispositions réglementant le commerce de certains matériels susceptibles d'être utilisés pour porter atteinte à l'intimité de la vie privée (art. R625-9)](#353)
-          - [Section 6 : Des atteintes aux droits de la personne résultant des fichiers ou des traitements informatiques (art. R625-10 à R625-13)](#354)
-      - [Titre III : Des contraventions contre les biens (art. R631-1 à R635-8)](#355)
-        - [Chapitre Ier : Des contraventions de la 1re classe contre les biens (art. R631-1)](#356)
-          - [Section unique : Des menaces de destruction, de dégradation ou de détérioration n'entraînant qu'un dommage léger (art. R631-1)](#357)
-        - [Chapitre II : Des contraventions de la 2e classe contre les biens (art. R632-1)](#358)
-          - [Section unique : De l'abandon d'ordures, déchets, matériaux ou autres objets. (art. R632-1)](#359)
-        - [Chapitre III : Des contraventions de la 3e classe contre les biens (art. R633-1 à R633-5)](#360)
-          - [Section 1 : De la violation des dispositions réglementant la vente ou l'échange de certains objets mobiliers (art. R633-1 à R633-3)](#361)
-          - [Section 2 : De la violation des dispositions concernant les manifestations publiques en vue de la vente ou de l'échange de certains objets mobiliers (art. R633-5)](#362)
-        - [Chapitre IV : Des contraventions de la 4e classe contre les biens (art. R634-1)](#363)
-          - [Section 1 : Des menaces de destruction, de dégradation ou de détérioration ne présentant pas de danger pour les personnes (art. R634-1)](#364)
-        - [Chapitre V : Des contraventions de la 5e classe contre les biens (art. R635-1 à R635-8)](#365)
-          - [Section 1 : Des destructions, dégradations et détériorations dont il n'est résulté qu'un dommage léger (art. R635-1)](#366)
-          - [Section 2 : De la vente forcée par correspondance (art. R635-2)](#367)
-          - [Section 3 : De la violation des dispositions réglementant la vente ou l'échange de certains objets mobiliers (art. R635-3 à R635-7)](#368)
-          - [Section 4 : De l'abandon d'épaves de véhicules ou d'ordures, déchets, matériaux et autres objets transportés dans un véhicule (art. R635-8)](#369)
-      - [Titre IV : Des contraventions contre la nation, l'Etat ou la paix publique (art. R641-1 à R645-14)](#370)
-        - [Chapitre Ier : Des contraventions de la 1re classe contre la nation, l'Etat ou la paix publique (art. R641-1)](#371)
-          - [Section unique : De l'abandon d'armes ou d'objets dangereux (art. R641-1)](#372)
-        - [Chapitre II : Des contraventions de la 2e classe contre la nation, l'Etat ou la paix publique (art. R642-1 à R642-4)](#373)
-          - [Section 1 : Du défaut de réponse à une réquisition des autorités judiciaires ou administratives (art. R642-1)](#374)
-          - [Section 2 : Des atteintes à la monnaie (art. R642-2 à R642-4)](#375)
-        - [Chapitre III : Des contraventions de la 3e classe contre la nation, l'Etat ou la paix publique (art. R643-1 à R643-2)](#376)
-          - [Section 1 : De l'usurpation de signes réservés à l'autorité publique (art. R643-1)](#377)
-          - [Section 2 : De l'utilisation de poids ou mesures différents de ceux établis par les lois et règlements en vigueur (art. R643-2)](#378)
-        - [Chapitre IV : Des contraventions de la 4e classe contre la nation, l'Etat ou la paix publique (art. R644-1 à R644-3)](#379)
-          - [Section 1 : De l'accès sans autorisation à un terrain, une construction, un engin ou un appareil militaires (art. R644-1)](#380)
-          - [Section 2 : Des entraves à la libre circulation sur la voie publique (art. R644-2)](#381)
-          - [Section 3 : De la violation des dispositions réglementant les professions exercées dans les lieux publics (art. R644-3)](#382)
-        - [Chapitre V : Des contraventions de la 5e classe contre la nation, l'Etat ou la paix publique (art. R645-1 à R645-14)](#383)
-          - [Section 1 : Du port ou de l'exhibition d'uniformes, insignes ou emblèmes rappelant ceux d'organisations ou de personnes responsables de crimes contre l'humanité (art. R645-1)](#384)
-          - [Section 2 : Des dessins, levés ou enregistrements effectués sans autorisation dans une zone d'interdiction fixée par l'autorité militaire (art. R645-2)](#385)
-          - [Section 3 : Des atteintes à l'état civil des personnes (art. R645-3 à R645-6)](#386)
-          - [Section 4 : De la soustraction d'une pièce produite en justice (art. R645-7)](#387)
-          - [Section 5 : De l'utilisation d'un document délivré par une administration publique comportant des mentions devenues incomplètes ou inexactes (art. R645-8)](#388)
-          - [Section 5 bis : De l'usurpation de fonction ou de titre de délégué ou de médiateur du procureur de la République (art. R645-8-1)](#389)
-          - [Section 6 : Du refus de restitution de signes monétaires contrefaits ou falsifiés (art. R645-9)](#390)
-          - [Section 7 : De l'altération ou de la contrefaçon des timbres-poste ou des timbres émis par l'administration des finances (art. R645-10 à R645-11)](#391)
-          - [Section 8 : De l'intrusion dans les établissements scolaires (art. R645-12)](#392)
-          - [Section 9 : De l'intrusion dans les lieux historiques ou culturels (art. R645-13)](#393)
-          - [Section 10 : De la dissimulation illicite du visage à l'occasion de manifestations sur la voie publique (art. R645-14)](#394)
-      - [Titre V : Des autres contraventions (art. R653-1 à R655-1)](#395)
-        - [Chapitre III : Des contraventions de la 3e classe (art. R653-1)](#396)
-          - [Section unique : Des atteintes involontaires à la vie ou à l'intégrité d'un animal (art. R653-1)](#397)
-        - [Chapitre IV : Des contraventions de la 4e classe (art. R654-1)](#398)
-          - [Section unique : Des mauvais traitements envers un animal (art. R654-1)](#399)
-        - [Chapitre V : Des contraventions de la 5e classe (art. R655-1)](#400)
-          - [Section unique : Des atteintes volontaires à la vie d'un animal (art. R655-1)](#401)
-    - [Livre VII : Dispositions applicables dans les territoires d'outre-mer, en Nouvelle-Calédonie et à Mayotte. (art. R711-1 à R722-7)](#402)
-      - [Titre Ier : Dispositions applicables dans les territoires d'outre-mer et en Nouvelle-Calédonie (art. R711-1 à R716-1)](#403)
-        - [Chapitre Ier : Dispositions générales (art. R711-1 à R711-3)](#404)
-        - [Chapitre II : Adaptation du livre Ier (art. R712-1 à R712-8)](#405)
-        - [Chapitre VI : Adaptation du livre V (art. R716-1)](#406)
-      - [Titre II : Dispositions applicables à Mayotte. (art. R721-1 à R722-7)](#407)
-        - [Chapitre Ier : Dispositions générales (art. R721-1 à R721-2)](#408)
-        - [Chapitre II : Adaptation du livre Ier (art. R722-1 à R722-7)](#409)
+            - [Sous-section 6 : Des effets des condamnations prononcées par les juridictions pénales d'un Etat membre de l'Union européenne (art. 132-23-1 à 132-23-2)](#36)
+          - [Section 2 : Des modes de personnalisation des peines (art. 132-24 à 132-70)](#37)
+            - [Sous-section 1 : De la semi-liberté, du placement à l'extérieur et du placement sous surveillance électronique (art. 132-25 à 132-26-3)](#38)
+              - [Paragraphe 1 : De la semi-liberté et du placement à l'extérieur (art. 132-25 à 132-26)](#39)
+              - [Paragraphe 2 : Du placement sous surveillance électronique (art. 132-26-1 à 132-26-3)](#40)
+            - [Sous-section 2 : Du fractionnement des peines (art. 132-27 à 132-28)](#41)
+            - [Sous-section 3 : Du sursis simple (art. 132-29 à 132-39)](#42)
+              - [Paragraphe 1 : Des conditions d'octroi du sursis simple (art. 132-30 à 132-34)](#43)
+              - [Paragraphe 2 : Des effets du sursis simple (art. 132-35 à 132-39)](#44)
+            - [Sous-section 4 : Du sursis avec mise à l'épreuve (art. 132-40 à 132-53)](#45)
+              - [Paragraphe 1 : Des conditions d'octroi du sursis avec mise à l'épreuve (art. 132-40 à 132-42)](#46)
+              - [Paragraphe 2 : Du régime de la mise à l'épreuve (art. 132-43 à 132-46)](#47)
+              - [Paragraphe 3 : De la révocation du sursis avec mise à l'épreuve en cas de nouvelle infraction (art. 132-47 à 132-51)](#48)
+              - [Paragraphe 4 : Des effets du sursis avec mise à l'épreuve (art. 132-52 à 132-53)](#49)
+            - [Sous-section 5 : Du sursis assorti de l'obligation d'accomplir un travail d'intérêt général (art. 132-54 à 132-57)](#50)
+            - [Sous-section 6 : De la dispense de peine et de l'ajournement (art. 132-58 à 132-70)](#51)
+              - [Paragraphe 1 : De la dispense de la peine (art. 132-59)](#52)
+              - [Paragraphe 2 : De l'ajournement simple (art. 132-60 à 132-62)](#53)
+              - [Paragraphe 3 : De l'ajournement avec mise à l'épreuve (art. 132-63 à 132-65)](#54)
+              - [Paragraphe 4 : De l'ajournement avec injonction (art. 132-66 à 132-70)](#55)
+          - [Section 3 : De la définition de certaines circonstances entraînant l'aggravation, la diminution ou l'exemption des peines (art. 132-71 à 132-80)](#56)
+        - [Chapitre III : De l'extinction des peines et de l'effacement des condamnations (art. 133-1 à 133-17)](#57)
+          - [Section 1 : De la prescription (art. 133-2 à 133-6)](#58)
+          - [Section 2 : De la grâce (art. 133-7 à 133-8)](#59)
+          - [Section 3 : De l'amnistie (art. 133-9 à 133-11)](#60)
+          - [Section 4 : De la réhabilitation (art. 133-12 à 133-17)](#61)
+    - [Livre II : Des crimes et délits contre les personnes (art. 211-1 à 227-33)](#62)
+      - [Titre Ier : Des crimes contre l'humanité et contre l'espèce humaine (art. 211-1 à 215-4)](#63)
+        - [Sous-titre Ier : Des crimes contre l'humanité (art. 211-1 à 213-5)](#64)
+          - [Chapitre Ier : Du génocide (art. 211-1)](#65)
+          - [Chapitre II : Des autres crimes contre l'humanité (art. 212-1 à 212-3)](#66)
+          - [Chapitre III : Dispositions communes (art. 213-1 à 213-5)](#67)
+        - [Sous-titre II : Des crimes contre l'espèce humaine (art. 214-1 à 215-4)](#68)
+          - [Chapitre Ier : Des crimes d'eugénisme et de clonage reproductif (art. 214-1 à 214-4)](#69)
+          - [Chapitre II : Dispositions communes (art. 215-1 à 215-4)](#70)
+      - [Titre II : Des atteintes à la personne humaine (art. 221-1 à 227-33)](#71)
+        - [Chapitre Ier : Des atteintes à la vie de la personne (art. 221-1 à 221-11)](#72)
+          - [Section 1 : Des atteintes volontaires à la vie (art. 221-1 à 221-5-3)](#73)
+          - [Section 2 : Des atteintes involontaires à la vie (art. 221-6 à 221-7)](#74)
+          - [Section 3 : Peines complémentaires applicables aux personnes physiques (art. 221-8 à 221-11)](#75)
+        - [Chapitre II : Des atteintes à l'intégrité physique ou psychique de la personne (art. 222-1 à 222-51)](#76)
+          - [Section 1 : Des atteintes volontaires à l'intégrité de la personne (art. 222-1 à 222-18-2)](#77)
+            - [Paragraphe 1 : Des tortures et actes de barbarie (art. 222-1 à 222-6-2)](#78)
+            - [Paragraphe 2 : Des violences (art. 222-7 à 222-16-2)](#79)
+            - [Paragraphe 3 : Des menaces (art. 222-17 à 222-18-2)](#80)
+          - [Section 2 : Des atteintes involontaires à l'intégrité de la personne (art. 222-19 à 222-21)](#81)
+          - [Section 3 : Des agressions sexuelles (art. 222-22 à 222-33-1)](#82)
+            - [Paragraphe 1 : Du viol (art. 222-23 à 222-26)](#83)
+            - [Paragraphe 2 : Des autres agressions sexuelles (art. 222-27 à 222-31)](#84)
+            - [Paragraphe 3 : De l'inceste commis sur les mineurs (art. 222-31-1 à 222-31-2)](#85)
+            - [Paragraphe 4 : De l'exhibition sexuelle et du harcèlement sexuel (art. 222-32 à 222-33)](#86)
+            - [Paragraphe 5 : Responsabilité pénale des personnes morales (art. 222-33-1)](#87)
+          - [Section 3 bis : Du harcèlement moral (art. 222-33-2)](#88)
+          - [Section 3 ter : De l'enregistrement et de la diffusion d'images de violence (art. 222-33-3)](#89)
+          - [Section 4 : Du trafic de stupéfiants (art. 222-34 à 222-43-1)](#90)
+          - [Section 5 : Peines complémentaires applicables aux personnes physiques (art. 222-44 à 222-48-1)](#91)
+          - [Section 6 : Dispositions communes aux personnes physiques et aux personnes morales (art. 222-49 à 222-51)](#92)
+        - [Chapitre III : De la mise en danger de la personne (art. 223-1 à 223-20)](#93)
+          - [Section 1 : Des risques causés à autrui (art. 223-1 à 223-2)](#94)
+          - [Section 2 : Du délaissement d'une personne hors d'état de se protéger (art. 223-3 à 223-4)](#95)
+          - [Section 3 : De l'entrave aux mesures d'assistance et de l'omission de porter secours (art. 223-5 à 223-7-1)](#96)
+          - [Section 4 : De l'expérimentation sur la personne humaine (art. 223-8 à 223-9)](#97)
+          - [Section 5 : De l'interruption illégale de la grossesse (art. 223-10)](#98)
+          - [Section 6 : De la provocation au suicide (art. 223-13 à 223-15-1)](#99)
+          - [Section 6 bis : De l'abus frauduleux de l'état d'ignorance ou de faiblesse (art. 223-15-2 à 223-15-4)](#100)
+          - [Section 7 : Peines complémentaires applicables aux personnes physiques (art. 223-16 à 223-20)](#101)
+        - [Chapitre IV : Des atteintes aux libertés de la personne (art. 224-1 à 224-10)](#102)
+          - [Section 1 : De l'enlèvement et de la séquestration. (art. 224-1 à 224-5-2)](#103)
+          - [Section 2 : Du détournement d'aéronef, de navire ou de tout autre moyen de transport (art. 224-6 à 224-8-1)](#104)
+          - [Section 3 : Peines complémentaires applicables aux personnes physiques (art. 224-9 à 224-10)](#105)
+        - [Chapitre V : Des atteintes à la dignité de la personne (art. 225-1 à 225-25)](#106)
+          - [Section 1 : Des discriminations (art. 225-1 à 225-4)](#107)
+          - [Section 1 bis : De la traite des êtres humains (art. 225-4-1 à 225-4-9)](#108)
+          - [Section 2 : Du proxénétisme et des infractions qui en résultent (art. 225-5 à 225-12)](#109)
+          - [Section 2 bis : Du recours à la prostitution de mineurs ou de personnes particulièrement vulnérables. (art. 225-12-1 à 225-12-4)](#110)
+          - [Section 2 ter : De l'exploitation de la mendicité (art. 225-12-5 à 225-12-7)](#111)
+          - [Section 3 : Des conditions de travail et d'hébergement contraires à la dignité de la personne. (art. 225-13 à 225-16)](#112)
+          - [Section 3 bis : Du bizutage (art. 225-16-1 à 225-16-3)](#113)
+          - [Section 4 : Des atteintes au respect dû aux morts (art. 225-17 à 225-18-1)](#114)
+          - [Section 5 : Peines complémentaires applicables aux personnes physiques (art. 225-19 à 225-21)](#115)
+          - [Section 6 : Dispositions communes aux personnes physiques et aux personnes morales (art. 225-22 à 225-25)](#116)
+        - [Chapitre VI : Des atteintes à la personnalité (art. 226-1 à 226-32)](#117)
+          - [Section 1 : De l'atteinte à la vie privée (art. 226-1 à 226-7)](#118)
+          - [Section 2 : De l'atteinte à la représentation de la personne (art. 226-8 à 226-9)](#119)
+          - [Section 3 : De la dénonciation calomnieuse (art. 226-10 à 226-12)](#120)
+          - [Section 4 : De l'atteinte au secret (art. 226-13 à 226-15)](#121)
+            - [Paragraphe 1 : De l'atteinte au secret professionnel (art. 226-13 à 226-14)](#122)
+            - [Paragraphe 2 : De l'atteinte au secret des correspondances (art. 226-15)](#123)
+          - [Section 5 : Des atteintes aux droits de la personne résultant des fichiers ou des traitements informatiques. (art. 226-16 à 226-24)](#124)
+          - [Section 6 : Des atteintes à la personne résultant de l'examen de ses caractéristiques génétiques ou de l'identification par ses empreintes génétiques (art. 226-25 à 226-30)](#125)
+          - [Section 7 : Peines complémentaires applicables aux personnes physiques (art. 226-31 à 226-32)](#126)
+        - [Chapitre VII : Des atteintes aux mineurs et à la famille (art. 227-1 à 227-33)](#127)
+          - [Section 1 : Du délaissement de mineur (art. 227-1 à 227-2)](#128)
+          - [Section 2 : De l'abandon de famille (art. 227-3 à 227-4-1)](#129)
+          - [Section 3 : Des atteintes à l'exercice de l'autorité parentale (art. 227-5 à 227-11)](#130)
+          - [Section 4 : Des atteintes à la filiation (art. 227-12 à 227-14)](#131)
+          - [Section 5 : De la mise en péril des mineurs (art. 227-15 à 227-28-3)](#132)
+          - [Section 6 : Peines complémentaires applicables aux personnes physiques (art. 227-29 à 227-32)](#133)
+          - [Section 7 : Peine complémentaire commune aux personnes physiques et aux personnes morales (art. 227-33)](#134)
+    - [Livre III : Des crimes et délits contre les biens (art. 311-1 à 324-9)](#135)
+      - [Titre Ier : Des appropriations frauduleuses (art. 311-1 à 314-13)](#136)
+        - [Chapitre Ier : Du vol (art. 311-1 à 311-16)](#137)
+          - [Section 1 : Du vol simple et des vols aggravés (art. 311-1 à 311-11)](#138)
+          - [Section 2 : Dispositions générales (art. 311-12 à 311-13)](#139)
+          - [Section 3 : Peines complémentaires applicables aux personnes physiques et responsabilité des personnes morales (art. 311-14 à 311-16)](#140)
+        - [Chapitre II : De l'extorsion (art. 312-1 à 312-15)](#141)
+          - [Section 1 : De l'extorsion (art. 312-1 à 312-9)](#142)
+          - [Section 2 : Du chantage (art. 312-10 à 312-12)](#143)
+          - [Section 2 bis : De la demande de fonds sous contrainte (art. 312-12-1)](#144)
+          - [Section 3 : Peines complémentaires applicables aux personnes physiques et responsabilité des personnes morales (art. 312-13 à 312-15)](#145)
+        - [Chapitre III : De l'escroquerie et des infractions voisines (art. 313-1 à 313-9)](#146)
+          - [Section 1 : De l'escroquerie (art. 313-1 à 313-3)](#147)
+          - [Section 2 : Des infractions voisines de l'escroquerie (art. 313-5 à 313-6-1)](#148)
+          - [Section 3 : Peines complémentaires applicables aux personnes physiques et responsabilité des personnes morales (art. 313-7 à 313-9)](#149)
+        - [Chapitre IV : Des détournements (art. 314-1 à 314-13)](#150)
+          - [Section 1 : De l'abus de confiance (art. 314-1 à 314-4)](#151)
+          - [Section 2 : Du détournement de gage ou d'objet saisi (art. 314-5 à 314-6)](#152)
+          - [Section 3 : De l'organisation frauduleuse de l'insolvabilité (art. 314-7 à 314-9)](#153)
+          - [Section 4 : Peines complémentaires applicables aux personnes physiques et responsabilité des personnes morales (art. 314-10 à 314-13)](#154)
+      - [Titre II : Des autres atteintes aux biens (art. 321-1 à 324-9)](#155)
+        - [Chapitre Ier : Du recel et des infractions assimilées ou voisines (art. 321-1 à 321-12)](#156)
+          - [Section 1 : Du recel (art. 321-1 à 321-5)](#157)
+          - [Section 2 : Des infractions assimilées au recel ou voisines de celui-ci (art. 321-6 à 321-8)](#158)
+          - [Section 3 : Peines complémentaires applicables aux personnes physiques et responsabilité de personnes morales (art. 321-9 à 321-12)](#159)
+        - [Chapitre II : Des destructions, dégradations et détériorations (art. 322-1 à 322-18)](#160)
+          - [Section 1 : Des destructions, dégradations et détériorations ne présentant pas de danger pour les personnes (art. 322-1 à 322-4-1)](#161)
+          - [Section 2 : Des destructions, dégradations et détériorations dangereuses pour les personnes (art. 322-5 à 322-11-1)](#162)
+          - [Section 3 : Des menaces de destruction, de dégradation ou de détérioration et des fausses alertes (art. 322-12 à 322-14)](#163)
+          - [Section 4 : Peines complémentaires applicables aux personnes physiques et responsabilité des personnes morales (art. 322-15 à 322-18)](#164)
+        - [Chapitre III : Des atteintes aux systèmes de traitement automatisé de données (art. 323-1 à 323-7)](#165)
+        - [Chapitre IV : Du blanchiment (art. 324-1 à 324-9)](#166)
+          - [Section 1 : Du blanchiment simple et du blanchiment aggravé (art. 324-1 à 324-6)](#167)
+          - [Section 2 : Peines complémentaires applicables aux personnes physiques et responsabilité pénale des personnes morales (art. 324-7 à 324-9)](#168)
+    - [Livre IV : Des crimes et délits contre la nation, l'Etat et la paix publique (art. 410-1 à 450-5)](#169)
+      - [Titre Ier : Des atteintes aux intérêts fondamentaux de la nation (art. 410-1 à 414-9)](#170)
+        - [Chapitre Ier : De la trahison et de l'espionnage (art. 411-1 à 411-11)](#171)
+          - [Section 1 : De la livraison de tout ou partie du territoire national, de forces armées ou de matériel à une puissance étrangère (art. 411-2 à 411-3)](#172)
+          - [Section 2 : Des intelligences avec une puissance étrangère (art. 411-4 à 411-5)](#173)
+          - [Section 3 : De la livraison d'informations à une puissance étrangère (art. 411-6 à 411-8)](#174)
+          - [Section 4 : Du sabotage (art. 411-9)](#175)
+          - [Section 5 : De la fourniture de fausses informations (art. 411-10)](#176)
+          - [Section 6 : De la provocation aux crimes prévus au présent chapitre (art. 411-11)](#177)
+        - [Chapitre II : Des autres atteintes aux institutions de la République ou à l'intégrité du territoire national (art. 412-1 à 412-8)](#178)
+          - [Section 1 : De l'attentat et du complot (art. 412-1 à 412-2)](#179)
+          - [Section 2 : Du mouvement insurrectionnel (art. 412-3 à 412-6)](#180)
+          - [Section 3 : De l'usurpation de commandement, de la levée de forces armées et de la provocation à s'armer illégalement (art. 412-7 à 412-8)](#181)
+        - [Chapitre III : Des autres atteintes à la défense nationale (art. 413-1 à 413-12)](#182)
+          - [Section 1 : Des atteintes à la sécurité des forces armées et aux zones protégées intéressant la défense nationale (art. 413-1 à 413-8)](#183)
+          - [Section 2 : Des atteintes au secret de la défense nationale (art. 413-9 à 413-12)](#184)
+        - [Chapitre IV : Dispositions particulières (art. 414-1 à 414-9)](#185)
+      - [Titre II : Du terrorisme (art. 421-1 à 422-7)](#186)
+        - [Chapitre Ier : Des actes de terrorisme (art. 421-1 à 421-6)](#187)
+        - [Chapitre II : Dispositions particulières (art. 422-1 à 422-7)](#188)
+      - [Titre III : Des atteintes à l'autorité de l'Etat (art. 431-1 à 436-5)](#189)
+        - [Chapitre Ier : Des atteintes à la paix publique (art. 431-1 à 431-28)](#190)
+          - [Section 1 : Des entraves à l'exercice des libertés d'expression, du travail, d'association, de réunion ou de manifestation (art. 431-1 à 431-2)](#191)
+          - [Section 2 : De la participation délictueuse à un attroupement (art. 431-3 à 431-8)](#192)
+          - [Section 3 : Des manifestations illicites et de la participation délictueuse à une manifestation ou à une réunion publique (art. 431-9 à 431-12)](#193)
+          - [Section 4 : Des groupes de combat et des mouvements dissous (art. 431-13 à 431-21)](#194)
+          - [Section 5 : De l'intrusion dans un établissement   d'enseignement scolaire (art. 431-22 à 431-27)](#195)
+          - [Section 6 : De l'introduction d'armes dans un établissement scolaire (art. 431-28)](#196)
+        - [Chapitre II : Des atteintes à l'administration publique commises par des personnes exerçant une fonction publique (art. 432-1 à 432-17)](#197)
+          - [Section 1 : Des abus d'autorité dirigés contre l'administration (art. 432-1 à 432-3)](#198)
+          - [Section 2 : Des abus d'autorité commis contre les particuliers (art. 432-4 à 432-9)](#199)
+            - [Paragraphe 1 : Des atteintes à la liberté individuelle (art. 432-4 à 432-6)](#200)
+            - [Paragraphe 2 : Des discriminations (art. 432-7)](#201)
+            - [Paragraphe 3 : Des atteintes à l'inviolabilité du domicile (art. 432-8)](#202)
+            - [Paragraphe 4 : Des atteintes au secret des correspondances (art. 432-9)](#203)
+          - [Section 3 : Des manquements au devoir de probité (art. 432-10 à 432-16)](#204)
+            - [Paragraphe 1 : De la concussion (art. 432-10)](#205)
+            - [Paragraphe 2 : De la corruption passive et du trafic d'influence commis par des personnes exerçant une fonction publique (art. 432-11)](#206)
+            - [Paragraphe 3 : De la prise illégale d'intérêts (art. 432-12 à 432-13)](#207)
+            - [Paragraphe 4 : Des atteintes à la liberté d'accès et à l'égalité des candidats dans les marchés publics et les délégations de service public (art. 432-14)](#208)
+            - [Paragraphe 5 : De la soustraction et du détournement de biens (art. 432-15 à 432-16)](#209)
+          - [Section 4 : Peines complémentaires (art. 432-17)](#210)
+        - [Chapitre III : Des atteintes à l'administration publique commises par les particuliers (art. 433-1 à 433-25)](#211)
+          - [Section 1 : De la corruption active et du trafic d'influence commis par les particuliers (art. 433-1 à 433-2)](#212)
+          - [Section 2 : Des menaces et actes d'intimidation commis contre les personnes exerçant une fonction publique (art. 433-3)](#213)
+          - [Section 3 : De la soustraction et du détournement de biens contenus dans un dépôt public (art. 433-4)](#214)
+          - [Section 4 : De l'outrage (art. 433-5 à 433-5-1)](#215)
+          - [Section 5 : De la rébellion (art. 433-6 à 433-10)](#216)
+          - [Section 6 : De l'opposition à l'exécution de travaux publics (art. 433-11)](#217)
+          - [Section 7 : De l'usurpation de fonctions (art. 433-12 à 433-13)](#218)
+          - [Section 8 : De l'usurpation de signes réservés à l'autorité publique (art. 433-14 à 433-16)](#219)
+          - [Section 9 : De l'usurpation de titres (art. 433-17)](#220)
+          - [Section 10 : De l'usage irrégulier de qualité (art. 433-18)](#221)
+          - [Section 11 : Des atteintes à l'état civil des personnes (art. 433-18-1 à 433-21-1)](#222)
+          - [Section 12 : Peines complémentaires et responsabilité des personnes morales (art. 433-22 à 433-25)](#223)
+        - [Chapitre IV : Des atteintes à l'action de justice (art. 434-1 à 434-47)](#224)
+          - [Section 1 : Des entraves à la saisine de la justice (art. 434-1 à 434-7)](#225)
+          - [Section 2 : Des entraves à l'exercice de la justice (art. 434-7-1 à 434-23)](#226)
+          - [Section 3 : Des atteintes à l'autorité de la justice (art. 434-24 à 434-43)](#227)
+            - [Paragraphe 1 : Des atteintes au respect dû à la justice (art. 434-24 à 434-26)](#228)
+            - [Paragraphe 2 : De l'évasion (art. 434-27 à 434-37)](#229)
+            - [Paragraphe 3 : Des autres atteintes à l'autorité de la justice pénale (art. 434-38 à 434-43)](#230)
+          - [Section 4 : Peines complémentaires et responsabilité des personnes morales (art. 434-44 à 434-47)](#231)
+        - [Chapitre V : Des atteintes à l'administration publique et à l'action de la justice des Communautés européennes, des Etats membres de l'Union européenne, des autres Etats étrangers et des autres organisations internationales publiques (art. 435-1 à 435-15)](#232)
+          - [Section 1 : Des atteintes à l'administration publique (art. 435-1 à 435-6)](#233)
+            - [Sous-section 1 : De la corruption et du trafic d'influence passifs (art. 435-1 à 435-2)](#234)
+            - [Sous-section 2 : De la corruption et du trafic d'influence actifs (art. 435-3 à 435-4)](#235)
+            - [Sous-section 3 : Dispositions communes (art. 435-5 à 435-6)](#236)
+          - [Section 2 : Des atteintes à l'action de la justice (art. 435-7 à 435-13)](#237)
+            - [Sous-section 1 : De la corruption et du trafic d'influence passifs (art. 435-7 à 435-8)](#238)
+            - [Sous-section 2 : De la corruption et du trafic d'influence actifs (art. 435-9 à 435-10)](#239)
+            - [Sous-section 3 : Dispositions communes (art. 435-11)](#240)
+            - [Sous-section 4 : Des autres entraves à l'exercice de la justice (art. 435-12 à 435-13)](#241)
+          - [Section 3 : Peines complémentaires et responsabilité des personnes morales (art. 435-14 à 435-15)](#242)
+        - [Chapitre VI : De la participation à une activité mercenaire (art. 436-1 à 436-5)](#243)
+      - [Titre IV : Des atteintes à la confiance publique (art. 441-1 à 445-4)](#244)
+        - [Chapitre Ier : Des faux (art. 441-1 à 441-12)](#245)
+        - [Chapitre II : De la fausse monnaie (art. 442-1 à 442-16)](#246)
+        - [Chapitre III : De la falsification des titres ou autres valeurs fiduciaires émises par l'autorité publique (art. 443-1 à 443-8)](#247)
+        - [Chapitre IV : De la falsification des marques de l'autorité (art. 444-1 à 444-9)](#248)
+        - [Chapitre V : De la corruption des personnes n'exerçant pas une fonction publique (art. 445-1 à 445-4)](#249)
+          - [Section 1 : De la corruption passive et active des personnes n'exerçant pas une fonction publique (art. 445-1 à 445-2)](#250)
+          - [Section 2 : Peines complémentaires applicables aux personnes physiques et responsabilité pénale des personnes morales (art. 445-3 à 445-4)](#251)
+      - [Titre V : De la participation à une association de malfaiteurs (art. 450-1 à 450-5)](#252)
+    - [Livre V : Des autres crimes et délits (art. 511-1 à 521-2)](#253)
+      - [Titre Ier : Des infractions en matière de santé publique (art. 511-1 à 511-28)](#254)
+        - [Chapitre Ier : Des infractions en matière d'éthique biomédicale (art. 511-1 à 511-28)](#255)
+          - [Section 1 : De la protection de l'espèce humaine (art. 511-1 à 511-1-2)](#256)
+          - [Section 2 : De la protection du corps humain (art. 511-2 à 511-13)](#257)
+          - [Section 3 : De la protection de l'embryon humain (art. 511-15 à 511-25-1)](#258)
+          - [Section 4 : Autres dispositions et peines complémentaires applicables aux personnes physiques et responsabilité des personnes morales (art. 511-26 à 511-28)](#259)
+      - [Titre II : Autres dispositions (art. 521-1 à 521-2)](#260)
+        - [Chapitre unique : Des sévices graves ou actes de cruauté envers les animaux (art. 521-1 à 521-2)](#261)
+    - [Livre VII : Dispositions applicables dans les territoires d'outre-mer, en Nouvelle-Calédonie et à Mayotte. (art. 711-1 à 727-3)](#262)
+      - [Titre Ier : Dispositions applicables dans les territoires d'outre-mer et en Nouvelle-Calédonie. (art. 711-1 à 717-3)](#263)
+        - [Chapitre Ier : Dispositions générales (art. 711-1 à 711-4)](#264)
+        - [Chapitre II : Adaptation du livre Ier (art. 712-1 à 712-2)](#265)
+        - [Chapitre III : Adaptation du livre II (art. 713-3)](#266)
+        - [Chapitre IV : Adaptation du livre III (art. 714-1)](#267)
+        - [Chapitre V : Adaptation du livre IV (art. 715-1 à 715-5)](#268)
+        - [Chapitre VI : Adaptation du livre V (art. 716-16)](#269)
+        - [Chapitre VII : Dispositions diverses (art. 717-1 à 717-3)](#270)
+      - [Titre II : Dispositions applicables à Mayotte. (art. 721-1 à 727-3)](#271)
+        - [Chapitre Ier : Dispositions générales (art. 721-1 à 721-2)](#272)
+        - [Chapitre II : Adaptation du livre Ier. (art. 722-1)](#273)
+        - [Chapitre III : Adaptation du livre II (art. 723-1 à 723-6)](#274)
+        - [Chapitre IV : Adaptation du livre III (art. 724-1)](#275)
+        - [Chapitre V : Adaptation du livre IV (art. 725-1 à 725-6)](#276)
+        - [Chapitre VI : Adaptation du livre V (art. 726-1 à 726-15)](#277)
+        - [Chapitre VII : Dispositions diverses (art. 727-1 à 727-3)](#278)
+  - [Partie réglementaire - Décrets en Conseil d'Etat (art. R131-1 à R722-7)](#279)
+    - [Livre Ier : Dispositions générales (art. R131-1 à R133-2)](#280)
+      - [Titre III : Des peines (art. R131-1 à R133-2)](#281)
+        - [Chapitre Ier : De la nature des peines (art. R131-1 à R131-53)](#282)
+          - [Section 1 : Des peines applicables aux personnes physiques (art. R131-1 à R131-51)](#283)
+            - [Sous-section 1 : De la suspension du permis de conduire, de l'interdiction de conduire certains véhicules, de l'immobilisation du véhicule et de l'obligation d'accomplir un stage de sensibilisation à la sécurité routière (art. R131-1 à R131-11-1)](#284)
+              - [Paragraphe 1 : De la suspension du permis de conduire (art. R131-1 à R131-2)](#285)
+              - [Paragraphe 2 : De l'interdiction de conduire certains véhicules. (art. R131-3 à R131-4)](#286)
+              - [Paragraphe 3 : De l'immobilisation de véhicule (art. R131-5 à R131-11)](#287)
+              - [Paragraphe 4 : De l'obligation d'accomplir un stage de sensibilisation à la sécurité routière (art. R131-11-1)](#288)
+            - [Sous-section 2 : Du travail d'intérêt général (art. R131-12 à R131-34)](#289)
+              - [Paragraphe 1 : Des modalités d'habilitation des personnes morales et d'établissement de la liste des travaux d'intérêt général (art. R131-12 à R131-22)](#290)
+                - [A. : Des modalités d'habilitation des personnes morales (art. R131-12 à R131-16)](#291)
+                - [B. : De l'établissement de la liste des travaux d'intérêt général (art. R131-17 à R131-20)](#292)
+                - [C. : Dispositions diverses (art. R131-21 à R131-22)](#293)
+              - [Paragraphe 2 : De l'exécution du travail d'intérêt général (art. R131-23 à R131-34)](#294)
+                - [A. : De la décision du juge de l'application des peines fixant les modalités d'exécution du travail d'intérêt général (art. R131-23 à R131-28)](#295)
+                - [B. : Du contrôle de l'exécution du travail d'intérêt général (art. R131-29 à R131-34)](#296)
+            - [Sous-section 3 : De la peine de stage de citoyenneté (art. R131-35 à R131-44)](#297)
+              - [Paragraphe 1 : Objet et durée du stage (art. R131-35 à R131-36)](#298)
+              - [Paragraphe 2 : Organisation du stage (art. R131-37 à R131-38)](#299)
+              - [Paragraphe 3 : Déroulement et fin du stage. (art. R131-39 à R131-40)](#300)
+              - [Paragraphe 4 : Dispositions spécifiques applicables aux mineurs. (art. R131-41 à R131-44)](#301)
+            - [Sous-section 4 : De la peine de sanction-réparation. (art. R131-45)](#302)
+            - [Sous-section 5 : De la peine de stage de sensibilisation aux dangers de l'usage de produits stupéfiants. (art. R131-46 à R131-47)](#303)
+            - [Sous-section 6 : De la peine de stage de responsabilité parentale. (art. R131-48 à R131-49)](#304)
+            - [Sous-section 7 : De la peine de confiscation d'un animal. (art. R131-50 à R131-51)](#305)
+          - [Section 2 : Des peines applicables aux personnes morales (art. R131-52 à R131-53)](#306)
+        - [Chapitre II : Du régime des peines (art. R132-45)](#307)
+          - [Section 2 : Des modes de personnalisation des peines (art. R132-45)](#308)
+            - [Sous-section 4 : Du sursis avec mise à l'épreuve (art. R132-45)](#309)
+        - [Chapitre III : De l'extinction des peines et de l'effacement des condamnations (art. R133-1 à R133-2)](#310)
+          - [Section 2 : De la grâce (art. R133-1 à R133-2)](#311)
+    - [Livre II : Des crimes et délits contre les personnes (art. R226-1 à R226-12)](#312)
+      - [Titre II : Des atteintes à la personne humaine (art. R226-1 à R226-12)](#313)
+        - [Chapitre VI : Des atteintes à la personnalité (art. R226-1 à R226-12)](#314)
+          - [Section 1 : De l'atteinte à la vie privée (art. R226-1 à R226-12)](#315)
+    - [Livre III : Des crimes et délits contre les biens (art. R321-1 à R321-12)](#316)
+      - [Titre II : Des autres atteintes aux biens (art. R321-1 à R321-12)](#317)
+        - [Chapitre Ier : Du recel et des infractions assimilées ou voisines (art. R321-1 à R321-12)](#318)
+          - [Section 2 : Des infractions assimilées au recel ou voisines de celui-ci (art. R321-1 à R321-12)](#319)
+            - [Sous-section 1 : Dispositions relatives aux personnes dont l'activité professionnelle comporte la vente ou l'échange de certains objets mobiliers (art. R321-1 à R321-8)](#320)
+            - [Sous-section 2 : Dispositions concernant les manifestations publiques en vue de la vente ou de l'échange de certains objets mobiliers (art. R321-9 à R321-12)](#321)
+    - [Livre IV : Des crimes et délits contre la nation, l'Etat et la paix publique (art. R413-1 à R431-2)](#322)
+      - [Titre Ier : Des atteintes aux intérêts fondamentaux de la nation (art. R413-1 à R413-6)](#323)
+        - [Chapitre III : Des autres atteintes à la défense nationale (art. R413-1 à R413-6)](#324)
+          - [Section 1 : Des atteintes à la sécurité des forces armées et aux zones protégées intéressant la défense nationale (art. R413-1 à R413-5)](#325)
+          - [Section 2 : Des atteintes au secret de la défense nationale (art. R413-6)](#326)
+      - [Titre III : Des atteintes à l'autorité de l'Etat (art. R431-1 à R431-2)](#327)
+        - [Chapitre Ier : Des atteintes à la paix publique (art. R431-1 à R431-2)](#328)
+          - [Section 2 : De la participation délictueuse à un attroupement. (art. R431-1 à R431-2)](#329)
+    - [Livre V : Des autres crimes et délits (art. R511-1)](#330)
+      - [Chapitre Ier : Des sévices graves ou actes de cruauté envers les animaux (art. R511-1)](#331)
+    - [Livre VI : Des contraventions (art. R610-1 à R655-1)](#332)
+      - [Titre Ier : Dispositions générales (art. R610-1 à R610-5)](#333)
+      - [Titre II : Des contraventions contre les personnes (art. R621-1 à R625-13)](#334)
+        - [Chapitre Ier : Des contraventions de la 1re classe contre les personnes (art. R621-1 à R621-2)](#335)
+          - [Section 1 : De la diffamation et de l'injure non publiques (art. R621-1 à R621-2)](#336)
+        - [Chapitre II : Des contraventions de la 2e classe contre les personnes (art. R622-1 à R622-2)](#337)
+          - [Section 1 : Des atteintes involontaires à l'intégrité de la personne n'ayant entraîné aucune incapacité totale de travail (art. R622-1)](#338)
+          - [Section 2 : De la divagation d'animaux dangereux (art. R622-2)](#339)
+        - [Chapitre III : Des contraventions de la 3e classe contre les personnes (art. R623-1 à R623-4)](#340)
+          - [Section 1 : Des menaces de violences (art. R623-1)](#341)
+          - [Section 2 : Des bruits ou tapages injurieux ou nocturnes (art. R623-2)](#342)
+          - [Section 3 : De l'excitation d'animaux dangereux (art. R623-3)](#343)
+          - [Section 4 : De la violation des dispositions réglementant le commerce de certains matériels susceptibles d'être utilisés pour porter atteinte à l'intimité de la vie privée (art. R623-4)](#344)
+        - [Chapitre IV : Des contraventions de la 4e classe contre les personnes (art. R624-1 à R624-7)](#345)
+          - [Section 1 : Des violences légères (art. R624-1)](#346)
+          - [Section 2 : De la diffusion de messages contraires à la décence (art. R624-2)](#347)
+          - [Section 3 : De la diffamation et de l'injure non publiques présentant un caractère raciste ou discriminatoire (art. R624-3 à R624-6)](#348)
+          - [Section 4 : Du manquement à l'obligation d'assiduité scolaire (art. R624-7)](#349)
+        - [Chapitre V : Des contraventions de la 5e classe contre les personnes (art. R625-1 à R625-13)](#350)
+          - [Section 1 : Des violences (art. R625-1)](#351)
+          - [Section 2 : Des atteintes involontaires à l'intégrité de la personne (art. R625-2 à R625-6)](#352)
+          - [Section 3 : De la provocation non publique à la discrimination, à la haine ou à la violence (art. R625-7)](#353)
+          - [Section 5 : De la violation des dispositions réglementant le commerce de certains matériels susceptibles d'être utilisés pour porter atteinte à l'intimité de la vie privée (art. R625-9)](#354)
+          - [Section 6 : Des atteintes aux droits de la personne résultant des fichiers ou des traitements informatiques (art. R625-10 à R625-13)](#355)
+      - [Titre III : Des contraventions contre les biens (art. R631-1 à R635-8)](#356)
+        - [Chapitre Ier : Des contraventions de la 1re classe contre les biens (art. R631-1)](#357)
+          - [Section unique : Des menaces de destruction, de dégradation ou de détérioration n'entraînant qu'un dommage léger (art. R631-1)](#358)
+        - [Chapitre II : Des contraventions de la 2e classe contre les biens (art. R632-1)](#359)
+          - [Section unique : De l'abandon d'ordures, déchets, matériaux ou autres objets. (art. R632-1)](#360)
+        - [Chapitre III : Des contraventions de la 3e classe contre les biens (art. R633-1 à R633-5)](#361)
+          - [Section 1 : De la violation des dispositions réglementant la vente ou l'échange de certains objets mobiliers (art. R633-1 à R633-3)](#362)
+          - [Section 2 : De la violation des dispositions concernant les manifestations publiques en vue de la vente ou de l'échange de certains objets mobiliers (art. R633-5)](#363)
+        - [Chapitre IV : Des contraventions de la 4e classe contre les biens (art. R634-1)](#364)
+          - [Section 1 : Des menaces de destruction, de dégradation ou de détérioration ne présentant pas de danger pour les personnes (art. R634-1)](#365)
+        - [Chapitre V : Des contraventions de la 5e classe contre les biens (art. R635-1 à R635-8)](#366)
+          - [Section 1 : Des destructions, dégradations et détériorations dont il n'est résulté qu'un dommage léger (art. R635-1)](#367)
+          - [Section 2 : De la vente forcée par correspondance (art. R635-2)](#368)
+          - [Section 3 : De la violation des dispositions réglementant la vente ou l'échange de certains objets mobiliers (art. R635-3 à R635-7)](#369)
+          - [Section 4 : De l'abandon d'épaves de véhicules ou d'ordures, déchets, matériaux et autres objets transportés dans un véhicule (art. R635-8)](#370)
+      - [Titre IV : Des contraventions contre la nation, l'Etat ou la paix publique (art. R641-1 à R645-14)](#371)
+        - [Chapitre Ier : Des contraventions de la 1re classe contre la nation, l'Etat ou la paix publique (art. R641-1)](#372)
+          - [Section unique : De l'abandon d'armes ou d'objets dangereux (art. R641-1)](#373)
+        - [Chapitre II : Des contraventions de la 2e classe contre la nation, l'Etat ou la paix publique (art. R642-1 à R642-4)](#374)
+          - [Section 1 : Du défaut de réponse à une réquisition des autorités judiciaires ou administratives (art. R642-1)](#375)
+          - [Section 2 : Des atteintes à la monnaie (art. R642-2 à R642-4)](#376)
+        - [Chapitre III : Des contraventions de la 3e classe contre la nation, l'Etat ou la paix publique (art. R643-1 à R643-2)](#377)
+          - [Section 1 : De l'usurpation de signes réservés à l'autorité publique (art. R643-1)](#378)
+          - [Section 2 : De l'utilisation de poids ou mesures différents de ceux établis par les lois et règlements en vigueur (art. R643-2)](#379)
+        - [Chapitre IV : Des contraventions de la 4e classe contre la nation, l'Etat ou la paix publique (art. R644-1 à R644-3)](#380)
+          - [Section 1 : De l'accès sans autorisation à un terrain, une construction, un engin ou un appareil militaires (art. R644-1)](#381)
+          - [Section 2 : Des entraves à la libre circulation sur la voie publique (art. R644-2)](#382)
+          - [Section 3 : De la violation des dispositions réglementant les professions exercées dans les lieux publics (art. R644-3)](#383)
+        - [Chapitre V : Des contraventions de la 5e classe contre la nation, l'Etat ou la paix publique (art. R645-1 à R645-14)](#384)
+          - [Section 1 : Du port ou de l'exhibition d'uniformes, insignes ou emblèmes rappelant ceux d'organisations ou de personnes responsables de crimes contre l'humanité (art. R645-1)](#385)
+          - [Section 2 : Des dessins, levés ou enregistrements effectués sans autorisation dans une zone d'interdiction fixée par l'autorité militaire (art. R645-2)](#386)
+          - [Section 3 : Des atteintes à l'état civil des personnes (art. R645-3 à R645-6)](#387)
+          - [Section 4 : De la soustraction d'une pièce produite en justice (art. R645-7)](#388)
+          - [Section 5 : De l'utilisation d'un document délivré par une administration publique comportant des mentions devenues incomplètes ou inexactes (art. R645-8)](#389)
+          - [Section 5 bis : De l'usurpation de fonction ou de titre de délégué ou de médiateur du procureur de la République (art. R645-8-1)](#390)
+          - [Section 6 : Du refus de restitution de signes monétaires contrefaits ou falsifiés (art. R645-9)](#391)
+          - [Section 7 : De l'altération ou de la contrefaçon des timbres-poste ou des timbres émis par l'administration des finances (art. R645-10 à R645-11)](#392)
+          - [Section 8 : De l'intrusion dans les établissements scolaires (art. R645-12)](#393)
+          - [Section 9 : De l'intrusion dans les lieux historiques ou culturels (art. R645-13)](#394)
+          - [Section 10 : De la dissimulation illicite du visage à l'occasion de manifestations sur la voie publique (art. R645-14)](#395)
+      - [Titre V : Des autres contraventions (art. R653-1 à R655-1)](#396)
+        - [Chapitre III : Des contraventions de la 3e classe (art. R653-1)](#397)
+          - [Section unique : Des atteintes involontaires à la vie ou à l'intégrité d'un animal (art. R653-1)](#398)
+        - [Chapitre IV : Des contraventions de la 4e classe (art. R654-1)](#399)
+          - [Section unique : Des mauvais traitements envers un animal (art. R654-1)](#400)
+        - [Chapitre V : Des contraventions de la 5e classe (art. R655-1)](#401)
+          - [Section unique : Des atteintes volontaires à la vie d'un animal (art. R655-1)](#402)
+    - [Livre VII : Dispositions applicables dans les territoires d'outre-mer, en Nouvelle-Calédonie et à Mayotte. (art. R711-1 à R722-7)](#403)
+      - [Titre Ier : Dispositions applicables dans les territoires d'outre-mer et en Nouvelle-Calédonie (art. R711-1 à R716-1)](#404)
+        - [Chapitre Ier : Dispositions générales (art. R711-1 à R711-3)](#405)
+        - [Chapitre II : Adaptation du livre Ier (art. R712-1 à R712-8)](#406)
+        - [Chapitre VI : Adaptation du livre V (art. R716-1)](#407)
+      - [Titre II : Dispositions applicables à Mayotte. (art. R721-1 à R722-7)](#408)
+        - [Chapitre Ier : Dispositions générales (art. R721-1 à R721-2)](#409)
+        - [Chapitre II : Adaptation du livre Ier (art. R722-1 à R722-7)](#410)
 # Partie législative<a id=1></a>
 
 ## Livre Ier : Dispositions générales<a id=2></a>
@@ -7953,26 +7954,6 @@ _Créé par_:
   - Loi n°2005-1549 du 12 décembre 2005 - art. 16 () JORF 13 décembre 2005
 
 
-###### Article 132-16-6
-
-Les condamnations prononcées par les juridictions pénales d'un Etat membre de l'Union européenne sont prises en compte au
-titre de la récidive conformément aux règles prévues par la présente sous-section.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Loi n°92-683 1992-07-22
-
-_Créé par_:
-
-  - Loi n°2005-1549 du 12 décembre 2005 - art. 2 () JORF 13 décembre 2005
-
-_Abrogé par_:
-
-  - Loi n°2010-242 du 10 mars 2010 - art. 17 (V)
-
-
 ##### Sous-section 3 : Des peines applicables en cas de réitération d'infractions<a id=33></a>
 
 ###### Article 132-16-7
@@ -8382,7 +8363,35 @@ _Modifié par_:
   - Loi n°2005-1549 du 12 décembre 2005 - art. 3 () JORF 13 décembre 2005
 
 
-##### Section 2 : Des modes de personnalisation des peines<a id=36></a>
+##### Sous-section 6 : Des effets des condamnations prononcées par les juridictions pénales d'un Etat membre de l'Union européenne<a id=36></a>
+
+###### Article 132-23-1
+
+Pour l'application du présent code et du code de procédure pénale, les condamnations prononcées par les juridictions pénales
+d'un Etat membre de l'Union européenne sont prises en compte dans les mêmes conditions que les condamnations prononcées par
+les juridictions pénales françaises et produisent les mêmes effets juridiques que ces condamnations.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2010-242 du 10 mars 2010 - art. 17 (V)
+
+
+###### Article 132-23-2
+
+Pour l'appréciation des effets juridiques des condamnations prononcées par les juridictions pénales d'un Etat membre de
+l'Union européenne, la qualification des faits est déterminée par rapport aux incriminations définies par la loi française et
+sont prises en compte les peines équivalentes aux peines prévues par la loi française.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2010-242 du 10 mars 2010 - art. 17 (V)
+
+
+##### Section 2 : Des modes de personnalisation des peines<a id=37></a>
 
 ###### Article 132-24
 
@@ -8417,9 +8426,9 @@ _Cite_:
   - Code pénal - art. 132-25
 
 
-##### Sous-section 1 : De la semi-liberté, du placement à l'extérieur et du placement sous surveillance électronique<a id=37></a>
+##### Sous-section 1 : De la semi-liberté, du placement à l'extérieur et du placement sous surveillance électronique<a id=38></a>
 
-##### Paragraphe 1 : De la semi-liberté et du placement à l'extérieur<a id=38></a>
+##### Paragraphe 1 : De la semi-liberté et du placement à l'extérieur<a id=39></a>
 
 ###### Article 132-25
 
@@ -8492,7 +8501,7 @@ _Cite_:
   - Code pénal - art. 132-43
 
 
-##### Paragraphe 2 : Du placement sous surveillance électronique<a id=39></a>
+##### Paragraphe 2 : Du placement sous surveillance électronique<a id=40></a>
 
 ###### Article 132-26-1
 
@@ -8578,7 +8587,7 @@ _Cite_:
   - Code pénal - art. 132-43 (V)
 
 
-##### Sous-section 2 : Du fractionnement des peines<a id=40></a>
+##### Sous-section 2 : Du fractionnement des peines<a id=41></a>
 
 ###### Article 132-27
 
@@ -8622,7 +8631,7 @@ _Cité par_:
   - Code de procédure pénale - art. 708 (VD)
 
 
-##### Sous-section 3 : Du sursis simple<a id=41></a>
+##### Sous-section 3 : Du sursis simple<a id=42></a>
 
 ###### Article 132-29
 
@@ -8654,7 +8663,7 @@ _Cite_:
   - Code pénal - art. 132-35 (V)
 
 
-##### Paragraphe 1 : Des conditions d'octroi du sursis simple<a id=42></a>
+##### Paragraphe 1 : Des conditions d'octroi du sursis simple<a id=43></a>
 
 ###### Article 132-30
 
@@ -8814,7 +8823,7 @@ _Cite_:
   - Code pénal - art. 131-42 (V)
 
 
-##### Paragraphe 2 : Des effets du sursis simple<a id=43></a>
+##### Paragraphe 2 : Des effets du sursis simple<a id=44></a>
 
 ###### Article 132-35
 
@@ -8936,9 +8945,9 @@ _Codifié par_:
   - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
 
 
-##### Sous-section 4 : Du sursis avec mise à l'épreuve<a id=44></a>
+##### Sous-section 4 : Du sursis avec mise à l'épreuve<a id=45></a>
 
-##### Paragraphe 1 : Des conditions d'octroi du sursis avec mise à l'épreuve<a id=45></a>
+##### Paragraphe 1 : Des conditions d'octroi du sursis avec mise à l'épreuve<a id=46></a>
 
 ###### Article 132-40
 
@@ -9039,7 +9048,7 @@ _Modifié par_:
   - Loi n°2004-204 du 9 mars 2004 - art. 175 () JORF 10 mars 2004 en vigueur le 31 décembre 2006
 
 
-##### Paragraphe 2 : Du régime de la mise à l'épreuve<a id=46></a>
+##### Paragraphe 2 : Du régime de la mise à l'épreuve<a id=47></a>
 
 ###### Article 132-43
 
@@ -9288,7 +9297,7 @@ _Cité par_:
   - Code pénal - art. 131-4-1 (VD)
 
 
-##### Paragraphe 3 : De la révocation du sursis avec mise à l'épreuve en cas de nouvelle infraction<a id=47></a>
+##### Paragraphe 3 : De la révocation du sursis avec mise à l'épreuve en cas de nouvelle infraction<a id=48></a>
 
 ###### Article 132-47
 
@@ -9405,7 +9414,7 @@ _Cité par_:
   - CODE DE PROCEDURE PENALE - art. 744-1 (Ab)
 
 
-##### Paragraphe 4 : Des effets du sursis avec mise à l'épreuve<a id=48></a>
+##### Paragraphe 4 : Des effets du sursis avec mise à l'épreuve<a id=49></a>
 
 ###### Article 132-52
 
@@ -9465,7 +9474,7 @@ _Cite_:
   - CODE DE PROCEDURE PENALE - art. 744 (V)
 
 
-##### Sous-section 5 : Du sursis assorti de l'obligation d'accomplir un travail d'intérêt général<a id=49></a>
+##### Sous-section 5 : Du sursis assorti de l'obligation d'accomplir un travail d'intérêt général<a id=50></a>
 
 ###### Article 132-54
 
@@ -9624,7 +9633,7 @@ _Cite_:
   - Code pénal - art. 132-55
 
 
-##### Sous-section 6 : De la dispense de peine et de l'ajournement<a id=50></a>
+##### Sous-section 6 : De la dispense de peine et de l'ajournement<a id=51></a>
 
 ###### Article 132-58
 
@@ -9667,7 +9676,7 @@ _Cite_:
   - Code pénal - art. 132-63 (V)
 
 
-##### Paragraphe 1 : De la dispense de la peine<a id=51></a>
+##### Paragraphe 1 : De la dispense de la peine<a id=52></a>
 
 ###### Article 132-59
 
@@ -9697,7 +9706,7 @@ _Cité par_:
   - Code de procédure pénale - art. 768 (V)
 
 
-##### Paragraphe 2 : De l'ajournement simple<a id=52></a>
+##### Paragraphe 2 : De l'ajournement simple<a id=53></a>
 
 ###### Article 132-60
 
@@ -9765,7 +9774,7 @@ _Codifié par_:
   - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
 
 
-##### Paragraphe 3 : De l'ajournement avec mise à l'épreuve<a id=53></a>
+##### Paragraphe 3 : De l'ajournement avec mise à l'épreuve<a id=54></a>
 
 ###### Article 132-63
 
@@ -9844,7 +9853,7 @@ _Cite_:
   - CODE DE PROCEDURE PENALE - art. 712-6 (V)
 
 
-##### Paragraphe 4 : De l'ajournement avec injonction<a id=54></a>
+##### Paragraphe 4 : De l'ajournement avec injonction<a id=55></a>
 
 ###### Article 132-66
 
@@ -9965,7 +9974,7 @@ _Codifié par_:
   - Loi n°92-683 1992-07-22
 
 
-##### Section 3 : De la définition de certaines circonstances entraînant l'aggravation, la diminution ou l'exemption des peines<a id=55></a>
+##### Section 3 : De la définition de certaines circonstances entraînant l'aggravation, la diminution ou l'exemption des peines<a id=56></a>
 
 ###### Article 132-71
 
@@ -10263,7 +10272,7 @@ _Créé par_:
   - Loi n°2006-399 du 4 avril 2006 - art. 7 () JORF 5 avril 2006
 
 
-#### Chapitre III : De l'extinction des peines et de l'effacement des condamnations<a id=56></a>
+#### Chapitre III : De l'extinction des peines et de l'effacement des condamnations<a id=57></a>
 
 ###### Article 133-1
 
@@ -10292,7 +10301,7 @@ _Modifié par_:
   - Loi n°92-1336 du 16 décembre 1992 - art. 353 () JORF 23 décembre 1992 en vigueur le 1er mars 1994
 
 
-##### Section 1 : De la prescription<a id=57></a>
+##### Section 1 : De la prescription<a id=58></a>
 
 ###### Article 133-2
 
@@ -10404,7 +10413,7 @@ _Codifié par_:
   - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
 
 
-##### Section 2 : De la grâce<a id=58></a>
+##### Section 2 : De la grâce<a id=59></a>
 
 ###### Article 133-7
 
@@ -10438,7 +10447,7 @@ _Codifié par_:
   - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
 
 
-##### Section 3 : De l'amnistie<a id=59></a>
+##### Section 3 : De l'amnistie<a id=60></a>
 
 ###### Article 133-9
 
@@ -10504,7 +10513,7 @@ _Cité par_:
   - Code pénal - art. 133-16 (AbD)
 
 
-##### Section 4 : De la réhabilitation<a id=60></a>
+##### Section 4 : De la réhabilitation<a id=61></a>
 
 ###### Article 133-12
 
@@ -10715,13 +10724,13 @@ _Codifié par_:
   - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
 
 
-## Livre II : Des crimes et délits contre les personnes<a id=61></a>
+## Livre II : Des crimes et délits contre les personnes<a id=62></a>
 
-### Titre Ier : Des crimes contre l'humanité et contre l'espèce humaine<a id=62></a>
+### Titre Ier : Des crimes contre l'humanité et contre l'espèce humaine<a id=63></a>
 
-#### Sous-titre Ier : Des crimes contre l'humanité<a id=63></a>
+#### Sous-titre Ier : Des crimes contre l'humanité<a id=64></a>
 
-##### Chapitre Ier : Du génocide<a id=64></a>
+##### Chapitre Ier : Du génocide<a id=65></a>
 
 ###### Article 211-1
 
@@ -10767,7 +10776,7 @@ _Cite_:
   - Code pénal - art. 132-23 (V)
 
 
-##### Chapitre II : Des autres crimes contre l'humanité<a id=65></a>
+##### Chapitre II : Des autres crimes contre l'humanité<a id=66></a>
 
 ###### Article 212-1
 
@@ -10856,7 +10865,7 @@ _Cite_:
   - Code pénal - art. 212-2 (V)
 
 
-##### Chapitre III : Dispositions communes<a id=66></a>
+##### Chapitre III : Dispositions communes<a id=67></a>
 
 ###### Article 213-1
 
@@ -10977,9 +10986,9 @@ _Cité par_:
   - Code pénal - art. 133-2 (M)
 
 
-#### Sous-titre II : Des crimes contre l'espèce humaine<a id=67></a>
+#### Sous-titre II : Des crimes contre l'espèce humaine<a id=68></a>
 
-##### Chapitre Ier : Des crimes d'eugénisme et de clonage reproductif<a id=68></a>
+##### Chapitre Ier : Des crimes d'eugénisme et de clonage reproductif<a id=69></a>
 
 ###### Article 214-1
 
@@ -11079,7 +11088,7 @@ _Cite_:
   - Code pénal - art. 214-1 (V)
 
 
-##### Chapitre II : Dispositions communes<a id=69></a>
+##### Chapitre II : Dispositions communes<a id=70></a>
 
 ###### Article 215-1
 
@@ -11196,11 +11205,11 @@ _Cite_:
   - Code pénal - art. 214-2
 
 
-### Titre II : Des atteintes à la personne humaine<a id=70></a>
+### Titre II : Des atteintes à la personne humaine<a id=71></a>
 
-#### Chapitre Ier : Des atteintes à la vie de la personne<a id=71></a>
+#### Chapitre Ier : Des atteintes à la vie de la personne<a id=72></a>
 
-##### Section 1 : Des atteintes volontaires à la vie<a id=72></a>
+##### Section 1 : Des atteintes volontaires à la vie<a id=73></a>
 
 ###### Article 221-1
 
@@ -11472,7 +11481,7 @@ _Créé par_:
   - Loi n°2004-204 du 9 mars 2004 - art. 12 () JORF 10 mars 2004
 
 
-##### Section 2 : Des atteintes involontaires à la vie<a id=73></a>
+##### Section 2 : Des atteintes involontaires à la vie<a id=74></a>
 
 ###### Article 221-6
 
@@ -11688,7 +11697,7 @@ _Cite_:
   - Code pénal - art. 131-39 (V)
 
 
-##### Section 3 : Peines complémentaires applicables aux personnes physiques<a id=74></a>
+##### Section 3 : Peines complémentaires applicables aux personnes physiques<a id=75></a>
 
 ###### Article 221-8
 
@@ -11871,11 +11880,11 @@ _Cite_:
   - Code pénal - art. 131-30 (V)
 
 
-#### Chapitre II : Des atteintes à l'intégrité physique ou psychique de la personne<a id=75></a>
+#### Chapitre II : Des atteintes à l'intégrité physique ou psychique de la personne<a id=76></a>
 
-##### Section 1 : Des atteintes volontaires à l'intégrité de la personne<a id=76></a>
+##### Section 1 : Des atteintes volontaires à l'intégrité de la personne<a id=77></a>
 
-##### Paragraphe 1 : Des tortures et actes de barbarie<a id=77></a>
+##### Paragraphe 1 : Des tortures et actes de barbarie<a id=78></a>
 
 ###### Article 222-1
 
@@ -12164,7 +12173,7 @@ _Créé par_:
   - Loi n°2004-204 du 9 mars 2004 - art. 12 () JORF 10 mars 2004
 
 
-##### Paragraphe 2 : Des violences<a id=78></a>
+##### Paragraphe 2 : Des violences<a id=79></a>
 
 ###### Article 222-7
 
@@ -12895,7 +12904,7 @@ _Cite_:
   - Code pénal - art. 222-8 (V)
 
 
-##### Paragraphe 3 : Des menaces<a id=79></a>
+##### Paragraphe 3 : Des menaces<a id=80></a>
 
 ###### Article 222-17
 
@@ -13035,7 +13044,7 @@ _Anciens textes_:
   - Code pénal - art. 222-18-1 (T)
 
 
-##### Section 2 : Des atteintes involontaires à l'intégrité de la personne<a id=80></a>
+##### Section 2 : Des atteintes involontaires à l'intégrité de la personne<a id=81></a>
 
 ###### Article 222-19
 
@@ -13417,7 +13426,7 @@ _Cite_:
   - Code pénal - art. 222-19 (V)
 
 
-##### Section 3 : Des agressions sexuelles<a id=81></a>
+##### Section 3 : Des agressions sexuelles<a id=82></a>
 
 ###### Article 222-22
 
@@ -13480,7 +13489,7 @@ _Cite_:
   - Code pénal - art. 222-22
 
 
-##### Paragraphe 1 : Du viol<a id=82></a>
+##### Paragraphe 1 : Du viol<a id=83></a>
 
 ###### Article 222-23
 
@@ -13630,7 +13639,7 @@ _Cite_:
   - Code pénal - art. 132-23 (V)
 
 
-##### Paragraphe 2 : Des autres agressions sexuelles<a id=83></a>
+##### Paragraphe 2 : Des autres agressions sexuelles<a id=84></a>
 
 ###### Article 222-27
 
@@ -13793,7 +13802,7 @@ _Cité par_:
   - Code pénal - art. 222-33-3 (V)
 
 
-##### Paragraphe 3 : De l'inceste commis sur les mineurs<a id=84></a>
+##### Paragraphe 3 : De l'inceste commis sur les mineurs<a id=85></a>
 
 ###### Article 222-31-1
 
@@ -13850,7 +13859,7 @@ _Cite_:
   - Code civil - art. 379-1
 
 
-##### Paragraphe 4 : De l'exhibition sexuelle et du harcèlement sexuel<a id=85></a>
+##### Paragraphe 4 : De l'exhibition sexuelle et du harcèlement sexuel<a id=86></a>
 
 ###### Article 222-32
 
@@ -13921,7 +13930,7 @@ _Abrogé par_:
   - Décision n°2012-240 QPC  du 4 mai 2012, v. init.
 
 
-##### Paragraphe 5 : Responsabilité pénale des personnes morales<a id=86></a>
+##### Paragraphe 5 : Responsabilité pénale des personnes morales<a id=87></a>
 
 ###### Article 222-33-1
 
@@ -13946,7 +13955,7 @@ _Cite_:
   - Code pénal - art. 222-22
 
 
-##### Section 3 bis : Du harcèlement moral<a id=87></a>
+##### Section 3 bis : Du harcèlement moral<a id=88></a>
 
 ###### Article 222-33-2
 
@@ -13980,7 +13989,7 @@ _Créé par_:
   - Loi n°2002-73 du 17 janvier 2002 - art. 170 () JORF 18 janvier 2002
 
 
-##### Section 3 ter : De l'enregistrement et de la diffusion d'images de violence<a id=88></a>
+##### Section 3 ter : De l'enregistrement et de la diffusion d'images de violence<a id=89></a>
 
 ###### Article 222-33-3
 
@@ -14014,7 +14023,7 @@ _Cite_:
   - Code pénal - art. 222-31 (V)
 
 
-##### Section 4 : Du trafic de stupéfiants<a id=89></a>
+##### Section 4 : Du trafic de stupéfiants<a id=90></a>
 
 ###### Article 222-34
 
@@ -14412,7 +14421,7 @@ _Créé par_:
   - Loi n°2004-204 du 9 mars 2004 - art. 12 () JORF 10 mars 2004
 
 
-##### Section 5 : Peines complémentaires applicables aux personnes physiques<a id=90></a>
+##### Section 5 : Peines complémentaires applicables aux personnes physiques<a id=91></a>
 
 ###### Article 222-44
 
@@ -14639,7 +14648,7 @@ _Cite_:
   - Code pénal 222-23 à 222-32, 131-36-1 à 131-36-13, 222-8, 222-10, 222-12, 222-13, 222-14
 
 
-##### Section 6 : Dispositions communes aux personnes physiques et aux personnes morales<a id=91></a>
+##### Section 6 : Dispositions communes aux personnes physiques et aux personnes morales<a id=92></a>
 
 ###### Article 222-49
 
@@ -14737,9 +14746,9 @@ _Cite_:
   - Code pénal - art. 222-50 (V)
 
 
-#### Chapitre III : De la mise en danger de la personne<a id=92></a>
+#### Chapitre III : De la mise en danger de la personne<a id=93></a>
 
-##### Section 1 : Des risques causés à autrui<a id=93></a>
+##### Section 1 : Des risques causés à autrui<a id=94></a>
 
 ###### Article 223-1
 
@@ -14811,7 +14820,7 @@ _Cite_:
   - Code pénal - art. 223-1 (V)
 
 
-##### Section 2 : Du délaissement d'une personne hors d'état de se protéger<a id=94></a>
+##### Section 2 : Du délaissement d'une personne hors d'état de se protéger<a id=95></a>
 
 ###### Article 223-3
 
@@ -14865,7 +14874,7 @@ _Cité par_:
   - Code pénal - art. 223-17 (V)
 
 
-##### Section 3 : De l'entrave aux mesures d'assistance et de l'omission de porter secours<a id=95></a>
+##### Section 3 : De l'entrave aux mesures d'assistance et de l'omission de porter secours<a id=96></a>
 
 ###### Article 223-5
 
@@ -14975,7 +14984,7 @@ _Cite_:
   - Code pénal - art. 223-5 (V)
 
 
-##### Section 4 : De l'expérimentation sur la personne humaine<a id=96></a>
+##### Section 4 : De l'expérimentation sur la personne humaine<a id=97></a>
 
 ###### Article 223-8
 
@@ -15053,7 +15062,7 @@ _Cite_:
   - Code pénal - art. 223-8 (V)
 
 
-##### Section 5 : De l'interruption illégale de la grossesse<a id=97></a>
+##### Section 5 : De l'interruption illégale de la grossesse<a id=98></a>
 
 ###### Article 223-10
 
@@ -15089,7 +15098,7 @@ _Nouveaux textes_:
   - Code de la santé publique - art. L2222-1 (V)
 
 
-##### Section 6 : De la provocation au suicide<a id=98></a>
+##### Section 6 : De la provocation au suicide<a id=99></a>
 
 ###### Article 223-13
 
@@ -15196,7 +15205,7 @@ _Cite_:
   - Code pénal - art. 223-13 (V)
 
 
-##### Section 6 bis : De l'abus frauduleux de l'état d'ignorance ou de faiblesse<a id=99></a>
+##### Section 6 bis : De l'abus frauduleux de l'état d'ignorance ou de faiblesse<a id=100></a>
 
 ###### Article 223-15-2
 
@@ -15294,7 +15303,7 @@ _Cite_:
   - Code pénal - art. 131-39
 
 
-##### Section 7 : Peines complémentaires applicables aux personnes physiques<a id=100></a>
+##### Section 7 : Peines complémentaires applicables aux personnes physiques<a id=101></a>
 
 ###### Article 223-16
 
@@ -15457,9 +15466,9 @@ _Cite_:
   - Code pénal - art. 223-8 (VT)
 
 
-#### Chapitre IV : Des atteintes aux libertés de la personne<a id=101></a>
+#### Chapitre IV : Des atteintes aux libertés de la personne<a id=102></a>
 
-##### Section 1 : De l'enlèvement et de la séquestration.<a id=102></a>
+##### Section 1 : De l'enlèvement et de la séquestration.<a id=103></a>
 
 ###### Article 224-1
 
@@ -15708,7 +15717,7 @@ _Cite_:
   - Code pénal 224-1, 224-2 à 224-5, 132-23
 
 
-##### Section 2 : Du détournement d'aéronef, de navire ou de tout autre moyen de transport<a id=103></a>
+##### Section 2 : Du détournement d'aéronef, de navire ou de tout autre moyen de transport<a id=104></a>
 
 ###### Article 224-6
 
@@ -15838,7 +15847,7 @@ _Créé par_:
   - Loi n°2004-204 du 9 mars 2004 - art. 12 () JORF 10 mars 2004
 
 
-##### Section 3 : Peines complémentaires applicables aux personnes physiques<a id=104></a>
+##### Section 3 : Peines complémentaires applicables aux personnes physiques<a id=105></a>
 
 ###### Article 224-9
 
@@ -15893,9 +15902,9 @@ _Cite_:
   - Code pénal 131-36-1 à 131-36-13
 
 
-#### Chapitre V : Des atteintes à la dignité de la personne<a id=105></a>
+#### Chapitre V : Des atteintes à la dignité de la personne<a id=106></a>
 
-##### Section 1 : Des discriminations<a id=106></a>
+##### Section 1 : Des discriminations<a id=107></a>
 
 ###### Article 225-1
 
@@ -16101,7 +16110,7 @@ _Cite_:
   - Code pénal - art. 225-2 (V)
 
 
-##### Section 1 bis : De la traite des êtres humains<a id=107></a>
+##### Section 1 bis : De la traite des êtres humains<a id=108></a>
 
 ###### Article 225-4-1
 
@@ -16366,7 +16375,7 @@ _Créé par_:
   - Loi n°2004-204 du 9 mars 2004 - art. 12 () JORF 10 mars 2004
 
 
-##### Section 2 : Du proxénétisme et des infractions qui en résultent<a id=108></a>
+##### Section 2 : Du proxénétisme et des infractions qui en résultent<a id=109></a>
 
 ###### Article 225-5
 
@@ -16793,7 +16802,7 @@ _Cite_:
   - Code pénal - art. 225-5 (V)
 
 
-##### Section 2 bis : Du recours à la prostitution de mineurs ou de personnes particulièrement vulnérables.<a id=109></a>
+##### Section 2 bis : Du recours à la prostitution de mineurs ou de personnes particulièrement vulnérables.<a id=110></a>
 
 ###### Article 225-12-1
 
@@ -16916,7 +16925,7 @@ _Cite_:
   - Code pénal - art. 131-39 (V)
 
 
-##### Section 2 ter : De l'exploitation de la mendicité<a id=110></a>
+##### Section 2 ter : De l'exploitation de la mendicité<a id=111></a>
 
 ###### Article 225-12-5
 
@@ -17016,7 +17025,7 @@ _Créé par_:
   - Loi n°2003-239 du 18 mars 2003 - art. 64
 
 
-##### Section 3 : Des conditions de travail et d'hébergement contraires à la dignité de la personne.<a id=111></a>
+##### Section 3 : Des conditions de travail et d'hébergement contraires à la dignité de la personne.<a id=112></a>
 
 ###### Article 225-13
 
@@ -17167,7 +17176,7 @@ _Cite_:
   - Code pénal - art. 225-14 (V)
 
 
-##### Section 3 bis : Du bizutage<a id=112></a>
+##### Section 3 bis : Du bizutage<a id=113></a>
 
 ###### Article 225-16-1
 
@@ -17250,7 +17259,7 @@ _Cite_:
   - Code pénal - art. 225-16-1 (V)
 
 
-##### Section 4 : Des atteintes au respect dû aux morts<a id=113></a>
+##### Section 4 : Des atteintes au respect dû aux morts<a id=114></a>
 
 ###### Article 225-17
 
@@ -17353,7 +17362,7 @@ _Cite_:
   - Code pénal - art. 225-18 (V)
 
 
-##### Section 5 : Peines complémentaires applicables aux personnes physiques<a id=114></a>
+##### Section 5 : Peines complémentaires applicables aux personnes physiques<a id=115></a>
 
 ###### Article 225-19
 
@@ -17471,7 +17480,7 @@ _Cite_:
   - Code pénal - art. 131-30 (MMN)
 
 
-##### Section 6 : Dispositions communes aux personnes physiques et aux personnes morales<a id=115></a>
+##### Section 6 : Dispositions communes aux personnes physiques et aux personnes morales<a id=116></a>
 
 ###### Article 225-22
 
@@ -17598,9 +17607,9 @@ _Cite_:
   - Code pénal - art. 225-10-1 (V)
 
 
-#### Chapitre VI : Des atteintes à la personnalité<a id=116></a>
+#### Chapitre VI : Des atteintes à la personnalité<a id=117></a>
 
-##### Section 1 : De l'atteinte à la vie privée<a id=117></a>
+##### Section 1 : De l'atteinte à la vie privée<a id=118></a>
 
 ###### Article 226-1
 
@@ -17866,7 +17875,7 @@ _Cite_:
   - Code pénal - art. 131-38 (V)
 
 
-##### Section 2 : De l'atteinte à la représentation de la personne<a id=118></a>
+##### Section 2 : De l'atteinte à la représentation de la personne<a id=119></a>
 
 ###### Article 226-8
 
@@ -17920,7 +17929,7 @@ _Cite_:
   - Code pénal - art. 226-7 (V)
 
 
-##### Section 3 : De la dénonciation calomnieuse<a id=119></a>
+##### Section 3 : De la dénonciation calomnieuse<a id=120></a>
 
 ###### Article 226-10
 
@@ -18016,9 +18025,9 @@ _Cite_:
   - Code pénal - art. 226-10 (V)
 
 
-##### Section 4 : De l'atteinte au secret<a id=120></a>
+##### Section 4 : De l'atteinte au secret<a id=121></a>
 
-##### Paragraphe 1 : De l'atteinte au secret professionnel<a id=121></a>
+##### Paragraphe 1 : De l'atteinte au secret professionnel<a id=122></a>
 
 ###### Article 226-13
 
@@ -18939,7 +18948,7 @@ _Cite_:
   - Code pénal - art. 226-13 (V)
 
 
-##### Paragraphe 2 : De l'atteinte au secret des correspondances<a id=122></a>
+##### Paragraphe 2 : De l'atteinte au secret des correspondances<a id=123></a>
 
 ###### Article 226-15
 
@@ -18982,7 +18991,7 @@ _Modifié par_:
   - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 
-##### Section 5 : Des atteintes aux droits de la personne résultant des fichiers ou des traitements informatiques.<a id=123></a>
+##### Section 5 : Des atteintes aux droits de la personne résultant des fichiers ou des traitements informatiques.<a id=124></a>
 
 ###### Article 226-16
 
@@ -19382,7 +19391,7 @@ _Cite_:
   - Code pénal - art. 131-39 (V)
 
 
-##### Section 6 : Des atteintes à la personne résultant de l'examen de ses caractéristiques génétiques ou de l'identification par ses empreintes génétiques<a id=124></a>
+##### Section 6 : Des atteintes à la personne résultant de l'examen de ses caractéristiques génétiques ou de l'identification par ses empreintes génétiques<a id=125></a>
 
 ###### Article 226-25
 
@@ -19617,7 +19626,7 @@ _Cite_:
   - Code pénal - art. 131-39 (V)
 
 
-##### Section 7 : Peines complémentaires applicables aux personnes physiques<a id=125></a>
+##### Section 7 : Peines complémentaires applicables aux personnes physiques<a id=126></a>
 
 ###### Article 226-31
 
@@ -19700,9 +19709,9 @@ _Cite_:
   - Code pénal - art. 226-28 (V)
 
 
-#### Chapitre VII : Des atteintes aux mineurs et à la famille<a id=126></a>
+#### Chapitre VII : Des atteintes aux mineurs et à la famille<a id=127></a>
 
-##### Section 1 : Du délaissement de mineur<a id=127></a>
+##### Section 1 : Du délaissement de mineur<a id=128></a>
 
 ###### Article 227-1
 
@@ -19764,7 +19773,7 @@ _Codifié par_:
   - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
 
 
-##### Section 2 : De l'abandon de famille<a id=128></a>
+##### Section 2 : De l'abandon de famille<a id=129></a>
 
 ###### Article 227-3
 
@@ -19852,7 +19861,7 @@ _Cite_:
   - Code pénal - art. 131-39 (V)
 
 
-##### Section 3 : Des atteintes à l'exercice de l'autorité parentale<a id=129></a>
+##### Section 3 : Des atteintes à l'exercice de l'autorité parentale<a id=130></a>
 
 ###### Article 227-5
 
@@ -20043,7 +20052,7 @@ _Cite_:
   - Code pénal - art. 227-7 (V)
 
 
-##### Section 4 : Des atteintes à la filiation<a id=130></a>
+##### Section 4 : Des atteintes à la filiation<a id=131></a>
 
 ###### Article 227-12
 
@@ -20122,7 +20131,7 @@ _Cite_:
   - Code pénal - art. 131-39 (V)
 
 
-##### Section 5 : De la mise en péril des mineurs<a id=131></a>
+##### Section 5 : De la mise en péril des mineurs<a id=132></a>
 
 ###### Article 227-15
 
@@ -20852,7 +20861,7 @@ _Cite_:
   - Code pénal - art. 227-25 (V)
 
 
-##### Section 6 : Peines complémentaires applicables aux personnes physiques<a id=132></a>
+##### Section 6 : Peines complémentaires applicables aux personnes physiques<a id=133></a>
 
 ###### Article 227-29
 
@@ -20967,7 +20976,7 @@ _Cite_:
   - Code pénal - art. 227-18 (V)
 
 
-##### Section 7 : Peine complémentaire commune aux personnes physiques et aux personnes morales<a id=133></a>
+##### Section 7 : Peine complémentaire commune aux personnes physiques et aux personnes morales<a id=134></a>
 
 ###### Article 227-33
 
@@ -20991,13 +21000,13 @@ _Cite_:
   - Code pénal - art. 227-23 (M)
 
 
-## Livre III : Des crimes et délits contre les biens<a id=134></a>
+## Livre III : Des crimes et délits contre les biens<a id=135></a>
 
-### Titre Ier : Des appropriations frauduleuses<a id=135></a>
+### Titre Ier : Des appropriations frauduleuses<a id=136></a>
 
-#### Chapitre Ier : Du vol<a id=136></a>
+#### Chapitre Ier : Du vol<a id=137></a>
 
-##### Section 1 : Du vol simple et des vols aggravés<a id=137></a>
+##### Section 1 : Du vol simple et des vols aggravés<a id=138></a>
 
 ###### Article 311-1
 
@@ -21433,7 +21442,7 @@ _Cite_:
   - Code pénal - art. 311-9 (V)
 
 
-##### Section 2 : Dispositions générales<a id=138></a>
+##### Section 2 : Dispositions générales<a id=139></a>
 
 ###### Article 311-12
 
@@ -21492,7 +21501,7 @@ _Cité par_:
   - Code forestier (nouveau) - art. L163-7 (V)
 
 
-##### Section 3 : Peines complémentaires applicables aux personnes physiques et responsabilité des personnes morales<a id=139></a>
+##### Section 3 : Peines complémentaires applicables aux personnes physiques et responsabilité des personnes morales<a id=140></a>
 
 ###### Article 311-14
 
@@ -21592,9 +21601,9 @@ _Cite_:
   - Code pénal - art. 311-6 (V)
 
 
-#### Chapitre II : De l'extorsion<a id=140></a>
+#### Chapitre II : De l'extorsion<a id=141></a>
 
-##### Section 1 : De l'extorsion<a id=141></a>
+##### Section 1 : De l'extorsion<a id=142></a>
 
 ###### Article 312-1
 
@@ -21906,7 +21915,7 @@ _Cite_:
   - Code pénal - art. 311-12 (V)
 
 
-##### Section 2 : Du chantage<a id=142></a>
+##### Section 2 : Du chantage<a id=143></a>
 
 ###### Article 312-10
 
@@ -21979,7 +21988,7 @@ _Cite_:
   - Code pénal - art. 311-12 (V)
 
 
-##### Section 2 bis : De la demande de fonds sous contrainte<a id=143></a>
+##### Section 2 bis : De la demande de fonds sous contrainte<a id=144></a>
 
 ###### Article 312-12-1
 
@@ -22011,7 +22020,7 @@ _Créé par_:
   - Loi n°2003-239 du 18 mars 2003 - art. 65
 
 
-##### Section 3 : Peines complémentaires applicables aux personnes physiques et responsabilité des personnes morales<a id=144></a>
+##### Section 3 : Peines complémentaires applicables aux personnes physiques et responsabilité des personnes morales<a id=145></a>
 
 ###### Article 312-13
 
@@ -22100,9 +22109,9 @@ _Cite_:
   - Code pénal - art. 131-39 (V)
 
 
-#### Chapitre III : De l'escroquerie et des infractions voisines<a id=145></a>
+#### Chapitre III : De l'escroquerie et des infractions voisines<a id=146></a>
 
-##### Section 1 : De l'escroquerie<a id=146></a>
+##### Section 1 : De l'escroquerie<a id=147></a>
 
 ###### Article 313-1
 
@@ -22296,7 +22305,7 @@ _Cite_:
   - Code pénal - art. 311-12 (V)
 
 
-##### Section 2 : Des infractions voisines de l'escroquerie<a id=147></a>
+##### Section 2 : Des infractions voisines de l'escroquerie<a id=148></a>
 
 ###### Article 313-5
 
@@ -22402,7 +22411,7 @@ _Cité par_:
   - Code pénal - art. 313-9 (V)
 
 
-##### Section 3 : Peines complémentaires applicables aux personnes physiques et responsabilité des personnes morales<a id=148></a>
+##### Section 3 : Peines complémentaires applicables aux personnes physiques et responsabilité des personnes morales<a id=149></a>
 
 ###### Article 313-7
 
@@ -22544,9 +22553,9 @@ _Cite_:
   - Code pénal - art. 313-6-1
 
 
-#### Chapitre IV : Des détournements<a id=149></a>
+#### Chapitre IV : Des détournements<a id=150></a>
 
-##### Section 1 : De l'abus de confiance<a id=150></a>
+##### Section 1 : De l'abus de confiance<a id=151></a>
 
 ###### Article 314-1
 
@@ -22718,7 +22727,7 @@ _Cite_:
   - Code pénal - art. 311-12 (V)
 
 
-##### Section 2 : Du détournement de gage ou d'objet saisi<a id=151></a>
+##### Section 2 : Du détournement de gage ou d'objet saisi<a id=152></a>
 
 ###### Article 314-5
 
@@ -22809,7 +22818,7 @@ _Modifié par_:
   - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 
-##### Section 3 : De l'organisation frauduleuse de l'insolvabilité<a id=152></a>
+##### Section 3 : De l'organisation frauduleuse de l'insolvabilité<a id=153></a>
 
 ###### Article 314-7
 
@@ -22902,7 +22911,7 @@ _Cite_:
   - Code pénal - art. 314-7 (V)
 
 
-##### Section 4 : Peines complémentaires applicables aux personnes physiques et responsabilité des personnes morales<a id=153></a>
+##### Section 4 : Peines complémentaires applicables aux personnes physiques et responsabilité des personnes morales<a id=154></a>
 
 ###### Article 314-10
 
@@ -23044,11 +23053,11 @@ _Cite_:
   - Code pénal - art. 314-5 (V)
 
 
-### Titre II : Des autres atteintes aux biens<a id=154></a>
+### Titre II : Des autres atteintes aux biens<a id=155></a>
 
-#### Chapitre Ier : Du recel et des infractions assimilées ou voisines<a id=155></a>
+#### Chapitre Ier : Du recel et des infractions assimilées ou voisines<a id=156></a>
 
-##### Section 1 : Du recel<a id=156></a>
+##### Section 1 : Du recel<a id=157></a>
 
 ###### Article 321-1
 
@@ -23231,7 +23240,7 @@ _Codifié par_:
   - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
 
 
-##### Section 2 : Des infractions assimilées au recel ou voisines de celui-ci<a id=157></a>
+##### Section 2 : Des infractions assimilées au recel ou voisines de celui-ci<a id=158></a>
 
 ###### Article 321-6
 
@@ -23388,7 +23397,7 @@ _Modifié par_:
   - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 
-##### Section 3 : Peines complémentaires applicables aux personnes physiques et responsabilité de personnes morales<a id=158></a>
+##### Section 3 : Peines complémentaires applicables aux personnes physiques et responsabilité de personnes morales<a id=159></a>
 
 ###### Article 321-9
 
@@ -23549,9 +23558,9 @@ _Cite_:
   - Code pénal - art. 321-7 (V)
 
 
-#### Chapitre II : Des destructions, dégradations et détériorations<a id=159></a>
+#### Chapitre II : Des destructions, dégradations et détériorations<a id=160></a>
 
-##### Section 1 : Des destructions, dégradations et détériorations ne présentant pas de danger pour les personnes<a id=160></a>
+##### Section 1 : Des destructions, dégradations et détériorations ne présentant pas de danger pour les personnes<a id=161></a>
 
 ###### Article 322-1
 
@@ -23802,7 +23811,7 @@ _Cité par_:
   - Code pénal - art. 322-15-1 (V)
 
 
-##### Section 2 : Des destructions, dégradations et détériorations dangereuses pour les personnes<a id=161></a>
+##### Section 2 : Des destructions, dégradations et détériorations dangereuses pour les personnes<a id=162></a>
 
 ###### Article 322-5
 
@@ -24108,7 +24117,7 @@ _Cite_:
   - Code pénal - art. 322-6 (M)
 
 
-##### Section 3 : Des menaces de destruction, de dégradation ou de détérioration et des fausses alertes<a id=162></a>
+##### Section 3 : Des menaces de destruction, de dégradation ou de détérioration et des fausses alertes<a id=163></a>
 
 ###### Article 322-12
 
@@ -24207,7 +24216,7 @@ _Cité par_:
   - Code pénal - art. 322-17 (V)
 
 
-##### Section 4 : Peines complémentaires applicables aux personnes physiques et responsabilité des personnes morales<a id=163></a>
+##### Section 4 : Peines complémentaires applicables aux personnes physiques et responsabilité des personnes morales<a id=164></a>
 
 ###### Article 322-15
 
@@ -24358,7 +24367,7 @@ _Cite_:
   - Code pénal - art. 322-6 (V)
 
 
-#### Chapitre III : Des atteintes aux systèmes de traitement automatisé de données<a id=164></a>
+#### Chapitre III : Des atteintes aux systèmes de traitement automatisé de données<a id=165></a>
 
 ###### Article 323-1
 
@@ -24570,9 +24579,9 @@ _Cite_:
   - Code pénal 323-1 à 323-3-1
 
 
-#### Chapitre IV : Du blanchiment<a id=165></a>
+#### Chapitre IV : Du blanchiment<a id=166></a>
 
-##### Section 1 : Du blanchiment simple et du blanchiment aggravé<a id=166></a>
+##### Section 1 : Du blanchiment simple et du blanchiment aggravé<a id=167></a>
 
 ###### Article 324-1
 
@@ -24770,7 +24779,7 @@ _Cité par_:
   - Code de la commande publique - art. L2341-1 (VD)
 
 
-##### Section 2 : Peines complémentaires applicables aux personnes physiques et responsabilité pénale des personnes morales<a id=167></a>
+##### Section 2 : Peines complémentaires applicables aux personnes physiques et responsabilité pénale des personnes morales<a id=168></a>
 
 ###### Article 324-7
 
@@ -24878,9 +24887,9 @@ _Cite_:
   - Code pénal - art. 324-2
 
 
-## Livre IV : Des crimes et délits contre la nation, l'Etat et la paix publique<a id=168></a>
+## Livre IV : Des crimes et délits contre la nation, l'Etat et la paix publique<a id=169></a>
 
-### Titre Ier : Des atteintes aux intérêts fondamentaux de la nation<a id=169></a>
+### Titre Ier : Des atteintes aux intérêts fondamentaux de la nation<a id=170></a>
 
 ###### Article 410-1
 
@@ -24909,7 +24918,7 @@ _Codifié par_:
   - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
 
 
-#### Chapitre Ier : De la trahison et de l'espionnage<a id=170></a>
+#### Chapitre Ier : De la trahison et de l'espionnage<a id=171></a>
 
 ###### Article 411-1
 
@@ -24939,7 +24948,7 @@ _Cite_:
   - Code pénal - art. 411-2 (V)
 
 
-##### Section 1 : De la livraison de tout ou partie du territoire national, de forces armées ou de matériel à une puissance étrangère<a id=171></a>
+##### Section 1 : De la livraison de tout ou partie du territoire national, de forces armées ou de matériel à une puissance étrangère<a id=172></a>
 
 ###### Article 411-2
 
@@ -25006,7 +25015,7 @@ _Cité par_:
   - Code pénal - art. 414-5 (V)
 
 
-##### Section 2 : Des intelligences avec une puissance étrangère<a id=172></a>
+##### Section 2 : Des intelligences avec une puissance étrangère<a id=173></a>
 
 ###### Article 411-4
 
@@ -25067,7 +25076,7 @@ _Cité par_:
   - Code de procédure pénale - art. 706-73-1 (V)
 
 
-##### Section 3 : De la livraison d'informations à une puissance étrangère<a id=173></a>
+##### Section 3 : De la livraison d'informations à une puissance étrangère<a id=174></a>
 
 ###### Article 411-6
 
@@ -25162,7 +25171,7 @@ _Cité par_:
   - Code de procédure pénale - art. 706-167 (V)
 
 
-##### Section 4 : Du sabotage<a id=174></a>
+##### Section 4 : Du sabotage<a id=175></a>
 
 ###### Article 411-9
 
@@ -25199,7 +25208,7 @@ _Cité par_:
   - Code pénal - art. 414-5 (V)
 
 
-##### Section 5 : De la fourniture de fausses informations<a id=175></a>
+##### Section 5 : De la fourniture de fausses informations<a id=176></a>
 
 ###### Article 411-10
 
@@ -25228,7 +25237,7 @@ _Cité par_:
   - Code de justice militaire - art. 476-14 (Ab)
 
 
-##### Section 6 : De la provocation aux crimes prévus au présent chapitre<a id=176></a>
+##### Section 6 : De la provocation aux crimes prévus au présent chapitre<a id=177></a>
 
 ###### Article 411-11
 
@@ -25252,9 +25261,9 @@ _Modifié par_:
   - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 
-#### Chapitre II : Des autres atteintes aux institutions de la République ou à l'intégrité du territoire national<a id=177></a>
+#### Chapitre II : Des autres atteintes aux institutions de la République ou à l'intégrité du territoire national<a id=178></a>
 
-##### Section 1 : De l'attentat et du complot<a id=178></a>
+##### Section 1 : De l'attentat et du complot<a id=179></a>
 
 ###### Article 412-1
 
@@ -25326,7 +25335,7 @@ _Cité par_:
   - Code pénal - art. 414-5 (V)
 
 
-##### Section 2 : Du mouvement insurrectionnel<a id=179></a>
+##### Section 2 : Du mouvement insurrectionnel<a id=180></a>
 
 ###### Article 412-3
 
@@ -25434,7 +25443,7 @@ _Cité par_:
   - Code pénal - art. 414-4 (V)
 
 
-##### Section 3 : De l'usurpation de commandement, de la levée de forces armées et de la provocation à s'armer illégalement<a id=180></a>
+##### Section 3 : De l'usurpation de commandement, de la levée de forces armées et de la provocation à s'armer illégalement<a id=181></a>
 
 ###### Article 412-7
 
@@ -25492,9 +25501,9 @@ _Cité par_:
   - Code pénal - art. 414-5 (V)
 
 
-#### Chapitre III : Des autres atteintes à la défense nationale<a id=181></a>
+#### Chapitre III : Des autres atteintes à la défense nationale<a id=182></a>
 
-##### Section 1 : Des atteintes à la sécurité des forces armées et aux zones protégées intéressant la défense nationale<a id=182></a>
+##### Section 1 : Des atteintes à la sécurité des forces armées et aux zones protégées intéressant la défense nationale<a id=183></a>
 
 ###### Article 413-1
 
@@ -25772,7 +25781,7 @@ _Cite_:
   - Code pénal - art. 413-5 (V)
 
 
-##### Section 2 : Des atteintes au secret de la défense nationale<a id=183></a>
+##### Section 2 : Des atteintes au secret de la défense nationale<a id=184></a>
 
 ###### Article 413-9
 
@@ -26029,7 +26038,7 @@ _Cite_:
   - Code pénal - art. 413-11 (V)
 
 
-#### Chapitre IV : Dispositions particulières<a id=184></a>
+#### Chapitre IV : Dispositions particulières<a id=185></a>
 
 ###### Article 414-1
 
@@ -26292,9 +26301,9 @@ _Cite_:
   - Code pénal - art. 413-9 (V)
 
 
-### Titre II : Du terrorisme<a id=185></a>
+### Titre II : Du terrorisme<a id=186></a>
 
-#### Chapitre Ier : Des actes de terrorisme<a id=186></a>
+#### Chapitre Ier : Des actes de terrorisme<a id=187></a>
 
 ###### Article 421-1
 
@@ -26702,7 +26711,7 @@ _Cite_:
   - Code pénal - art. 421-2-1 (V)
 
 
-#### Chapitre II : Dispositions particulières<a id=187></a>
+#### Chapitre II : Dispositions particulières<a id=188></a>
 
 ###### Article 422-1
 
@@ -26880,11 +26889,11 @@ _Créé par_:
   - SPEC_APPLI: Loi n°2001-1062 du 15 novembre 2001 - art. 71 (M)
 
 
-### Titre III : Des atteintes à l'autorité de l'Etat<a id=188></a>
+### Titre III : Des atteintes à l'autorité de l'Etat<a id=189></a>
 
-#### Chapitre Ier : Des atteintes à la paix publique<a id=189></a>
+#### Chapitre Ier : Des atteintes à la paix publique<a id=190></a>
 
-##### Section 1 : Des entraves à l'exercice des libertés d'expression, du travail, d'association, de réunion ou de manifestation<a id=190></a>
+##### Section 1 : Des entraves à l'exercice des libertés d'expression, du travail, d'association, de réunion ou de manifestation<a id=191></a>
 
 ###### Article 431-1
 
@@ -26949,7 +26958,7 @@ _Cite_:
   - Code pénal - art. 431-1 (V)
 
 
-##### Section 2 : De la participation délictueuse à un attroupement<a id=191></a>
+##### Section 2 : De la participation délictueuse à un attroupement<a id=192></a>
 
 ###### Article 431-3
 
@@ -27129,7 +27138,7 @@ _Cite_:
   - Code pénal - art. 431-5 (V)
 
 
-##### Section 3 : Des manifestations illicites et de la participation délictueuse à une manifestation ou à une réunion publique<a id=192></a>
+##### Section 3 : Des manifestations illicites et de la participation délictueuse à une manifestation ou à une réunion publique<a id=193></a>
 
 ###### Article 431-9
 
@@ -27241,7 +27250,7 @@ _Cite_:
   - Code pénal - art. 431-10 (V)
 
 
-##### Section 4 : Des groupes de combat et des mouvements dissous<a id=193></a>
+##### Section 4 : Des groupes de combat et des mouvements dissous<a id=194></a>
 
 ###### Article 431-13
 
@@ -27469,7 +27478,7 @@ _Codifié par_:
   - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
 
 
-##### Section 5 : De l'intrusion dans un établissement   d'enseignement scolaire<a id=194></a>
+##### Section 5 : De l'intrusion dans un établissement   d'enseignement scolaire<a id=195></a>
 
 ###### Article 431-22
 
@@ -27595,7 +27604,7 @@ _Cite_:
   - Code pénal - art. 431-25
 
 
-##### Section 6 : De l'introduction d'armes dans un établissement scolaire<a id=195></a>
+##### Section 6 : De l'introduction d'armes dans un établissement scolaire<a id=196></a>
 
 ###### Article 431-28
 
@@ -27630,9 +27639,9 @@ _Cite_:
   - Code pénal - art. 131-26
 
 
-#### Chapitre II : Des atteintes à l'administration publique commises par des personnes exerçant une fonction publique<a id=196></a>
+#### Chapitre II : Des atteintes à l'administration publique commises par des personnes exerçant une fonction publique<a id=197></a>
 
-##### Section 1 : Des abus d'autorité dirigés contre l'administration<a id=197></a>
+##### Section 1 : Des abus d'autorité dirigés contre l'administration<a id=198></a>
 
 ###### Article 432-1
 
@@ -27711,9 +27720,9 @@ _Cité par_:
   - Code rural et de la pêche maritime - art. L724-10 (V)
 
 
-##### Section 2 : Des abus d'autorité commis contre les particuliers<a id=198></a>
+##### Section 2 : Des abus d'autorité commis contre les particuliers<a id=199></a>
 
-##### Paragraphe 1 : Des atteintes à la liberté individuelle<a id=199></a>
+##### Paragraphe 1 : Des atteintes à la liberté individuelle<a id=200></a>
 
 ###### Article 432-4
 
@@ -27804,7 +27813,7 @@ _Cité par_:
   - Code de procédure pénale - art. 126 (V)
 
 
-##### Paragraphe 2 : Des discriminations<a id=200></a>
+##### Paragraphe 2 : Des discriminations<a id=201></a>
 
 ###### Article 432-7
 
@@ -27848,7 +27857,7 @@ _Cite_:
   - Code pénal - art. 225-1 (M)
 
 
-##### Paragraphe 3 : Des atteintes à l'inviolabilité du domicile<a id=201></a>
+##### Paragraphe 3 : Des atteintes à l'inviolabilité du domicile<a id=202></a>
 
 ###### Article 432-8
 
@@ -27880,7 +27889,7 @@ _Cité par_:
   - Code du tourisme. - art. R331-11 (V)
 
 
-##### Paragraphe 4 : Des atteintes au secret des correspondances<a id=202></a>
+##### Paragraphe 4 : Des atteintes au secret des correspondances<a id=203></a>
 
 ###### Article 432-9
 
@@ -27916,9 +27925,9 @@ _Modifié par_:
   - Loi n°2004-669 du 9 juillet 2004 - art. 121 () JORF 10 juillet 2004
 
 
-##### Section 3 : Des manquements au devoir de probité<a id=203></a>
+##### Section 3 : Des manquements au devoir de probité<a id=204></a>
 
-##### Paragraphe 1 : De la concussion<a id=204></a>
+##### Paragraphe 1 : De la concussion<a id=205></a>
 
 ###### Article 432-10
 
@@ -27972,7 +27981,7 @@ _Modifié par_:
   - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 
-##### Paragraphe 2 : De la corruption passive et du trafic d'influence commis par des personnes exerçant une fonction publique<a id=205></a>
+##### Paragraphe 2 : De la corruption passive et du trafic d'influence commis par des personnes exerçant une fonction publique<a id=206></a>
 
 ###### Article 432-11
 
@@ -28023,7 +28032,7 @@ _Modifié par_:
   - Loi n°2007-1598 du 13 novembre 2007 - art. 1 () JORF 14 novembre 2007
 
 
-##### Paragraphe 3 : De la prise illégale d'intérêts<a id=206></a>
+##### Paragraphe 3 : De la prise illégale d'intérêts<a id=207></a>
 
 ###### Article 432-12
 
@@ -28228,7 +28237,7 @@ _Modifié par_:
   - Loi n°2007-148 du 2 février 2007 - art. 17 () JORF 6 février 2007 en vigueur le 27 avril 2007
 
 
-##### Paragraphe 4 : Des atteintes à la liberté d'accès et à l'égalité des candidats dans les marchés publics et les délégations de service public<a id=207></a>
+##### Paragraphe 4 : Des atteintes à la liberté d'accès et à l'égalité des candidats dans les marchés publics et les délégations de service public<a id=208></a>
 
 ###### Article 432-14
 
@@ -28262,7 +28271,7 @@ _Modifié par_:
   - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 
-##### Paragraphe 5 : De la soustraction et du détournement de biens<a id=208></a>
+##### Paragraphe 5 : De la soustraction et du détournement de biens<a id=209></a>
 
 ###### Article 432-15
 
@@ -28338,7 +28347,7 @@ _Cite_:
   - Code pénal - art. 432-15 (V)
 
 
-##### Section 4 : Peines complémentaires<a id=209></a>
+##### Section 4 : Peines complémentaires<a id=210></a>
 
 ###### Article 432-17
 
@@ -28384,9 +28393,9 @@ _Cite_:
   - Code pénal - art. 432-7 (V)
 
 
-#### Chapitre III : Des atteintes à l'administration publique commises par les particuliers<a id=210></a>
+#### Chapitre III : Des atteintes à l'administration publique commises par les particuliers<a id=211></a>
 
-##### Section 1 : De la corruption active et du trafic d'influence commis par les particuliers<a id=211></a>
+##### Section 1 : De la corruption active et du trafic d'influence commis par les particuliers<a id=212></a>
 
 ###### Article 433-1
 
@@ -28514,7 +28523,7 @@ _Modifié par_:
   - Loi n°2007-1598 du 13 novembre 2007 - art. 1 () JORF 14 novembre 2007
 
 
-##### Section 2 : Des menaces et actes d'intimidation commis contre les personnes exerçant une fonction publique<a id=212></a>
+##### Section 2 : Des menaces et actes d'intimidation commis contre les personnes exerçant une fonction publique<a id=213></a>
 
 ###### Article 433-3
 
@@ -28576,7 +28585,7 @@ _Cite_:
   - Code de la construction et de l'habitation. - art. L127-1
 
 
-##### Section 3 : De la soustraction et du détournement de biens contenus dans un dépôt public<a id=213></a>
+##### Section 3 : De la soustraction et du détournement de biens contenus dans un dépôt public<a id=214></a>
 
 ###### Article 433-4
 
@@ -28614,7 +28623,7 @@ _Modifié par_:
   - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 
-##### Section 4 : De l'outrage<a id=214></a>
+##### Section 4 : De l'outrage<a id=215></a>
 
 ###### Article 433-5
 
@@ -28698,7 +28707,7 @@ _Créé par_:
   - Loi n°2003-239 du 18 mars 2003 - art. 113 () JORF 19 mars 2003
 
 
-##### Section 5 : De la rébellion<a id=215></a>
+##### Section 5 : De la rébellion<a id=216></a>
 
 ###### Article 433-6
 
@@ -28855,7 +28864,7 @@ _Cité par_:
   - Code de procédure pénale - art. 398-1 (M)
 
 
-##### Section 6 : De l'opposition à l'exécution de travaux publics<a id=216></a>
+##### Section 6 : De l'opposition à l'exécution de travaux publics<a id=217></a>
 
 ###### Article 433-11
 
@@ -28878,7 +28887,7 @@ _Modifié par_:
   - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 
-##### Section 7 : De l'usurpation de fonctions<a id=217></a>
+##### Section 7 : De l'usurpation de fonctions<a id=218></a>
 
 ###### Article 433-12
 
@@ -28939,7 +28948,7 @@ _Modifié par_:
   - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 
-##### Section 8 : De l'usurpation de signes réservés à l'autorité publique<a id=218></a>
+##### Section 8 : De l'usurpation de signes réservés à l'autorité publique<a id=219></a>
 
 ###### Article 433-14
 
@@ -29029,7 +29038,7 @@ _Cite_:
   - Code pénal - art. 433-14 (V)
 
 
-##### Section 9 : De l'usurpation de titres<a id=219></a>
+##### Section 9 : De l'usurpation de titres<a id=220></a>
 
 ###### Article 433-17
 
@@ -29130,7 +29139,7 @@ _Cite_:
   - Code du travail - art. L6313-1
 
 
-##### Section 10 : De l'usage irrégulier de qualité<a id=220></a>
+##### Section 10 : De l'usage irrégulier de qualité<a id=221></a>
 
 ###### Article 433-18
 
@@ -29163,7 +29172,7 @@ _Modifié par_:
   - Loi organique n°2010-704 du 28 juin 2010 - art. 21 (V)
 
 
-##### Section 11 : Des atteintes à l'état civil des personnes<a id=221></a>
+##### Section 11 : Des atteintes à l'état civil des personnes<a id=222></a>
 
 ###### Article 433-18-1
 
@@ -29285,7 +29294,7 @@ _Modifié par_:
   - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 
-##### Section 12 : Peines complémentaires et responsabilité des personnes morales<a id=222></a>
+##### Section 12 : Peines complémentaires et responsabilité des personnes morales<a id=223></a>
 
 ###### Article 433-22
 
@@ -29424,9 +29433,9 @@ _Cite_:
   - Code pénal - art. 131-39 (V)
 
 
-#### Chapitre IV : Des atteintes à l'action de justice<a id=223></a>
+#### Chapitre IV : Des atteintes à l'action de justice<a id=224></a>
 
-##### Section 1 : Des entraves à la saisine de la justice<a id=224></a>
+##### Section 1 : Des entraves à la saisine de la justice<a id=225></a>
 
 ###### Article 434-1
 
@@ -29670,7 +29679,7 @@ _Modifié par_:
   - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 
-##### Section 2 : Des entraves à l'exercice de la justice<a id=225></a>
+##### Section 2 : Des entraves à l'exercice de la justice<a id=226></a>
 
 ###### Article 434-7-1
 
@@ -30345,9 +30354,9 @@ _Cite_:
   - Code pénal - art. 132-2 (V)
 
 
-##### Section 3 : Des atteintes à l'autorité de la justice<a id=226></a>
+##### Section 3 : Des atteintes à l'autorité de la justice<a id=227></a>
 
-##### Paragraphe 1 : Des atteintes au respect dû à la justice<a id=227></a>
+##### Paragraphe 1 : Des atteintes au respect dû à la justice<a id=228></a>
 
 ###### Article 434-24
 
@@ -30441,7 +30450,7 @@ _Modifié par_:
   - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 
-##### Paragraphe 2 : De l'évasion<a id=228></a>
+##### Paragraphe 2 : De l'évasion<a id=229></a>
 
 ###### Article 434-27
 
@@ -30770,7 +30779,7 @@ _Codifié par_:
   - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
 
 
-##### Paragraphe 3 : Des autres atteintes à l'autorité de la justice pénale<a id=229></a>
+##### Paragraphe 3 : Des autres atteintes à l'autorité de la justice pénale<a id=230></a>
 
 ###### Article 434-38
 
@@ -30971,7 +30980,7 @@ _Cite_:
   - Code pénal - art. 131-39 (V)
 
 
-##### Section 4 : Peines complémentaires et responsabilité des personnes morales<a id=230></a>
+##### Section 4 : Peines complémentaires et responsabilité des personnes morales<a id=231></a>
 
 ###### Article 434-44
 
@@ -31121,11 +31130,11 @@ _Cite_:
   - Code pénal - art. 434-9 (V)
 
 
-#### Chapitre V : Des atteintes à l'administration publique et à l'action de la justice des Communautés européennes, des Etats membres de l'Union européenne, des autres Etats étrangers et des autres organisations internationales publiques<a id=231></a>
+#### Chapitre V : Des atteintes à l'administration publique et à l'action de la justice des Communautés européennes, des Etats membres de l'Union européenne, des autres Etats étrangers et des autres organisations internationales publiques<a id=232></a>
 
-##### Section 1 : Des atteintes à l'administration publique<a id=232></a>
+##### Section 1 : Des atteintes à l'administration publique<a id=233></a>
 
-##### Sous-section 1 : De la corruption et du trafic d'influence passifs<a id=233></a>
+##### Sous-section 1 : De la corruption et du trafic d'influence passifs<a id=234></a>
 
 ###### Article 435-1
 
@@ -31186,7 +31195,7 @@ _Cité par_:
   - Code pénal - art. 435-6 (M)
 
 
-##### Sous-section 2 : De la corruption et du trafic d'influence actifs<a id=234></a>
+##### Sous-section 2 : De la corruption et du trafic d'influence actifs<a id=235></a>
 
 ###### Article 435-3
 
@@ -31269,7 +31278,7 @@ _Cité par_:
   - Code pénal - art. 435-6 (M)
 
 
-##### Sous-section 3 : Dispositions communes<a id=235></a>
+##### Sous-section 3 : Dispositions communes<a id=236></a>
 
 ###### Article 435-5
 
@@ -31315,9 +31324,9 @@ _Cite_:
   - Code pénal - art. 435-1
 
 
-##### Section 2 : Des atteintes à l'action de la justice<a id=236></a>
+##### Section 2 : Des atteintes à l'action de la justice<a id=237></a>
 
-##### Sous-section 1 : De la corruption et du trafic d'influence passifs<a id=237></a>
+##### Sous-section 1 : De la corruption et du trafic d'influence passifs<a id=238></a>
 
 ###### Article 435-7
 
@@ -31382,7 +31391,7 @@ _Cite_:
   - Code pénal - art. 435-7 (V)
 
 
-##### Sous-section 2 : De la corruption et du trafic d'influence actifs<a id=238></a>
+##### Sous-section 2 : De la corruption et du trafic d'influence actifs<a id=239></a>
 
 ###### Article 435-9
 
@@ -31473,7 +31482,7 @@ _Cite_:
   - Code pénal - art. 435-9 (V)
 
 
-##### Sous-section 3 : Dispositions communes<a id=239></a>
+##### Sous-section 3 : Dispositions communes<a id=240></a>
 
 ###### Article 435-11
 
@@ -31502,7 +31511,7 @@ _Cite_:
   - Code pénal - art. 435-7
 
 
-##### Sous-section 4 : Des autres entraves à l'exercice de la justice<a id=240></a>
+##### Sous-section 4 : Des autres entraves à l'exercice de la justice<a id=241></a>
 
 ###### Article 435-12
 
@@ -31542,7 +31551,7 @@ _Créé par_:
   - Loi n°2007-1598 du 13 novembre 2007 - art. 2 () JORF 14 novembre 2007
 
 
-##### Section 3 : Peines complémentaires et responsabilité des personnes morales<a id=241></a>
+##### Section 3 : Peines complémentaires et responsabilité des personnes morales<a id=242></a>
 
 ###### Article 435-14
 
@@ -31618,7 +31627,7 @@ _Cite_:
   - Code pénal - art. 435-9 (V)
 
 
-#### Chapitre VI : De la participation à une activité mercenaire<a id=242></a>
+#### Chapitre VI : De la participation à une activité mercenaire<a id=243></a>
 
 ###### Article 436-1
 
@@ -31746,9 +31755,9 @@ _Cite_:
   - Code pénal - art. 436-2 (V)
 
 
-### Titre IV : Des atteintes à la confiance publique<a id=243></a>
+### Titre IV : Des atteintes à la confiance publique<a id=244></a>
 
-#### Chapitre Ier : Des faux<a id=244></a>
+#### Chapitre Ier : Des faux<a id=245></a>
 
 ###### Article 441-1
 
@@ -32253,7 +32262,7 @@ _Cite_:
   - Code pénal - art. 131-39 (V)
 
 
-#### Chapitre II : De la fausse monnaie<a id=245></a>
+#### Chapitre II : De la fausse monnaie<a id=246></a>
 
 ###### Article 442-1
 
@@ -32697,7 +32706,7 @@ _Cite_:
   - Code pénal 442-1 à 442-3
 
 
-#### Chapitre III : De la falsification des titres ou autres valeurs fiduciaires émises par l'autorité publique<a id=246></a>
+#### Chapitre III : De la falsification des titres ou autres valeurs fiduciaires émises par l'autorité publique<a id=247></a>
 
 ###### Article 443-1
 
@@ -32910,7 +32919,7 @@ _Cite_:
   - Code pénal - art. 131-39 (V)
 
 
-#### Chapitre IV : De la falsification des marques de l'autorité<a id=247></a>
+#### Chapitre IV : De la falsification des marques de l'autorité<a id=248></a>
 
 ###### Article 444-1
 
@@ -33176,9 +33185,9 @@ _Cite_:
   - Code pénal - art. 444-7 (V)
 
 
-#### Chapitre V : De la corruption des personnes n'exerçant pas une fonction publique<a id=248></a>
+#### Chapitre V : De la corruption des personnes n'exerçant pas une fonction publique<a id=249></a>
 
-##### Section 1 : De la corruption passive et active des personnes n'exerçant pas une fonction publique<a id=249></a>
+##### Section 1 : De la corruption passive et active des personnes n'exerçant pas une fonction publique<a id=250></a>
 
 ###### Article 445-1
 
@@ -33258,7 +33267,7 @@ _Cité par_:
   - Code pénal - art. 445-4 (V)
 
 
-##### Section 2 : Peines complémentaires applicables aux personnes physiques et responsabilité pénale des personnes morales<a id=250></a>
+##### Section 2 : Peines complémentaires applicables aux personnes physiques et responsabilité pénale des personnes morales<a id=251></a>
 
 ###### Article 445-3
 
@@ -33326,7 +33335,7 @@ _Cite_:
   - Code pénal - art. 445-2
 
 
-### Titre V : De la participation à une association de malfaiteurs<a id=251></a>
+### Titre V : De la participation à une association de malfaiteurs<a id=252></a>
 
 ###### Article 450-1
 
@@ -33499,13 +33508,13 @@ _Cite_:
   - Code pénal - art. 450-1 (M)
 
 
-## Livre V : Des autres crimes et délits<a id=252></a>
+## Livre V : Des autres crimes et délits<a id=253></a>
 
-### Titre Ier : Des infractions en matière de santé publique<a id=253></a>
+### Titre Ier : Des infractions en matière de santé publique<a id=254></a>
 
-#### Chapitre Ier : Des infractions en matière d'éthique biomédicale<a id=254></a>
+#### Chapitre Ier : Des infractions en matière d'éthique biomédicale<a id=255></a>
 
-##### Section 1 : De la protection de l'espèce humaine<a id=255></a>
+##### Section 1 : De la protection de l'espèce humaine<a id=256></a>
 
 ###### Article 511-1
 
@@ -33587,7 +33596,7 @@ _Créé par_:
   - Loi n°2004-800 du 6 août 2004 - art. 29 () JORF 7 août 2004
 
 
-##### Section 2 : De la protection du corps humain<a id=256></a>
+##### Section 2 : De la protection du corps humain<a id=257></a>
 
 ###### Article 511-2
 
@@ -34225,7 +34234,7 @@ _Cite_:
   - Code de la santé publique - art. L1244-7 (V)
 
 
-##### Section 3 : De la protection de l'embryon humain<a id=257></a>
+##### Section 3 : De la protection de l'embryon humain<a id=258></a>
 
 ###### Article 511-15
 
@@ -34795,7 +34804,7 @@ _Cite_:
   - Code de la santé publique - art. L2141-11-1
 
 
-##### Section 4 : Autres dispositions et peines complémentaires applicables aux personnes physiques et responsabilité des personnes morales<a id=258></a>
+##### Section 4 : Autres dispositions et peines complémentaires applicables aux personnes physiques et responsabilité des personnes morales<a id=259></a>
 
 ###### Article 511-26
 
@@ -34883,9 +34892,9 @@ _Cite_:
   - Code pénal - art. 131-39 (V)
 
 
-### Titre II : Autres dispositions<a id=259></a>
+### Titre II : Autres dispositions<a id=260></a>
 
-#### Chapitre unique : Des sévices graves ou actes de cruauté envers les animaux<a id=260></a>
+#### Chapitre unique : Des sévices graves ou actes de cruauté envers les animaux<a id=261></a>
 
 ###### Article 521-1
 
@@ -34996,11 +35005,11 @@ _Cité par_:
   - Code rural - art. L915-7 (T)
 
 
-## Livre VII : Dispositions applicables dans les territoires d'outre-mer, en Nouvelle-Calédonie et à Mayotte.<a id=261></a>
+## Livre VII : Dispositions applicables dans les territoires d'outre-mer, en Nouvelle-Calédonie et à Mayotte.<a id=262></a>
 
-### Titre Ier : Dispositions applicables dans les territoires d'outre-mer et en Nouvelle-Calédonie.<a id=262></a>
+### Titre Ier : Dispositions applicables dans les territoires d'outre-mer et en Nouvelle-Calédonie.<a id=263></a>
 
-#### Chapitre Ier : Dispositions générales<a id=263></a>
+#### Chapitre Ier : Dispositions générales<a id=264></a>
 
 ###### Article 711-1
 
@@ -35131,7 +35140,7 @@ _Cite_:
   - Code pénal - art. 711-1 (V)
 
 
-#### Chapitre II : Adaptation du livre Ier<a id=264></a>
+#### Chapitre II : Adaptation du livre Ier<a id=265></a>
 
 ###### Article 712-1
 
@@ -35191,7 +35200,7 @@ _Cite_:
   - Code pénal - art. 132-45 (V)
 
 
-#### Chapitre III : Adaptation du livre II<a id=265></a>
+#### Chapitre III : Adaptation du livre II<a id=266></a>
 
 ###### Article 713-3
 
@@ -35224,7 +35233,7 @@ _Cite_:
   - Code pénal - art. 225-3 (V)
 
 
-#### Chapitre IV : Adaptation du livre III<a id=266></a>
+#### Chapitre IV : Adaptation du livre III<a id=267></a>
 
 ###### Article 714-1
 
@@ -35247,7 +35256,7 @@ _Cite_:
   - Code pénal - art. 322-3-1
 
 
-#### Chapitre V : Adaptation du livre IV<a id=267></a>
+#### Chapitre V : Adaptation du livre IV<a id=268></a>
 
 ###### Article 715-1
 
@@ -35400,7 +35409,7 @@ _Cite_:
   - Code pénal - art. 443-3 (V)
 
 
-#### Chapitre VI : Adaptation du livre V<a id=268></a>
+#### Chapitre VI : Adaptation du livre V<a id=269></a>
 
 ###### Article 716-16
 
@@ -35428,7 +35437,7 @@ _Cite_:
   - Code pénal - art. 521-2 (V)
 
 
-#### Chapitre VII : Dispositions diverses<a id=269></a>
+#### Chapitre VII : Dispositions diverses<a id=270></a>
 
 ###### Article 717-1
 
@@ -35534,9 +35543,9 @@ _Cite_:
   - Code pénal - art. 717-2 (V)
 
 
-### Titre II : Dispositions applicables à Mayotte.<a id=270></a>
+### Titre II : Dispositions applicables à Mayotte.<a id=271></a>
 
-#### Chapitre Ier : Dispositions générales<a id=271></a>
+#### Chapitre Ier : Dispositions générales<a id=272></a>
 
 ###### Article 721-1
 
@@ -35597,7 +35606,7 @@ _Modifié par_:
   - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
 
 
-#### Chapitre II : Adaptation du livre Ier.<a id=272></a>
+#### Chapitre II : Adaptation du livre Ier.<a id=273></a>
 
 ###### Article 722-1
 
@@ -35628,7 +35637,7 @@ _Cite_:
   - Code pénal - art. 132-45 (V)
 
 
-#### Chapitre III : Adaptation du livre II<a id=273></a>
+#### Chapitre III : Adaptation du livre II<a id=274></a>
 
 ###### Article 723-1
 
@@ -35850,7 +35859,7 @@ _Cite_:
   - Code pénal - art. 226-28 (M)
 
 
-#### Chapitre IV : Adaptation du livre III<a id=274></a>
+#### Chapitre IV : Adaptation du livre III<a id=275></a>
 
 ###### Article 724-1
 
@@ -35873,7 +35882,7 @@ _Cite_:
   - Code pénal - art. 322-3-1
 
 
-#### Chapitre V : Adaptation du livre IV<a id=275></a>
+#### Chapitre V : Adaptation du livre IV<a id=276></a>
 
 ###### Article 725-1
 
@@ -36030,7 +36039,7 @@ _Cite_:
   - Code pénal - art. 443-3 (V)
 
 
-#### Chapitre VI : Adaptation du livre V<a id=276></a>
+#### Chapitre VI : Adaptation du livre V<a id=277></a>
 
 ###### Article 726-1
 
@@ -36617,7 +36626,7 @@ _Cite_:
   - Code pénal - art. 511-25 (V)
 
 
-#### Chapitre VII : Dispositions diverses<a id=277></a>
+#### Chapitre VII : Dispositions diverses<a id=278></a>
 
 ###### Article 727-1
 
@@ -36714,19 +36723,19 @@ _Cite_:
   - Code pénal - art. 131-39 (V)
 
 
-# Partie réglementaire - Décrets en Conseil d'Etat<a id=278></a>
+# Partie réglementaire - Décrets en Conseil d'Etat<a id=279></a>
 
-## Livre Ier : Dispositions générales<a id=279></a>
+## Livre Ier : Dispositions générales<a id=280></a>
 
-### Titre III : Des peines<a id=280></a>
+### Titre III : Des peines<a id=281></a>
 
-#### Chapitre Ier : De la nature des peines<a id=281></a>
+#### Chapitre Ier : De la nature des peines<a id=282></a>
 
-##### Section 1 : Des peines applicables aux personnes physiques<a id=282></a>
+##### Section 1 : Des peines applicables aux personnes physiques<a id=283></a>
 
-##### Sous-section 1 : De la suspension du permis de conduire, de l'interdiction de conduire certains véhicules, de l'immobilisation du véhicule et de l'obligation d'accomplir un stage de sensibilisation à la sécurité routière<a id=283></a>
+##### Sous-section 1 : De la suspension du permis de conduire, de l'interdiction de conduire certains véhicules, de l'immobilisation du véhicule et de l'obligation d'accomplir un stage de sensibilisation à la sécurité routière<a id=284></a>
 
-##### Paragraphe 1 : De la suspension du permis de conduire<a id=284></a>
+##### Paragraphe 1 : De la suspension du permis de conduire<a id=285></a>
 
 ###### Article R131-1
 
@@ -36797,7 +36806,7 @@ _Cite_:
   - Code de la route - art. R123 (Ab)
 
 
-##### Paragraphe 2 : De l'interdiction de conduire certains véhicules.<a id=285></a>
+##### Paragraphe 2 : De l'interdiction de conduire certains véhicules.<a id=286></a>
 
 ###### Article R131-3
 
@@ -36867,7 +36876,7 @@ _Cite_:
   - Code de la route. - art. R221-1 (V)
 
 
-##### Paragraphe 3 : De l'immobilisation de véhicule<a id=286></a>
+##### Paragraphe 3 : De l'immobilisation de véhicule<a id=287></a>
 
 ###### Article R131-5
 
@@ -37019,7 +37028,7 @@ _Modifié par_:
   - Décret n°2003-642 du 11 juillet 2003 - art. 1 () JORF 12 juillet 2003
 
 
-##### Paragraphe 4 : De l'obligation d'accomplir un stage de sensibilisation à la sécurité routière<a id=287></a>
+##### Paragraphe 4 : De l'obligation d'accomplir un stage de sensibilisation à la sécurité routière<a id=288></a>
 
 ###### Article R131-11-1
 
@@ -37053,11 +37062,11 @@ _Cité par_:
   - Code pénal - art. R132-45 (V)
 
 
-##### Sous-section 2 : Du travail d'intérêt général<a id=288></a>
+##### Sous-section 2 : Du travail d'intérêt général<a id=289></a>
 
-##### Paragraphe 1 : Des modalités d'habilitation des personnes morales et d'établissement de la liste des travaux d'intérêt général<a id=289></a>
+##### Paragraphe 1 : Des modalités d'habilitation des personnes morales et d'établissement de la liste des travaux d'intérêt général<a id=290></a>
 
-##### A. : Des modalités d'habilitation des personnes morales<a id=290></a>
+##### A. : Des modalités d'habilitation des personnes morales<a id=291></a>
 
 ###### Article R131-12
 
@@ -37196,7 +37205,7 @@ _Modifié par_:
   - Décret n°2010-671 du 18 juin 2010 - art. 2
 
 
-##### B. : De l'établissement de la liste des travaux d'intérêt général<a id=291></a>
+##### B. : De l'établissement de la liste des travaux d'intérêt général<a id=292></a>
 
 ###### Article R131-17
 
@@ -37299,7 +37308,7 @@ _Cite_:
   - Code pénal - art. R131-19 (V)
 
 
-##### C. : Dispositions diverses<a id=292></a>
+##### C. : Dispositions diverses<a id=293></a>
 
 ###### Article R131-21
 
@@ -37333,9 +37342,9 @@ _Modifié par_:
   - Décret n°2007-1388 du 26 septembre 2007 - art. 2 () JORF 28 septembre 2007
 
 
-##### Paragraphe 2 : De l'exécution du travail d'intérêt général<a id=293></a>
+##### Paragraphe 2 : De l'exécution du travail d'intérêt général<a id=294></a>
 
-##### A. : De la décision du juge de l'application des peines fixant les modalités d'exécution du travail d'intérêt général<a id=294></a>
+##### A. : De la décision du juge de l'application des peines fixant les modalités d'exécution du travail d'intérêt général<a id=295></a>
 
 ###### Article R131-23
 
@@ -37466,7 +37475,7 @@ _Cite_:
   - Code de la santé publique - art. L10 (Ab)
 
 
-##### B. : Du contrôle de l'exécution du travail d'intérêt général<a id=295></a>
+##### B. : Du contrôle de l'exécution du travail d'intérêt général<a id=296></a>
 
 ###### Article R131-29
 
@@ -37568,9 +37577,9 @@ _Codifié par_:
   - Décret n°93-726 1993-03-29
 
 
-##### Sous-section 3 : De la peine de stage de citoyenneté<a id=296></a>
+##### Sous-section 3 : De la peine de stage de citoyenneté<a id=297></a>
 
-##### Paragraphe 1 : Objet et durée du stage<a id=297></a>
+##### Paragraphe 1 : Objet et durée du stage<a id=298></a>
 
 ###### Article R131-35
 
@@ -37635,7 +37644,7 @@ _Cité par_:
   - Code pénal - art. R722-7 (V)
 
 
-##### Paragraphe 2 : Organisation du stage<a id=298></a>
+##### Paragraphe 2 : Organisation du stage<a id=299></a>
 
 ###### Article R131-37
 
@@ -37689,7 +37698,7 @@ _Cité par_:
   - Code pénal - art. R131-42 (V)
 
 
-##### Paragraphe 3 : Déroulement et fin du stage.<a id=299></a>
+##### Paragraphe 3 : Déroulement et fin du stage.<a id=300></a>
 
 ###### Article R131-39
 
@@ -37730,7 +37739,7 @@ _Créé par_:
   - Décret n°2004-1021 du 27 septembre 2004 - art. 1 () JORF 29 septembre 2004
 
 
-##### Paragraphe 4 : Dispositions spécifiques applicables aux mineurs.<a id=300></a>
+##### Paragraphe 4 : Dispositions spécifiques applicables aux mineurs.<a id=301></a>
 
 ###### Article R131-41
 
@@ -37811,7 +37820,7 @@ _Créé par_:
   - Décret n°2004-1021 du 27 septembre 2004 - art. 1 () JORF 29 septembre 2004
 
 
-##### Sous-section 4 : De la peine de sanction-réparation.<a id=301></a>
+##### Sous-section 4 : De la peine de sanction-réparation.<a id=302></a>
 
 ###### Article R131-45
 
@@ -37836,7 +37845,7 @@ _Modifié par_:
   - Décret n°2007-1388 du 26 septembre 2007 - art. 3 () JORF 28 septembre 2007
 
 
-##### Sous-section 5 : De la peine de stage de sensibilisation aux dangers de l'usage de produits stupéfiants.<a id=302></a>
+##### Sous-section 5 : De la peine de stage de sensibilisation aux dangers de l'usage de produits stupéfiants.<a id=303></a>
 
 ###### Article R131-46
 
@@ -37885,7 +37894,7 @@ _Cite_:
   - Code de procédure pénale - art. 2-16 (V)
 
 
-##### Sous-section 6 : De la peine de stage de responsabilité parentale.<a id=303></a>
+##### Sous-section 6 : De la peine de stage de responsabilité parentale.<a id=304></a>
 
 ###### Article R131-48
 
@@ -37934,7 +37943,7 @@ _Cite_:
   - Code de l'action sociale et des familles - art. L222-4-1 (Ab)
 
 
-##### Sous-section 7 : De la peine de confiscation d'un animal.<a id=304></a>
+##### Sous-section 7 : De la peine de confiscation d'un animal.<a id=305></a>
 
 ###### Article R131-50
 
@@ -37978,7 +37987,7 @@ _Cite_:
   - Code de procédure pénale - art. 99-1 (V)
 
 
-##### Section 2 : Des peines applicables aux personnes morales<a id=305></a>
+##### Section 2 : Des peines applicables aux personnes morales<a id=306></a>
 
 ###### Article R131-52
 
@@ -38033,11 +38042,11 @@ _Anciens textes_:
   - Code pénal - art. R131-46 (T)
 
 
-#### Chapitre II : Du régime des peines<a id=306></a>
+#### Chapitre II : Du régime des peines<a id=307></a>
 
-##### Section 2 : Des modes de personnalisation des peines<a id=307></a>
+##### Section 2 : Des modes de personnalisation des peines<a id=308></a>
 
-##### Sous-section 4 : Du sursis avec mise à l'épreuve<a id=308></a>
+##### Sous-section 4 : Du sursis avec mise à l'épreuve<a id=309></a>
 
 ###### Article R132-45
 
@@ -38064,9 +38073,9 @@ _Cite_:
   - Code pénal - art. 131-5-1 (V)
 
 
-#### Chapitre III : De l'extinction des peines et de l'effacement des condamnations<a id=309></a>
+#### Chapitre III : De l'extinction des peines et de l'effacement des condamnations<a id=310></a>
 
-##### Section 2 : De la grâce<a id=310></a>
+##### Section 2 : De la grâce<a id=311></a>
 
 ###### Article R133-1
 
@@ -38108,13 +38117,13 @@ _Créé par_:
   - Décret n°95-152 du 7 février 1995 - art. 1 () JORF 14 février 1995
 
 
-## Livre II : Des crimes et délits contre les personnes<a id=311></a>
+## Livre II : Des crimes et délits contre les personnes<a id=312></a>
 
-### Titre II : Des atteintes à la personne humaine<a id=312></a>
+### Titre II : Des atteintes à la personne humaine<a id=313></a>
 
-#### Chapitre VI : Des atteintes à la personnalité<a id=313></a>
+#### Chapitre VI : Des atteintes à la personnalité<a id=314></a>
 
-##### Section 1 : De l'atteinte à la vie privée<a id=314></a>
+##### Section 1 : De l'atteinte à la vie privée<a id=315></a>
 
 ###### Article R226-1
 
@@ -38532,15 +38541,15 @@ _Cite_:
   - Code pénal - art. R226-7 (V)
 
 
-## Livre III : Des crimes et délits contre les biens<a id=315></a>
+## Livre III : Des crimes et délits contre les biens<a id=316></a>
 
-### Titre II : Des autres atteintes aux biens<a id=316></a>
+### Titre II : Des autres atteintes aux biens<a id=317></a>
 
-#### Chapitre Ier : Du recel et des infractions assimilées ou voisines<a id=317></a>
+#### Chapitre Ier : Du recel et des infractions assimilées ou voisines<a id=318></a>
 
-##### Section 2 : Des infractions assimilées au recel ou voisines de celui-ci<a id=318></a>
+##### Section 2 : Des infractions assimilées au recel ou voisines de celui-ci<a id=319></a>
 
-##### Sous-section 1 : Dispositions relatives aux personnes dont l'activité professionnelle comporte la vente ou l'échange de certains objets mobiliers<a id=319></a>
+##### Sous-section 1 : Dispositions relatives aux personnes dont l'activité professionnelle comporte la vente ou l'échange de certains objets mobiliers<a id=320></a>
 
 ###### Article R321-1
 
@@ -38793,7 +38802,7 @@ _Cité par_:
   - Code pénal - art. R633-3 (V)
 
 
-##### Sous-section 2 : Dispositions concernant les manifestations publiques en vue de la vente ou de l'échange de certains objets mobiliers<a id=320></a>
+##### Sous-section 2 : Dispositions concernant les manifestations publiques en vue de la vente ou de l'échange de certains objets mobiliers<a id=321></a>
 
 ###### Article R321-9
 
@@ -38884,13 +38893,13 @@ _Codifié par_:
   - Décret n°93-726 1993-03-29
 
 
-## Livre IV : Des crimes et délits contre la nation, l'Etat et la paix publique<a id=321></a>
+## Livre IV : Des crimes et délits contre la nation, l'Etat et la paix publique<a id=322></a>
 
-### Titre Ier : Des atteintes aux intérêts fondamentaux de la nation<a id=322></a>
+### Titre Ier : Des atteintes aux intérêts fondamentaux de la nation<a id=323></a>
 
-#### Chapitre III : Des autres atteintes à la défense nationale<a id=323></a>
+#### Chapitre III : Des autres atteintes à la défense nationale<a id=324></a>
 
-##### Section 1 : Des atteintes à la sécurité des forces armées et aux zones protégées intéressant la défense nationale<a id=324></a>
+##### Section 1 : Des atteintes à la sécurité des forces armées et aux zones protégées intéressant la défense nationale<a id=325></a>
 
 ###### Article R413-1
 
@@ -39050,7 +39059,7 @@ _Cité par_:
   - Code pénal - art. R413-5-1 (V)
 
 
-##### Section 2 : Des atteintes au secret de la défense nationale<a id=325></a>
+##### Section 2 : Des atteintes au secret de la défense nationale<a id=326></a>
 
 ###### Article R413-6
 
@@ -39071,11 +39080,11 @@ _Cite_:
   - Code de la défense. - art. R2311-1 (V)
 
 
-### Titre III : Des atteintes à l'autorité de l'Etat<a id=326></a>
+### Titre III : Des atteintes à l'autorité de l'Etat<a id=327></a>
 
-#### Chapitre Ier : Des atteintes à la paix publique<a id=327></a>
+#### Chapitre Ier : Des atteintes à la paix publique<a id=328></a>
 
-##### Section 2 : De la participation délictueuse à un attroupement.<a id=328></a>
+##### Section 2 : De la participation délictueuse à un attroupement.<a id=329></a>
 
 ###### Article R431-1
 
@@ -39155,9 +39164,9 @@ _Cite_:
   - Code pénal - art. 431-3
 
 
-## Livre V : Des autres crimes et délits<a id=329></a>
+## Livre V : Des autres crimes et délits<a id=330></a>
 
-### Chapitre Ier : Des sévices graves ou actes de cruauté envers les animaux<a id=330></a>
+### Chapitre Ier : Des sévices graves ou actes de cruauté envers les animaux<a id=331></a>
 
 ###### Article R511-1
 
@@ -39182,9 +39191,9 @@ _Cité par_:
   - Code pénal - art. R716-1 (V)
 
 
-## Livre VI : Des contraventions<a id=331></a>
+## Livre VI : Des contraventions<a id=332></a>
 
-### Titre Ier : Dispositions générales<a id=332></a>
+### Titre Ier : Dispositions générales<a id=333></a>
 
 ###### Article R610-1
 
@@ -39311,11 +39320,11 @@ _Cité par_:
   - Code général des collectivités territoriales - art. R2512-15-12 (VT)
 
 
-### Titre II : Des contraventions contre les personnes<a id=333></a>
+### Titre II : Des contraventions contre les personnes<a id=334></a>
 
-#### Chapitre Ier : Des contraventions de la 1re classe contre les personnes<a id=334></a>
+#### Chapitre Ier : Des contraventions de la 1re classe contre les personnes<a id=335></a>
 
-##### Section 1 : De la diffamation et de l'injure non publiques<a id=335></a>
+##### Section 1 : De la diffamation et de l'injure non publiques<a id=336></a>
 
 ###### Article R621-1
 
@@ -39361,9 +39370,9 @@ _Cité par_:
   - Code de procédure pénale - art. R41-11 (V)
 
 
-#### Chapitre II : Des contraventions de la 2e classe contre les personnes<a id=336></a>
+#### Chapitre II : Des contraventions de la 2e classe contre les personnes<a id=337></a>
 
-##### Section 1 : Des atteintes involontaires à l'intégrité de la personne n'ayant entraîné aucune incapacité totale de travail<a id=337></a>
+##### Section 1 : Des atteintes involontaires à l'intégrité de la personne n'ayant entraîné aucune incapacité totale de travail<a id=338></a>
 
 ###### Article R622-1
 
@@ -39393,7 +39402,7 @@ _Cite_:
   - Code pénal - art. R625-3
 
 
-##### Section 2 : De la divagation d'animaux dangereux<a id=338></a>
+##### Section 2 : De la divagation d'animaux dangereux<a id=339></a>
 
 ###### Article R622-2
 
@@ -39420,9 +39429,9 @@ _Cité par_:
   - Code de procédure pénale - art. R48-1 (V)
 
 
-#### Chapitre III : Des contraventions de la 3e classe contre les personnes<a id=339></a>
+#### Chapitre III : Des contraventions de la 3e classe contre les personnes<a id=340></a>
 
-##### Section 1 : Des menaces de violences<a id=340></a>
+##### Section 1 : Des menaces de violences<a id=341></a>
 
 ###### Article R623-1
 
@@ -39445,7 +39454,7 @@ _Cite_:
   - Code pénal - art. 222-17 (V)
 
 
-##### Section 2 : Des bruits ou tapages injurieux ou nocturnes<a id=341></a>
+##### Section 2 : Des bruits ou tapages injurieux ou nocturnes<a id=342></a>
 
 ###### Article R623-2
 
@@ -39475,7 +39484,7 @@ _Cité par_:
   - Code de procédure pénale - art. R48-1 (V)
 
 
-##### Section 3 : De l'excitation d'animaux dangereux<a id=342></a>
+##### Section 3 : De l'excitation d'animaux dangereux<a id=343></a>
 
 ###### Article R623-3
 
@@ -39501,7 +39510,7 @@ _Cité par_:
   - Code de procédure pénale - art. R15-33-29-3 (V)
 
 
-##### Section 4 : De la violation des dispositions réglementant le commerce de certains matériels susceptibles d'être utilisés pour porter atteinte à l'intimité de la vie privée<a id=343></a>
+##### Section 4 : De la violation des dispositions réglementant le commerce de certains matériels susceptibles d'être utilisés pour porter atteinte à l'intimité de la vie privée<a id=344></a>
 
 ###### Article R623-4
 
@@ -39520,9 +39529,9 @@ _Cite_:
   - Code pénal - art. R226-3
 
 
-#### Chapitre IV : Des contraventions de la 4e classe contre les personnes<a id=344></a>
+#### Chapitre IV : Des contraventions de la 4e classe contre les personnes<a id=345></a>
 
-##### Section 1 : Des violences légères<a id=345></a>
+##### Section 1 : Des violences légères<a id=346></a>
 
 ###### Article R624-1
 
@@ -39562,7 +39571,7 @@ _Cite_:
   - Code pénal - art. 222-13 (V)
 
 
-##### Section 2 : De la diffusion de messages contraires à la décence<a id=346></a>
+##### Section 2 : De la diffusion de messages contraires à la décence<a id=347></a>
 
 ###### Article R624-2
 
@@ -39594,7 +39603,7 @@ _Cite_:
   - Code pénal - art. 131-41
 
 
-##### Section 3 : De la diffamation et de l'injure non publiques présentant un caractère raciste ou discriminatoire<a id=347></a>
+##### Section 3 : De la diffamation et de l'injure non publiques présentant un caractère raciste ou discriminatoire<a id=348></a>
 
 ###### Article R624-3
 
@@ -39712,7 +39721,7 @@ _Cite_:
   - Code pénal - art. R624-4 (Ab)
 
 
-##### Section 4 : Du manquement à l'obligation d'assiduité scolaire<a id=348></a>
+##### Section 4 : Du manquement à l'obligation d'assiduité scolaire<a id=349></a>
 
 ###### Article R624-7
 
@@ -39747,9 +39756,9 @@ _Cite_:
   - Code pénal - art. 131-41
 
 
-#### Chapitre V : Des contraventions de la 5e classe contre les personnes<a id=349></a>
+#### Chapitre V : Des contraventions de la 5e classe contre les personnes<a id=350></a>
 
-##### Section 1 : Des violences<a id=350></a>
+##### Section 1 : Des violences<a id=351></a>
 
 ###### Article R625-1
 
@@ -39799,7 +39808,7 @@ _Cite_:
   - Code pénal - art. 222-13 (V)
 
 
-##### Section 2 : Des atteintes involontaires à l'intégrité de la personne<a id=351></a>
+##### Section 2 : Des atteintes involontaires à l'intégrité de la personne<a id=352></a>
 
 ###### Article R625-2
 
@@ -39939,7 +39948,7 @@ _Cite_:
   - Code pénal - art. R625-2 (V)
 
 
-##### Section 3 : De la provocation non publique à la discrimination, à la haine ou à la violence<a id=352></a>
+##### Section 3 : De la provocation non publique à la discrimination, à la haine ou à la violence<a id=353></a>
 
 ###### Article R625-7
 
@@ -39990,7 +39999,7 @@ _Cite_:
   - Code pénal - art. 432-7
 
 
-##### Section 5 : De la violation des dispositions réglementant le commerce de certains matériels susceptibles d'être utilisés pour porter atteinte à l'intimité de la vie privée<a id=353></a>
+##### Section 5 : De la violation des dispositions réglementant le commerce de certains matériels susceptibles d'être utilisés pour porter atteinte à l'intimité de la vie privée<a id=354></a>
 
 ###### Article R625-9
 
@@ -40030,7 +40039,7 @@ _Cite_:
   - Code pénal - art. R226-3
 
 
-##### Section 6 : Des atteintes aux droits de la personne résultant des fichiers ou des traitements informatiques<a id=354></a>
+##### Section 6 : Des atteintes aux droits de la personne résultant des fichiers ou des traitements informatiques<a id=355></a>
 
 ###### Article R625-10
 
@@ -40170,11 +40179,11 @@ _Cite_:
   - Code pénal - art. 132-15
 
 
-### Titre III : Des contraventions contre les biens<a id=355></a>
+### Titre III : Des contraventions contre les biens<a id=356></a>
 
-#### Chapitre Ier : Des contraventions de la 1re classe contre les biens<a id=356></a>
+#### Chapitre Ier : Des contraventions de la 1re classe contre les biens<a id=357></a>
 
-##### Section unique : Des menaces de destruction, de dégradation ou de détérioration n'entraînant qu'un dommage léger<a id=357></a>
+##### Section unique : Des menaces de destruction, de dégradation ou de détérioration n'entraînant qu'un dommage léger<a id=358></a>
 
 ###### Article R631-1
 
@@ -40204,9 +40213,9 @@ _Cite_:
   - Code pénal - art. 322-13
 
 
-#### Chapitre II : Des contraventions de la 2e classe contre les biens<a id=358></a>
+#### Chapitre II : Des contraventions de la 2e classe contre les biens<a id=359></a>
 
-##### Section unique : De l'abandon d'ordures, déchets, matériaux ou autres objets.<a id=359></a>
+##### Section unique : De l'abandon d'ordures, déchets, matériaux ou autres objets.<a id=360></a>
 
 ###### Article R632-1
 
@@ -40243,9 +40252,9 @@ _Cite_:
   - Code pénal - art. R635-8
 
 
-#### Chapitre III : Des contraventions de la 3e classe contre les biens<a id=360></a>
+#### Chapitre III : Des contraventions de la 3e classe contre les biens<a id=361></a>
 
-##### Section 1 : De la violation des dispositions réglementant la vente ou l'échange de certains objets mobiliers<a id=361></a>
+##### Section 1 : De la violation des dispositions réglementant la vente ou l'échange de certains objets mobiliers<a id=362></a>
 
 ###### Article R633-1
 
@@ -40320,7 +40329,7 @@ _Cité par_:
   - Code pénal - art. R633-4 (Ab)
 
 
-##### Section 2 : De la violation des dispositions concernant les manifestations publiques en vue de la vente ou de l'échange de certains objets mobiliers<a id=362></a>
+##### Section 2 : De la violation des dispositions concernant les manifestations publiques en vue de la vente ou de l'échange de certains objets mobiliers<a id=363></a>
 
 ###### Article R633-5
 
@@ -40341,9 +40350,9 @@ _Cite_:
   - Code pénal - art. R321-9
 
 
-#### Chapitre IV : Des contraventions de la 4e classe contre les biens<a id=363></a>
+#### Chapitre IV : Des contraventions de la 4e classe contre les biens<a id=364></a>
 
-##### Section 1 : Des menaces de destruction, de dégradation ou de détérioration ne présentant pas de danger pour les personnes<a id=364></a>
+##### Section 1 : Des menaces de destruction, de dégradation ou de détérioration ne présentant pas de danger pour les personnes<a id=365></a>
 
 ###### Article R634-1
 
@@ -40373,9 +40382,9 @@ _Cite_:
   - Code pénal - art. 322-13
 
 
-#### Chapitre V : Des contraventions de la 5e classe contre les biens<a id=365></a>
+#### Chapitre V : Des contraventions de la 5e classe contre les biens<a id=366></a>
 
-##### Section 1 : Des destructions, dégradations et détériorations dont il n'est résulté qu'un dommage léger<a id=366></a>
+##### Section 1 : Des destructions, dégradations et détériorations dont il n'est résulté qu'un dommage léger<a id=367></a>
 
 ###### Article R635-1
 
@@ -40429,7 +40438,7 @@ _Cite_:
   - Code pénal - art. 132-15
 
 
-##### Section 2 : De la vente forcée par correspondance<a id=367></a>
+##### Section 2 : De la vente forcée par correspondance<a id=368></a>
 
 ###### Article R635-2
 
@@ -40480,7 +40489,7 @@ _Cite_:
   - Code pénal - art. 132-15
 
 
-##### Section 3 : De la violation des dispositions réglementant la vente ou l'échange de certains objets mobiliers<a id=368></a>
+##### Section 3 : De la violation des dispositions réglementant la vente ou l'échange de certains objets mobiliers<a id=369></a>
 
 ###### Article R635-3
 
@@ -40584,7 +40593,7 @@ _Cite_:
   - Code pénal - art. R635-3 (V)
 
 
-##### Section 4 : De l'abandon d'épaves de véhicules ou d'ordures, déchets, matériaux et autres objets transportés dans un véhicule<a id=369></a>
+##### Section 4 : De l'abandon d'épaves de véhicules ou d'ordures, déchets, matériaux et autres objets transportés dans un véhicule<a id=370></a>
 
 ###### Article R635-8
 
@@ -40631,11 +40640,11 @@ _Cite_:
   - Code pénal - art. 132-15 (V)
 
 
-### Titre IV : Des contraventions contre la nation, l'Etat ou la paix publique<a id=370></a>
+### Titre IV : Des contraventions contre la nation, l'Etat ou la paix publique<a id=371></a>
 
-#### Chapitre Ier : Des contraventions de la 1re classe contre la nation, l'Etat ou la paix publique<a id=371></a>
+#### Chapitre Ier : Des contraventions de la 1re classe contre la nation, l'Etat ou la paix publique<a id=372></a>
 
-##### Section unique : De l'abandon d'armes ou d'objets dangereux<a id=372></a>
+##### Section unique : De l'abandon d'armes ou d'objets dangereux<a id=373></a>
 
 ###### Article R641-1
 
@@ -40657,9 +40666,9 @@ _Codifié par_:
   - Décret n°93-726 1993-03-29
 
 
-#### Chapitre II : Des contraventions de la 2e classe contre la nation, l'Etat ou la paix publique<a id=373></a>
+#### Chapitre II : Des contraventions de la 2e classe contre la nation, l'Etat ou la paix publique<a id=374></a>
 
-##### Section 1 : Du défaut de réponse à une réquisition des autorités judiciaires ou administratives<a id=374></a>
+##### Section 1 : Du défaut de réponse à une réquisition des autorités judiciaires ou administratives<a id=375></a>
 
 ###### Article R642-1
 
@@ -40679,7 +40688,7 @@ _Codifié par_:
   - Décret n°93-726 1993-03-29
 
 
-##### Section 2 : Des atteintes à la monnaie<a id=375></a>
+##### Section 2 : Des atteintes à la monnaie<a id=376></a>
 
 ###### Article R642-2
 
@@ -40771,9 +40780,9 @@ _Cite_:
   - Code pénal - art. 442-13 (V)
 
 
-#### Chapitre III : Des contraventions de la 3e classe contre la nation, l'Etat ou la paix publique<a id=376></a>
+#### Chapitre III : Des contraventions de la 3e classe contre la nation, l'Etat ou la paix publique<a id=377></a>
 
-##### Section 1 : De l'usurpation de signes réservés à l'autorité publique<a id=377></a>
+##### Section 1 : De l'usurpation de signes réservés à l'autorité publique<a id=378></a>
 
 ###### Article R643-1
 
@@ -40802,7 +40811,7 @@ _Cite_:
   - Code pénal - art. 433-15
 
 
-##### Section 2 : De l'utilisation de poids ou mesures différents de ceux établis par les lois et règlements en vigueur<a id=378></a>
+##### Section 2 : De l'utilisation de poids ou mesures différents de ceux établis par les lois et règlements en vigueur<a id=379></a>
 
 ###### Article R643-2
 
@@ -40828,9 +40837,9 @@ _Cite_:
   - Code pénal - art. 131-41
 
 
-#### Chapitre IV : Des contraventions de la 4e classe contre la nation, l'Etat ou la paix publique<a id=379></a>
+#### Chapitre IV : Des contraventions de la 4e classe contre la nation, l'Etat ou la paix publique<a id=380></a>
 
-##### Section 1 : De l'accès sans autorisation à un terrain, une construction, un engin ou un appareil militaires<a id=380></a>
+##### Section 1 : De l'accès sans autorisation à un terrain, une construction, un engin ou un appareil militaires<a id=381></a>
 
 ###### Article R644-1
 
@@ -40863,7 +40872,7 @@ _Cite_:
   - Code pénal - art. 413-5 (V)
 
 
-##### Section 2 : Des entraves à la libre circulation sur la voie publique<a id=381></a>
+##### Section 2 : Des entraves à la libre circulation sur la voie publique<a id=382></a>
 
 ###### Article R644-2
 
@@ -40896,7 +40905,7 @@ _Cité par_:
   - Code pénal - art. R633-6 (V)
 
 
-##### Section 3 : De la violation des dispositions réglementant les professions exercées dans les lieux publics<a id=382></a>
+##### Section 3 : De la violation des dispositions réglementant les professions exercées dans les lieux publics<a id=383></a>
 
 ###### Article R644-3
 
@@ -40923,9 +40932,9 @@ _Cite_:
   - Code pénal - art. 131-41
 
 
-#### Chapitre V : Des contraventions de la 5e classe contre la nation, l'Etat ou la paix publique<a id=383></a>
+#### Chapitre V : Des contraventions de la 5e classe contre la nation, l'Etat ou la paix publique<a id=384></a>
 
-##### Section 1 : Du port ou de l'exhibition d'uniformes, insignes ou emblèmes rappelant ceux d'organisations ou de personnes responsables de crimes contre l'humanité<a id=384></a>
+##### Section 1 : Du port ou de l'exhibition d'uniformes, insignes ou emblèmes rappelant ceux d'organisations ou de personnes responsables de crimes contre l'humanité<a id=385></a>
 
 ###### Article R645-1
 
@@ -40976,7 +40985,7 @@ _Modifié par_:
   - Décret n°2010-671 du 18 juin 2010 - art. 4
 
 
-##### Section 2 : Des dessins, levés ou enregistrements effectués sans autorisation dans une zone d'interdiction fixée par l'autorité militaire<a id=385></a>
+##### Section 2 : Des dessins, levés ou enregistrements effectués sans autorisation dans une zone d'interdiction fixée par l'autorité militaire<a id=386></a>
 
 ###### Article R645-2
 
@@ -41012,7 +41021,7 @@ _Cite_:
   - Code pénal - art. 132-11 (V)
 
 
-##### Section 3 : Des atteintes à l'état civil des personnes<a id=386></a>
+##### Section 3 : Des atteintes à l'état civil des personnes<a id=387></a>
 
 ###### Article R645-3
 
@@ -41127,7 +41136,7 @@ _Cité par_:
   - Code pénal - art. R711-1 (V)
 
 
-##### Section 4 : De la soustraction d'une pièce produite en justice<a id=387></a>
+##### Section 4 : De la soustraction d'une pièce produite en justice<a id=388></a>
 
 ###### Article R645-7
 
@@ -41148,7 +41157,7 @@ _Cite_:
   - Code pénal - art. 132-15 (V)
 
 
-##### Section 5 : De l'utilisation d'un document délivré par une administration publique comportant des mentions devenues incomplètes ou inexactes<a id=388></a>
+##### Section 5 : De l'utilisation d'un document délivré par une administration publique comportant des mentions devenues incomplètes ou inexactes<a id=389></a>
 
 ###### Article R645-8
 
@@ -41186,7 +41195,7 @@ _Cite_:
   - Code pénal - art. 132-15
 
 
-##### Section 5 bis : De l'usurpation de fonction ou de titre de délégué ou de médiateur du procureur de la République<a id=389></a>
+##### Section 5 bis : De l'usurpation de fonction ou de titre de délégué ou de médiateur du procureur de la République<a id=390></a>
 
 ###### Article R645-8-1
 
@@ -41205,7 +41214,7 @@ _Cite_:
   - Code pénal - art. 121-2
 
 
-##### Section 6 : Du refus de restitution de signes monétaires contrefaits ou falsifiés<a id=390></a>
+##### Section 6 : Du refus de restitution de signes monétaires contrefaits ou falsifiés<a id=391></a>
 
 ###### Article R645-9
 
@@ -41247,7 +41256,7 @@ _Cite_:
   - Code pénal - art. 442-13
 
 
-##### Section 7 : De l'altération ou de la contrefaçon des timbres-poste ou des timbres émis par l'administration des finances<a id=391></a>
+##### Section 7 : De l'altération ou de la contrefaçon des timbres-poste ou des timbres émis par l'administration des finances<a id=392></a>
 
 ###### Article R645-10
 
@@ -41317,7 +41326,7 @@ _Cite_:
   - Code pénal - art. 132-15
 
 
-##### Section 8 : De l'intrusion dans les établissements scolaires<a id=392></a>
+##### Section 8 : De l'intrusion dans les établissements scolaires<a id=393></a>
 
 ###### Article R645-12
 
@@ -41350,7 +41359,7 @@ _Cite_:
   - Code pénal - art. 132-11
 
 
-##### Section 9 : De l'intrusion dans les lieux historiques ou culturels<a id=393></a>
+##### Section 9 : De l'intrusion dans les lieux historiques ou culturels<a id=394></a>
 
 ###### Article R645-13
 
@@ -41390,7 +41399,7 @@ _Cite_:
   - Code du patrimoine - art. L621-1
 
 
-##### Section 10 : De la dissimulation illicite du visage à l'occasion de manifestations sur la voie publique<a id=394></a>
+##### Section 10 : De la dissimulation illicite du visage à l'occasion de manifestations sur la voie publique<a id=395></a>
 
 ###### Article R645-14
 
@@ -41415,11 +41424,11 @@ _Cite_:
   - Code pénal - art. 132-15
 
 
-### Titre V : Des autres contraventions<a id=395></a>
+### Titre V : Des autres contraventions<a id=396></a>
 
-#### Chapitre III : Des contraventions de la 3e classe<a id=396></a>
+#### Chapitre III : Des contraventions de la 3e classe<a id=397></a>
 
-##### Section unique : Des atteintes involontaires à la vie ou à l'intégrité d'un animal<a id=397></a>
+##### Section unique : Des atteintes involontaires à la vie ou à l'intégrité d'un animal<a id=398></a>
 
 ###### Article R653-1
 
@@ -41450,9 +41459,9 @@ _Cité par_:
   - Code de procédure pénale - art. R15-33-29-3 (V)
 
 
-#### Chapitre IV : Des contraventions de la 4e classe<a id=398></a>
+#### Chapitre IV : Des contraventions de la 4e classe<a id=399></a>
 
-##### Section unique : Des mauvais traitements envers un animal<a id=399></a>
+##### Section unique : Des mauvais traitements envers un animal<a id=400></a>
 
 ###### Article R654-1
 
@@ -41490,9 +41499,9 @@ _Cite_:
   - Code pénal - art. 521-1 (V)
 
 
-#### Chapitre V : Des contraventions de la 5e classe<a id=400></a>
+#### Chapitre V : Des contraventions de la 5e classe<a id=401></a>
 
-##### Section unique : Des atteintes volontaires à la vie d'un animal<a id=401></a>
+##### Section unique : Des atteintes volontaires à la vie d'un animal<a id=402></a>
 
 ###### Article R655-1
 
@@ -41526,11 +41535,11 @@ _Cite_:
   - Code pénal - art. 132-11 (V)
 
 
-## Livre VII : Dispositions applicables dans les territoires d'outre-mer, en Nouvelle-Calédonie et à Mayotte.<a id=402></a>
+## Livre VII : Dispositions applicables dans les territoires d'outre-mer, en Nouvelle-Calédonie et à Mayotte.<a id=403></a>
 
-### Titre Ier : Dispositions applicables dans les territoires d'outre-mer et en Nouvelle-Calédonie<a id=403></a>
+### Titre Ier : Dispositions applicables dans les territoires d'outre-mer et en Nouvelle-Calédonie<a id=404></a>
 
-#### Chapitre Ier : Dispositions générales<a id=404></a>
+#### Chapitre Ier : Dispositions générales<a id=405></a>
 
 ###### Article R711-1
 
@@ -41608,7 +41617,7 @@ _Cite_:
   - Code pénal - art. R711-1 (V)
 
 
-#### Chapitre II : Adaptation du livre Ier<a id=405></a>
+#### Chapitre II : Adaptation du livre Ier<a id=406></a>
 
 ###### Article R712-1
 
@@ -41788,7 +41797,7 @@ _Cite_:
   - Code pénal - art. R131-36 (V)
 
 
-#### Chapitre VI : Adaptation du livre V<a id=406></a>
+#### Chapitre VI : Adaptation du livre V<a id=407></a>
 
 ###### Article R716-1
 
@@ -41812,9 +41821,9 @@ _Cite_:
   - Code pénal - art. R511-1 (V)
 
 
-### Titre II : Dispositions applicables à Mayotte.<a id=407></a>
+### Titre II : Dispositions applicables à Mayotte.<a id=408></a>
 
-#### Chapitre Ier : Dispositions générales<a id=408></a>
+#### Chapitre Ier : Dispositions générales<a id=409></a>
 
 ###### Article R721-1
 
@@ -41862,7 +41871,7 @@ _Abrogé par_:
   - Décret n°2011-338 du 29 mars 2011 - art. 3
 
 
-#### Chapitre II : Adaptation du livre Ier<a id=409></a>
+#### Chapitre II : Adaptation du livre Ier<a id=410></a>
 
 ###### Article R722-1
 
