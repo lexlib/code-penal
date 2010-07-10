@@ -1,5 +1,5 @@
 # Code pénal  
-Version Consolidée au 2010-07-01
+Version Consolidée au 2010-07-11
 ## Contenu: 
   - [Partie législative (art. 111-1 à 727-3)](#1)
     - [Livre Ier : Dispositions générales (art. 111-1 à 133-17)](#2)
@@ -73,14 +73,14 @@ Version Consolidée au 2010-07-01
           - [Chapitre II : Dispositions communes (art. 215-1 à 215-4)](#70)
       - [Titre II : Des atteintes à la personne humaine (art. 221-1 à 227-33)](#71)
         - [Chapitre Ier : Des atteintes à la vie de la personne (art. 221-1 à 221-11)](#72)
-          - [Section 1 : Des atteintes volontaires à la vie (art. 221-1 à 221-5-3)](#73)
+          - [Section 1 : Des atteintes volontaires à la vie (art. 221-1 à 221-5-4)](#73)
           - [Section 2 : Des atteintes involontaires à la vie (art. 221-6 à 221-7)](#74)
           - [Section 3 : Peines complémentaires applicables aux personnes physiques (art. 221-8 à 221-11)](#75)
         - [Chapitre II : Des atteintes à l'intégrité physique ou psychique de la personne (art. 222-1 à 222-51)](#76)
-          - [Section 1 : Des atteintes volontaires à l'intégrité de la personne (art. 222-1 à 222-18-2)](#77)
-            - [Paragraphe 1 : Des tortures et actes de barbarie (art. 222-1 à 222-6-2)](#78)
-            - [Paragraphe 2 : Des violences (art. 222-7 à 222-16-2)](#79)
-            - [Paragraphe 3 : Des menaces (art. 222-17 à 222-18-2)](#80)
+          - [Section 1 : Des atteintes volontaires à l'intégrité de la personne (art. 222-1 à 222-18-3)](#77)
+            - [Paragraphe 1 : Des tortures et actes de barbarie (art. 222-1 à 222-6-3)](#78)
+            - [Paragraphe 2 : Des violences (art. 222-7 à 222-16-3)](#79)
+            - [Paragraphe 3 : Des menaces (art. 222-17 à 222-18-3)](#80)
           - [Section 2 : Des atteintes involontaires à l'intégrité de la personne (art. 222-19 à 222-21)](#81)
           - [Section 3 : Des agressions sexuelles (art. 222-22 à 222-33-1)](#82)
             - [Paragraphe 1 : Du viol (art. 222-23 à 222-26)](#83)
@@ -88,7 +88,7 @@ Version Consolidée au 2010-07-01
             - [Paragraphe 3 : De l'inceste commis sur les mineurs (art. 222-31-1 à 222-31-2)](#85)
             - [Paragraphe 4 : De l'exhibition sexuelle et du harcèlement sexuel (art. 222-32 à 222-33)](#86)
             - [Paragraphe 5 : Responsabilité pénale des personnes morales (art. 222-33-1)](#87)
-          - [Section 3 bis : Du harcèlement moral (art. 222-33-2)](#88)
+          - [Section 3 bis : Du harcèlement moral (art. 222-33-2 à 222-33-2-1)](#88)
           - [Section 3 ter : De l'enregistrement et de la diffusion d'images de violence (art. 222-33-3)](#89)
           - [Section 4 : Du trafic de stupéfiants (art. 222-34 à 222-43-1)](#90)
           - [Section 5 : Peines complémentaires applicables aux personnes physiques (art. 222-44 à 222-48-1)](#91)
@@ -3290,6 +3290,9 @@ appartenant au condamné, quelle qu'en soit la nature, meubles ou immeubles, div
 La confiscation est obligatoire pour les objets qualifiés de dangereux ou nuisibles par la loi ou le règlement, ou dont la
 détention est illicite, que ces biens soient ou non la propriété du condamné.
 
+La peine complémentaire de confiscation s'applique dans les mêmes conditions à tous les droits incorporels, quelle qu'en soit
+la nature, divis ou indivis. 
+
 Lorsque la chose confisquée n'a pas été saisie ou ne peut être représentée, la confiscation est ordonnée en valeur. Pour le
 recouvrement de la somme représentative de la valeur de la chose confisquée, les dispositions relatives à la contrainte
 judiciaire sont applicables.
@@ -3302,10 +3305,6 @@ doit, sur l'injonction qui lui en est faite par le ministère public, remettre c
 de sa destruction ou de son aliénation.
 
 **Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Loi n°92-683 1992-07-22
 
 _Cité par_:
 
@@ -3394,7 +3393,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2007-297 du 5 mars 2007 - art. 66 () JORF 7 mars 2007
+  - Loi n°2010-768 du 9 juillet 2010 - art. 9
 
 
 ###### Article 131-21-1
@@ -5305,6 +5304,35 @@ _Cite_:
   - Code pénal - art. 131-36-1 (V)
 
 
+###### Article 131-36-12-1
+
+Par dérogation aux dispositions de l'article 131-36-10, le placement sous surveillance électronique mobile peut être ordonné
+à l'encontre d'une personne majeure, dont une expertise médicale a constaté la dangerosité, condamnée à une peine privative
+de liberté d'une durée égale ou supérieure à cinq ans pour des violences ou des menaces commises :
+
+1° Soit contre son conjoint, son concubin ou son partenaire lié par un pacte civil de solidarité ;
+
+2° Soit contre ses enfants ou ceux de son conjoint, concubin ou partenaire.
+
+Le présent article est également applicable lorsque les violences ont été commises par l'ancien conjoint ou concubin de la
+victime, ou par la personne ayant été liée à elle par un pacte civil de solidarité, le domicile concerné étant alors celui de
+la victime.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2010-769 du 9 juillet 2010 - art. 6 (V)
+
+_Cité par_:
+
+  - Code de procédure pénale - art. R61-33 (V)
+
+_Cite_:
+
+  - Code pénal - art. 131-36-10
+
+
 ###### Article 131-36-13
 
 Les modalités d'exécution du placement sous surveillance électronique mobile sont fixées par le titre VII ter du livre V du
@@ -5840,13 +5868,13 @@ plusieurs activités professionnelles ou sociales ;
 
 5° L'exclusion des marchés publics à titre définitif ou pour une durée de cinq ans au plus ; 
 
-6° L'interdiction, à titre définitif ou pour une durée de cinq ans au plus, de      procéder à une offre au public de titres
+6° L'interdiction, à titre définitif ou pour une durée de cinq ans au plus, de procéder à une offre au public de titres
 financiers ou de faire admettre ses titres financiers aux négociations sur un marché réglementé ; 
 
 7° L'interdiction, pour une durée de cinq ans au plus, d'émettre des chèques autres que ceux qui permettent le retrait de
 fonds par le tireur auprès du tiré ou ceux qui sont certifiés ou d'utiliser des cartes de paiement ; 
 
-8° La confiscation de la chose qui a servi ou était destinée à commettre l'infraction ou de la chose qui en est le produit ; 
+8° La peine de confiscation, dans les conditions et selon les modalités prévues à l'article 131-21 ; 
 
 9° L'affichage de la décision prononcée ou la diffusion de celle-ci soit par la presse écrite, soit par tout moyen de
 communication au public par voie électronique ; 
@@ -5855,6 +5883,9 @@ communication au public par voie électronique ;
 commise ; 
 
 11° L'interdiction, à titre définitif ou pour une durée de cinq ans au plus, de détenir un animal. 
+
+La peine complémentaire de confiscation est également encourue de plein droit pour les crimes et pour les délits punis d'une
+peine d'emprisonnement d'une durée supérieure à un an, à l'exception des délits de presse. 
 
 Les peines définies aux 1° et 3° ci-dessus ne sont pas applicables aux personnes morales de droit public dont la
 responsabilité pénale est susceptible d'être engagée. Elles ne sont pas non plus applicables aux partis ou groupements
@@ -6259,7 +6290,11 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Ordonnance n°2009-80 du 22 janvier 2009 - art. 12
+  - Loi n°2010-768 du 9 juillet 2010 - art. 11
+
+_Cite_:
+
+  - Code pénal - art. 131-21 (V)
 
 
 ###### Article 131-39-1
@@ -10233,8 +10268,9 @@ _Créé par_:
 
 ###### Article 132-80
 
-Dans les cas prévus par la loi, les peines encourues pour un crime ou un délit sont aggravées lorsque l'infraction est
-commise par le conjoint, le concubin ou le partenaire lié à la victime par un pacte civil de solidarité.
+Dans les cas respectivement prévus par la loi ou le règlement, les peines encourues pour un crime, un délit ou une
+contravention sont aggravées lorsque l'infraction est commise par le conjoint, le concubin ou le partenaire lié à la victime
+par un pacte civil de solidarité.
 
 La circonstance aggravante prévue au premier alinéa est également constituée lorsque les faits sont commis par l'ancien
 conjoint, l'ancien concubin ou l'ancien partenaire lié à la victime par un pacte civil de solidarité. Les dispositions du
@@ -10253,13 +10289,9 @@ _Cité par_:
   - Code de l'entrée et du séjour des étrangers et ... - art. L316-4 (VD)
   - Code pénal - art. 222-14 (V)
 
-_Codifié par_:
+_Modifié par_:
 
-  - Loi n°92-683 1992-07-22
-
-_Créé par_:
-
-  - Loi n°2006-399 du 4 avril 2006 - art. 7 () JORF 5 avril 2006
+  - Loi n°2010-769 du 9 juillet 2010 - art. 32
 
 
 #### Chapitre III : De l'extinction des peines et de l'effacement des condamnations<a id=57></a>
@@ -11340,9 +11372,11 @@ ou une religion déterminée ;
 
 7° A raison de l'orientation sexuelle de la victime ; 
 
-8° Par plusieurs personnes agissant en bande organisée. 
+8° Par plusieurs personnes agissant en bande organisée ; 
 
-9° Par le conjoint ou le concubin de la victime ou le partenaire lié à la victime par un pacte civil de solidarité. 
+9° Par le conjoint ou le concubin de la victime ou le partenaire lié à la victime par un pacte civil de solidarité ;
+
+10° Contre une personne en raison de son refus de contracter un mariage ou de conclure une union. 
 
 Les deux premiers alinéas de l'article 132-23 relatif à la période de sûreté sont applicables aux infractions prévues par le
 présent article. Toutefois, lorsque la victime est un mineur de quinze ans et que le meurtre est précédé ou accompagné d'un
@@ -11355,7 +11389,7 @@ dispose autrement, la période de sûreté est alors égale à la durée de la p
 
 _Modifié par_:
 
-  - Loi n°2010-201 du 2 mars 2010 - art. 11
+  - Loi n°2010-769 du 9 juillet 2010 - art. 33
 
 _Cité par_:
 
@@ -11469,6 +11503,24 @@ _Codifié par_:
 _Créé par_:
 
   - Loi n°2004-204 du 9 mars 2004 - art. 12 () JORF 10 mars 2004
+
+
+###### Article 221-5-4
+
+Dans le cas où le crime prévu par le 10° de l'article 221-4 est commis à l'étranger à l'encontre d'une personne résidant
+habituellement sur le territoire français, la loi française est applicable par dérogation aux dispositions de l'article
+113-7.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2010-769 du 9 juillet 2010 - art. 33
+
+_Cite_:
+
+  - Code pénal - art. 113-7
+  - Code pénal - art. 221-4
 
 
 ##### Section 2 : Des atteintes involontaires à la vie<a id=74></a>
@@ -11990,6 +12042,9 @@ race ou une religion déterminée ;
 
 6° Par le conjoint ou le concubin de la victime ou le partenaire lié à la victime par un pacte civil de solidarité ; 
 
+6° bis Contre une personne afin de la contraindre à contracter un mariage ou à conclure une union ou en raison de son refus
+de contracter ce mariage ou cette union ; 
+
 7° Par une personne dépositaire de l'autorité publique ou chargée d'une mission de service public dans l'exercice ou à
 l'occasion de l'exercice de ses fonctions ou de sa mission ; 
 
@@ -12013,7 +12068,7 @@ présent article.
 
 _Modifié par_:
 
-  - Loi n°2010-201 du 2 mars 2010 - art. 11
+  - Loi n°2010-769 du 9 juillet 2010 - art. 33
 
 _Cité par_:
 
@@ -12163,6 +12218,24 @@ _Créé par_:
   - Loi n°2004-204 du 9 mars 2004 - art. 12 () JORF 10 mars 2004
 
 
+###### Article 222-6-3
+
+Dans le cas où le crime prévu par le 6° bis de l'article 222-3 est commis à l'étranger à l'encontre d'une personne résidant
+habituellement sur le territoire français, la loi française est applicable par dérogation aux dispositions de l'article
+113-7.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2010-769 du 9 juillet 2010 - art. 33
+
+_Cite_:
+
+  - Code pénal - art. 113-7
+  - Code pénal - art. 222-3
+
+
 ##### Paragraphe 2 : Des violences<a id=79></a>
 
 ###### Article 222-7
@@ -12227,6 +12300,9 @@ race ou une religion déterminée ;
 
 6° Par le conjoint ou le concubin de la victime ou le partenaire lié à la victime par un pacte civil de solidarité ; 
 
+6° bis Contre une personne afin de la contraindre à contracter un mariage ou à conclure une union ou en raison de son refus
+de contracter ce mariage ou cette union ;
+
 7° Par une personne dépositaire de l'autorité publique ou chargée d'une mission de service public dans l'exercice ou à
 l'occasion de l'exercice de ses fonctions ou de sa mission ; 
 
@@ -12269,7 +12345,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2010-201 du 2 mars 2010 - art. 11
+  - Loi n°2010-769 du 9 juillet 2010 - art. 33
 
 _Cite_:
 
@@ -12356,6 +12432,9 @@ race ou une religion déterminée ;
 
 6° Par le conjoint ou le concubin de la victime ou le partenaire lié à la victime par un pacte civil de solidarité ; 
 
+6° bis Contre une personne afin de la contraindre à contracter un mariage ou à conclure une union ou en raison de son refus
+de contracter ce mariage ou cette union ;
+
 7° Par une personne dépositaire de l'autorité publique ou chargée d'une mission de service public dans l'exercice ou à
 l'occasion de l'exercice de ses fonctions ou de sa mission ; 
 
@@ -12400,7 +12479,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2010-201 du 2 mars 2010 - art. 11
+  - Loi n°2010-769 du 9 juillet 2010 - art. 33
 
 _Cite_:
 
@@ -12477,6 +12556,9 @@ race ou une religion déterminée ;
 
 6° Par le conjoint ou le concubin de la victime ou le partenaire lié à la victime par un pacte civil de solidarité ; 
 
+6° bis Contre une personne, en raison de son refus de contracter un mariage ou de conclure une union ou afin de la
+contraindre à contracter un mariage ou à conclure une union ; 
+
 7° Par une personne dépositaire de l'autorité publique ou chargée d'une mission de service public dans l'exercice ou à
 l'occasion de l'exercice de ses fonctions ou de sa mission ; 
 
@@ -12535,8 +12617,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2010-201 du 2 mars 2010 - art. 11
-  - Loi n°2010-201 du 2 mars 2010 - art. 3
+  - Loi n°2010-769 du 9 juillet 2010 - art. 33
 
 _Cite_:
 
@@ -12581,6 +12662,9 @@ race ou une religion déterminée ;
 5° ter A raison de l'orientation sexuelle de la victime ; 
 
 6° Par le conjoint ou le concubin de la victime ou le partenaire lié à la victime par un pacte civil de solidarité ; 
+
+6° bis Contre une personne, en raison de son refus de contracter un mariage ou de conclure une union ou afin de la
+contraindre à contracter un mariage ou à conclure une union ; 
 
 7° Par une personne dépositaire de l'autorité publique ou chargée d'une mission de service public dans l'exercice ou à
 l'occasion de l'exercice de ses fonctions ou de sa mission ; 
@@ -12631,8 +12715,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2010-201 du 2 mars 2010 - art. 11
-  - Loi n°2010-201 du 2 mars 2010 - art. 3
+  - Loi n°2010-769 du 9 juillet 2010 - art. 33
 
 _Cite_:
 
@@ -12643,17 +12726,21 @@ _Cite_:
 
 Les violences habituelles sur un mineur de quinze ans ou sur une personne dont la particulière vulnérabilité, due à son âge,
 à une maladie, à une infirmité, à une déficience physique ou psychique ou à un état de grossesse, est apparente ou connue de
-leur auteur sont punies :
+leur auteur sont punies : 
 
-1° De trente ans de réclusion criminelle lorsqu'elles ont entraîné la mort de la victime ;
+1° De trente ans de réclusion criminelle lorsqu'elles ont entraîné la mort de la victime ; 
 
-2° De vingt ans de réclusion criminelle lorsqu'elles ont entraîné une mutilation ou une infirmité permanente ;
+2° De vingt ans de réclusion criminelle lorsqu'elles ont entraîné une mutilation ou une infirmité permanente ; 
 
-3° De dix ans d'emprisonnement et de 150000 euros d'amende lorsqu'elles ont entraîné une incapacité totale de travail pendant
-plus de huit jours ;
+3° De dix ans d'emprisonnement et de 150 000 euros d'amende lorsqu'elles ont entraîné une incapacité totale de travail
+pendant plus de huit jours ; 
 
-4° De cinq ans d'emprisonnement et de 75000 euros d'amende lorsqu'elles n'ont pas entraîné une incapacité totale de travail
-pendant plus de huit jours.
+4° De cinq ans d'emprisonnement et de 75 000 euros d'amende lorsqu'elles n'ont pas entraîné une incapacité totale de travail
+pendant plus de huit jours. 
+
+Les peines prévues par le présent article sont également applicables aux violences habituelles commises par le conjoint ou le
+concubin de la victime ou par le partenaire lié à celle-ci par un pacte civil de solidarité. Les dispositions du second
+alinéa de l'article 132-80 sont applicables au présent alinéa. 
 
 Les deux premiers alinéas de l'article 132-23 relatif à la période de sûreté sont applicables aux cas prévus aux 1° et 2° du
 présent article.
@@ -12682,22 +12769,14 @@ _Cité par_:
   - Code pénal - art. 222-48 (V)
   - Code pénal - art. 222-48-1 (V)
 
-_Codifié par_:
-
-  - Loi n°92-684 1992-07-22
-
-**Liens**:
-
-  - SPEC_APPLI: Loi n°92-684 1992-07-22 art. 1
-  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
-
 _Modifié par_:
 
-  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+  - Loi n°2010-769 du 9 juillet 2010 - art. 25
 
 _Cite_:
 
-  - Code pénal - art. 132-23 (M)
+  - Code pénal - art. 132-23 (V)
+  - Code pénal - art. 132-80
 
 
 ###### Article 222-14-1
@@ -12756,6 +12835,18 @@ dégradations de biens est puni d'un an d'emprisonnement et de 15 000 € d'amen
 _Créé par_:
 
   - Loi n°2010-201 du 2 mars 2010 - art. 1 (V)
+
+
+###### Article 222-14-3
+
+Les violences prévues par les dispositions de la présente section sont réprimées quelle que soit leur nature, y compris s'il
+s'agit de violences psychologiques.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2010-769 du 9 juillet 2010 - art. 31
 
 
 ###### Article 222-15
@@ -12892,6 +12983,26 @@ _Cite_:
   - Code pénal - art. 222-10 (V)
   - Code pénal - art. 222-12 (V)
   - Code pénal - art. 222-8 (V)
+
+
+###### Article 222-16-3
+
+Dans le cas où les infractions prévues par le 6° bis des articles 222-8, 222-10, 222-12 et 222-13 sont commises à l'étranger
+à l'encontre d'une personne résidant habituellement sur le territoire français, la loi française est applicable par
+dérogation aux dispositions de l'article 113-7. S'il s'agit d'un délit, les dispositions de la seconde phrase de l'article
+113-8 ne sont pas applicables.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2010-769 du 9 juillet 2010 - art. 33
+
+_Cite_:
+
+  - Code pénal - art. 113-7
+  - Code pénal - art. 113-8
+  - Code pénal - art. 222-8
 
 
 ##### Paragraphe 3 : Des menaces<a id=80></a>
@@ -13032,6 +13143,32 @@ _Cite_:
 _Anciens textes_:
 
   - Code pénal - art. 222-18-1 (T)
+
+
+###### Article 222-18-3
+
+Lorsqu'elles sont commises par le conjoint ou le concubin de la victime ou le partenaire lié à la victime par un pacte civil
+de solidarité, les menaces prévues au premier alinéa de l'article 222-17 sont punies de deux ans d'emprisonnement et de 30
+000 € d'amende, celles prévues au second alinéa du même article et au premier alinéa de l'article 222-18 sont punies de cinq
+ans d'emprisonnement et de 75 000 € d'amende et celles prévues au second alinéa de l'article 222-18 sont punies de sept ans
+d'emprisonnement et de 100 000 € d'amende.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2010-769 du 9 juillet 2010 - art. 6 (V)
+
+_Cité par_:
+
+  - Code de procédure pénale - art. D147-31 (V)
+  - Code de procédure pénale - art. D49-23 (M)
+  - Code pénal - art. 222-48-1 (V)
+
+_Cite_:
+
+  - Code pénal - art. 222-17
+  - Code pénal - art. 222-18
 
 
 ##### Section 2 : Des atteintes involontaires à l'intégrité de la personne<a id=81></a>
@@ -13420,12 +13557,11 @@ _Cite_:
 
 ###### Article 222-22
 
-Constitue une agression sexuelle toute atteinte sexuelle commise avec violence, contrainte, menace ou surprise.
+Constitue une agression sexuelle toute atteinte sexuelle commise avec violence, contrainte, menace ou surprise. 
 
 Le viol et les autres agressions sexuelles sont constitués lorsqu'ils ont été imposés à la victime dans les circonstances
 prévues par la présente section, quelle que soit la nature des relations existant entre l'agresseur et sa victime, y compris
-s'ils sont unis par les liens du mariage. Dans ce cas, la présomption de consentement des époux à l'acte sexuel ne vaut que
-jusqu'à preuve du contraire.
+s'ils sont unis par les liens du mariage. 
 
 Lorsque les agressions sexuelles sont commises à l'étranger contre un mineur par un Français ou par une personne résidant
 habituellement sur le territoire français, la loi française est applicable par dérogation au deuxième alinéa de l'article
@@ -13433,13 +13569,9 @@ habituellement sur le territoire français, la loi française est applicable par
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
-
-  - Loi n°92-684 1992-07-22
-
 _Modifié par_:
 
-  - Loi n°2006-399 du 4 avril 2006 - art. 11 () JORF 5 avril 2006
+  - Loi n°2010-769 du 9 juillet 2010 - art. 36
 
 _Cité par_:
 
@@ -13977,6 +14109,24 @@ _Codifié par_:
 _Créé par_:
 
   - Loi n°2002-73 du 17 janvier 2002 - art. 170 () JORF 18 janvier 2002
+
+
+###### Article 222-33-2-1
+
+Le fait de harceler son conjoint, son partenaire lié par un pacte civil de solidarité ou son concubin par des agissements
+répétés ayant pour objet ou pour effet une dégradation de ses conditions de vie se traduisant par une altération de sa santé
+physique ou mentale est puni de trois ans d'emprisonnement et de 45 000 € d'amende lorsque ces faits ont causé une incapacité
+totale de travail inférieure ou égale à huit jours ou n'ont entraîné aucune incapacité de travail et de cinq ans
+d'emprisonnement et de 75 000 € d'amende lorsqu'ils ont causé une incapacité totale de travail supérieure à huit jours. 
+
+Les mêmes peines sont encourues lorsque cette infraction est commise par un ancien conjoint ou un ancien concubin de la
+victime, ou un ancien partenaire lié à cette dernière par un pacte civil de solidarité.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2010-769 du 9 juillet 2010 - art. 31
 
 
 ##### Section 3 ter : De l'enregistrement et de la diffusion d'images de violence<a id=89></a>
@@ -14603,39 +14753,38 @@ _Cite_:
 
 Les personnes physiques coupables de tortures ou d'actes de barbarie ou des infractions définies aux articles 222-23 à 222-32
 peuvent également être condamnées à un suivi socio-judiciaire selon les modalités prévues par les articles 131-36-1 à
-131-36-13.
+131-36-13. 
 
-Les personnes physiques coupables des infractions définies aux articles 222-8, 222-10, 222-12, 222-13 et 222-14 peuvent
-également être condamnées à un suivi socio-judiciaire, selon les modalités prévues par les articles 131-36-1 à 131-36-13,
-lorsque l'infraction est commise soit par le conjoint ou le concubin de la victime ou par le partenaire lié à celle-ci par un
-pacte civil de solidarité, ou par son ancien conjoint, son ancien concubin ou l'ancien partenaire lié à elle par un pacte
-civil de solidarité, soit, sur un mineur de quinze ans, par un ascendant légitime, naturel ou adoptif, ou par toute autre
-personne ayant autorité sur la victime.
+Les personnes physiques coupables des infractions définies aux articles 222-8, 222-10, 222-12, 222-13, 222-14 et 222-18-3
+peuvent également être condamnées à un suivi socio-judiciaire, selon les modalités prévues par les articles 131-36-1 à
+131-36-13, lorsque l'infraction est commise soit par le conjoint ou le concubin de la victime ou par le partenaire lié à
+celle-ci par un pacte civil de solidarité, ou par son ancien conjoint, son ancien concubin ou l'ancien partenaire lié à elle
+par un pacte civil de solidarité, soit, sur un mineur de quinze ans, par un ascendant légitime, naturel ou adoptif, ou par
+toute autre personne ayant autorité sur la victime. 
 
-Pour les infractions prévues par l'alinéa précédent, le suivi socio-judiciaire est obligatoire en matière correctionnelle
-lorsqu'il s'agit de violences habituelles, sauf en cas de condamnation à une peine d'emprisonnement assortie du sursis avec
-mise à l'épreuve ou si le tribunal correctionnel considère, par décision spécialement motivée, qu'il n'y a pas lieu de
-prononcer cette mesure ; en matière criminelle, la cour d'assises délibère de façon spécifique sur le prononcé d'un suivi
-socio-judiciaire.
+Pour les infractions prévues par l'alinéa précédent qui sont commises sur un mineur de quinze ans par un ascendant légitime,
+naturel ou adoptif, ou par toute autre personne ayant autorité sur la victime, le suivi socio-judiciaire est obligatoire en
+matière correctionnelle lorsqu'il s'agit de violences habituelles, sauf en cas de condamnation à une peine d'emprisonnement
+assortie du sursis avec mise à l'épreuve ou si le tribunal correctionnel considère, par décision spécialement motivée, qu'il
+n'y a pas lieu de prononcer cette mesure ; en matière criminelle, la cour d'assises délibère de façon spécifique sur le
+prononcé d'un suivi socio-judiciaire.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
-
-  - Loi n°92-684 1992-07-22
-
 _Modifié par_:
 
-  - Loi n°2007-297 du 5 mars 2007 - art. 33 () JORF 7 mars 2007
+  - Loi n°2010-769 du 9 juillet 2010 - art. 25
+  - Loi n°2010-769 du 9 juillet 2010 - art. 6 (V)
 
 _Cite_:
 
-  - Code pénal - art. 222-10 (M)
-  - Code pénal - art. 222-12 (M)
-  - Code pénal - art. 222-13 (M)
-  - Code pénal - art. 222-14 (M)
-  - Code pénal - art. 222-8 (M)
-  - Code pénal 222-23 à 222-32, 131-36-1 à 131-36-13, 222-8, 222-10, 222-12, 222-13, 222-14
+  - Code pénal - art. 131-36-1 (V)
+  - Code pénal - art. 222-10 (V)
+  - Code pénal - art. 222-12 (V)
+  - Code pénal - art. 222-14 (V)
+  - Code pénal - art. 222-18-3 (V)
+  - Code pénal - art. 222-23 (V)
+  - Code pénal - art. 222-8 (V)
 
 
 ##### Section 6 : Dispositions communes aux personnes physiques et aux personnes morales<a id=92></a>
@@ -14647,18 +14796,14 @@ tout bien ayant servi, directement ou indirectement, à la commission de l'infra
 celle-ci, à quelque personne qu'ils appartiennent et en quelque lieu qu'ils se trouvent, dès lors que leur propriétaire ne
 pouvait en ignorer l'origine ou l'utilisation frauduleuse.
 
-Dans les cas prévus par les articles 222-34, 222-35, 222-36, 222-38 et 222-39-1, peut également être prononcée la
-confiscation de tout ou partie des biens du condamné, quelle qu'en soit la nature, meubles ou immeubles, divis ou indivis.
+Dans les cas prévus par les articles 222-34, 222-35, 222-36, 222-37 et 222-38, peut également être prononcée la confiscation
+de tout ou partie des biens du condamné, quelle qu'en soit la nature, meubles ou immeubles, divis ou indivis.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
-
-  - Loi n°92-684 1992-07-22
-
 _Modifié par_:
 
-  - Loi n°2004-204 du 9 mars 2004 - art. 6 () JORF 10 mars 2004
+  - Loi n°2010-768 du 9 juillet 2010 - art. 10
 
 _Cité par_:
 
@@ -14666,15 +14811,6 @@ _Cité par_:
   - CODE DE PROCEDURE PENALE - art. 866 (M)
   - Code de la santé publique - art. L3421-3 (V)
   - Code de la santé publique - art. L629-1 (Ab)
-
-_Cite_:
-
-  - Code pénal - art. 222-34 (M)
-  - Code pénal - art. 222-35 (M)
-  - Code pénal - art. 222-36 (M)
-  - Code pénal - art. 222-38 (M)
-  - Code pénal - art. 222-39-1 (M)
-  - Code pénal 222-34 à 222-40, 222-34, 222-35, 222-36, 222-38, 222-39-1
 
 
 ###### Article 222-50
@@ -14710,6 +14846,23 @@ _Cite_:
 _Cité par_:
 
   - Code pénal - art. 222-51 (V)
+
+
+###### Article 222-50-1
+
+Les personnes physiques ou morales coupables de l'une des infractions prévues par les articles 222-33 et 222-33-2 encourent
+également la peine complémentaire d'affichage ou de diffusion de la décision prévue par l'article 131-35.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2010-769 du 9 juillet 2010 - art. 35
+
+_Cite_:
+
+  - Code pénal - art. 131-35
+  - Code pénal - art. 222-33
 
 
 ###### Article 222-51
@@ -17543,23 +17696,19 @@ _Cite_:
 ###### Article 225-24
 
 Les personnes physiques ou morales coupables de l'une des infractions prévues par les articles 225-5 à 225-10 encourent
-également :
+également : 
 
-1° La confiscation des biens mobiliers ayant servi directement ou indirectement à commettre l'infraction ainsi que les
-produits de l'infraction détenus par une personne autre que la personne se livrant à la prostitution elle-même ;
+1° La confiscation des biens meubles ou immeubles, divis ou indivis ayant servi directement ou indirectement à commettre
+l'infraction ainsi que les produits de l'infraction détenus par une personne autre que la personne se livrant à la
+prostitution elle-même ; 
 
 2° Le remboursement des frais de rapatriement de la ou des victimes.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Modifié par_:
 
-  - Loi n°92-684 1992-07-22
-
-**Liens**:
-
-  - SPEC_APPLI: Loi n°92-684 1992-07-22 art. 1
-  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
+  - Loi n°2010-768 du 9 juillet 2010 - art. 13
 
 _Cité par_:
 
@@ -17568,7 +17717,7 @@ _Cité par_:
 
 _Cite_:
 
-  - Code pénal 225-5 à 225-10
+  - Code pénal - art. 225-5 (V)
 
 
 ###### Article 225-25
@@ -17926,10 +18075,10 @@ La dénonciation, effectuée par tout moyen et dirigée contre une personne dét
 des sanctions judiciaires, administratives ou disciplinaires et que l'on sait totalement ou partiellement inexact,
 lorsqu'elle est adressée soit à un officier de justice ou de police administrative ou judiciaire, soit à une autorité ayant
 le pouvoir d'y donner suite ou de saisir l'autorité compétente, soit aux supérieurs hiérarchiques ou à l'employeur de la
-personne dénoncée, est punie de cinq ans d'emprisonnement et de 45000 euros d'amende.
+personne dénoncée, est punie de cinq ans d'emprisonnement et de 45 000 euros d'amende.
 
 La fausseté du fait dénoncé résulte nécessairement de la décision, devenue définitive, d'acquittement, de relaxe ou de non-
-lieu déclarant que la réalité du fait n'est pas établie ou que celui-ci n'est pas imputable à la personne dénoncée.
+lieu, déclarant que le fait n'a pas été commis ou que celui-ci n'est pas imputable à la personne dénoncée.
 
 En tout autre cas, le tribunal saisi des poursuites contre le dénonciateur apprécie la pertinence des accusations portées par
 celui-ci.
@@ -17955,18 +18104,9 @@ _Cité par_:
   - Code monétaire et financier - art. L561-22 (V)
   - Code pénal - art. 226-12 (V)
 
-_Codifié par_:
-
-  - Loi n°92-684 1992-07-22
-
-**Liens**:
-
-  - SPEC_APPLI: Loi n°92-684 1992-07-22 art. 1
-  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
-
 _Modifié par_:
 
-  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+  - Loi n°2010-769 du 9 juillet 2010 - art. 16
 
 
 ###### Article 226-11
