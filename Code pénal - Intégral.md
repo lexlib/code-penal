@@ -1,5 +1,5 @@
 # Code pénal  
-Version Consolidée au 2010-07-11
+Version Consolidée au 2010-07-24
 ## Contenu: 
   - [Partie législative (art. 111-1 à 727-3)](#1)
     - [Livre Ier : Dispositions générales (art. 111-1 à 133-17)](#2)
@@ -371,7 +371,7 @@ Version Consolidée au 2010-07-11
           - [Section 2 : De la vente forcée par correspondance (art. R635-2)](#368)
           - [Section 3 : De la violation des dispositions réglementant la vente ou l'échange de certains objets mobiliers (art. R635-3 à R635-7)](#369)
           - [Section 4 : De l'abandon d'épaves de véhicules ou d'ordures, déchets, matériaux et autres objets transportés dans un véhicule (art. R635-8)](#370)
-      - [Titre IV : Des contraventions contre la nation, l'Etat ou la paix publique (art. R641-1 à R645-14)](#371)
+      - [Titre IV : Des contraventions contre la nation, l'Etat ou la paix publique (art. R641-1 à R645-15)](#371)
         - [Chapitre Ier : Des contraventions de la 1re classe contre la nation, l'Etat ou la paix publique (art. R641-1)](#372)
           - [Section unique : De l'abandon d'armes ou d'objets dangereux (art. R641-1)](#373)
         - [Chapitre II : Des contraventions de la 2e classe contre la nation, l'Etat ou la paix publique (art. R642-1 à R642-4)](#374)
@@ -384,7 +384,7 @@ Version Consolidée au 2010-07-11
           - [Section 1 : De l'accès sans autorisation à un terrain, une construction, un engin ou un appareil militaires (art. R644-1)](#381)
           - [Section 2 : Des entraves à la libre circulation sur la voie publique (art. R644-2)](#382)
           - [Section 3 : De la violation des dispositions réglementant les professions exercées dans les lieux publics (art. R644-3)](#383)
-        - [Chapitre V : Des contraventions de la 5e classe contre la nation, l'Etat ou la paix publique (art. R645-1 à R645-14)](#384)
+        - [Chapitre V : Des contraventions de la 5e classe contre la nation, l'Etat ou la paix publique (art. R645-1 à R645-15)](#384)
           - [Section 1 : Du port ou de l'exhibition d'uniformes, insignes ou emblèmes rappelant ceux d'organisations ou de personnes responsables de crimes contre l'humanité (art. R645-1)](#385)
           - [Section 2 : Des dessins, levés ou enregistrements effectués sans autorisation dans une zone d'interdiction fixée par l'autorité militaire (art. R645-2)](#386)
           - [Section 3 : Des atteintes à l'état civil des personnes (art. R645-3 à R645-6)](#387)
@@ -396,21 +396,22 @@ Version Consolidée au 2010-07-11
           - [Section 8 : De l'intrusion dans les établissements scolaires (art. R645-12)](#393)
           - [Section 9 : De l'intrusion dans les lieux historiques ou culturels (art. R645-13)](#394)
           - [Section 10 : De la dissimulation illicite du visage à l'occasion de manifestations sur la voie publique (art. R645-14)](#395)
-      - [Titre V : Des autres contraventions (art. R653-1 à R655-1)](#396)
-        - [Chapitre III : Des contraventions de la 3e classe (art. R653-1)](#397)
-          - [Section unique : Des atteintes involontaires à la vie ou à l'intégrité d'un animal (art. R653-1)](#398)
-        - [Chapitre IV : Des contraventions de la 4e classe (art. R654-1)](#399)
-          - [Section unique : Des mauvais traitements envers un animal (art. R654-1)](#400)
-        - [Chapitre V : Des contraventions de la 5e classe (art. R655-1)](#401)
-          - [Section unique : Des atteintes volontaires à la vie d'un animal (art. R655-1)](#402)
-    - [Livre VII : Dispositions applicables dans les territoires d'outre-mer, en Nouvelle-Calédonie et à Mayotte. (art. R711-1 à R722-7)](#403)
-      - [Titre Ier : Dispositions applicables dans les territoires d'outre-mer et en Nouvelle-Calédonie (art. R711-1 à R716-1)](#404)
-        - [Chapitre Ier : Dispositions générales (art. R711-1 à R711-3)](#405)
-        - [Chapitre II : Adaptation du livre Ier (art. R712-1 à R712-8)](#406)
-        - [Chapitre VI : Adaptation du livre V (art. R716-1)](#407)
-      - [Titre II : Dispositions applicables à Mayotte. (art. R721-1 à R722-7)](#408)
-        - [Chapitre Ier : Dispositions générales (art. R721-1 à R721-2)](#409)
-        - [Chapitre II : Adaptation du livre Ier (art. R722-1 à R722-7)](#410)
+          - [Section 11 : De l'outrage au drapeau tricolore (art. R645-15)](#396)
+      - [Titre V : Des autres contraventions (art. R653-1 à R655-1)](#397)
+        - [Chapitre III : Des contraventions de la 3e classe (art. R653-1)](#398)
+          - [Section unique : Des atteintes involontaires à la vie ou à l'intégrité d'un animal (art. R653-1)](#399)
+        - [Chapitre IV : Des contraventions de la 4e classe (art. R654-1)](#400)
+          - [Section unique : Des mauvais traitements envers un animal (art. R654-1)](#401)
+        - [Chapitre V : Des contraventions de la 5e classe (art. R655-1)](#402)
+          - [Section unique : Des atteintes volontaires à la vie d'un animal (art. R655-1)](#403)
+    - [Livre VII : Dispositions applicables dans les territoires d'outre-mer, en Nouvelle-Calédonie et à Mayotte. (art. R711-1 à R722-7)](#404)
+      - [Titre Ier : Dispositions applicables dans les territoires d'outre-mer et en Nouvelle-Calédonie (art. R711-1 à R716-1)](#405)
+        - [Chapitre Ier : Dispositions générales (art. R711-1 à R711-3)](#406)
+        - [Chapitre II : Adaptation du livre Ier (art. R712-1 à R712-8)](#407)
+        - [Chapitre VI : Adaptation du livre V (art. R716-1)](#408)
+      - [Titre II : Dispositions applicables à Mayotte. (art. R721-1 à R722-7)](#409)
+        - [Chapitre Ier : Dispositions générales (art. R721-1 à R721-2)](#410)
+        - [Chapitre II : Adaptation du livre Ier (art. R722-1 à R722-7)](#411)
 # Partie législative<a id=1></a>
 
 ## Livre Ier : Dispositions générales<a id=2></a>
@@ -41684,11 +41685,38 @@ _Cite_:
   - Code pénal - art. 132-15
 
 
-### Titre V : Des autres contraventions<a id=396></a>
+##### Section 11 : De l'outrage au drapeau tricolore<a id=396></a>
 
-#### Chapitre III : Des contraventions de la 3e classe<a id=397></a>
+###### Article R645-15
 
-##### Section unique : Des atteintes involontaires à la vie ou à l'intégrité d'un animal<a id=398></a>
+Hors les cas prévus par l'article 433-5-1, est puni de l'amende prévue pour les contraventions de la 5e classe le fait,
+lorsqu'il est commis dans des conditions de nature à troubler l'ordre public et dans l'intention d'outrager le drapeau
+tricolore :
+
+1° De détruire celui-ci, le détériorer ou l'utiliser de manière dégradante, dans un lieu public ou ouvert au public ;
+
+2° Pour l'auteur de tels faits, même commis dans un lieu privé, de diffuser ou faire diffuser l'enregistrement d'images
+relatives à leur commission.
+
+La récidive des contraventions prévues au présent article est réprimée conformément aux articles 132-11 et 132-15.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2010-835 du 21 juillet 2010 - art. 1
+
+_Cite_:
+
+  - Code pénal - art. 132-11
+  - Code pénal - art. 433-5-1
+
+
+### Titre V : Des autres contraventions<a id=397></a>
+
+#### Chapitre III : Des contraventions de la 3e classe<a id=398></a>
+
+##### Section unique : Des atteintes involontaires à la vie ou à l'intégrité d'un animal<a id=399></a>
 
 ###### Article R653-1
 
@@ -41719,9 +41747,9 @@ _Cité par_:
   - Code de procédure pénale - art. R15-33-29-3 (V)
 
 
-#### Chapitre IV : Des contraventions de la 4e classe<a id=399></a>
+#### Chapitre IV : Des contraventions de la 4e classe<a id=400></a>
 
-##### Section unique : Des mauvais traitements envers un animal<a id=400></a>
+##### Section unique : Des mauvais traitements envers un animal<a id=401></a>
 
 ###### Article R654-1
 
@@ -41759,9 +41787,9 @@ _Cite_:
   - Code pénal - art. 521-1 (V)
 
 
-#### Chapitre V : Des contraventions de la 5e classe<a id=401></a>
+#### Chapitre V : Des contraventions de la 5e classe<a id=402></a>
 
-##### Section unique : Des atteintes volontaires à la vie d'un animal<a id=402></a>
+##### Section unique : Des atteintes volontaires à la vie d'un animal<a id=403></a>
 
 ###### Article R655-1
 
@@ -41795,11 +41823,11 @@ _Cite_:
   - Code pénal - art. 132-11 (V)
 
 
-## Livre VII : Dispositions applicables dans les territoires d'outre-mer, en Nouvelle-Calédonie et à Mayotte.<a id=403></a>
+## Livre VII : Dispositions applicables dans les territoires d'outre-mer, en Nouvelle-Calédonie et à Mayotte.<a id=404></a>
 
-### Titre Ier : Dispositions applicables dans les territoires d'outre-mer et en Nouvelle-Calédonie<a id=404></a>
+### Titre Ier : Dispositions applicables dans les territoires d'outre-mer et en Nouvelle-Calédonie<a id=405></a>
 
-#### Chapitre Ier : Dispositions générales<a id=405></a>
+#### Chapitre Ier : Dispositions générales<a id=406></a>
 
 ###### Article R711-1
 
@@ -41877,7 +41905,7 @@ _Cite_:
   - Code pénal - art. R711-1 (V)
 
 
-#### Chapitre II : Adaptation du livre Ier<a id=406></a>
+#### Chapitre II : Adaptation du livre Ier<a id=407></a>
 
 ###### Article R712-1
 
@@ -42057,7 +42085,7 @@ _Cite_:
   - Code pénal - art. R131-36 (V)
 
 
-#### Chapitre VI : Adaptation du livre V<a id=407></a>
+#### Chapitre VI : Adaptation du livre V<a id=408></a>
 
 ###### Article R716-1
 
@@ -42081,9 +42109,9 @@ _Cite_:
   - Code pénal - art. R511-1 (V)
 
 
-### Titre II : Dispositions applicables à Mayotte.<a id=408></a>
+### Titre II : Dispositions applicables à Mayotte.<a id=409></a>
 
-#### Chapitre Ier : Dispositions générales<a id=409></a>
+#### Chapitre Ier : Dispositions générales<a id=410></a>
 
 ###### Article R721-1
 
@@ -42131,7 +42159,7 @@ _Abrogé par_:
   - Décret n°2011-338 du 29 mars 2011 - art. 3
 
 
-#### Chapitre II : Adaptation du livre Ier<a id=410></a>
+#### Chapitre II : Adaptation du livre Ier<a id=411></a>
 
 ###### Article R722-1
 
