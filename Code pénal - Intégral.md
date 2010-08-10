@@ -1,5 +1,5 @@
 # Code pénal  
-Version Consolidée au 2010-07-24
+Version Consolidée au 2010-08-11
 ## Contenu: 
   - [Partie législative (art. 111-1 à 727-3)](#1)
     - [Livre Ier : Dispositions générales (art. 111-1 à 133-17)](#2)
@@ -65,7 +65,7 @@ Version Consolidée au 2010-07-24
     - [Livre II : Des crimes et délits contre les personnes (art. 211-1 à 227-33)](#62)
       - [Titre Ier : Des crimes contre l'humanité et contre l'espèce humaine (art. 211-1 à 215-4)](#63)
         - [Sous-titre Ier : Des crimes contre l'humanité (art. 211-1 à 213-5)](#64)
-          - [Chapitre Ier : Du génocide (art. 211-1)](#65)
+          - [Chapitre Ier : Du génocide (art. 211-1 à 211-2)](#65)
           - [Chapitre II : Des autres crimes contre l'humanité (art. 212-1 à 212-3)](#66)
           - [Chapitre III : Dispositions communes (art. 213-1 à 213-5)](#67)
         - [Sous-titre II : Des crimes contre l'espèce humaine (art. 214-1 à 215-4)](#68)
@@ -226,7 +226,7 @@ Version Consolidée au 2010-07-24
           - [Section 12 : Peines complémentaires et responsabilité des personnes morales (art. 433-22 à 433-25)](#223)
         - [Chapitre IV : Des atteintes à l'action de justice (art. 434-1 à 434-47)](#224)
           - [Section 1 : Des entraves à la saisine de la justice (art. 434-1 à 434-7)](#225)
-          - [Section 2 : Des entraves à l'exercice de la justice (art. 434-7-1 à 434-23)](#226)
+          - [Section 2 : Des entraves à l'exercice de la justice (art. 434-7-1 à 434-23-1)](#226)
           - [Section 3 : Des atteintes à l'autorité de la justice (art. 434-24 à 434-43)](#227)
             - [Paragraphe 1 : Des atteintes au respect dû à la justice (art. 434-24 à 434-26)](#228)
             - [Paragraphe 2 : De l'évasion (art. 434-27 à 434-37)](#229)
@@ -253,165 +253,183 @@ Version Consolidée au 2010-07-24
           - [Section 1 : De la corruption passive et active des personnes n'exerçant pas une fonction publique (art. 445-1 à 445-2)](#250)
           - [Section 2 : Peines complémentaires applicables aux personnes physiques et responsabilité pénale des personnes morales (art. 445-3 à 445-4)](#251)
       - [Titre V : De la participation à une association de malfaiteurs (art. 450-1 à 450-5)](#252)
-    - [Livre V : Des autres crimes et délits (art. 511-1 à 521-2)](#253)
-      - [Titre Ier : Des infractions en matière de santé publique (art. 511-1 à 511-28)](#254)
-        - [Chapitre Ier : Des infractions en matière d'éthique biomédicale (art. 511-1 à 511-28)](#255)
-          - [Section 1 : De la protection de l'espèce humaine (art. 511-1 à 511-1-2)](#256)
-          - [Section 2 : De la protection du corps humain (art. 511-2 à 511-13)](#257)
-          - [Section 3 : De la protection de l'embryon humain (art. 511-15 à 511-25-1)](#258)
-          - [Section 4 : Autres dispositions et peines complémentaires applicables aux personnes physiques et responsabilité des personnes morales (art. 511-26 à 511-28)](#259)
-      - [Titre II : Autres dispositions (art. 521-1 à 521-2)](#260)
-        - [Chapitre unique : Des sévices graves ou actes de cruauté envers les animaux (art. 521-1 à 521-2)](#261)
-    - [Livre VII : Dispositions applicables dans les territoires d'outre-mer, en Nouvelle-Calédonie et à Mayotte. (art. 711-1 à 727-3)](#262)
-      - [Titre Ier : Dispositions applicables dans les territoires d'outre-mer et en Nouvelle-Calédonie. (art. 711-1 à 717-3)](#263)
-        - [Chapitre Ier : Dispositions générales (art. 711-1 à 711-4)](#264)
-        - [Chapitre II : Adaptation du livre Ier (art. 712-1 à 712-2)](#265)
-        - [Chapitre III : Adaptation du livre II (art. 713-3)](#266)
-        - [Chapitre IV : Adaptation du livre III (art. 714-1)](#267)
-        - [Chapitre V : Adaptation du livre IV (art. 715-1 à 715-5)](#268)
-        - [Chapitre VI : Adaptation du livre V (art. 716-16)](#269)
-        - [Chapitre VII : Dispositions diverses (art. 717-1 à 717-3)](#270)
-      - [Titre II : Dispositions applicables à Mayotte. (art. 721-1 à 727-3)](#271)
-        - [Chapitre Ier : Dispositions générales (art. 721-1 à 721-2)](#272)
-        - [Chapitre II : Adaptation du livre Ier. (art. 722-1)](#273)
-        - [Chapitre III : Adaptation du livre II (art. 723-1 à 723-6)](#274)
-        - [Chapitre IV : Adaptation du livre III (art. 724-1)](#275)
-        - [Chapitre V : Adaptation du livre IV (art. 725-1 à 725-6)](#276)
-        - [Chapitre VI : Adaptation du livre V (art. 726-1 à 726-15)](#277)
-        - [Chapitre VII : Dispositions diverses (art. 727-1 à 727-3)](#278)
-  - [Partie réglementaire - Décrets en Conseil d'Etat (art. R131-1 à R722-7)](#279)
-    - [Livre Ier : Dispositions générales (art. R131-1 à R133-2)](#280)
-      - [Titre III : Des peines (art. R131-1 à R133-2)](#281)
-        - [Chapitre Ier : De la nature des peines (art. R131-1 à R131-53)](#282)
-          - [Section 1 : Des peines applicables aux personnes physiques (art. R131-1 à R131-51)](#283)
-            - [Sous-section 1 : De la suspension du permis de conduire, de l'interdiction de conduire certains véhicules, de l'immobilisation du véhicule et de l'obligation d'accomplir un stage de sensibilisation à la sécurité routière (art. R131-1 à R131-11-1)](#284)
-              - [Paragraphe 1 : De la suspension du permis de conduire (art. R131-1 à R131-2)](#285)
-              - [Paragraphe 2 : De l'interdiction de conduire certains véhicules. (art. R131-3 à R131-4)](#286)
-              - [Paragraphe 3 : De l'immobilisation de véhicule (art. R131-5 à R131-11)](#287)
-              - [Paragraphe 4 : De l'obligation d'accomplir un stage de sensibilisation à la sécurité routière (art. R131-11-1)](#288)
-            - [Sous-section 2 : Du travail d'intérêt général (art. R131-12 à R131-34)](#289)
-              - [Paragraphe 1 : Des modalités d'habilitation des personnes morales et d'établissement de la liste des travaux d'intérêt général (art. R131-12 à R131-22)](#290)
-                - [A. : Des modalités d'habilitation des personnes morales (art. R131-12 à R131-16)](#291)
-                - [B. : De l'établissement de la liste des travaux d'intérêt général (art. R131-17 à R131-20)](#292)
-                - [C. : Dispositions diverses (art. R131-21 à R131-22)](#293)
-              - [Paragraphe 2 : De l'exécution du travail d'intérêt général (art. R131-23 à R131-34)](#294)
-                - [A. : De la décision du juge de l'application des peines fixant les modalités d'exécution du travail d'intérêt général (art. R131-23 à R131-28)](#295)
-                - [B. : Du contrôle de l'exécution du travail d'intérêt général (art. R131-29 à R131-34)](#296)
-            - [Sous-section 3 : De la peine de stage de citoyenneté (art. R131-35 à R131-44)](#297)
-              - [Paragraphe 1 : Objet et durée du stage (art. R131-35 à R131-36)](#298)
-              - [Paragraphe 2 : Organisation du stage (art. R131-37 à R131-38)](#299)
-              - [Paragraphe 3 : Déroulement et fin du stage. (art. R131-39 à R131-40)](#300)
-              - [Paragraphe 4 : Dispositions spécifiques applicables aux mineurs. (art. R131-41 à R131-44)](#301)
-            - [Sous-section 4 : De la peine de sanction-réparation. (art. R131-45)](#302)
-            - [Sous-section 5 : De la peine de stage de sensibilisation aux dangers de l'usage de produits stupéfiants. (art. R131-46 à R131-47)](#303)
-            - [Sous-section 6 : De la peine de stage de responsabilité parentale. (art. R131-48 à R131-49)](#304)
-            - [Sous-section 7 : De la peine de confiscation d'un animal. (art. R131-50 à R131-51)](#305)
-          - [Section 2 : Des peines applicables aux personnes morales (art. R131-52 à R131-53)](#306)
-        - [Chapitre II : Du régime des peines (art. R132-45)](#307)
-          - [Section 2 : Des modes de personnalisation des peines (art. R132-45)](#308)
-            - [Sous-section 4 : Du sursis avec mise à l'épreuve (art. R132-45)](#309)
-        - [Chapitre III : De l'extinction des peines et de l'effacement des condamnations (art. R133-1 à R133-2)](#310)
-          - [Section 2 : De la grâce (art. R133-1 à R133-2)](#311)
-    - [Livre II : Des crimes et délits contre les personnes (art. R226-1 à R226-12)](#312)
-      - [Titre II : Des atteintes à la personne humaine (art. R226-1 à R226-12)](#313)
-        - [Chapitre VI : Des atteintes à la personnalité (art. R226-1 à R226-12)](#314)
-          - [Section 1 : De l'atteinte à la vie privée (art. R226-1 à R226-12)](#315)
-    - [Livre III : Des crimes et délits contre les biens (art. R321-1 à R321-12)](#316)
-      - [Titre II : Des autres atteintes aux biens (art. R321-1 à R321-12)](#317)
-        - [Chapitre Ier : Du recel et des infractions assimilées ou voisines (art. R321-1 à R321-12)](#318)
-          - [Section 2 : Des infractions assimilées au recel ou voisines de celui-ci (art. R321-1 à R321-12)](#319)
-            - [Sous-section 1 : Dispositions relatives aux personnes dont l'activité professionnelle comporte la vente ou l'échange de certains objets mobiliers (art. R321-1 à R321-8)](#320)
-            - [Sous-section 2 : Dispositions concernant les manifestations publiques en vue de la vente ou de l'échange de certains objets mobiliers (art. R321-9 à R321-12)](#321)
-    - [Livre IV : Des crimes et délits contre la nation, l'Etat et la paix publique (art. R413-1 à R431-2)](#322)
-      - [Titre Ier : Des atteintes aux intérêts fondamentaux de la nation (art. R413-1 à R413-6)](#323)
-        - [Chapitre III : Des autres atteintes à la défense nationale (art. R413-1 à R413-6)](#324)
-          - [Section 1 : Des atteintes à la sécurité des forces armées et aux zones protégées intéressant la défense nationale (art. R413-1 à R413-5)](#325)
-          - [Section 2 : Des atteintes au secret de la défense nationale (art. R413-6)](#326)
-      - [Titre III : Des atteintes à l'autorité de l'Etat (art. R431-1 à R431-2)](#327)
-        - [Chapitre Ier : Des atteintes à la paix publique (art. R431-1 à R431-2)](#328)
-          - [Section 2 : De la participation délictueuse à un attroupement. (art. R431-1 à R431-2)](#329)
-    - [Livre V : Des autres crimes et délits (art. R511-1)](#330)
-      - [Chapitre Ier : Des sévices graves ou actes de cruauté envers les animaux (art. R511-1)](#331)
-    - [Livre VI : Des contraventions (art. R610-1 à R655-1)](#332)
-      - [Titre Ier : Dispositions générales (art. R610-1 à R610-5)](#333)
-      - [Titre II : Des contraventions contre les personnes (art. R621-1 à R625-13)](#334)
-        - [Chapitre Ier : Des contraventions de la 1re classe contre les personnes (art. R621-1 à R621-2)](#335)
-          - [Section 1 : De la diffamation et de l'injure non publiques (art. R621-1 à R621-2)](#336)
-        - [Chapitre II : Des contraventions de la 2e classe contre les personnes (art. R622-1 à R622-2)](#337)
-          - [Section 1 : Des atteintes involontaires à l'intégrité de la personne n'ayant entraîné aucune incapacité totale de travail (art. R622-1)](#338)
-          - [Section 2 : De la divagation d'animaux dangereux (art. R622-2)](#339)
-        - [Chapitre III : Des contraventions de la 3e classe contre les personnes (art. R623-1 à R623-4)](#340)
-          - [Section 1 : Des menaces de violences (art. R623-1)](#341)
-          - [Section 2 : Des bruits ou tapages injurieux ou nocturnes (art. R623-2)](#342)
-          - [Section 3 : De l'excitation d'animaux dangereux (art. R623-3)](#343)
-          - [Section 4 : De la violation des dispositions réglementant le commerce de certains matériels susceptibles d'être utilisés pour porter atteinte à l'intimité de la vie privée (art. R623-4)](#344)
-        - [Chapitre IV : Des contraventions de la 4e classe contre les personnes (art. R624-1 à R624-7)](#345)
-          - [Section 1 : Des violences légères (art. R624-1)](#346)
-          - [Section 2 : De la diffusion de messages contraires à la décence (art. R624-2)](#347)
-          - [Section 3 : De la diffamation et de l'injure non publiques présentant un caractère raciste ou discriminatoire (art. R624-3 à R624-6)](#348)
-          - [Section 4 : Du manquement à l'obligation d'assiduité scolaire (art. R624-7)](#349)
-        - [Chapitre V : Des contraventions de la 5e classe contre les personnes (art. R625-1 à R625-13)](#350)
-          - [Section 1 : Des violences (art. R625-1)](#351)
-          - [Section 2 : Des atteintes involontaires à l'intégrité de la personne (art. R625-2 à R625-6)](#352)
-          - [Section 3 : De la provocation non publique à la discrimination, à la haine ou à la violence (art. R625-7)](#353)
-          - [Section 5 : De la violation des dispositions réglementant le commerce de certains matériels susceptibles d'être utilisés pour porter atteinte à l'intimité de la vie privée (art. R625-9)](#354)
-          - [Section 6 : Des atteintes aux droits de la personne résultant des fichiers ou des traitements informatiques (art. R625-10 à R625-13)](#355)
-      - [Titre III : Des contraventions contre les biens (art. R631-1 à R635-8)](#356)
-        - [Chapitre Ier : Des contraventions de la 1re classe contre les biens (art. R631-1)](#357)
-          - [Section unique : Des menaces de destruction, de dégradation ou de détérioration n'entraînant qu'un dommage léger (art. R631-1)](#358)
-        - [Chapitre II : Des contraventions de la 2e classe contre les biens (art. R632-1)](#359)
-          - [Section unique : De l'abandon d'ordures, déchets, matériaux ou autres objets. (art. R632-1)](#360)
-        - [Chapitre III : Des contraventions de la 3e classe contre les biens (art. R633-1 à R633-5)](#361)
-          - [Section 1 : De la violation des dispositions réglementant la vente ou l'échange de certains objets mobiliers (art. R633-1 à R633-3)](#362)
-          - [Section 2 : De la violation des dispositions concernant les manifestations publiques en vue de la vente ou de l'échange de certains objets mobiliers (art. R633-5)](#363)
-        - [Chapitre IV : Des contraventions de la 4e classe contre les biens (art. R634-1)](#364)
-          - [Section 1 : Des menaces de destruction, de dégradation ou de détérioration ne présentant pas de danger pour les personnes (art. R634-1)](#365)
-        - [Chapitre V : Des contraventions de la 5e classe contre les biens (art. R635-1 à R635-8)](#366)
-          - [Section 1 : Des destructions, dégradations et détériorations dont il n'est résulté qu'un dommage léger (art. R635-1)](#367)
-          - [Section 2 : De la vente forcée par correspondance (art. R635-2)](#368)
-          - [Section 3 : De la violation des dispositions réglementant la vente ou l'échange de certains objets mobiliers (art. R635-3 à R635-7)](#369)
-          - [Section 4 : De l'abandon d'épaves de véhicules ou d'ordures, déchets, matériaux et autres objets transportés dans un véhicule (art. R635-8)](#370)
-      - [Titre IV : Des contraventions contre la nation, l'Etat ou la paix publique (art. R641-1 à R645-15)](#371)
-        - [Chapitre Ier : Des contraventions de la 1re classe contre la nation, l'Etat ou la paix publique (art. R641-1)](#372)
-          - [Section unique : De l'abandon d'armes ou d'objets dangereux (art. R641-1)](#373)
-        - [Chapitre II : Des contraventions de la 2e classe contre la nation, l'Etat ou la paix publique (art. R642-1 à R642-4)](#374)
-          - [Section 1 : Du défaut de réponse à une réquisition des autorités judiciaires ou administratives (art. R642-1)](#375)
-          - [Section 2 : Des atteintes à la monnaie (art. R642-2 à R642-4)](#376)
-        - [Chapitre III : Des contraventions de la 3e classe contre la nation, l'Etat ou la paix publique (art. R643-1 à R643-2)](#377)
-          - [Section 1 : De l'usurpation de signes réservés à l'autorité publique (art. R643-1)](#378)
-          - [Section 2 : De l'utilisation de poids ou mesures différents de ceux établis par les lois et règlements en vigueur (art. R643-2)](#379)
-        - [Chapitre IV : Des contraventions de la 4e classe contre la nation, l'Etat ou la paix publique (art. R644-1 à R644-3)](#380)
-          - [Section 1 : De l'accès sans autorisation à un terrain, une construction, un engin ou un appareil militaires (art. R644-1)](#381)
-          - [Section 2 : Des entraves à la libre circulation sur la voie publique (art. R644-2)](#382)
-          - [Section 3 : De la violation des dispositions réglementant les professions exercées dans les lieux publics (art. R644-3)](#383)
-        - [Chapitre V : Des contraventions de la 5e classe contre la nation, l'Etat ou la paix publique (art. R645-1 à R645-15)](#384)
-          - [Section 1 : Du port ou de l'exhibition d'uniformes, insignes ou emblèmes rappelant ceux d'organisations ou de personnes responsables de crimes contre l'humanité (art. R645-1)](#385)
-          - [Section 2 : Des dessins, levés ou enregistrements effectués sans autorisation dans une zone d'interdiction fixée par l'autorité militaire (art. R645-2)](#386)
-          - [Section 3 : Des atteintes à l'état civil des personnes (art. R645-3 à R645-6)](#387)
-          - [Section 4 : De la soustraction d'une pièce produite en justice (art. R645-7)](#388)
-          - [Section 5 : De l'utilisation d'un document délivré par une administration publique comportant des mentions devenues incomplètes ou inexactes (art. R645-8)](#389)
-          - [Section 5 bis : De l'usurpation de fonction ou de titre de délégué ou de médiateur du procureur de la République (art. R645-8-1)](#390)
-          - [Section 6 : Du refus de restitution de signes monétaires contrefaits ou falsifiés (art. R645-9)](#391)
-          - [Section 7 : De l'altération ou de la contrefaçon des timbres-poste ou des timbres émis par l'administration des finances (art. R645-10 à R645-11)](#392)
-          - [Section 8 : De l'intrusion dans les établissements scolaires (art. R645-12)](#393)
-          - [Section 9 : De l'intrusion dans les lieux historiques ou culturels (art. R645-13)](#394)
-          - [Section 10 : De la dissimulation illicite du visage à l'occasion de manifestations sur la voie publique (art. R645-14)](#395)
-          - [Section 11 : De l'outrage au drapeau tricolore (art. R645-15)](#396)
-      - [Titre V : Des autres contraventions (art. R653-1 à R655-1)](#397)
-        - [Chapitre III : Des contraventions de la 3e classe (art. R653-1)](#398)
-          - [Section unique : Des atteintes involontaires à la vie ou à l'intégrité d'un animal (art. R653-1)](#399)
-        - [Chapitre IV : Des contraventions de la 4e classe (art. R654-1)](#400)
-          - [Section unique : Des mauvais traitements envers un animal (art. R654-1)](#401)
-        - [Chapitre V : Des contraventions de la 5e classe (art. R655-1)](#402)
-          - [Section unique : Des atteintes volontaires à la vie d'un animal (art. R655-1)](#403)
-    - [Livre VII : Dispositions applicables dans les territoires d'outre-mer, en Nouvelle-Calédonie et à Mayotte. (art. R711-1 à R722-7)](#404)
-      - [Titre Ier : Dispositions applicables dans les territoires d'outre-mer et en Nouvelle-Calédonie (art. R711-1 à R716-1)](#405)
-        - [Chapitre Ier : Dispositions générales (art. R711-1 à R711-3)](#406)
-        - [Chapitre II : Adaptation du livre Ier (art. R712-1 à R712-8)](#407)
-        - [Chapitre VI : Adaptation du livre V (art. R716-1)](#408)
-      - [Titre II : Dispositions applicables à Mayotte. (art. R721-1 à R722-7)](#409)
-        - [Chapitre Ier : Dispositions générales (art. R721-1 à R721-2)](#410)
-        - [Chapitre II : Adaptation du livre Ier (art. R722-1 à R722-7)](#411)
+    - [Livre IV bis : Des crimes et des délits de guerre (art. 461-1 à 462-11)](#253)
+      - [Chapitre Ier : Des différents crimes et délits de guerre (art. 461-1 à 461-31)](#254)
+        - [Section 1 : De la définition des crimes et délits de guerre (art. 461-1)](#255)
+        - [Section 2 : Des crimes et délits de guerre communs aux conflits armés internationaux et non internationaux (art. 461-2 à 461-18)](#256)
+          - [Sous-section 1 : Des atteintes à la personne humaine perpétrées lors d'un conflit armé international ou non international (art. 461-2 à 461-7)](#257)
+            - [Paragraphe 1 : Des atteintes à la vie et à l'intégrité physique ou psychique (art. 461-2 à 461-5)](#258)
+            - [Paragraphe 2 :  Des atteintes à la liberté individuelle (art. 461-6)](#259)
+            - [Paragraphe 3 : Des atteintes aux droits des mineurs
+dans les conflits armés (art. 461-7)](#260)
+          - [Sous-section 2 : Des crimes et délits de guerre liés à la conduite des hostilités (art. 461-8 à 461-17)](#261)
+            - [Paragraphe 1 : Des moyens et des méthodes de combat prohibés (art. 461-8 à 461-14)](#262)
+            - [Paragraphe 2 : Des atteintes aux biens dans les conflits armés (art. 461-15 à 461-17)](#263)
+          - [Sous-section 3 : Des groupements formés ou des ententes établies en vue de préparer des crimes ou des délits de guerre (art. 461-18)](#264)
+        - [Section 3 : Des crimes et délits de guerre propres aux conflits armés internationaux (art. 461-19 à 461-29)](#265)
+          - [Sous-section 1 : Des atteintes à la liberté et aux droits des personnes dans les conflits armés internationaux (art. 461-19 à 461-22)](#266)
+          - [Sous-section 2 : Des moyens et méthodes de combat prohibés dans un conflit armé international (art. 461-23 à 461-29)](#267)
+        - [Section 4 : Des crimes et délits de guerre propres aux conflits armés non internationaux (art. 461-30 à 461-31)](#268)
+      - [Chapitre II : Dispositions particulières (art. 462-1 à 462-11)](#269)
+    - [Livre V : Des autres crimes et délits (art. 511-1 à 521-2)](#270)
+      - [Titre Ier : Des infractions en matière de santé publique (art. 511-1 à 511-28)](#271)
+        - [Chapitre Ier : Des infractions en matière d'éthique biomédicale (art. 511-1 à 511-28)](#272)
+          - [Section 1 : De la protection de l'espèce humaine (art. 511-1 à 511-1-2)](#273)
+          - [Section 2 : De la protection du corps humain (art. 511-2 à 511-13)](#274)
+          - [Section 3 : De la protection de l'embryon humain (art. 511-15 à 511-25-1)](#275)
+          - [Section 4 : Autres dispositions et peines complémentaires applicables aux personnes physiques et responsabilité des personnes morales (art. 511-26 à 511-28)](#276)
+      - [Titre II : Autres dispositions (art. 521-1 à 521-2)](#277)
+        - [Chapitre unique : Des sévices graves ou actes de cruauté envers les animaux (art. 521-1 à 521-2)](#278)
+    - [Livre VII : Dispositions applicables dans les territoires d'outre-mer, en Nouvelle-Calédonie et à Mayotte. (art. 711-1 à 727-3)](#279)
+      - [Titre Ier : Dispositions applicables dans les territoires d'outre-mer et en Nouvelle-Calédonie. (art. 711-1 à 717-3)](#280)
+        - [Chapitre Ier : Dispositions générales (art. 711-1 à 711-4)](#281)
+        - [Chapitre II : Adaptation du livre Ier (art. 712-1 à 712-2)](#282)
+        - [Chapitre III : Adaptation du livre II (art. 713-3)](#283)
+        - [Chapitre IV : Adaptation du livre III (art. 714-1)](#284)
+        - [Chapitre V : Adaptation du livre IV (art. 715-1 à 715-5)](#285)
+        - [Chapitre VI : Adaptation du livre V (art. 716-16)](#286)
+        - [Chapitre VII : Dispositions diverses (art. 717-1 à 717-3)](#287)
+      - [Titre II : Dispositions applicables à Mayotte. (art. 721-1 à 727-3)](#288)
+        - [Chapitre Ier : Dispositions générales (art. 721-1 à 721-2)](#289)
+        - [Chapitre II : Adaptation du livre Ier. (art. 722-1)](#290)
+        - [Chapitre III : Adaptation du livre II (art. 723-1 à 723-6)](#291)
+        - [Chapitre IV : Adaptation du livre III (art. 724-1)](#292)
+        - [Chapitre V : Adaptation du livre IV (art. 725-1 à 725-6)](#293)
+        - [Chapitre VI : Adaptation du livre V (art. 726-1 à 726-15)](#294)
+        - [Chapitre VII : Dispositions diverses (art. 727-1 à 727-3)](#295)
+  - [Partie réglementaire - Décrets en Conseil d'Etat (art. R131-1 à R722-7)](#296)
+    - [Livre Ier : Dispositions générales (art. R131-1 à R133-2)](#297)
+      - [Titre III : Des peines (art. R131-1 à R133-2)](#298)
+        - [Chapitre Ier : De la nature des peines (art. R131-1 à R131-53)](#299)
+          - [Section 1 : Des peines applicables aux personnes physiques (art. R131-1 à R131-51)](#300)
+            - [Sous-section 1 : De la suspension du permis de conduire, de l'interdiction de conduire certains véhicules, de l'immobilisation du véhicule et de l'obligation d'accomplir un stage de sensibilisation à la sécurité routière (art. R131-1 à R131-11-1)](#301)
+              - [Paragraphe 1 : De la suspension du permis de conduire (art. R131-1 à R131-2)](#302)
+              - [Paragraphe 2 : De l'interdiction de conduire certains véhicules. (art. R131-3 à R131-4)](#303)
+              - [Paragraphe 3 : De l'immobilisation de véhicule (art. R131-5 à R131-11)](#304)
+              - [Paragraphe 4 : De l'obligation d'accomplir un stage de sensibilisation à la sécurité routière (art. R131-11-1)](#305)
+            - [Sous-section 2 : Du travail d'intérêt général (art. R131-12 à R131-34)](#306)
+              - [Paragraphe 1 : Des modalités d'habilitation des personnes morales et d'établissement de la liste des travaux d'intérêt général (art. R131-12 à R131-22)](#307)
+                - [A. : Des modalités d'habilitation des personnes morales (art. R131-12 à R131-16)](#308)
+                - [B. : De l'établissement de la liste des travaux d'intérêt général (art. R131-17 à R131-20)](#309)
+                - [C. : Dispositions diverses (art. R131-21 à R131-22)](#310)
+              - [Paragraphe 2 : De l'exécution du travail d'intérêt général (art. R131-23 à R131-34)](#311)
+                - [A. : De la décision du juge de l'application des peines fixant les modalités d'exécution du travail d'intérêt général (art. R131-23 à R131-28)](#312)
+                - [B. : Du contrôle de l'exécution du travail d'intérêt général (art. R131-29 à R131-34)](#313)
+            - [Sous-section 3 : De la peine de stage de citoyenneté (art. R131-35 à R131-44)](#314)
+              - [Paragraphe 1 : Objet et durée du stage (art. R131-35 à R131-36)](#315)
+              - [Paragraphe 2 : Organisation du stage (art. R131-37 à R131-38)](#316)
+              - [Paragraphe 3 : Déroulement et fin du stage. (art. R131-39 à R131-40)](#317)
+              - [Paragraphe 4 : Dispositions spécifiques applicables aux mineurs. (art. R131-41 à R131-44)](#318)
+            - [Sous-section 4 : De la peine de sanction-réparation. (art. R131-45)](#319)
+            - [Sous-section 5 : De la peine de stage de sensibilisation aux dangers de l'usage de produits stupéfiants. (art. R131-46 à R131-47)](#320)
+            - [Sous-section 6 : De la peine de stage de responsabilité parentale. (art. R131-48 à R131-49)](#321)
+            - [Sous-section 7 : De la peine de confiscation d'un animal. (art. R131-50 à R131-51)](#322)
+          - [Section 2 : Des peines applicables aux personnes morales (art. R131-52 à R131-53)](#323)
+        - [Chapitre II : Du régime des peines (art. R132-45)](#324)
+          - [Section 2 : Des modes de personnalisation des peines (art. R132-45)](#325)
+            - [Sous-section 4 : Du sursis avec mise à l'épreuve (art. R132-45)](#326)
+        - [Chapitre III : De l'extinction des peines et de l'effacement des condamnations (art. R133-1 à R133-2)](#327)
+          - [Section 2 : De la grâce (art. R133-1 à R133-2)](#328)
+    - [Livre II : Des crimes et délits contre les personnes (art. R226-1 à R226-12)](#329)
+      - [Titre II : Des atteintes à la personne humaine (art. R226-1 à R226-12)](#330)
+        - [Chapitre VI : Des atteintes à la personnalité (art. R226-1 à R226-12)](#331)
+          - [Section 1 : De l'atteinte à la vie privée (art. R226-1 à R226-12)](#332)
+    - [Livre III : Des crimes et délits contre les biens (art. R321-1 à R321-12)](#333)
+      - [Titre II : Des autres atteintes aux biens (art. R321-1 à R321-12)](#334)
+        - [Chapitre Ier : Du recel et des infractions assimilées ou voisines (art. R321-1 à R321-12)](#335)
+          - [Section 2 : Des infractions assimilées au recel ou voisines de celui-ci (art. R321-1 à R321-12)](#336)
+            - [Sous-section 1 : Dispositions relatives aux personnes dont l'activité professionnelle comporte la vente ou l'échange de certains objets mobiliers (art. R321-1 à R321-8)](#337)
+            - [Sous-section 2 : Dispositions concernant les manifestations publiques en vue de la vente ou de l'échange de certains objets mobiliers (art. R321-9 à R321-12)](#338)
+    - [Livre IV : Des crimes et délits contre la nation, l'Etat et la paix publique (art. R413-1 à R431-2)](#339)
+      - [Titre Ier : Des atteintes aux intérêts fondamentaux de la nation (art. R413-1 à R413-6)](#340)
+        - [Chapitre III : Des autres atteintes à la défense nationale (art. R413-1 à R413-6)](#341)
+          - [Section 1 : Des atteintes à la sécurité des forces armées et aux zones protégées intéressant la défense nationale (art. R413-1 à R413-5)](#342)
+          - [Section 2 : Des atteintes au secret de la défense nationale (art. R413-6)](#343)
+      - [Titre III : Des atteintes à l'autorité de l'Etat (art. R431-1 à R431-2)](#344)
+        - [Chapitre Ier : Des atteintes à la paix publique (art. R431-1 à R431-2)](#345)
+          - [Section 2 : De la participation délictueuse à un attroupement. (art. R431-1 à R431-2)](#346)
+    - [Livre V : Des autres crimes et délits (art. R511-1)](#347)
+      - [Chapitre Ier : Des sévices graves ou actes de cruauté envers les animaux (art. R511-1)](#348)
+    - [Livre VI : Des contraventions (art. R610-1 à R655-1)](#349)
+      - [Titre Ier : Dispositions générales (art. R610-1 à R610-5)](#350)
+      - [Titre II : Des contraventions contre les personnes (art. R621-1 à R625-13)](#351)
+        - [Chapitre Ier : Des contraventions de la 1re classe contre les personnes (art. R621-1 à R621-2)](#352)
+          - [Section 1 : De la diffamation et de l'injure non publiques (art. R621-1 à R621-2)](#353)
+        - [Chapitre II : Des contraventions de la 2e classe contre les personnes (art. R622-1 à R622-2)](#354)
+          - [Section 1 : Des atteintes involontaires à l'intégrité de la personne n'ayant entraîné aucune incapacité totale de travail (art. R622-1)](#355)
+          - [Section 2 : De la divagation d'animaux dangereux (art. R622-2)](#356)
+        - [Chapitre III : Des contraventions de la 3e classe contre les personnes (art. R623-1 à R623-4)](#357)
+          - [Section 1 : Des menaces de violences (art. R623-1)](#358)
+          - [Section 2 : Des bruits ou tapages injurieux ou nocturnes (art. R623-2)](#359)
+          - [Section 3 : De l'excitation d'animaux dangereux (art. R623-3)](#360)
+          - [Section 4 : De la violation des dispositions réglementant le commerce de certains matériels susceptibles d'être utilisés pour porter atteinte à l'intimité de la vie privée (art. R623-4)](#361)
+        - [Chapitre IV : Des contraventions de la 4e classe contre les personnes (art. R624-1 à R624-7)](#362)
+          - [Section 1 : Des violences légères (art. R624-1)](#363)
+          - [Section 2 : De la diffusion de messages contraires à la décence (art. R624-2)](#364)
+          - [Section 3 : De la diffamation et de l'injure non publiques présentant un caractère raciste ou discriminatoire (art. R624-3 à R624-6)](#365)
+          - [Section 4 : Du manquement à l'obligation d'assiduité scolaire (art. R624-7)](#366)
+        - [Chapitre V : Des contraventions de la 5e classe contre les personnes (art. R625-1 à R625-13)](#367)
+          - [Section 1 : Des violences (art. R625-1)](#368)
+          - [Section 2 : Des atteintes involontaires à l'intégrité de la personne (art. R625-2 à R625-6)](#369)
+          - [Section 3 : De la provocation non publique à la discrimination, à la haine ou à la violence (art. R625-7)](#370)
+          - [Section 5 : De la violation des dispositions réglementant le commerce de certains matériels susceptibles d'être utilisés pour porter atteinte à l'intimité de la vie privée (art. R625-9)](#371)
+          - [Section 6 : Des atteintes aux droits de la personne résultant des fichiers ou des traitements informatiques (art. R625-10 à R625-13)](#372)
+      - [Titre III : Des contraventions contre les biens (art. R631-1 à R635-8)](#373)
+        - [Chapitre Ier : Des contraventions de la 1re classe contre les biens (art. R631-1)](#374)
+          - [Section unique : Des menaces de destruction, de dégradation ou de détérioration n'entraînant qu'un dommage léger (art. R631-1)](#375)
+        - [Chapitre II : Des contraventions de la 2e classe contre les biens (art. R632-1)](#376)
+          - [Section unique : De l'abandon d'ordures, déchets, matériaux ou autres objets. (art. R632-1)](#377)
+        - [Chapitre III : Des contraventions de la 3e classe contre les biens (art. R633-1 à R633-5)](#378)
+          - [Section 1 : De la violation des dispositions réglementant la vente ou l'échange de certains objets mobiliers (art. R633-1 à R633-3)](#379)
+          - [Section 2 : De la violation des dispositions concernant les manifestations publiques en vue de la vente ou de l'échange de certains objets mobiliers (art. R633-5)](#380)
+        - [Chapitre IV : Des contraventions de la 4e classe contre les biens (art. R634-1)](#381)
+          - [Section 1 : Des menaces de destruction, de dégradation ou de détérioration ne présentant pas de danger pour les personnes (art. R634-1)](#382)
+        - [Chapitre V : Des contraventions de la 5e classe contre les biens (art. R635-1 à R635-8)](#383)
+          - [Section 1 : Des destructions, dégradations et détériorations dont il n'est résulté qu'un dommage léger (art. R635-1)](#384)
+          - [Section 2 : De la vente forcée par correspondance (art. R635-2)](#385)
+          - [Section 3 : De la violation des dispositions réglementant la vente ou l'échange de certains objets mobiliers (art. R635-3 à R635-7)](#386)
+          - [Section 4 : De l'abandon d'épaves de véhicules ou d'ordures, déchets, matériaux et autres objets transportés dans un véhicule (art. R635-8)](#387)
+      - [Titre IV : Des contraventions contre la nation, l'Etat ou la paix publique (art. R641-1 à R645-15)](#388)
+        - [Chapitre Ier : Des contraventions de la 1re classe contre la nation, l'Etat ou la paix publique (art. R641-1)](#389)
+          - [Section unique : De l'abandon d'armes ou d'objets dangereux (art. R641-1)](#390)
+        - [Chapitre II : Des contraventions de la 2e classe contre la nation, l'Etat ou la paix publique (art. R642-1 à R642-4)](#391)
+          - [Section 1 : Du défaut de réponse à une réquisition des autorités judiciaires ou administratives (art. R642-1)](#392)
+          - [Section 2 : Des atteintes à la monnaie (art. R642-2 à R642-4)](#393)
+        - [Chapitre III : Des contraventions de la 3e classe contre la nation, l'Etat ou la paix publique (art. R643-1 à R643-2)](#394)
+          - [Section 1 : De l'usurpation de signes réservés à l'autorité publique (art. R643-1)](#395)
+          - [Section 2 : De l'utilisation de poids ou mesures différents de ceux établis par les lois et règlements en vigueur (art. R643-2)](#396)
+        - [Chapitre IV : Des contraventions de la 4e classe contre la nation, l'Etat ou la paix publique (art. R644-1 à R644-3)](#397)
+          - [Section 1 : De l'accès sans autorisation à un terrain, une construction, un engin ou un appareil militaires (art. R644-1)](#398)
+          - [Section 2 : Des entraves à la libre circulation sur la voie publique (art. R644-2)](#399)
+          - [Section 3 : De la violation des dispositions réglementant les professions exercées dans les lieux publics (art. R644-3)](#400)
+        - [Chapitre V : Des contraventions de la 5e classe contre la nation, l'Etat ou la paix publique (art. R645-1 à R645-15)](#401)
+          - [Section 1 : Du port ou de l'exhibition d'uniformes, insignes ou emblèmes rappelant ceux d'organisations ou de personnes responsables de crimes contre l'humanité (art. R645-1)](#402)
+          - [Section 2 : Des dessins, levés ou enregistrements effectués sans autorisation dans une zone d'interdiction fixée par l'autorité militaire (art. R645-2)](#403)
+          - [Section 3 : Des atteintes à l'état civil des personnes (art. R645-3 à R645-6)](#404)
+          - [Section 4 : De la soustraction d'une pièce produite en justice (art. R645-7)](#405)
+          - [Section 5 : De l'utilisation d'un document délivré par une administration publique comportant des mentions devenues incomplètes ou inexactes (art. R645-8)](#406)
+          - [Section 5 bis : De l'usurpation de fonction ou de titre de délégué ou de médiateur du procureur de la République (art. R645-8-1)](#407)
+          - [Section 6 : Du refus de restitution de signes monétaires contrefaits ou falsifiés (art. R645-9)](#408)
+          - [Section 7 : De l'altération ou de la contrefaçon des timbres-poste ou des timbres émis par l'administration des finances (art. R645-10 à R645-11)](#409)
+          - [Section 8 : De l'intrusion dans les établissements scolaires (art. R645-12)](#410)
+          - [Section 9 : De l'intrusion dans les lieux historiques ou culturels (art. R645-13)](#411)
+          - [Section 10 : De la dissimulation illicite du visage à l'occasion de manifestations sur la voie publique (art. R645-14)](#412)
+          - [Section 11 : De l'outrage au drapeau tricolore (art. R645-15)](#413)
+      - [Titre V : Des autres contraventions (art. R653-1 à R655-1)](#414)
+        - [Chapitre III : Des contraventions de la 3e classe (art. R653-1)](#415)
+          - [Section unique : Des atteintes involontaires à la vie ou à l'intégrité d'un animal (art. R653-1)](#416)
+        - [Chapitre IV : Des contraventions de la 4e classe (art. R654-1)](#417)
+          - [Section unique : Des mauvais traitements envers un animal (art. R654-1)](#418)
+        - [Chapitre V : Des contraventions de la 5e classe (art. R655-1)](#419)
+          - [Section unique : Des atteintes volontaires à la vie d'un animal (art. R655-1)](#420)
+    - [Livre VII : Dispositions applicables dans les territoires d'outre-mer, en Nouvelle-Calédonie et à Mayotte. (art. R711-1 à R722-7)](#421)
+      - [Titre Ier : Dispositions applicables dans les territoires d'outre-mer et en Nouvelle-Calédonie (art. R711-1 à R716-1)](#422)
+        - [Chapitre Ier : Dispositions générales (art. R711-1 à R711-3)](#423)
+        - [Chapitre II : Adaptation du livre Ier (art. R712-1 à R712-8)](#424)
+        - [Chapitre VI : Adaptation du livre V (art. R716-1)](#425)
+      - [Titre II : Dispositions applicables à Mayotte. (art. R721-1 à R722-7)](#426)
+        - [Chapitre Ier : Dispositions générales (art. R721-1 à R721-2)](#427)
+        - [Chapitre II : Adaptation du livre Ier (art. R722-1 à R722-7)](#428)
 # Partie législative<a id=1></a>
 
 ## Livre Ier : Dispositions générales<a id=2></a>
@@ -10804,27 +10822,66 @@ _Cite_:
   - Code pénal - art. 132-23 (V)
 
 
+###### Article 211-2
+
+La provocation publique et directe, par tous moyens, à commettre un génocide est punie de la réclusion criminelle à
+perpétuité si cette provocation a été suivie d'effet. 
+
+Si la provocation n'a pas été suivie d'effet, les faits sont punis de sept ans d'emprisonnement et de 100 000 € d'amende.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2010-930 du 9 août 2010 - art. 1
+
+
 ##### Chapitre II : Des autres crimes contre l'humanité<a id=66></a>
 
 ###### Article 212-1
 
-La déportation, la réduction en esclavage ou la pratique massive et systématique d'exécutions sommaires, d'enlèvements de
-personnes suivis de leur disparition, de la torture ou d'actes inhumains, inspirées par des motifs politiques,
-philosophiques, raciaux ou religieux et organisées en exécution d'un plan concerté à l'encontre d'un groupe de population
-civile sont punies de la réclusion criminelle à perpétuité.
+Constitue également un crime contre l'humanité et est puni de la réclusion criminelle à perpétuité l'un des actes ci-après
+commis en exécution d'un plan concerté à l'encontre d'un groupe de population civile dans le cadre d'une attaque généralisée
+ou systématique : 
+
+1° L'atteinte volontaire à la vie ; 
+
+2° L'extermination ; 
+
+3° La réduction en esclavage ; 
+
+4° La déportation ou le transfert forcé de population ; 
+
+5° L'emprisonnement ou toute autre forme de privation grave de liberté physique en violation des dispositions fondamentales
+du droit international ; 
+
+6° La torture ; 
+
+7° Le viol, la prostitution forcée, la grossesse forcée, la stérilisation forcée ou toute autre forme de violence sexuelle de
+gravité comparable ; 
+
+8° La persécution de tout groupe ou de toute collectivité identifiable pour des motifs d'ordre politique, racial, national,
+ethnique, culturel, religieux ou sexiste ou en fonction d'autres critères universellement reconnus comme inadmissibles en
+droit international ; 
+
+9° L'arrestation, la détention ou l'enlèvement de personnes, suivis de leur disparition et accompagnés du déni de la
+reconnaissance de la privation de liberté ou de la dissimulation du sort qui leur est réservé ou de l'endroit où elles se
+trouvent dans l'intention de les soustraire à la protection de la loi pendant une période prolongée ; 
+
+10° Les actes de ségrégation commis dans le cadre d'un régime institutionnalisé d'oppression systématique et de domination
+d'un groupe racial sur tout autre groupe racial ou tous autres groupes raciaux et dans l'intention de maintenir ce régime ; 
+
+11° Les autres actes inhumains de caractère analogue causant intentionnellement de grandes souffrances ou des atteintes
+graves à l'intégrité physique ou psychique. 
 
 Les deux premiers alinéas de l'article 132-23 relatif à la période de sûreté sont applicables aux crimes prévus par le
 présent article.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
-
-  - Loi n°92-684 1992-07-22
-
 _Modifié par_:
 
-  - Loi n°2004-800 du 6 août 2004 - art. 28 () JORF 7 août 2004
+  - Loi n°2010-930 du 9 août 2010 - art. 2
 
 _Cité par_:
 
@@ -10834,7 +10891,7 @@ _Cité par_:
 
 _Cite_:
 
-  - Code pénal - art. 132-23 (M)
+  - Code pénal - art. 132-23
 
 
 ###### Article 212-2
@@ -10900,11 +10957,15 @@ _Cite_:
 Les personnes physiques coupables des infractions prévues par le présent sous-titre encourent également les peines
 suivantes : 
 
-1° L'interdiction des droits civiques, civils et de famille, selon les modalités prévues par l'article 131-26 ; 
+1° L'interdiction des droits civiques, civils et de famille, selon les modalités prévues par l'article 131-26. Toutefois, le
+maximum de l'interdiction est porté à quinze ans ; 
 
-2° L'interdiction d'exercer une fonction publique, selon les modalités prévues par l'article 131-27 ; 
+2° L'interdiction, suivant les modalités prévues par l'article 131-27, d'exercer une fonction publique ou d'exercer
+l'activité professionnelle ou sociale dans l'exercice ou à l'occasion de l'exercice de laquelle l'infraction a été commise.
+Toutefois, le maximum de l'interdiction temporaire est porté à dix ans ; 
 
-3° L'interdiction de séjour, selon les modalités prévues par l'article 131-31 ; 
+3° L'interdiction de séjour, selon les modalités prévues par l'article 131-31. Toutefois, le maximum de l'interdiction est
+porté à quinze ans ; 
 
 4° La confiscation de tout ou partie de leurs biens ; 
 
@@ -10918,7 +10979,7 @@ industrielle ou une société commerciale. Ces interdictions d'exercice peuvent 
 
 _Modifié par_:
 
-  - Loi n°2008-776 du 4 août 2008 - art. 70
+  - Loi n°2010-930 du 9 août 2010 - art. 9
 
 _Cite_:
 
@@ -10986,6 +11047,34 @@ _Codifié par_:
 _Modifié par_:
 
   - Loi n°2004-800 du 6 août 2004 - art. 28 () JORF 7 août 2004
+
+
+###### Article 213-4-1
+
+Sans préjudice de l'application des dispositions de l'article 121-7, est considéré comme complice d'un crime visé par le
+présent sous-titre commis par des subordonnés placés sous son autorité et son contrôle effectifs le chef militaire ou la
+personne qui en faisait fonction, qui savait ou, en raison des circonstances, aurait dû savoir que ces subordonnés
+commettaient ou allaient commettre ce crime et qui n'a pas pris toutes les mesures nécessaires et raisonnables qui étaient en
+son pouvoir pour en empêcher ou en réprimer l'exécution ou pour en référer aux autorités compétentes aux fins d'enquête et de
+poursuites. 
+
+Sans préjudice de l'application des dispositions de l'article 121-7, est également considéré comme complice d'un crime visé
+par le présent sous-titre commis par des subordonnés placés sous son autorité et son contrôle effectifs le supérieur
+hiérarchique, n'exerçant pas la fonction de chef militaire, qui savait que ces subordonnés commettaient ou allaient commettre
+ce crime ou a délibérément négligé de tenir compte d'informations qui l'indiquaient clairement et qui n'a pas pris toutes les
+mesures nécessaires et raisonnables qui étaient en son pouvoir pour en empêcher ou en réprimer l'exécution ou pour en référer
+aux autorités compétentes aux fins d'enquête et de poursuites, alors que ce crime était lié à des activités relevant de sa
+responsabilité ou de son contrôle effectifs.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2010-930 du 9 août 2010 - art. 3
+
+_Cite_:
+
+  - Code pénal - art. 121-7
 
 
 ###### Article 213-5
@@ -12023,12 +12112,13 @@ physique ou psychique ou à un état de grossesse, est apparente ou connue de so
 
 3° Sur un ascendant légitime ou naturel ou sur les père ou mère adoptifs ; 
 
-4° Sur un magistrat, un juré, un avocat, un officier public ou ministériel, un militaire de la gendarmerie nationale, un
-fonctionnaire de la police nationale, des douanes, de l'administration pénitentiaire ou toute autre personne dépositaire de
-l'autorité publique, un sapeur-pompier professionnel ou volontaire, un gardien assermenté d'immeubles ou de groupes
-d'immeubles ou un agent exerçant pour le compte d'un bailleur des fonctions de gardiennage ou de surveillance des immeubles à
-usage d'habitation en application de l'article L. 127-1 du code de la construction et de l'habitation, dans l'exercice ou du
-fait de ses fonctions, lorsque la qualité de la victime est apparente ou connue de l'auteur ; 
+4° Sur un magistrat, un juré, un avocat, un officier public ou ministériel, un membre ou un agent de la Cour pénale
+internationale, un militaire de la gendarmerie nationale, un fonctionnaire de la police nationale, des douanes, de
+l'administration pénitentiaire ou toute autre personne dépositaire de l'autorité publique, un sapeur-pompier professionnel ou
+volontaire, un gardien assermenté d'immeubles ou de groupes d'immeubles ou un agent exerçant pour le compte d'un bailleur des
+fonctions de gardiennage ou de surveillance des immeubles à usage d'habitation en application de l'article L. 127-1 du code
+de la construction et de l'habitation, dans l'exercice ou du fait de ses fonctions, lorsque la qualité de la victime est
+apparente ou connue de l'auteur ; 
 
 4° bis Sur un enseignant ou tout membre des personnels travaillant dans les établissements d'enseignement scolaire, sur un
 agent d'un exploitant de réseau de transport public de voyageurs ou toute personne chargée d'une mission de service public,
@@ -12039,7 +12129,8 @@ apparente ou connue de l'auteur ;
 au domicile des personnes mentionnées aux 4° et 4° bis, en raison des fonctions exercées par ces dernières ; 
 
 5° Sur un témoin, une victime ou une partie civile, soit pour l'empêcher de dénoncer les faits, de porter plainte ou de
-déposer en justice, soit en raison de sa dénonciation, de sa plainte ou de sa déposition ; 
+déposer en justice, soit en raison de sa dénonciation ou de sa plainte, soit à cause de sa déposition devant une juridiction
+nationale ou devant la Cour pénale internationale ;  
 
 5° bis A raison de l'appartenance ou de la non-appartenance, vraie ou supposée, de la victime à une ethnie, une nation, une
 race ou une religion déterminée ; 
@@ -12074,7 +12165,8 @@ présent article.
 
 _Modifié par_:
 
-  - Loi n°2010-769 du 9 juillet 2010 - art. 33
+  - Loi n°2003-239 du 18 mars 2003 - art. 60
+  - Loi n°2010-930 du 9 août 2010 - art. 4
 
 _Cité par_:
 
@@ -12086,6 +12178,7 @@ _Cité par_:
 
 _Cite_:
 
+  - Code pénal - art. 132-23
   - Code pénal - art. 222-1
   - Code de la construction et de l'habitation. - art. L127-1
 
@@ -12281,12 +12374,13 @@ physique ou psychique ou à un état de grossesse, est apparente ou connue de so
 
 3° Sur un ascendant légitime ou naturel ou sur les père ou mère adoptifs ; 
 
-4° Sur un magistrat, un juré, un avocat, un officier public ou ministériel, un militaire de la gendarmerie nationale, un
-fonctionnaire de la police nationale, des douanes, de l'administration pénitentiaire ou toute autre personne dépositaire de
-l'autorité publique, un sapeur-pompier professionnel ou volontaire, un gardien assermenté d'immeubles ou de groupes
-d'immeubles ou un agent exerçant pour le compte d'un bailleur des fonctions de gardiennage ou de surveillance des immeubles à
-usage d'habitation en application de l'article L. 127-1 du code de la construction et de l'habitation, dans l'exercice ou du
-fait de ses fonctions, lorsque la qualité de la victime est apparente ou connue de l'auteur ; 
+4° Sur un magistrat, un juré, un avocat, un officier public ou ministériel, un membre ou un agent de la Cour pénale
+internationale, un militaire de la gendarmerie nationale, un fonctionnaire de la police nationale, des douanes, de
+l'administration pénitentiaire ou toute autre personne dépositaire de l'autorité publique, un sapeur-pompier professionnel ou
+volontaire, un gardien assermenté d'immeubles ou de groupes d'immeubles ou un agent exerçant pour le compte d'un bailleur des
+fonctions de gardiennage ou de surveillance des immeubles à usage d'habitation en application de l'article L. 127-1 du code
+de la construction et de l'habitation, dans l'exercice ou du fait de ses fonctions, lorsque la qualité de la victime est
+apparente ou connue de l'auteur ; 
 
 4° bis Sur un enseignant ou tout membre des personnels travaillant dans les établissements d'enseignement scolaire, sur un
 agent d'un exploitant de réseau de transport public de voyageurs ou toute personne chargée d'une mission de service public,
@@ -12297,7 +12391,8 @@ apparente ou connue de l'auteur ;
 au domicile des personnes mentionnées aux 4° et 4° bis, en raison des fonctions exercées par ces dernières ; 
 
 5° Sur un témoin, une victime ou une partie civile, soit pour l'empêcher de dénoncer les faits, de porter plainte ou de
-déposer en justice, soit en raison de sa dénonciation, de sa plainte ou de sa déposition ; 
+déposer en justice, soit en raison de sa dénonciation ou de sa plainte, soit à cause de sa déposition devant une juridiction
+nationale ou devant la Cour pénale internationale ; 
 
 5° bis A raison de l'appartenance ou de la non-appartenance, vraie ou supposée, de la victime à une ethnie, une nation, une
 race ou une religion déterminée ; 
@@ -12307,7 +12402,7 @@ race ou une religion déterminée ;
 6° Par le conjoint ou le concubin de la victime ou le partenaire lié à la victime par un pacte civil de solidarité ; 
 
 6° bis Contre une personne afin de la contraindre à contracter un mariage ou à conclure une union ou en raison de son refus
-de contracter ce mariage ou cette union ;
+de contracter ce mariage ou cette union ; 
 
 7° Par une personne dépositaire de l'autorité publique ou chargée d'une mission de service public dans l'exercice ou à
 l'occasion de l'exercice de ses fonctions ou de sa mission ; 
@@ -12351,7 +12446,8 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2010-769 du 9 juillet 2010 - art. 33
+  - Loi n°2003-239 du 18 mars 2003 - art. 60
+  - Loi n°2010-930 du 9 août 2010 - art. 4
 
 _Cite_:
 
@@ -12413,12 +12509,13 @@ physique ou psychique ou à un état de grossesse, est apparente ou connue de so
 
 3° Sur un ascendant légitime ou naturel ou sur les père ou mère adoptifs ; 
 
-4° Sur un magistrat, un juré, un avocat, un officier public ou ministériel, un militaire de la gendarmerie nationale, un
-fonctionnaire de la police nationale, des douanes, de l'administration pénitentiaire ou toute autre personne dépositaire de
-l'autorité publique, un sapeur-pompier professionnel ou volontaire, un gardien assermenté d'immeubles ou de groupes
-d'immeubles ou un agent exerçant pour le compte d'un bailleur des fonctions de gardiennage ou de surveillance des immeubles à
-usage d'habitation en application de l'article L. 127-1 du code de la construction et de l'habitation, dans l'exercice ou du
-fait de ses fonctions, lorsque la qualité de la victime est apparente ou connue de l'auteur ; 
+4° Sur un magistrat, un juré, un avocat, un officier public ou ministériel, un membre ou un agent de la Cour pénale
+internationale, un militaire de la gendarmerie nationale, un fonctionnaire de la police nationale, des douanes, de
+l'administration pénitentiaire ou toute autre personne dépositaire de l'autorité publique, un sapeur-pompier professionnel ou
+volontaire, un gardien assermenté d'immeubles ou de groupes d'immeubles ou un agent exerçant pour le compte d'un bailleur des
+fonctions de gardiennage ou de surveillance des immeubles à usage d'habitation en application de l'article L. 127-1 du code
+de la construction et de l'habitation, dans l'exercice ou du fait de ses fonctions, lorsque la qualité de la victime est
+apparente ou connue de l'auteur ; 
 
 4° bis Sur un enseignant ou tout membre des personnels travaillant dans les établissements d'enseignement scolaire, sur un
 agent d'un exploitant de réseau de transport public de voyageurs ou toute personne chargée d'une mission de service public,
@@ -12429,7 +12526,8 @@ apparente ou connue de l'auteur ;
 au domicile des personnes mentionnées aux 4° et 4° bis, en raison des fonctions exercées par ces dernières ; 
 
 5° Sur un témoin, une victime ou une partie civile, soit pour l'empêcher de dénoncer les faits, de porter plainte ou de
-déposer en justice, soit en raison de sa dénonciation, de sa plainte ou de sa déposition ; 
+déposer en justice, soit en raison de sa dénonciation ou de sa plainte, soit à cause de sa déposition devant une juridiction
+nationale ou devant la Cour pénale internationale ;  
 
 5° bis A raison de l'appartenance ou de la non-appartenance, vraie ou supposée, de la victime à une ethnie, une nation, une
 race ou une religion déterminée ; 
@@ -12439,7 +12537,7 @@ race ou une religion déterminée ;
 6° Par le conjoint ou le concubin de la victime ou le partenaire lié à la victime par un pacte civil de solidarité ; 
 
 6° bis Contre une personne afin de la contraindre à contracter un mariage ou à conclure une union ou en raison de son refus
-de contracter ce mariage ou cette union ;
+de contracter ce mariage ou cette union ; 
 
 7° Par une personne dépositaire de l'autorité publique ou chargée d'une mission de service public dans l'exercice ou à
 l'occasion de l'exercice de ses fonctions ou de sa mission ; 
@@ -12485,7 +12583,8 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2010-769 du 9 juillet 2010 - art. 33
+  - Loi n°2003-239 du 18 mars 2003 - art. 60
+  - Loi n°2010-930 du 9 août 2010 - art. 4
 
 _Cite_:
 
@@ -12537,12 +12636,13 @@ physique ou psychique ou à un état de grossesse, est apparente ou connue de so
 
 3° Sur un ascendant légitime ou naturel ou sur les père ou mère adoptifs ; 
 
-4° Sur un magistrat, un juré, un avocat, un officier public ou ministériel, un militaire de la gendarmerie nationale, un
-fonctionnaire de la police nationale, des douanes, de l'administration pénitentiaire ou toute autre personne dépositaire de
-l'autorité publique, un sapeur-pompier professionnel ou volontaire, un gardien assermenté d'immeubles ou de groupes
-d'immeubles ou un agent exerçant pour le compte d'un bailleur des fonctions de gardiennage ou de surveillance des immeubles à
-usage d'habitation en application de l'article L. 127-1 du code de la construction et de l'habitation, dans l'exercice ou du
-fait de ses fonctions, lorsque la qualité de la victime est apparente ou connue de l'auteur ; 
+4° Sur un magistrat, un juré, un avocat, un officier public ou ministériel, un membre ou un agent de la Cour pénale
+internationale, un militaire de la gendarmerie nationale, un fonctionnaire de la police nationale, des douanes, de
+l'administration pénitentiaire ou toute autre personne dépositaire de l'autorité publique, un sapeur-pompier professionnel ou
+volontaire, un gardien assermenté d'immeubles ou de groupes d'immeubles ou un agent exerçant pour le compte d'un bailleur des
+fonctions de gardiennage ou de surveillance des immeubles à usage d'habitation en application de l'article L. 127-1 du code
+de la construction et de l'habitation, dans l'exercice ou du fait de ses fonctions, lorsque la qualité de la victime est
+apparente ou connue de l'auteur ; 
 
 4° bis Sur un enseignant ou tout membre des personnels travaillant dans les établissements d'enseignement scolaire, sur un
 agent d'un exploitant de réseau de transport public de voyageurs ou toute personne chargée d'une mission de service public,
@@ -12553,7 +12653,8 @@ apparente ou connue de l'auteur ;
 au domicile des personnes mentionnées aux 4° et 4° bis, en raison des fonctions exercées par ces dernières ; 
 
 5° Sur un témoin, une victime ou une partie civile, soit pour l'empêcher de dénoncer les faits, de porter plainte ou de
-déposer en justice, soit en raison de sa dénonciation, de sa plainte ou de sa déposition ; 
+déposer en justice, soit en raison de sa dénonciation ou de sa plainte, soit à cause de sa déposition devant une juridiction
+nationale ou devant la Cour pénale internationale ;  
 
 5° bis A raison de l'appartenance ou de la non-appartenance, vraie ou supposée, de la victime à une ethnie, une nation, une
 race ou une religion déterminée ; 
@@ -12623,7 +12724,9 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2010-769 du 9 juillet 2010 - art. 33
+  - Loi n°2003-239 du 18 mars 2003 - art. 60
+  - Loi n°2003-239 du 18 mars 2003 - art. 78
+  - Loi n°2010-930 du 9 août 2010 - art. 4
 
 _Cite_:
 
@@ -12644,12 +12747,13 @@ physique ou psychique ou à un état de grossesse, est apparente ou connue de le
 
 3° Sur un ascendant légitime ou naturel ou sur les père ou mère adoptifs ; 
 
-4° Sur un magistrat, un juré, un avocat, un officier public ou ministériel, un militaire de la gendarmerie nationale, un
-fonctionnaire de la police nationale, des douanes, de l'administration pénitentiaire ou toute autre personne dépositaire de
-l'autorité publique, un sapeur-pompier professionnel ou volontaire, un gardien assermenté d'immeubles ou de groupes
-d'immeubles ou un agent exerçant pour le compte d'un bailleur des fonctions de gardiennage ou de surveillance des immeubles à
-usage d'habitation en application de l'article L. 127-1 du code de la construction et de l'habitation, dans l'exercice ou du
-fait de ses fonctions, lorsque la qualité de la victime est apparente ou connue de l'auteur ; 
+4° Sur un magistrat, un juré, un avocat, un officier public ou ministériel, un membre ou un agent de la Cour pénale
+internationale, un militaire de la gendarmerie nationale, un fonctionnaire de la police nationale, des douanes, de
+l'administration pénitentiaire ou toute autre personne dépositaire de l'autorité publique, un sapeur-pompier professionnel ou
+volontaire, un gardien assermenté d'immeubles ou de groupes d'immeubles ou un agent exerçant pour le compte d'un bailleur des
+fonctions de gardiennage ou de surveillance des immeubles à usage d'habitation en application de l'article L. 127-1 du code
+de la construction et de l'habitation, dans l'exercice ou du fait de ses fonctions, lorsque la qualité de la victime est
+apparente ou connue de l'auteur ; 
 
 4° bis Sur un enseignant ou tout membre des personnels travaillant dans les établissements d'enseignement scolaire, sur un
 agent d'un exploitant de réseau de transport public de voyageurs ou toute personne chargée d'une mission de service public,
@@ -12660,7 +12764,8 @@ apparente ou connue de l'auteur ;
 au domicile des personnes mentionnées aux 4° et 4° bis, en raison des fonctions exercées par ces dernières ; 
 
 5° Sur un témoin, une victime ou une partie civile, soit pour l'empêcher de dénoncer les faits, de porter plainte ou de
-déposer en justice, soit en raison de sa dénonciation, de sa plainte ou de sa déposition ; 
+déposer en justice, soit en raison de sa dénonciation ou de sa plainte, soit à cause de sa déposition devant une juridiction
+nationale ou devant la Cour pénale internationale ; 
 
 5° bis A raison de l'appartenance ou de la non-appartenance, vraie ou supposée, de la victime à une ethnie, une nation, une
 race ou une religion déterminée ; 
@@ -12721,7 +12826,9 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2010-769 du 9 juillet 2010 - art. 33
+  - Loi n°2003-239 du 18 mars 2003 - art. 60
+  - Loi n°2003-239 du 18 mars 2003 - art. 78
+  - Loi n°2010-930 du 9 août 2010 - art. 4
 
 _Cite_:
 
@@ -29733,6 +29840,21 @@ _Cite_:
   - Code de procédure pénale - art. 74-1 (V)
 
 
+###### Article 434-4-2
+
+L'article 434-4 est applicable aux atteintes à l'administration de la justice par la Cour pénale internationale.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2010-930 du 9 août 2010 - art. 5
+
+_Cite_:
+
+  - Code pénal - art. 434-4
+
+
 ###### Article 434-5
 
 Toute menace ou tout autre acte d'intimidation à l'égard de quiconque, commis en vue de déterminer la victime d'un crime ou
@@ -30485,6 +30607,23 @@ _Modifié par_:
 _Cite_:
 
   - Code pénal - art. 132-2 (V)
+
+
+###### Article 434-23-1
+
+Les articles 434-8, 434-9, 434-13 à 434-15 sont applicables aux atteintes à l'administration de la justice par la Cour pénale
+internationale.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2010-930 du 9 août 2010 - art. 6
+
+_Cite_:
+
+  - Code pénal - art. 434-13
+  - Code pénal - art. 434-8
 
 
 ##### Section 3 : Des atteintes à l'autorité de la justice<a id=227></a>
@@ -33640,13 +33779,751 @@ _Cite_:
   - Code pénal - art. 450-1 (M)
 
 
-## Livre V : Des autres crimes et délits<a id=253></a>
+## Livre IV bis : Des crimes et des délits de guerre<a id=253></a>
 
-### Titre Ier : Des infractions en matière de santé publique<a id=254></a>
+### Chapitre Ier : Des différents crimes et délits de guerre<a id=254></a>
 
-#### Chapitre Ier : Des infractions en matière d'éthique biomédicale<a id=255></a>
+#### Section 1 : De la définition des crimes et délits de guerre<a id=255></a>
 
-##### Section 1 : De la protection de l'espèce humaine<a id=256></a>
+###### Article 461-1
+
+Constituent des crimes ou des délits de guerre les infractions définies par le présent livre commises, lors d'un conflit armé
+international ou non international et en relation avec ce conflit, en violation des lois et coutumes de la guerre ou des
+conventions internationales applicables aux conflits armés, à l'encontre des personnes ou des biens visés aux articles 461-2
+à 461-31.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2010-930 du 9 août 2010 - art. 7
+
+_Cité par_:
+
+  - Décret n°2013-987 du 5 novembre 2013 - art. 2 (V)
+  - Code de justice militaire. - art. L311-1 (V)
+  - Code de procédure pénale - art. 706-55 (V)
+
+_Cite_:
+
+  - Code pénal - art. 461-2
+
+
+#### Section 2 : Des crimes et délits de guerre communs aux conflits armés internationaux et non internationaux<a id=256></a>
+
+##### Sous-section 1 : Des atteintes à la personne humaine perpétrées lors d'un conflit armé international ou non international<a id=257></a>
+
+##### Paragraphe 1 : Des atteintes à la vie et à l'intégrité physique ou psychique<a id=258></a>
+
+###### Article 461-2
+
+Sont passibles des aggravations de peines prévues à l'article 462-1 les atteintes volontaires à la vie, les atteintes
+volontaires à l'intégrité physique ou psychique de la personne ainsi que l'enlèvement et la séquestration, définis par le
+livre II du présent code et commis à l'encontre d'une personne protégée par le droit international des conflits armés en
+vertu des lois et coutumes de guerre et du droit international humanitaire.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2010-930 du 9 août 2010 - art. 7
+
+_Cité par_:
+
+  - Code pénal - art. 461-1 (V)
+  - Code pénal - art. 462-1 (V)
+
+
+###### Article 461-3
+
+Le fait de soumettre des personnes d'une partie adverse à des mutilations ou à des expériences médicales ou scientifiques qui
+ne sont ni justifiées par des raisons thérapeutiques, ni pratiquées dans l'intérêt de ces personnes et qui entraînent leur
+mort ou portent gravement atteinte à leur santé ou à leur intégrité physique ou psychique est puni de la réclusion criminelle
+à perpétuité.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2010-930 du 9 août 2010 - art. 7
+
+
+###### Article 461-4
+
+Le fait de forcer une personne protégée par le droit international des conflits armés à se prostituer, de la contraindre à
+une grossesse non désirée, de la stériliser contre sa volonté ou d'exercer à son encontre toute autre forme de violence
+sexuelle de gravité comparable est puni de la réclusion criminelle à perpétuité.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2010-930 du 9 août 2010 - art. 7
+
+
+###### Article 461-5
+
+Le fait de se livrer à des traitements humiliants et dégradants sur des personnes de la partie adverse et qui portent
+gravement atteinte à leur intégrité physique ou psychique est puni de quinze ans de réclusion criminelle.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2010-930 du 9 août 2010 - art. 7
+
+
+##### Paragraphe 2 :  Des atteintes à la liberté individuelle<a id=259></a>
+
+###### Article 461-6
+
+Sont passibles des aggravations de peines prévues à l'article 462-1 les atteintes à la liberté individuelle définies à
+l'article 432-4 et commises à l'encontre d'une personne protégée par le droit international des conflits armés, en dehors des
+cas admis par les conventions internationales.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2010-930 du 9 août 2010 - art. 7
+
+_Cite_:
+
+  - Code pénal - art. 432-4
+
+_Cité par_:
+
+  - Code pénal - art. 462-1 (V)
+
+
+##### Paragraphe 3 : Des atteintes aux droits des mineurs
+dans les conflits armés<a id=260></a>
+
+###### Article 461-7
+
+Le fait de procéder à la conscription ou à l'enrôlement de mineurs de dix-huit ans dans les forces armées ou dans des groupes
+armés, ou de les faire participer activement à des hostilités est puni de vingt ans de réclusion criminelle. Ces dispositions
+ne font pas obstacle à l'enrôlement volontaire des mineurs de plus de quinze ans.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2010-930 du 9 août 2010 - art. 7
+
+
+##### Sous-section 2 : Des crimes et délits de guerre liés à la conduite des hostilités<a id=261></a>
+
+##### Paragraphe 1 : Des moyens et des méthodes de combat prohibés<a id=262></a>
+
+###### Article 461-8
+
+Le fait d'ordonner qu'il n'y ait pas de survivants ou d'en menacer l'adversaire est puni de la réclusion criminelle à
+perpétuité.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2010-930 du 9 août 2010 - art. 7
+
+
+###### Article 461-9
+
+Le fait de lancer des attaques délibérées contre la population civile en tant que telle ou contre des personnes civiles qui
+ne prennent pas part directement aux hostilités est puni de la réclusion criminelle à perpétuité.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2010-930 du 9 août 2010 - art. 7
+
+
+###### Article 461-10
+
+Le fait de causer des blessures ayant porté gravement atteinte à son intégrité physique à un combattant de la partie adverse
+qui, ayant déposé les armes ou n'ayant plus de moyens de se défendre, s'est rendu est puni de vingt ans de réclusion
+criminelle.
+
+La peine est portée à trente ans de réclusion criminelle si les blessures ont entraîné une mutilation ou une infirmité
+permanente ou la mort de la victime sans intention de la donner.
+
+Le fait de lui donner volontairement la mort dans les circonstances définies au premier alinéa est puni de la réclusion
+criminelle à perpétuité.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2010-930 du 9 août 2010 - art. 7
+
+
+###### Article 461-11
+
+Le fait de causer, par traîtrise, à un individu appartenant à la Nation ou à l'armée adverse ou à un combattant de la partie
+adverse des blessures ayant porté gravement atteinte à son intégrité physique est puni de vingt ans de réclusion criminelle.
+
+La peine est portée à trente ans de réclusion criminelle si les blessures ont entraîné une mutilation ou une infirmité
+permanente ou la mort de la victime sans intention de la donner.
+
+Le fait de lui donner volontairement la mort dans les circonstances définies au premier alinéa est puni de la réclusion
+criminelle à perpétuité.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2010-930 du 9 août 2010 - art. 7
+
+
+###### Article 461-12
+
+Est puni de vingt ans de réclusion criminelle le fait :
+
+1° De lancer des attaques délibérées contre le personnel, les bâtiments, le matériel, les unités et les moyens de transport
+sanitaires portant, conformément au droit international, les signes distinctifs prévus par les conventions de Genève du 12
+août 1949 ou leurs protocoles additionnels ;
+
+2° De lancer des attaques délibérées contre le personnel, les installations, le matériel, les unités ou les véhicules
+employés dans le cadre d'une mission d'aide humanitaire ou de maintien de la paix conformément à la Charte des Nations unies,
+pour autant qu'ils aient droit à la protection que le droit international des conflits armés garantit aux civils et aux biens
+de caractère civil.
+
+Lorsque les infractions décrites aux 1° et 2° ont causé aux personnels susmentionnés des blessures ayant entraîné une
+mutilation ou une infirmité permanente, la peine est portée à trente ans de réclusion criminelle.
+
+Lorsque ces mêmes infractions ont eu pour conséquence la mort des personnels considérés, la peine est portée à la réclusion
+criminelle à perpétuité.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2010-930 du 9 août 2010 - art. 7
+
+
+###### Article 461-13
+
+Le fait de lancer des attaques délibérées contre des bâtiments consacrés à la religion, à l'enseignement, à l'art, à la
+science ou à l'action caritative, des monuments historiques, des hôpitaux et des lieux où des malades ou des blessés sont
+rassemblés, pour autant que ces bâtiments ne soient pas alors utilisés à des fins militaires, est puni de vingt ans de
+réclusion criminelle.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2010-930 du 9 août 2010 - art. 7
+
+
+###### Article 461-14
+
+Le fait de lancer des attaques délibérées contre des biens de caractère civil qui ne sont pas des objectifs militaires est
+puni de quinze ans de réclusion criminelle.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2010-930 du 9 août 2010 - art. 7
+
+
+##### Paragraphe 2 : Des atteintes aux biens dans les conflits armés<a id=263></a>
+
+###### Article 461-15
+
+Le fait de se livrer, avec des armes ou à force ouverte, au pillage d'une ville ou d'une localité, même prise d'assaut, est
+puni de quinze ans de réclusion criminelle.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2010-930 du 9 août 2010 - art. 7
+
+
+###### Article 461-16
+
+A moins qu'elles ne soient justifiées par des nécessités militaires, constituent également des crimes ou des délits de guerre
+et sont passibles des aggravations de peines prévues à l'article 462-1 les infractions suivantes commises à l'encontre d'une
+personne protégée par le droit international des conflits armés : 
+
+1° Les vols, les extorsions ainsi que les destructions, dégradations et détériorations de biens définis par le livre III du
+présent code ; 
+
+2° Le recel du produit de l'une des infractions prévues au 1° du présent article.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2010-930 du 9 août 2010 - art. 7
+
+_Cité par_:
+
+  - Code pénal - art. 461-17 (V)
+  - Code pénal - art. 462-1 (V)
+
+
+###### Article 461-17
+
+La tentative des délits prévus au 1° de l'article 461-16 est passible des mêmes causes d'aggravation des peines.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2010-930 du 9 août 2010 - art. 7
+
+_Cite_:
+
+  - Code pénal - art. 461-16
+
+
+##### Sous-section 3 : Des groupements formés ou des ententes établies en vue de préparer des crimes ou des délits de guerre<a id=264></a>
+
+###### Article 461-18
+
+Le fait de participer à un groupement formé ou à une entente établie en vue de la préparation, caractérisée par un ou
+plusieurs faits matériels, de l'un des crimes ou des délits de guerre définis au présent chapitre est puni de dix ans
+d'emprisonnement et de 225 000 € d'amende.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2010-930 du 9 août 2010 - art. 7
+
+
+#### Section 3 : Des crimes et délits de guerre propres aux conflits armés internationaux<a id=265></a>
+
+##### Sous-section 1 : Des atteintes à la liberté et aux droits des personnes dans les conflits armés internationaux<a id=266></a>
+
+###### Article 461-19
+
+Le fait d'employer une personne protégée par le droit international des conflits armés pour éviter que certains points, zones
+ou forces militaires ne soient la cible d'opérations militaires est puni de vingt ans de réclusion criminelle.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2010-930 du 9 août 2010 - art. 7
+
+
+###### Article 461-20
+
+Est puni de vingt ans de réclusion criminelle le fait, pour le compte d'une puissance belligérante :
+
+1° De contraindre une personne protégée par le droit international des conflits armés à servir dans ses forces armées ;
+
+2° De contraindre les nationaux de la partie adverse à prendre part aux opérations de guerre dirigées contre leur pays, même
+s'ils étaient au service de la puissance belligérante avant le commencement de la guerre.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2010-930 du 9 août 2010 - art. 7
+
+
+###### Article 461-21
+
+Le fait de faire obstacle au droit d'une personne protégée par le droit international des conflits armés d'être jugée
+régulièrement et impartialement, selon les prescriptions des conventions internationales applicables, est puni de vingt ans
+de réclusion criminelle.
+
+Lorsque l'infraction a conduit à l'exécution de la personne qui a fait l'objet de la condamnation prononcée, la peine est
+portée à la réclusion criminelle à perpétuité.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2010-930 du 9 août 2010 - art. 7
+
+
+###### Article 461-22
+
+Le fait de déclarer les droits et actions des nationaux de la partie adverse irrecevables en justice, forclos ou suspendus,
+en raison de la nationalité des requérants, est puni de quinze ans de réclusion criminelle.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2010-930 du 9 août 2010 - art. 7
+
+
+##### Sous-section 2 : Des moyens et méthodes de combat prohibés dans un conflit armé international<a id=267></a>
+
+###### Article 461-23
+
+Est puni de la réclusion criminelle à perpétuité le fait :
+
+1° D'utiliser du poison ou des armes empoisonnées ;
+
+2° D'utiliser des gaz asphyxiants, toxiques ou assimilés et tous liquides, matières ou procédés analogues ;
+
+3° D'utiliser des balles qui se déforment facilement dans le corps humain ;
+
+4° D'employer des armes, des projectiles, des matériels ou des méthodes de combat ayant fait l'objet d'une interdiction
+générale et ayant été inscrits dans une annexe au statut de la Cour pénale internationale acceptée par la France.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2010-930 du 9 août 2010 - art. 7
+
+
+###### Article 461-24
+
+Le fait d'attaquer ou de bombarder, par quelque moyen que ce soit, des villes, villages, habitations ou bâtiments, qui ne
+sont pas défendus et qui ne sont pas des objectifs militaires, est puni de la réclusion criminelle à perpétuité.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2010-930 du 9 août 2010 - art. 7
+
+
+###### Article 461-25
+
+Le fait d'affamer des personnes civiles, comme méthode de guerre, en les privant délibérément de biens indispensables à leur
+survie, y compris en empêchant intentionnellement l'envoi des secours prévus par les conventions de Genève du 12 août 1949 et
+leurs protocoles additionnels, est puni de la réclusion criminelle à perpétuité.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2010-930 du 9 août 2010 - art. 7
+
+
+###### Article 461-26
+
+Le fait de participer soit au transfert, direct ou indirect, par une puissance occupante, d'une partie de sa population
+civile dans le territoire qu'elle occupe, soit à la déportation ou au transfert à l'intérieur ou hors du territoire occupé de
+la totalité ou d'une partie de la population civile de ce territoire, est puni de la réclusion criminelle à perpétuité.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2010-930 du 9 août 2010 - art. 7
+
+
+###### Article 461-27
+
+Le fait de lancer une attaque délibérée en sachant qu'elle causera incidemment des pertes en vies humaines dans la population
+civile ou des blessures parmi cette population, qui seraient manifestement disproportionnées par rapport à l'avantage
+militaire concret et direct attendu de l'ensemble de l'attaque, est puni de la réclusion criminelle à perpétuité.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2010-930 du 9 août 2010 - art. 7
+
+
+###### Article 461-28
+
+Est puni de vingt ans de réclusion criminelle le fait de lancer une attaque délibérée en sachant qu'elle causera
+incidemment :
+
+1° Des dommages aux biens de caractère civil, qui seraient manifestement disproportionnés par rapport à l'avantage militaire
+concret et direct attendu de l'ensemble de l'attaque ;
+
+2° Des dommages étendus, durables et graves à l'environnement naturel, qui seraient manifestement disproportionnés par
+rapport à l'avantage militaire concret et direct attendu de l'ensemble de l'attaque.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2010-930 du 9 août 2010 - art. 7
+
+
+###### Article 461-29
+
+Le fait d'employer indûment le pavillon parlementaire, le drapeau ou les insignes militaires et l'uniforme de l'ennemi ou de
+l'Organisation des Nations unies, ainsi que les signes distinctifs prévus par les conventions de Genève du 12 août 1949 et
+leurs protocoles additionnels et, ce faisant, de causer à un combattant de la partie adverse des blessures ayant porté
+gravement atteinte à son intégrité physique, est puni de vingt ans de réclusion criminelle.
+
+Lorsque l'infraction définie au premier alinéa a eu pour effet de causer audit combattant des blessures ayant entraîné une
+mutilation ou une infirmité permanente, la peine est portée à trente ans de réclusion criminelle.
+
+Lorsque l'infraction a eu pour conséquence la mort de la victime, la peine est portée à la réclusion criminelle à perpétuité.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2010-930 du 9 août 2010 - art. 7
+
+
+#### Section 4 : Des crimes et délits de guerre propres aux conflits armés non internationaux<a id=268></a>
+
+###### Article 461-30
+
+A moins que la sécurité des personnes civiles ou des impératifs militaires ne l'exigent, le fait d'ordonner le déplacement de
+la population civile pour des raisons ayant trait au conflit est puni de la réclusion criminelle à perpétuité.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2010-930 du 9 août 2010 - art. 7
+
+
+###### Article 461-31
+
+Le fait de prononcer des condamnations et d'exécuter des peines sans un jugement préalable, rendu par un tribunal
+régulièrement constitué, assorti des garanties judiciaires prévues par les conventions de Genève du 12 août 1949 et leurs
+protocoles additionnels, est puni de vingt ans de réclusion criminelle.
+
+Lorsque l'infraction définie au premier alinéa a conduit à l'exécution de la personne qui a été condamnée, la peine est
+portée à la réclusion criminelle à perpétuité.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2010-930 du 9 août 2010 - art. 7
+
+
+### Chapitre II : Dispositions particulières<a id=269></a>
+
+###### Article 462-1
+
+Le maximum de la peine privative de liberté encourue pour les infractions mentionnées aux articles 461-2, 461-6, 461-16 et
+461-17 est relevé ainsi qu'il suit lorsque ces infractions constituent des crimes ou des délits de guerre :
+
+1° Il est porté à la réclusion criminelle à perpétuité lorsque l'infraction est punie de trente ans de réclusion criminelle ;
+
+2° Il est porté à trente ans de réclusion criminelle lorsque l'infraction est punie de vingt ans de réclusion criminelle ;
+
+3° Il est porté à vingt ans de réclusion criminelle lorsque l'infraction est punie de quinze ans de réclusion criminelle ;
+
+4° Il est porté à quinze ans de réclusion criminelle lorsque l'infraction est punie de dix ans d'emprisonnement ;
+
+5° Il est porté à dix ans d'emprisonnement lorsque l'infraction est punie de sept ans d'emprisonnement ;
+
+6° Il est porté à sept ans d'emprisonnement lorsque l'infraction est punie de cinq ans d'emprisonnement ;
+
+7° Il est porté au double lorsque l'infraction est punie de trois ans au plus.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2010-930 du 9 août 2010 - art. 7
+
+_Cité par_:
+
+  - Code pénal - art. 461-16 (V)
+  - Code pénal - art. 461-2 (V)
+  - Code pénal - art. 461-6 (V)
+
+
+###### Article 462-2
+
+Les deux premiers alinéas de l'article 132-23 relatif à la période de sûreté sont applicables aux crimes, ainsi qu'aux délits
+punis de dix ans d'emprisonnement, prévus par le présent livre.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2010-930 du 9 août 2010 - art. 7
+
+_Cite_:
+
+  - Code pénal - art. 132-23
+
+
+###### Article 462-3
+
+Les personnes physiques coupables de l'une des infractions prévues par le présent livre encourent également les peines
+suivantes :
+
+1° L'interdiction des droits civiques, civils et de famille, suivant les modalités prévues par l'article 131-26. Toutefois,
+le maximum de la durée de l'interdiction est porté à quinze ans en cas de crime et à dix ans en cas de délit ;
+
+2° L'interdiction, suivant les modalités prévues par l'article 131-27, d'exercer une fonction publique ou d'exercer
+l'activité professionnelle ou sociale dans l'exercice ou à l'occasion de l'exercice de laquelle l'infraction a été commise.
+Toutefois, le maximum de la durée de l'interdiction temporaire est porté à dix ans ;
+
+3° L'interdiction de séjour, suivant les modalités prévues par l'article 131-31. Toutefois, le maximum de la durée de
+l'interdiction est porté à quinze ans en cas de crime et à dix ans en cas de délit.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2010-930 du 9 août 2010 - art. 7
+
+_Cite_:
+
+  - Code pénal - art. 131-26
+  - Code pénal - art. 131-27
+  - Code pénal - art. 131-31
+
+
+###### Article 462-4
+
+L'interdiction du territoire français peut être prononcée dans les conditions prévues par l'article 131-30 soit à titre
+définitif, soit pour une durée de dix ans au plus à l'encontre de tout étranger coupable de l'une des infractions définies au
+présent livre.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2010-930 du 9 août 2010 - art. 7
+
+_Cite_:
+
+  - Code pénal - art. 131-30
+
+
+###### Article 462-5
+
+Les peines encourues par les personnes morales déclarées responsables pénalement, dans les conditions prévues par l'article
+121-2, des crimes ou des délits de guerre définis au présent livre sont, outre l'amende, suivant les modalités prévues par
+l'article 131-38, les peines mentionnées à l'article 131-39.
+
+L'interdiction mentionnée au 2° de l'article 131-39 porte sur l'activité dans l'exercice ou à l'occasion de l'exercice de
+laquelle l'infraction a été commise.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2010-930 du 9 août 2010 - art. 7
+
+_Cite_:
+
+  - Code pénal - art. 121-2
+  - Code pénal - art. 131-39
+
+
+###### Article 462-6
+
+Les personnes physiques ou les personnes morales reconnues coupables d'un crime ou d'un délit de guerre visé par le présent
+livre encourent également la peine complémentaire de confiscation de tout ou partie de leurs biens.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2010-930 du 9 août 2010 - art. 7
+
+
+###### Article 462-7
+
+Sans préjudice de l'application des dispositions de l'article 121-7, est considéré comme complice d'un crime ou d'un délit de
+guerre visé par le présent livre commis par des subordonnés placés sous son autorité et son contrôle effectifs le chef
+militaire ou la personne qui en faisait fonction qui savait ou, en raison des circonstances, aurait dû savoir que ces
+subordonnés commettaient ou allaient commettre ce crime ou ce délit et qui n'a pas pris toutes les mesures nécessaires et
+raisonnables qui étaient en son pouvoir pour en empêcher ou en réprimer l'exécution ou pour en référer aux autorités
+compétentes aux fins d'enquête et de poursuites.
+
+Sans préjudice de l'application des dispositions de l'article 121-7, est également considéré comme complice d'un crime ou
+d'un délit de guerre visé par le présent livre et commis par des subordonnés placés sous son autorité et son contrôle
+effectifs le supérieur hiérarchique, n'exerçant pas la fonction de chef militaire, qui savait que ces subordonnés
+commettaient ou allaient commettre une telle infraction ou a délibérément négligé de tenir compte d'informations qui
+l'indiquaient clairement et qui n'a pas pris toutes les mesures nécessaires et raisonnables qui étaient en son pouvoir pour
+en empêcher ou en réprimer l'exécution ou pour en référer aux autorités compétentes aux fins d'enquête et de poursuites,
+alors que le crime ou le délit était lié à des activités relevant de sa responsabilité ou de son contrôle effectifs.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2010-930 du 9 août 2010 - art. 7
+
+_Cite_:
+
+  - Code pénal - art. 121-7
+
+
+###### Article 462-8
+
+L'auteur ou le complice d'un crime ou d'un délit de guerre visé par le présent livre ne peut être exonéré de sa
+responsabilité pénale du seul fait qu'il a accompli un acte prescrit ou autorisé par des dispositions législatives ou
+réglementaires ou un acte commandé par l'autorité légitime. Toutefois, la juridiction tient compte de cette circonstance
+lorsqu'elle détermine la peine et en fixe le montant.
+
+En outre, l'auteur ou le complice n'est pas pénalement responsable dans le cas où il ne savait pas que l'ordre de l'autorité
+légitime était illégal et où cet ordre n'était pas manifestement illégal.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2010-930 du 9 août 2010 - art. 7
+
+
+###### Article 462-9
+
+N'est pas pénalement responsable d'un crime ou d'un délit de guerre visé par le présent livre la personne qui a agi
+raisonnablement pour sauvegarder des biens essentiels à sa survie ou à celle d'autrui ou essentiels à l'accomplissement d'une
+mission militaire contre un recours imminent et illicite à la force, sauf s'il y a disproportion entre les moyens de défense
+employés et la gravité du danger couru.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2010-930 du 9 août 2010 - art. 7
+
+
+###### Article 462-10
+
+L'action publique à l'égard des crimes de guerre définis au présent livre se prescrit par trente ans. La peine prononcée en
+cas de condamnation pour l'un de ces crimes se prescrit par trente ans à compter de la date à laquelle la condamnation est
+devenue définitive. 
+
+L'action publique à l'égard des délits de guerre définis au présent livre se prescrit par vingt ans. La peine prononcée en
+cas de condamnation pour l'un de ces délits se prescrit par vingt ans à compter de la date à laquelle la condamnation est
+devenue définitive.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2010-930 du 9 août 2010 - art. 7
+
+_Abrogé par_:
+
+  - Loi n°2017-242 du 27 février 2017 - art. 3
+
+
+###### Article 462-11
+
+N'est pas constitutif d'une infraction visée par le présent livre le fait, pour accomplir un acte nécessaire à l'exercice par
+la France de son droit de légitime défense, d'user de l'arme nucléaire ou de toute autre arme dont l'utilisation n'est pas
+prohibée par une convention internationale à laquelle la France est partie.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2010-930 du 9 août 2010 - art. 7
+
+
+## Livre V : Des autres crimes et délits<a id=270></a>
+
+### Titre Ier : Des infractions en matière de santé publique<a id=271></a>
+
+#### Chapitre Ier : Des infractions en matière d'éthique biomédicale<a id=272></a>
+
+##### Section 1 : De la protection de l'espèce humaine<a id=273></a>
 
 ###### Article 511-1
 
@@ -33728,7 +34605,7 @@ _Créé par_:
   - Loi n°2004-800 du 6 août 2004 - art. 29 () JORF 7 août 2004
 
 
-##### Section 2 : De la protection du corps humain<a id=257></a>
+##### Section 2 : De la protection du corps humain<a id=274></a>
 
 ###### Article 511-2
 
@@ -34366,7 +35243,7 @@ _Cite_:
   - Code de la santé publique - art. L1244-7 (V)
 
 
-##### Section 3 : De la protection de l'embryon humain<a id=258></a>
+##### Section 3 : De la protection de l'embryon humain<a id=275></a>
 
 ###### Article 511-15
 
@@ -34936,7 +35813,7 @@ _Cite_:
   - Code de la santé publique - art. L2141-11-1
 
 
-##### Section 4 : Autres dispositions et peines complémentaires applicables aux personnes physiques et responsabilité des personnes morales<a id=259></a>
+##### Section 4 : Autres dispositions et peines complémentaires applicables aux personnes physiques et responsabilité des personnes morales<a id=276></a>
 
 ###### Article 511-26
 
@@ -35024,9 +35901,9 @@ _Cite_:
   - Code pénal - art. 131-39 (V)
 
 
-### Titre II : Autres dispositions<a id=260></a>
+### Titre II : Autres dispositions<a id=277></a>
 
-#### Chapitre unique : Des sévices graves ou actes de cruauté envers les animaux<a id=261></a>
+#### Chapitre unique : Des sévices graves ou actes de cruauté envers les animaux<a id=278></a>
 
 ###### Article 521-1
 
@@ -35137,11 +36014,11 @@ _Cité par_:
   - Code rural - art. L915-7 (T)
 
 
-## Livre VII : Dispositions applicables dans les territoires d'outre-mer, en Nouvelle-Calédonie et à Mayotte.<a id=262></a>
+## Livre VII : Dispositions applicables dans les territoires d'outre-mer, en Nouvelle-Calédonie et à Mayotte.<a id=279></a>
 
-### Titre Ier : Dispositions applicables dans les territoires d'outre-mer et en Nouvelle-Calédonie.<a id=263></a>
+### Titre Ier : Dispositions applicables dans les territoires d'outre-mer et en Nouvelle-Calédonie.<a id=280></a>
 
-#### Chapitre Ier : Dispositions générales<a id=264></a>
+#### Chapitre Ier : Dispositions générales<a id=281></a>
 
 ###### Article 711-1
 
@@ -35272,7 +36149,7 @@ _Cite_:
   - Code pénal - art. 711-1 (V)
 
 
-#### Chapitre II : Adaptation du livre Ier<a id=265></a>
+#### Chapitre II : Adaptation du livre Ier<a id=282></a>
 
 ###### Article 712-1
 
@@ -35332,7 +36209,7 @@ _Cite_:
   - Code pénal - art. 132-45 (V)
 
 
-#### Chapitre III : Adaptation du livre II<a id=266></a>
+#### Chapitre III : Adaptation du livre II<a id=283></a>
 
 ###### Article 713-3
 
@@ -35365,7 +36242,7 @@ _Cite_:
   - Code pénal - art. 225-3 (V)
 
 
-#### Chapitre IV : Adaptation du livre III<a id=267></a>
+#### Chapitre IV : Adaptation du livre III<a id=284></a>
 
 ###### Article 714-1
 
@@ -35388,7 +36265,7 @@ _Cite_:
   - Code pénal - art. 322-3-1
 
 
-#### Chapitre V : Adaptation du livre IV<a id=268></a>
+#### Chapitre V : Adaptation du livre IV<a id=285></a>
 
 ###### Article 715-1
 
@@ -35541,7 +36418,7 @@ _Cite_:
   - Code pénal - art. 443-3 (V)
 
 
-#### Chapitre VI : Adaptation du livre V<a id=269></a>
+#### Chapitre VI : Adaptation du livre V<a id=286></a>
 
 ###### Article 716-16
 
@@ -35569,7 +36446,7 @@ _Cite_:
   - Code pénal - art. 521-2 (V)
 
 
-#### Chapitre VII : Dispositions diverses<a id=270></a>
+#### Chapitre VII : Dispositions diverses<a id=287></a>
 
 ###### Article 717-1
 
@@ -35675,9 +36552,9 @@ _Cite_:
   - Code pénal - art. 717-2 (V)
 
 
-### Titre II : Dispositions applicables à Mayotte.<a id=271></a>
+### Titre II : Dispositions applicables à Mayotte.<a id=288></a>
 
-#### Chapitre Ier : Dispositions générales<a id=272></a>
+#### Chapitre Ier : Dispositions générales<a id=289></a>
 
 ###### Article 721-1
 
@@ -35738,7 +36615,7 @@ _Modifié par_:
   - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
 
 
-#### Chapitre II : Adaptation du livre Ier.<a id=273></a>
+#### Chapitre II : Adaptation du livre Ier.<a id=290></a>
 
 ###### Article 722-1
 
@@ -35769,7 +36646,7 @@ _Cite_:
   - Code pénal - art. 132-45 (V)
 
 
-#### Chapitre III : Adaptation du livre II<a id=274></a>
+#### Chapitre III : Adaptation du livre II<a id=291></a>
 
 ###### Article 723-1
 
@@ -35991,7 +36868,7 @@ _Cite_:
   - Code pénal - art. 226-28 (M)
 
 
-#### Chapitre IV : Adaptation du livre III<a id=275></a>
+#### Chapitre IV : Adaptation du livre III<a id=292></a>
 
 ###### Article 724-1
 
@@ -36014,7 +36891,7 @@ _Cite_:
   - Code pénal - art. 322-3-1
 
 
-#### Chapitre V : Adaptation du livre IV<a id=276></a>
+#### Chapitre V : Adaptation du livre IV<a id=293></a>
 
 ###### Article 725-1
 
@@ -36171,7 +37048,7 @@ _Cite_:
   - Code pénal - art. 443-3 (V)
 
 
-#### Chapitre VI : Adaptation du livre V<a id=277></a>
+#### Chapitre VI : Adaptation du livre V<a id=294></a>
 
 ###### Article 726-1
 
@@ -36758,7 +37635,7 @@ _Cite_:
   - Code pénal - art. 511-25 (V)
 
 
-#### Chapitre VII : Dispositions diverses<a id=278></a>
+#### Chapitre VII : Dispositions diverses<a id=295></a>
 
 ###### Article 727-1
 
@@ -36855,19 +37732,19 @@ _Cite_:
   - Code pénal - art. 131-39 (V)
 
 
-# Partie réglementaire - Décrets en Conseil d'Etat<a id=279></a>
+# Partie réglementaire - Décrets en Conseil d'Etat<a id=296></a>
 
-## Livre Ier : Dispositions générales<a id=280></a>
+## Livre Ier : Dispositions générales<a id=297></a>
 
-### Titre III : Des peines<a id=281></a>
+### Titre III : Des peines<a id=298></a>
 
-#### Chapitre Ier : De la nature des peines<a id=282></a>
+#### Chapitre Ier : De la nature des peines<a id=299></a>
 
-##### Section 1 : Des peines applicables aux personnes physiques<a id=283></a>
+##### Section 1 : Des peines applicables aux personnes physiques<a id=300></a>
 
-##### Sous-section 1 : De la suspension du permis de conduire, de l'interdiction de conduire certains véhicules, de l'immobilisation du véhicule et de l'obligation d'accomplir un stage de sensibilisation à la sécurité routière<a id=284></a>
+##### Sous-section 1 : De la suspension du permis de conduire, de l'interdiction de conduire certains véhicules, de l'immobilisation du véhicule et de l'obligation d'accomplir un stage de sensibilisation à la sécurité routière<a id=301></a>
 
-##### Paragraphe 1 : De la suspension du permis de conduire<a id=285></a>
+##### Paragraphe 1 : De la suspension du permis de conduire<a id=302></a>
 
 ###### Article R131-1
 
@@ -36938,7 +37815,7 @@ _Cite_:
   - Code de la route - art. R123 (Ab)
 
 
-##### Paragraphe 2 : De l'interdiction de conduire certains véhicules.<a id=286></a>
+##### Paragraphe 2 : De l'interdiction de conduire certains véhicules.<a id=303></a>
 
 ###### Article R131-3
 
@@ -37008,7 +37885,7 @@ _Cite_:
   - Code de la route. - art. R221-1 (V)
 
 
-##### Paragraphe 3 : De l'immobilisation de véhicule<a id=287></a>
+##### Paragraphe 3 : De l'immobilisation de véhicule<a id=304></a>
 
 ###### Article R131-5
 
@@ -37160,7 +38037,7 @@ _Modifié par_:
   - Décret n°2003-642 du 11 juillet 2003 - art. 1 () JORF 12 juillet 2003
 
 
-##### Paragraphe 4 : De l'obligation d'accomplir un stage de sensibilisation à la sécurité routière<a id=288></a>
+##### Paragraphe 4 : De l'obligation d'accomplir un stage de sensibilisation à la sécurité routière<a id=305></a>
 
 ###### Article R131-11-1
 
@@ -37194,11 +38071,11 @@ _Cité par_:
   - Code pénal - art. R132-45 (V)
 
 
-##### Sous-section 2 : Du travail d'intérêt général<a id=289></a>
+##### Sous-section 2 : Du travail d'intérêt général<a id=306></a>
 
-##### Paragraphe 1 : Des modalités d'habilitation des personnes morales et d'établissement de la liste des travaux d'intérêt général<a id=290></a>
+##### Paragraphe 1 : Des modalités d'habilitation des personnes morales et d'établissement de la liste des travaux d'intérêt général<a id=307></a>
 
-##### A. : Des modalités d'habilitation des personnes morales<a id=291></a>
+##### A. : Des modalités d'habilitation des personnes morales<a id=308></a>
 
 ###### Article R131-12
 
@@ -37337,7 +38214,7 @@ _Modifié par_:
   - Décret n°2010-671 du 18 juin 2010 - art. 2
 
 
-##### B. : De l'établissement de la liste des travaux d'intérêt général<a id=292></a>
+##### B. : De l'établissement de la liste des travaux d'intérêt général<a id=309></a>
 
 ###### Article R131-17
 
@@ -37440,7 +38317,7 @@ _Cite_:
   - Code pénal - art. R131-19 (V)
 
 
-##### C. : Dispositions diverses<a id=293></a>
+##### C. : Dispositions diverses<a id=310></a>
 
 ###### Article R131-21
 
@@ -37474,9 +38351,9 @@ _Modifié par_:
   - Décret n°2007-1388 du 26 septembre 2007 - art. 2 () JORF 28 septembre 2007
 
 
-##### Paragraphe 2 : De l'exécution du travail d'intérêt général<a id=294></a>
+##### Paragraphe 2 : De l'exécution du travail d'intérêt général<a id=311></a>
 
-##### A. : De la décision du juge de l'application des peines fixant les modalités d'exécution du travail d'intérêt général<a id=295></a>
+##### A. : De la décision du juge de l'application des peines fixant les modalités d'exécution du travail d'intérêt général<a id=312></a>
 
 ###### Article R131-23
 
@@ -37607,7 +38484,7 @@ _Cite_:
   - Code de la santé publique - art. L10 (Ab)
 
 
-##### B. : Du contrôle de l'exécution du travail d'intérêt général<a id=296></a>
+##### B. : Du contrôle de l'exécution du travail d'intérêt général<a id=313></a>
 
 ###### Article R131-29
 
@@ -37709,9 +38586,9 @@ _Codifié par_:
   - Décret n°93-726 1993-03-29
 
 
-##### Sous-section 3 : De la peine de stage de citoyenneté<a id=297></a>
+##### Sous-section 3 : De la peine de stage de citoyenneté<a id=314></a>
 
-##### Paragraphe 1 : Objet et durée du stage<a id=298></a>
+##### Paragraphe 1 : Objet et durée du stage<a id=315></a>
 
 ###### Article R131-35
 
@@ -37776,7 +38653,7 @@ _Cité par_:
   - Code pénal - art. R722-7 (V)
 
 
-##### Paragraphe 2 : Organisation du stage<a id=299></a>
+##### Paragraphe 2 : Organisation du stage<a id=316></a>
 
 ###### Article R131-37
 
@@ -37830,7 +38707,7 @@ _Cité par_:
   - Code pénal - art. R131-42 (V)
 
 
-##### Paragraphe 3 : Déroulement et fin du stage.<a id=300></a>
+##### Paragraphe 3 : Déroulement et fin du stage.<a id=317></a>
 
 ###### Article R131-39
 
@@ -37871,7 +38748,7 @@ _Créé par_:
   - Décret n°2004-1021 du 27 septembre 2004 - art. 1 () JORF 29 septembre 2004
 
 
-##### Paragraphe 4 : Dispositions spécifiques applicables aux mineurs.<a id=301></a>
+##### Paragraphe 4 : Dispositions spécifiques applicables aux mineurs.<a id=318></a>
 
 ###### Article R131-41
 
@@ -37952,7 +38829,7 @@ _Créé par_:
   - Décret n°2004-1021 du 27 septembre 2004 - art. 1 () JORF 29 septembre 2004
 
 
-##### Sous-section 4 : De la peine de sanction-réparation.<a id=302></a>
+##### Sous-section 4 : De la peine de sanction-réparation.<a id=319></a>
 
 ###### Article R131-45
 
@@ -37977,7 +38854,7 @@ _Modifié par_:
   - Décret n°2007-1388 du 26 septembre 2007 - art. 3 () JORF 28 septembre 2007
 
 
-##### Sous-section 5 : De la peine de stage de sensibilisation aux dangers de l'usage de produits stupéfiants.<a id=303></a>
+##### Sous-section 5 : De la peine de stage de sensibilisation aux dangers de l'usage de produits stupéfiants.<a id=320></a>
 
 ###### Article R131-46
 
@@ -38026,7 +38903,7 @@ _Cite_:
   - Code de procédure pénale - art. 2-16 (V)
 
 
-##### Sous-section 6 : De la peine de stage de responsabilité parentale.<a id=304></a>
+##### Sous-section 6 : De la peine de stage de responsabilité parentale.<a id=321></a>
 
 ###### Article R131-48
 
@@ -38075,7 +38952,7 @@ _Cite_:
   - Code de l'action sociale et des familles - art. L222-4-1 (Ab)
 
 
-##### Sous-section 7 : De la peine de confiscation d'un animal.<a id=305></a>
+##### Sous-section 7 : De la peine de confiscation d'un animal.<a id=322></a>
 
 ###### Article R131-50
 
@@ -38119,7 +38996,7 @@ _Cite_:
   - Code de procédure pénale - art. 99-1 (V)
 
 
-##### Section 2 : Des peines applicables aux personnes morales<a id=306></a>
+##### Section 2 : Des peines applicables aux personnes morales<a id=323></a>
 
 ###### Article R131-52
 
@@ -38174,11 +39051,11 @@ _Anciens textes_:
   - Code pénal - art. R131-46 (T)
 
 
-#### Chapitre II : Du régime des peines<a id=307></a>
+#### Chapitre II : Du régime des peines<a id=324></a>
 
-##### Section 2 : Des modes de personnalisation des peines<a id=308></a>
+##### Section 2 : Des modes de personnalisation des peines<a id=325></a>
 
-##### Sous-section 4 : Du sursis avec mise à l'épreuve<a id=309></a>
+##### Sous-section 4 : Du sursis avec mise à l'épreuve<a id=326></a>
 
 ###### Article R132-45
 
@@ -38205,9 +39082,9 @@ _Cite_:
   - Code pénal - art. 131-5-1 (V)
 
 
-#### Chapitre III : De l'extinction des peines et de l'effacement des condamnations<a id=310></a>
+#### Chapitre III : De l'extinction des peines et de l'effacement des condamnations<a id=327></a>
 
-##### Section 2 : De la grâce<a id=311></a>
+##### Section 2 : De la grâce<a id=328></a>
 
 ###### Article R133-1
 
@@ -38249,13 +39126,13 @@ _Créé par_:
   - Décret n°95-152 du 7 février 1995 - art. 1 () JORF 14 février 1995
 
 
-## Livre II : Des crimes et délits contre les personnes<a id=312></a>
+## Livre II : Des crimes et délits contre les personnes<a id=329></a>
 
-### Titre II : Des atteintes à la personne humaine<a id=313></a>
+### Titre II : Des atteintes à la personne humaine<a id=330></a>
 
-#### Chapitre VI : Des atteintes à la personnalité<a id=314></a>
+#### Chapitre VI : Des atteintes à la personnalité<a id=331></a>
 
-##### Section 1 : De l'atteinte à la vie privée<a id=315></a>
+##### Section 1 : De l'atteinte à la vie privée<a id=332></a>
 
 ###### Article R226-1
 
@@ -38671,15 +39548,15 @@ _Cite_:
   - Code pénal - art. R226-7 (V)
 
 
-## Livre III : Des crimes et délits contre les biens<a id=316></a>
+## Livre III : Des crimes et délits contre les biens<a id=333></a>
 
-### Titre II : Des autres atteintes aux biens<a id=317></a>
+### Titre II : Des autres atteintes aux biens<a id=334></a>
 
-#### Chapitre Ier : Du recel et des infractions assimilées ou voisines<a id=318></a>
+#### Chapitre Ier : Du recel et des infractions assimilées ou voisines<a id=335></a>
 
-##### Section 2 : Des infractions assimilées au recel ou voisines de celui-ci<a id=319></a>
+##### Section 2 : Des infractions assimilées au recel ou voisines de celui-ci<a id=336></a>
 
-##### Sous-section 1 : Dispositions relatives aux personnes dont l'activité professionnelle comporte la vente ou l'échange de certains objets mobiliers<a id=320></a>
+##### Sous-section 1 : Dispositions relatives aux personnes dont l'activité professionnelle comporte la vente ou l'échange de certains objets mobiliers<a id=337></a>
 
 ###### Article R321-1
 
@@ -38932,7 +39809,7 @@ _Cité par_:
   - Code pénal - art. R633-3 (V)
 
 
-##### Sous-section 2 : Dispositions concernant les manifestations publiques en vue de la vente ou de l'échange de certains objets mobiliers<a id=321></a>
+##### Sous-section 2 : Dispositions concernant les manifestations publiques en vue de la vente ou de l'échange de certains objets mobiliers<a id=338></a>
 
 ###### Article R321-9
 
@@ -39023,13 +39900,13 @@ _Codifié par_:
   - Décret n°93-726 1993-03-29
 
 
-## Livre IV : Des crimes et délits contre la nation, l'Etat et la paix publique<a id=322></a>
+## Livre IV : Des crimes et délits contre la nation, l'Etat et la paix publique<a id=339></a>
 
-### Titre Ier : Des atteintes aux intérêts fondamentaux de la nation<a id=323></a>
+### Titre Ier : Des atteintes aux intérêts fondamentaux de la nation<a id=340></a>
 
-#### Chapitre III : Des autres atteintes à la défense nationale<a id=324></a>
+#### Chapitre III : Des autres atteintes à la défense nationale<a id=341></a>
 
-##### Section 1 : Des atteintes à la sécurité des forces armées et aux zones protégées intéressant la défense nationale<a id=325></a>
+##### Section 1 : Des atteintes à la sécurité des forces armées et aux zones protégées intéressant la défense nationale<a id=342></a>
 
 ###### Article R413-1
 
@@ -39189,7 +40066,7 @@ _Cité par_:
   - Code pénal - art. R413-5-1 (V)
 
 
-##### Section 2 : Des atteintes au secret de la défense nationale<a id=326></a>
+##### Section 2 : Des atteintes au secret de la défense nationale<a id=343></a>
 
 ###### Article R413-6
 
@@ -39210,11 +40087,11 @@ _Cite_:
   - Code de la défense. - art. R2311-1 (V)
 
 
-### Titre III : Des atteintes à l'autorité de l'Etat<a id=327></a>
+### Titre III : Des atteintes à l'autorité de l'Etat<a id=344></a>
 
-#### Chapitre Ier : Des atteintes à la paix publique<a id=328></a>
+#### Chapitre Ier : Des atteintes à la paix publique<a id=345></a>
 
-##### Section 2 : De la participation délictueuse à un attroupement.<a id=329></a>
+##### Section 2 : De la participation délictueuse à un attroupement.<a id=346></a>
 
 ###### Article R431-1
 
@@ -39294,9 +40171,9 @@ _Cite_:
   - Code pénal - art. 431-3
 
 
-## Livre V : Des autres crimes et délits<a id=330></a>
+## Livre V : Des autres crimes et délits<a id=347></a>
 
-### Chapitre Ier : Des sévices graves ou actes de cruauté envers les animaux<a id=331></a>
+### Chapitre Ier : Des sévices graves ou actes de cruauté envers les animaux<a id=348></a>
 
 ###### Article R511-1
 
@@ -39321,9 +40198,9 @@ _Cité par_:
   - Code pénal - art. R716-1 (V)
 
 
-## Livre VI : Des contraventions<a id=332></a>
+## Livre VI : Des contraventions<a id=349></a>
 
-### Titre Ier : Dispositions générales<a id=333></a>
+### Titre Ier : Dispositions générales<a id=350></a>
 
 ###### Article R610-1
 
@@ -39450,11 +40327,11 @@ _Cité par_:
   - Code général des collectivités territoriales - art. R2512-15-12 (VT)
 
 
-### Titre II : Des contraventions contre les personnes<a id=334></a>
+### Titre II : Des contraventions contre les personnes<a id=351></a>
 
-#### Chapitre Ier : Des contraventions de la 1re classe contre les personnes<a id=335></a>
+#### Chapitre Ier : Des contraventions de la 1re classe contre les personnes<a id=352></a>
 
-##### Section 1 : De la diffamation et de l'injure non publiques<a id=336></a>
+##### Section 1 : De la diffamation et de l'injure non publiques<a id=353></a>
 
 ###### Article R621-1
 
@@ -39500,9 +40377,9 @@ _Cité par_:
   - Code de procédure pénale - art. R41-11 (V)
 
 
-#### Chapitre II : Des contraventions de la 2e classe contre les personnes<a id=337></a>
+#### Chapitre II : Des contraventions de la 2e classe contre les personnes<a id=354></a>
 
-##### Section 1 : Des atteintes involontaires à l'intégrité de la personne n'ayant entraîné aucune incapacité totale de travail<a id=338></a>
+##### Section 1 : Des atteintes involontaires à l'intégrité de la personne n'ayant entraîné aucune incapacité totale de travail<a id=355></a>
 
 ###### Article R622-1
 
@@ -39532,7 +40409,7 @@ _Cite_:
   - Code pénal - art. R625-3
 
 
-##### Section 2 : De la divagation d'animaux dangereux<a id=339></a>
+##### Section 2 : De la divagation d'animaux dangereux<a id=356></a>
 
 ###### Article R622-2
 
@@ -39559,9 +40436,9 @@ _Cité par_:
   - Code de procédure pénale - art. R48-1 (V)
 
 
-#### Chapitre III : Des contraventions de la 3e classe contre les personnes<a id=340></a>
+#### Chapitre III : Des contraventions de la 3e classe contre les personnes<a id=357></a>
 
-##### Section 1 : Des menaces de violences<a id=341></a>
+##### Section 1 : Des menaces de violences<a id=358></a>
 
 ###### Article R623-1
 
@@ -39584,7 +40461,7 @@ _Cite_:
   - Code pénal - art. 222-17 (V)
 
 
-##### Section 2 : Des bruits ou tapages injurieux ou nocturnes<a id=342></a>
+##### Section 2 : Des bruits ou tapages injurieux ou nocturnes<a id=359></a>
 
 ###### Article R623-2
 
@@ -39614,7 +40491,7 @@ _Cité par_:
   - Code de procédure pénale - art. R48-1 (V)
 
 
-##### Section 3 : De l'excitation d'animaux dangereux<a id=343></a>
+##### Section 3 : De l'excitation d'animaux dangereux<a id=360></a>
 
 ###### Article R623-3
 
@@ -39640,7 +40517,7 @@ _Cité par_:
   - Code de procédure pénale - art. R15-33-29-3 (V)
 
 
-##### Section 4 : De la violation des dispositions réglementant le commerce de certains matériels susceptibles d'être utilisés pour porter atteinte à l'intimité de la vie privée<a id=344></a>
+##### Section 4 : De la violation des dispositions réglementant le commerce de certains matériels susceptibles d'être utilisés pour porter atteinte à l'intimité de la vie privée<a id=361></a>
 
 ###### Article R623-4
 
@@ -39659,9 +40536,9 @@ _Cite_:
   - Code pénal - art. R226-3
 
 
-#### Chapitre IV : Des contraventions de la 4e classe contre les personnes<a id=345></a>
+#### Chapitre IV : Des contraventions de la 4e classe contre les personnes<a id=362></a>
 
-##### Section 1 : Des violences légères<a id=346></a>
+##### Section 1 : Des violences légères<a id=363></a>
 
 ###### Article R624-1
 
@@ -39701,7 +40578,7 @@ _Cite_:
   - Code pénal - art. 222-13 (V)
 
 
-##### Section 2 : De la diffusion de messages contraires à la décence<a id=347></a>
+##### Section 2 : De la diffusion de messages contraires à la décence<a id=364></a>
 
 ###### Article R624-2
 
@@ -39733,7 +40610,7 @@ _Cite_:
   - Code pénal - art. 131-41
 
 
-##### Section 3 : De la diffamation et de l'injure non publiques présentant un caractère raciste ou discriminatoire<a id=348></a>
+##### Section 3 : De la diffamation et de l'injure non publiques présentant un caractère raciste ou discriminatoire<a id=365></a>
 
 ###### Article R624-3
 
@@ -39851,7 +40728,7 @@ _Cite_:
   - Code pénal - art. R624-4 (Ab)
 
 
-##### Section 4 : Du manquement à l'obligation d'assiduité scolaire<a id=349></a>
+##### Section 4 : Du manquement à l'obligation d'assiduité scolaire<a id=366></a>
 
 ###### Article R624-7
 
@@ -39886,9 +40763,9 @@ _Cite_:
   - Code pénal - art. 131-41
 
 
-#### Chapitre V : Des contraventions de la 5e classe contre les personnes<a id=350></a>
+#### Chapitre V : Des contraventions de la 5e classe contre les personnes<a id=367></a>
 
-##### Section 1 : Des violences<a id=351></a>
+##### Section 1 : Des violences<a id=368></a>
 
 ###### Article R625-1
 
@@ -39938,7 +40815,7 @@ _Cite_:
   - Code pénal - art. 222-13 (V)
 
 
-##### Section 2 : Des atteintes involontaires à l'intégrité de la personne<a id=352></a>
+##### Section 2 : Des atteintes involontaires à l'intégrité de la personne<a id=369></a>
 
 ###### Article R625-2
 
@@ -40078,7 +40955,7 @@ _Cite_:
   - Code pénal - art. R625-2 (V)
 
 
-##### Section 3 : De la provocation non publique à la discrimination, à la haine ou à la violence<a id=353></a>
+##### Section 3 : De la provocation non publique à la discrimination, à la haine ou à la violence<a id=370></a>
 
 ###### Article R625-7
 
@@ -40129,7 +41006,7 @@ _Cite_:
   - Code pénal - art. 432-7
 
 
-##### Section 5 : De la violation des dispositions réglementant le commerce de certains matériels susceptibles d'être utilisés pour porter atteinte à l'intimité de la vie privée<a id=354></a>
+##### Section 5 : De la violation des dispositions réglementant le commerce de certains matériels susceptibles d'être utilisés pour porter atteinte à l'intimité de la vie privée<a id=371></a>
 
 ###### Article R625-9
 
@@ -40169,7 +41046,7 @@ _Cite_:
   - Code pénal - art. R226-3
 
 
-##### Section 6 : Des atteintes aux droits de la personne résultant des fichiers ou des traitements informatiques<a id=355></a>
+##### Section 6 : Des atteintes aux droits de la personne résultant des fichiers ou des traitements informatiques<a id=372></a>
 
 ###### Article R625-10
 
@@ -40309,11 +41186,11 @@ _Cite_:
   - Code pénal - art. 132-15
 
 
-### Titre III : Des contraventions contre les biens<a id=356></a>
+### Titre III : Des contraventions contre les biens<a id=373></a>
 
-#### Chapitre Ier : Des contraventions de la 1re classe contre les biens<a id=357></a>
+#### Chapitre Ier : Des contraventions de la 1re classe contre les biens<a id=374></a>
 
-##### Section unique : Des menaces de destruction, de dégradation ou de détérioration n'entraînant qu'un dommage léger<a id=358></a>
+##### Section unique : Des menaces de destruction, de dégradation ou de détérioration n'entraînant qu'un dommage léger<a id=375></a>
 
 ###### Article R631-1
 
@@ -40343,9 +41220,9 @@ _Cite_:
   - Code pénal - art. 322-13
 
 
-#### Chapitre II : Des contraventions de la 2e classe contre les biens<a id=359></a>
+#### Chapitre II : Des contraventions de la 2e classe contre les biens<a id=376></a>
 
-##### Section unique : De l'abandon d'ordures, déchets, matériaux ou autres objets.<a id=360></a>
+##### Section unique : De l'abandon d'ordures, déchets, matériaux ou autres objets.<a id=377></a>
 
 ###### Article R632-1
 
@@ -40382,9 +41259,9 @@ _Cite_:
   - Code pénal - art. R635-8
 
 
-#### Chapitre III : Des contraventions de la 3e classe contre les biens<a id=361></a>
+#### Chapitre III : Des contraventions de la 3e classe contre les biens<a id=378></a>
 
-##### Section 1 : De la violation des dispositions réglementant la vente ou l'échange de certains objets mobiliers<a id=362></a>
+##### Section 1 : De la violation des dispositions réglementant la vente ou l'échange de certains objets mobiliers<a id=379></a>
 
 ###### Article R633-1
 
@@ -40459,7 +41336,7 @@ _Cité par_:
   - Code pénal - art. R633-4 (Ab)
 
 
-##### Section 2 : De la violation des dispositions concernant les manifestations publiques en vue de la vente ou de l'échange de certains objets mobiliers<a id=363></a>
+##### Section 2 : De la violation des dispositions concernant les manifestations publiques en vue de la vente ou de l'échange de certains objets mobiliers<a id=380></a>
 
 ###### Article R633-5
 
@@ -40480,9 +41357,9 @@ _Cite_:
   - Code pénal - art. R321-9
 
 
-#### Chapitre IV : Des contraventions de la 4e classe contre les biens<a id=364></a>
+#### Chapitre IV : Des contraventions de la 4e classe contre les biens<a id=381></a>
 
-##### Section 1 : Des menaces de destruction, de dégradation ou de détérioration ne présentant pas de danger pour les personnes<a id=365></a>
+##### Section 1 : Des menaces de destruction, de dégradation ou de détérioration ne présentant pas de danger pour les personnes<a id=382></a>
 
 ###### Article R634-1
 
@@ -40512,9 +41389,9 @@ _Cite_:
   - Code pénal - art. 322-13
 
 
-#### Chapitre V : Des contraventions de la 5e classe contre les biens<a id=366></a>
+#### Chapitre V : Des contraventions de la 5e classe contre les biens<a id=383></a>
 
-##### Section 1 : Des destructions, dégradations et détériorations dont il n'est résulté qu'un dommage léger<a id=367></a>
+##### Section 1 : Des destructions, dégradations et détériorations dont il n'est résulté qu'un dommage léger<a id=384></a>
 
 ###### Article R635-1
 
@@ -40568,7 +41445,7 @@ _Cite_:
   - Code pénal - art. 132-15
 
 
-##### Section 2 : De la vente forcée par correspondance<a id=368></a>
+##### Section 2 : De la vente forcée par correspondance<a id=385></a>
 
 ###### Article R635-2
 
@@ -40619,7 +41496,7 @@ _Cite_:
   - Code pénal - art. 132-15
 
 
-##### Section 3 : De la violation des dispositions réglementant la vente ou l'échange de certains objets mobiliers<a id=369></a>
+##### Section 3 : De la violation des dispositions réglementant la vente ou l'échange de certains objets mobiliers<a id=386></a>
 
 ###### Article R635-3
 
@@ -40723,7 +41600,7 @@ _Cite_:
   - Code pénal - art. R635-3 (V)
 
 
-##### Section 4 : De l'abandon d'épaves de véhicules ou d'ordures, déchets, matériaux et autres objets transportés dans un véhicule<a id=370></a>
+##### Section 4 : De l'abandon d'épaves de véhicules ou d'ordures, déchets, matériaux et autres objets transportés dans un véhicule<a id=387></a>
 
 ###### Article R635-8
 
@@ -40770,11 +41647,11 @@ _Cite_:
   - Code pénal - art. 132-15 (V)
 
 
-### Titre IV : Des contraventions contre la nation, l'Etat ou la paix publique<a id=371></a>
+### Titre IV : Des contraventions contre la nation, l'Etat ou la paix publique<a id=388></a>
 
-#### Chapitre Ier : Des contraventions de la 1re classe contre la nation, l'Etat ou la paix publique<a id=372></a>
+#### Chapitre Ier : Des contraventions de la 1re classe contre la nation, l'Etat ou la paix publique<a id=389></a>
 
-##### Section unique : De l'abandon d'armes ou d'objets dangereux<a id=373></a>
+##### Section unique : De l'abandon d'armes ou d'objets dangereux<a id=390></a>
 
 ###### Article R641-1
 
@@ -40796,9 +41673,9 @@ _Codifié par_:
   - Décret n°93-726 1993-03-29
 
 
-#### Chapitre II : Des contraventions de la 2e classe contre la nation, l'Etat ou la paix publique<a id=374></a>
+#### Chapitre II : Des contraventions de la 2e classe contre la nation, l'Etat ou la paix publique<a id=391></a>
 
-##### Section 1 : Du défaut de réponse à une réquisition des autorités judiciaires ou administratives<a id=375></a>
+##### Section 1 : Du défaut de réponse à une réquisition des autorités judiciaires ou administratives<a id=392></a>
 
 ###### Article R642-1
 
@@ -40818,7 +41695,7 @@ _Codifié par_:
   - Décret n°93-726 1993-03-29
 
 
-##### Section 2 : Des atteintes à la monnaie<a id=376></a>
+##### Section 2 : Des atteintes à la monnaie<a id=393></a>
 
 ###### Article R642-2
 
@@ -40910,9 +41787,9 @@ _Cite_:
   - Code pénal - art. 442-13 (V)
 
 
-#### Chapitre III : Des contraventions de la 3e classe contre la nation, l'Etat ou la paix publique<a id=377></a>
+#### Chapitre III : Des contraventions de la 3e classe contre la nation, l'Etat ou la paix publique<a id=394></a>
 
-##### Section 1 : De l'usurpation de signes réservés à l'autorité publique<a id=378></a>
+##### Section 1 : De l'usurpation de signes réservés à l'autorité publique<a id=395></a>
 
 ###### Article R643-1
 
@@ -40941,7 +41818,7 @@ _Cite_:
   - Code pénal - art. 433-15
 
 
-##### Section 2 : De l'utilisation de poids ou mesures différents de ceux établis par les lois et règlements en vigueur<a id=379></a>
+##### Section 2 : De l'utilisation de poids ou mesures différents de ceux établis par les lois et règlements en vigueur<a id=396></a>
 
 ###### Article R643-2
 
@@ -40967,9 +41844,9 @@ _Cite_:
   - Code pénal - art. 131-41
 
 
-#### Chapitre IV : Des contraventions de la 4e classe contre la nation, l'Etat ou la paix publique<a id=380></a>
+#### Chapitre IV : Des contraventions de la 4e classe contre la nation, l'Etat ou la paix publique<a id=397></a>
 
-##### Section 1 : De l'accès sans autorisation à un terrain, une construction, un engin ou un appareil militaires<a id=381></a>
+##### Section 1 : De l'accès sans autorisation à un terrain, une construction, un engin ou un appareil militaires<a id=398></a>
 
 ###### Article R644-1
 
@@ -41002,7 +41879,7 @@ _Cite_:
   - Code pénal - art. 413-5 (V)
 
 
-##### Section 2 : Des entraves à la libre circulation sur la voie publique<a id=382></a>
+##### Section 2 : Des entraves à la libre circulation sur la voie publique<a id=399></a>
 
 ###### Article R644-2
 
@@ -41035,7 +41912,7 @@ _Cité par_:
   - Code pénal - art. R633-6 (V)
 
 
-##### Section 3 : De la violation des dispositions réglementant les professions exercées dans les lieux publics<a id=383></a>
+##### Section 3 : De la violation des dispositions réglementant les professions exercées dans les lieux publics<a id=400></a>
 
 ###### Article R644-3
 
@@ -41062,9 +41939,9 @@ _Cite_:
   - Code pénal - art. 131-41
 
 
-#### Chapitre V : Des contraventions de la 5e classe contre la nation, l'Etat ou la paix publique<a id=384></a>
+#### Chapitre V : Des contraventions de la 5e classe contre la nation, l'Etat ou la paix publique<a id=401></a>
 
-##### Section 1 : Du port ou de l'exhibition d'uniformes, insignes ou emblèmes rappelant ceux d'organisations ou de personnes responsables de crimes contre l'humanité<a id=385></a>
+##### Section 1 : Du port ou de l'exhibition d'uniformes, insignes ou emblèmes rappelant ceux d'organisations ou de personnes responsables de crimes contre l'humanité<a id=402></a>
 
 ###### Article R645-1
 
@@ -41115,7 +41992,7 @@ _Modifié par_:
   - Décret n°2010-671 du 18 juin 2010 - art. 4
 
 
-##### Section 2 : Des dessins, levés ou enregistrements effectués sans autorisation dans une zone d'interdiction fixée par l'autorité militaire<a id=386></a>
+##### Section 2 : Des dessins, levés ou enregistrements effectués sans autorisation dans une zone d'interdiction fixée par l'autorité militaire<a id=403></a>
 
 ###### Article R645-2
 
@@ -41151,7 +42028,7 @@ _Cite_:
   - Code pénal - art. 132-11 (V)
 
 
-##### Section 3 : Des atteintes à l'état civil des personnes<a id=387></a>
+##### Section 3 : Des atteintes à l'état civil des personnes<a id=404></a>
 
 ###### Article R645-3
 
@@ -41266,7 +42143,7 @@ _Cité par_:
   - Code pénal - art. R711-1 (V)
 
 
-##### Section 4 : De la soustraction d'une pièce produite en justice<a id=388></a>
+##### Section 4 : De la soustraction d'une pièce produite en justice<a id=405></a>
 
 ###### Article R645-7
 
@@ -41287,7 +42164,7 @@ _Cite_:
   - Code pénal - art. 132-15 (V)
 
 
-##### Section 5 : De l'utilisation d'un document délivré par une administration publique comportant des mentions devenues incomplètes ou inexactes<a id=389></a>
+##### Section 5 : De l'utilisation d'un document délivré par une administration publique comportant des mentions devenues incomplètes ou inexactes<a id=406></a>
 
 ###### Article R645-8
 
@@ -41325,7 +42202,7 @@ _Cite_:
   - Code pénal - art. 132-15
 
 
-##### Section 5 bis : De l'usurpation de fonction ou de titre de délégué ou de médiateur du procureur de la République<a id=390></a>
+##### Section 5 bis : De l'usurpation de fonction ou de titre de délégué ou de médiateur du procureur de la République<a id=407></a>
 
 ###### Article R645-8-1
 
@@ -41344,7 +42221,7 @@ _Cite_:
   - Code pénal - art. 121-2
 
 
-##### Section 6 : Du refus de restitution de signes monétaires contrefaits ou falsifiés<a id=391></a>
+##### Section 6 : Du refus de restitution de signes monétaires contrefaits ou falsifiés<a id=408></a>
 
 ###### Article R645-9
 
@@ -41386,7 +42263,7 @@ _Cite_:
   - Code pénal - art. 442-13
 
 
-##### Section 7 : De l'altération ou de la contrefaçon des timbres-poste ou des timbres émis par l'administration des finances<a id=392></a>
+##### Section 7 : De l'altération ou de la contrefaçon des timbres-poste ou des timbres émis par l'administration des finances<a id=409></a>
 
 ###### Article R645-10
 
@@ -41456,7 +42333,7 @@ _Cite_:
   - Code pénal - art. 132-15
 
 
-##### Section 8 : De l'intrusion dans les établissements scolaires<a id=393></a>
+##### Section 8 : De l'intrusion dans les établissements scolaires<a id=410></a>
 
 ###### Article R645-12
 
@@ -41489,7 +42366,7 @@ _Cite_:
   - Code pénal - art. 132-11
 
 
-##### Section 9 : De l'intrusion dans les lieux historiques ou culturels<a id=394></a>
+##### Section 9 : De l'intrusion dans les lieux historiques ou culturels<a id=411></a>
 
 ###### Article R645-13
 
@@ -41529,7 +42406,7 @@ _Cite_:
   - Code du patrimoine - art. L621-1
 
 
-##### Section 10 : De la dissimulation illicite du visage à l'occasion de manifestations sur la voie publique<a id=395></a>
+##### Section 10 : De la dissimulation illicite du visage à l'occasion de manifestations sur la voie publique<a id=412></a>
 
 ###### Article R645-14
 
@@ -41554,7 +42431,7 @@ _Cite_:
   - Code pénal - art. 132-15
 
 
-##### Section 11 : De l'outrage au drapeau tricolore<a id=396></a>
+##### Section 11 : De l'outrage au drapeau tricolore<a id=413></a>
 
 ###### Article R645-15
 
@@ -41581,11 +42458,11 @@ _Cite_:
   - Code pénal - art. 433-5-1
 
 
-### Titre V : Des autres contraventions<a id=397></a>
+### Titre V : Des autres contraventions<a id=414></a>
 
-#### Chapitre III : Des contraventions de la 3e classe<a id=398></a>
+#### Chapitre III : Des contraventions de la 3e classe<a id=415></a>
 
-##### Section unique : Des atteintes involontaires à la vie ou à l'intégrité d'un animal<a id=399></a>
+##### Section unique : Des atteintes involontaires à la vie ou à l'intégrité d'un animal<a id=416></a>
 
 ###### Article R653-1
 
@@ -41616,9 +42493,9 @@ _Cité par_:
   - Code de procédure pénale - art. R15-33-29-3 (V)
 
 
-#### Chapitre IV : Des contraventions de la 4e classe<a id=400></a>
+#### Chapitre IV : Des contraventions de la 4e classe<a id=417></a>
 
-##### Section unique : Des mauvais traitements envers un animal<a id=401></a>
+##### Section unique : Des mauvais traitements envers un animal<a id=418></a>
 
 ###### Article R654-1
 
@@ -41656,9 +42533,9 @@ _Cite_:
   - Code pénal - art. 521-1 (V)
 
 
-#### Chapitre V : Des contraventions de la 5e classe<a id=402></a>
+#### Chapitre V : Des contraventions de la 5e classe<a id=419></a>
 
-##### Section unique : Des atteintes volontaires à la vie d'un animal<a id=403></a>
+##### Section unique : Des atteintes volontaires à la vie d'un animal<a id=420></a>
 
 ###### Article R655-1
 
@@ -41692,11 +42569,11 @@ _Cite_:
   - Code pénal - art. 132-11 (V)
 
 
-## Livre VII : Dispositions applicables dans les territoires d'outre-mer, en Nouvelle-Calédonie et à Mayotte.<a id=404></a>
+## Livre VII : Dispositions applicables dans les territoires d'outre-mer, en Nouvelle-Calédonie et à Mayotte.<a id=421></a>
 
-### Titre Ier : Dispositions applicables dans les territoires d'outre-mer et en Nouvelle-Calédonie<a id=405></a>
+### Titre Ier : Dispositions applicables dans les territoires d'outre-mer et en Nouvelle-Calédonie<a id=422></a>
 
-#### Chapitre Ier : Dispositions générales<a id=406></a>
+#### Chapitre Ier : Dispositions générales<a id=423></a>
 
 ###### Article R711-1
 
@@ -41774,7 +42651,7 @@ _Cite_:
   - Code pénal - art. R711-1 (V)
 
 
-#### Chapitre II : Adaptation du livre Ier<a id=407></a>
+#### Chapitre II : Adaptation du livre Ier<a id=424></a>
 
 ###### Article R712-1
 
@@ -41954,7 +42831,7 @@ _Cite_:
   - Code pénal - art. R131-36 (V)
 
 
-#### Chapitre VI : Adaptation du livre V<a id=408></a>
+#### Chapitre VI : Adaptation du livre V<a id=425></a>
 
 ###### Article R716-1
 
@@ -41978,9 +42855,9 @@ _Cite_:
   - Code pénal - art. R511-1 (V)
 
 
-### Titre II : Dispositions applicables à Mayotte.<a id=409></a>
+### Titre II : Dispositions applicables à Mayotte.<a id=426></a>
 
-#### Chapitre Ier : Dispositions générales<a id=410></a>
+#### Chapitre Ier : Dispositions générales<a id=427></a>
 
 ###### Article R721-1
 
@@ -42028,7 +42905,7 @@ _Abrogé par_:
   - Décret n°2011-338 du 29 mars 2011 - art. 3
 
 
-#### Chapitre II : Adaptation du livre Ier<a id=411></a>
+#### Chapitre II : Adaptation du livre Ier<a id=428></a>
 
 ###### Article R722-1
 
