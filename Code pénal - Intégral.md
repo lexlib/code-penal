@@ -1,5 +1,5 @@
 # Code pénal  
-Version Consolidée au 2011-05-19
+Version Consolidée au 2011-07-02
 ## Contenu: 
   - [Partie législative (art. 111-1 à 727-3)](#1)
     - [Livre Ier : Dispositions générales (art. 111-1 à 133-17)](#2)
@@ -346,14 +346,14 @@ dans les conflits armés (art. 461-7)](#266)
           - [Section 2 : Des infractions assimilées au recel ou voisines de celui-ci (art. R321-1 à R321-12)](#342)
             - [Sous-section 1 : Dispositions relatives aux personnes dont l'activité professionnelle comporte la vente ou l'échange de certains objets mobiliers (art. R321-1 à R321-8)](#343)
             - [Sous-section 2 : Dispositions concernant les manifestations publiques en vue de la vente ou de l'échange de certains objets mobiliers (art. R321-9 à R321-12)](#344)
-    - [Livre IV : Des crimes et délits contre la nation, l'Etat et la paix publique (art. R413-1 à R431-2)](#345)
+    - [Livre IV : Des crimes et délits contre la nation, l'Etat et la paix publique (art. R413-1 à R431-5)](#345)
       - [Titre Ier : Des atteintes aux intérêts fondamentaux de la nation (art. R413-1 à R413-6)](#346)
         - [Chapitre III : Des autres atteintes à la défense nationale (art. R413-1 à R413-6)](#347)
           - [Section 1 : Des atteintes à la sécurité des forces armées et aux zones protégées intéressant la défense nationale (art. R413-1 à R413-5)](#348)
           - [Section 2 : Des atteintes au secret de la défense nationale (art. R413-6)](#349)
-      - [Titre III : Des atteintes à l'autorité de l'Etat (art. R431-1 à R431-2)](#350)
-        - [Chapitre Ier : Des atteintes à la paix publique (art. R431-1 à R431-2)](#351)
-          - [Section 2 : De la participation délictueuse à un attroupement. (art. R431-1 à R431-2)](#352)
+      - [Titre III : Des atteintes à l'autorité de l'Etat (art. R431-1 à R431-5)](#350)
+        - [Chapitre Ier : Des atteintes à la paix publique (art. R431-1 à R431-5)](#351)
+          - [Section 2 : De la participation délictueuse à un attroupement. (art. R431-1 à R431-5)](#352)
     - [Livre V : Des autres crimes et délits (art. R511-1)](#353)
       - [Chapitre Ier : Des sévices graves ou actes de cruauté envers les animaux (art. R511-1)](#354)
     - [Livre VI : Des contraventions (art. R610-1 à R655-1)](#355)
@@ -40413,41 +40413,50 @@ _Cite_:
 ###### Article R431-1
 
 Pour l'application de l'article 431-3, l'autorité habilitée à procéder aux sommations avant de disperser un attroupement par
-la force :
+la force : 
 
-1° Annonce sa présence en énonçant par haut-parleur les mots :
+1° Annonce sa présence en énonçant par haut-parleur les mots : 
 
-" Obéissance à la loi. Dispersez-vous " ;
+" Obéissance à la loi. Dispersez-vous " ; 
 
 2° Procède à une première sommation en énonçant par haut-parleur les mots : " Première sommation : on va faire usage de la
-force " ;
+force " ; 
 
 3° Procède à une deuxième et dernière sommation en énonçant par haut-parleur les mots : " Dernière sommation : on va faire
-usage de la force ".
+usage de la force ". 
 
 Si l'utilisation du haut-parleur est impossible ou manifestement inopérante, chaque annonce ou sommation peut être remplacée
-ou complétée par le lancement d'une fusée rouge.
+ou complétée par le lancement d'une fusée rouge. 
 
-Toutefois, si, pour disperser l'attroupement par la force, il doit être fait usage des armes, la dernière sommation ou, le
-cas échéant, le lancement de fusée qui la remplace ou la complète doivent être réitérés.
+Toutefois, si, pour disperser l'attroupement par la force, il doit être fait usage des armes mentionnées au IV de l'article
+R. 431-3, la dernière sommation ou, le cas échéant, le lancement de fusée qui la remplace ou la complète doivent être
+réitérés.
 
 **Liens relatifs à cet article**
 
-**Liens**:
-
-  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
-
 _Codifié par_:
 
-  - Décret n°93-726 1993-03-29
+  - Décret n°93-726 du 29 mars 1993
 
 _Cité par_:
 
   - Arrêté du 8 septembre 2009 - art. 5 (VD)
 
+_Modifié par_:
+
+  - Décret n°2011-794 du 30 juin 2011 - art. 1
+
+_Abrogé par_:
+
+  - Décret n°2013-1113 du 4 décembre 2013 - art. 9
+
+_Nouveaux textes_:
+
+  - Code de la sécurité intérieure - art. R211-11 (VD)
+
 _Cite_:
 
-  - Code pénal - art. 431-3 (V)
+  - Code pénal - art. 431-3
 
 
 ###### Article R431-2
@@ -40486,6 +40495,142 @@ _Nouveaux textes_:
 _Cite_:
 
   - Code pénal - art. 431-3
+
+
+###### Article R431-3
+
+I.-L'emploi de la force par les représentants de la force publique n'est possible que si les circonstances le rendent
+absolument nécessaire au maintien de l'ordre public dans les conditions définies par l'article 431-3. La force déployée doit
+être proportionnée au trouble à faire cesser et doit prendre fin lorsque celui-ci a cessé. 
+
+II.-Hors les deux cas prévus au quatrième alinéa de l'article 431-3 (1), les représentants de la force publique ne peuvent
+faire usage des armes à feu pour le maintien de l'ordre public que sur ordre exprès des autorités habilitées à décider de
+l'emploi de la force dans des conditions définies à l'article R. 431-4. 
+
+Cet ordre est transmis par tout moyen permettant d'en assurer la matérialité et la traçabilité. 
+
+III.-Pour les forces armées mentionnées aux 1° et 3° de l'article L. 3211-1 du code de la défense, l'ordre exprès mentionné
+au II prend la forme d'une réquisition spéciale écrite délivrée par les autorités mentionnées à l'article R. 431-4. 
+
+IV.-Hors les deux cas prévus au quatrième alinéa de l'article 431-3 (1), les armes à feu susceptibles d'être utilisées pour
+le maintien de l'ordre public sont les grenades principalement à effet de souffle et leurs lanceurs entrant dans le champ
+d'application de l'article 2 du décret n° 95-589 du 6 mai 1995 et autorisés par arrêté du Premier ministre. 
+
+V.-Sans préjudice des articles 122-5 et 122-7, peuvent être utilisées dans les deux cas prévus au quatrième alinéa de
+l'article 431-3 (1), outre les armes mentionnées au IV, les armes à feu de 1re et de 4e catégorie adaptées au maintien de
+l'ordre correspondant aux conditions de ce quatrième alinéa, entrant dans le champ d'application de l'article 2 du décret n°
+95-589 du 6 mai 1995 et autorisées par arrêté du Premier ministre.
+
+**Nota:**
+
+(1) : Les alinéas 2 à 5 de l'article 431-3 du code pénal ont été codifiés à l'article L211-9 du code de la sécurité
+intérieure.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Décret n°95-589 du 6 mai 1995 - art. 2
+  - Code pénal - art. 122-5
+  - Code pénal - art. 122-7
+  - Code pénal - art. 431-3
+  - Code pénal - art. R431-4
+  - Code de la défense. - art. L3211-1
+
+_Créé par_:
+
+  - Décret n°2011-794 du 30 juin 2011 - art. 2
+
+_Cité par_:
+
+  - Décret n°2011-795 du 30 juin 2011 - art. 1 (VT)
+  - Décret n°2011-795 du 30 juin 2011 - art. 2 (VT)
+  - Décret n°2011-795 du 30 juin 2011 - art. 3 (VT)
+
+_Abrogé par_:
+
+  - Décret n°2013-1113 du 4 décembre 2013 - art. 9
+
+_Nouveaux textes_:
+
+  - Code de la sécurité intérieure - art. R211-13 (VD)
+  - Code de la sécurité intérieure - art. R211-14 (VD)
+  - Code de la sécurité intérieure - art. R211-15 (VD)
+  - Code de la sécurité intérieure - art. R211-16 (VD)
+  - Code de la sécurité intérieure - art. R211-18 (VD)
+
+
+###### Article R431-4
+
+Dans les cas d'attroupements prévus à l'article 431-3, le préfet ou le sous-préfet, le maire ou l'un de ses adjoints, le
+commissaire de police, le commandant de groupement de gendarmerie départementale ou, mandaté par l'autorité préfectorale, un
+commissaire de police ou l'officier de police chef de circonscription ou le commandant de compagnie de gendarmerie
+départementale doivent être présents sur les lieux en vue, le cas échéant, de décider de l'emploi de la force après
+sommation. 
+
+Si elle n'effectue pas elle-même les sommations, l'autorité civile responsable de l'emploi de la force désigne un officier de
+police judiciaire pour y procéder.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2011-794 du 30 juin 2011 - art. 3
+
+_Abrogé par_:
+
+  - Décret n°2013-1113 du 4 décembre 2013 - art. 9
+
+_Nouveaux textes_:
+
+  - Code de la sécurité intérieure - art. R211-21 (VD)
+
+_Cite_:
+
+  - Code pénal - art. 431-3
+
+_Cité par_:
+
+  - Code pénal - art. R431-3 (VT)
+
+
+###### Article R431-5
+
+I.-Les moyens militaires spécifiques de la gendarmerie nationale susceptibles d'être utilisés au maintien de l'ordre sont les
+véhicules blindés de la gendarmerie équipés pour le maintien de l'ordre. 
+
+Ces moyens militaires spécifiques ne peuvent être engagés qu'en cas de troubles graves à l'ordre public ou de risques de tels
+troubles et après autorisation du Premier ministre. 
+
+II.-Le préfet de zone de défense et de sécurité en métropole et le représentant de l'Etat dans les départements d'outre-mer
+ou dans les collectivités d'outre-mer régies par l'article 74 de la Constitution et en Nouvelle-Calédonie ont compétence pour
+autoriser l'emploi des moyens militaires spécifiques implantés sur le territoire de leurs zone, département ou collectivité. 
+
+III.-Les autorités habilitées à décider de l'emploi des moyens militaires spécifiques de la gendarmerie délivrent une
+autorisation écrite et préalable à leur emploi. 
+
+Cette autorisation indique l'objet et la date de la mission, sa durée prévisible ainsi que les points, lieux ou zones
+géographiques dans lesquels ces moyens seront employés.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Constitution du 4 octobre 1958 - art. 74
+
+_Créé par_:
+
+  - Décret n°2011-794 du 30 juin 2011 - art. 4
+
+_Abrogé par_:
+
+  - Décret n°2013-1113 du 4 décembre 2013 - art. 9
+
+_Nouveaux textes_:
+
+  - Code de la sécurité intérieure - art. R214-1 (VD)
+  - Code de la sécurité intérieure - art. R214-2 (VD)
+  - Code de la sécurité intérieure - art. R214-3 (VD)
 
 
 ## Livre V : Des autres crimes et délits<a id=353></a>
