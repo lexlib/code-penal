@@ -1,5 +1,5 @@
 # Code pénal  
-Version Consolidée au 2011-09-17
+Version Consolidée au 2011-10-20
 ## Contenu: 
   - [Partie législative (art. 111-1 à 727-3)](#1)
     - [Livre Ier : Dispositions générales (art. 111-1 à 133-17)](#2)
@@ -315,7 +315,7 @@ dans les conflits armés (art. 461-7)](#266)
               - [Paragraphe 4 : De l'obligation d'accomplir un stage de sensibilisation à la sécurité routière (art. R131-11-1)](#311)
             - [Sous-section 2 : Du travail d'intérêt général (art. R131-12 à R131-34)](#312)
               - [Paragraphe 1 : Des modalités d'habilitation des personnes morales et d'établissement de la liste des travaux d'intérêt général (art. R131-12 à R131-22)](#313)
-                - [A. : Des modalités d'habilitation des personnes morales (art. R131-12 à R131-16)](#314)
+                - [A. : Des modalités d'habilitation des personnes morales (art. R131-12 à R131-16-1)](#314)
                 - [B. : De l'établissement de la liste des travaux d'intérêt général (art. R131-17 à R131-20)](#315)
                 - [C. : Dispositions diverses (art. R131-21 à R131-22)](#316)
               - [Paragraphe 2 : De l'exécution du travail d'intérêt général (art. R131-23 à R131-34)](#317)
@@ -38422,6 +38422,37 @@ restreinte.
 _Modifié par_:
 
   - Décret n°2010-671 du 18 juin 2010 - art. 2
+
+
+###### Article R131-16-1
+
+Par dérogation aux articles R. 131-12 à R. 131-16, l'habilitation peut être délivrée par le ministre de la justice lorsqu'il
+s'agit d'une association ou d'une personne morale de droit privé chargée d'une mission de service public exerçant ou ayant
+vocation à exercer son activité sur l'ensemble du territoire national.
+
+Pour les associations, la demande d'habilitation comporte la copie du Journal officiel portant publication de la déclaration
+de l'association, un exemplaire des statuts, ainsi que l'identité de ses dirigeants.
+
+Pour les personnes morales de droit privé chargées d'une mission de service public, la demande comporte la copie des statuts
+de la personne morale ainsi qu'un extrait du registre du commerce et des sociétés (extraits K ou K bis) datant de moins de
+trois mois.
+
+La personne morale habilitée porte à la connaissance du ministre de la justice toute modification de l'un des éléments
+mentionnés aux deux alinéas précédents.
+
+Les habilitations sont accordées pour une durée de cinq ans et pour l'ensemble du territoire national.
+
+La liste des personnes morales habilitées est fixée par arrêté du ministre de la justice.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2011-1310 du 17 octobre 2011 - art. 1
+
+_Cite_:
+
+  - Code pénal - art. R131-12
 
 
 ##### B. : De l'établissement de la liste des travaux d'intérêt général<a id=315></a>
