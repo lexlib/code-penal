@@ -1,5 +1,5 @@
 # Code pénal  
-Version Consolidée au 2011-10-20
+Version Consolidée au 2011-11-05
 ## Contenu: 
   - [Partie législative (art. 111-1 à 727-3)](#1)
     - [Livre Ier : Dispositions générales (art. 111-1 à 133-17)](#2)
@@ -349,7 +349,7 @@ dans les conflits armés (art. 461-7)](#266)
     - [Livre IV : Des crimes et délits contre la nation, l'Etat et la paix publique (art. R413-1 à R431-5)](#345)
       - [Titre Ier : Des atteintes aux intérêts fondamentaux de la nation (art. R413-1 à R413-6)](#346)
         - [Chapitre III : Des autres atteintes à la défense nationale (art. R413-1 à R413-6)](#347)
-          - [Section 1 : Des atteintes à la sécurité des forces armées et aux zones protégées intéressant la défense nationale (art. R413-1 à R413-5)](#348)
+          - [Section 1 : Des atteintes à la sécurité des forces armées et aux zones protégées intéressant la défense nationale (art. R413-1 à R413-5-1)](#348)
           - [Section 2 : Des atteintes au secret de la défense nationale (art. R413-6)](#349)
       - [Titre III : Des atteintes à l'autorité de l'Etat (art. R431-1 à R431-5)](#350)
         - [Chapitre Ier : Des atteintes à la paix publique (art. R431-1 à R431-5)](#351)
@@ -40444,6 +40444,72 @@ _Cité par_:
   - Code de la défense. - art. D2362-3 (M)
   - Code de la défense. - art. D2362-4-1 (V)
   - Code pénal - art. R413-5-1 (V)
+
+
+###### Article R413-5-1
+
+I. - Sont dites " zones à régime restrictif " celles des zones, mentionnées à l'article R. 413-1, dont le besoin de
+protection tient à l'impératif qui s'attache à empêcher que des éléments essentiels du potentiel scientifique ou technique de
+la nation : 
+
+1° Fassent l'objet d'une captation de nature à affaiblir ses moyens de défense, à compromettre sa sécurité ou à porter
+préjudice à ses autres intérêts fondamentaux ; 
+
+2° Ou soient détournés à des fins de terrorisme, de prolifération d'armes de destruction massive et de leurs vecteurs ou de
+contribution à l'accroissement d'arsenaux militaires. 
+
+Les zones à régime restrictif peuvent inclure, dans leur périmètre, des locaux dont la protection renforcée est justifiée par
+l'entreposage de produits ou par l'exécution d'activités comportant des risques particuliers au regard des impératifs
+mentionnés aux trois premiers alinéas. 
+
+II. - Par dérogation aux deux premiers alinéas de l'article R. 413-5, l'accès à une zone à régime restrictif pour y effectuer
+un stage, y préparer un doctorat, y participer à une activité de recherche, y suivre une formation, y effectuer une
+prestation de service ou y exercer une activité professionnelle est soumis à l'autorisation du chef du service,
+d'établissement ou d'entreprise, après avis favorable du ministre chargé d'en exercer la tutelle ou, à défaut de ministre de
+tutelle, du ministre qui a déterminé le besoin de protection en application de l'article R. 413-2. 
+
+La demande d'avis est adressée par le chef de service, d'établissement ou d'entreprise au ministre mentionné au précédent
+alinéa. Le silence gardé par le ministre au cours des deux mois suivant la réception de la demande vaut avis favorable. 
+
+Le refus d'autorisation d'accès n'est pas motivé. 
+
+III. - Toute personne bénéficiant d'une habilitation au titre de la protection du secret de la défense nationale est réputée
+avoir obtenu l'avis ministériel favorable mentionné au II. 
+
+Les prestataires extérieurs de services relevant de catégories précisées par arrêté du Premier ministre et exerçant leur
+activité habituelle dans une zone à régime restrictif sont réputés avoir obtenu l'avis ministériel favorable mentionné au II
+pour accéder, dans les conditions prévues par un contrat de prestation de service, à la zone à régime restrictif. 
+
+IV. - Dans tous les cas, le chef du service, de l'établissement ou de l'entreprise informe le ministre mentionné au premier
+alinéa du II de sa décision relative à l'autorisation d'accès.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2011-1425 du 2 novembre 2011 - art. 1
+
+_Cité par_:
+
+  - Décret n°2011-1425 du 2 novembre 2011 - art. 2 (V)
+  - Arrêté du 3 juillet 2012 - art. 2 (VD)
+  - Arrêté du 3 juillet 2012 - art. 3 (VD)
+  - Arrêté du 3 juillet 2012 - art. 4 (VD)
+  - Arrêté du 3 juillet 2012 - art. 5 (VD)
+  - Arrêté du 3 juillet 2012 - art. Annexe I (V)
+  - Décret n°2014-1266 du 23 octobre 2014 - art. (VD)
+  - Décret n°2015-1095 du 31 août 2015 - art. 1 (V)
+  - Arrêté du 3 juin 2016 - art. 3 (V)
+  - Décret n°2017-320 du 10 mars 2017 - art. 5
+  - Décret n°2017-854 du 9 mai 2017 (V)
+  - Décret n°2017-854 du 9 mai 2017 - art. 9
+  - Code de la défense. - art. D2362-4-1 (V)
+
+_Cite_:
+
+  - Code pénal - art. R413-1
+  - Code pénal - art. R413-2
+  - Code pénal - art. R413-5
 
 
 ##### Section 2 : Des atteintes au secret de la défense nationale<a id=349></a>
