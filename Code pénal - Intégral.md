@@ -1,5 +1,5 @@
 # Code pénal  
-Version Consolidée au 2012-01-29
+Version Consolidée au 2012-02-01
 ## Contenu: 
   - [Partie législative (art. 111-1 à 727-3)](#1)
     - [Livre Ier : Dispositions générales (art. 111-1 à 133-17)](#2)
@@ -20704,24 +20704,40 @@ _Cite_:
 
 Le fait, par les parents d'un enfant ou toute personne exerçant à son égard l'autorité parentale ou une autorité de fait de
 façon continue, de ne pas l'inscrire dans un établissement d'enseignement, sans excuse valable, en dépit d'une mise en
-demeure de l'inspecteur d'académie, est puni de six mois d'emprisonnement et de 7 500 euros d'amende.
+demeure de l'autorité de l'Etat compétente en matière d'éducation, est puni de six mois d'emprisonnement et de 7 500 euros
+d'amende. 
 
 Le fait, par un directeur d'établissement privé accueillant des classes hors contrat, de n'avoir pas pris, malgré la mise en
-demeure de l'inspecteur d'académie, les dispositions nécessaires pour que l'enseignement qui y est dispensé soit conforme à
-l'objet de l'instruction obligatoire, tel que celui-ci est défini par l'article L. 131-1-1 et L. 131-10 du code de
-l'éducation, et de n'avoir pas procédé à la fermeture de ces classes est puni de six mois d'emprisonnement et de 7 500 euros
-d'amende. En outre, le tribunal peut ordonner à l'encontre de celui-ci l'interdiction de diriger ou d'enseigner ainsi que la
-fermeture de l'établissement.
+demeure de l'autorité de l'Etat compétente en matière d'éducation, les dispositions nécessaires pour que l'enseignement qui y
+est dispensé soit conforme à l'objet de l'instruction obligatoire, tel que celui-ci est défini par l'article L. 131-1-1 et L.
+131-10 du code de l'éducation, et de n'avoir pas procédé à la fermeture de ces classes est puni de six mois d'emprisonnement
+et de 7 500 euros d'amende. En outre, le tribunal peut ordonner à l'encontre de celui-ci l'interdiction de diriger ou
+d'enseigner ainsi que la fermeture de l'établissement.
+
+**Nota:**
+
+Conformément à la décision du Conseil constitutionnel n° 2018-710 QPC du 1er juin 2018, le second alinéa de l'article
+227-17-1 du code pénal, dans sa rédaction résultant du décret n° 2012-16 du 5 janvier 2012 relatif à l'organisation
+académique, est conforme à la Constitution sous les réserves suivantes :
+
+- Pour que les dispositions contestées satisfassent au principe de légalité des délits et des peines, la mise en demeure
+adressée au directeur de l'établissement doit exposer de manière précise et circonstanciée les mesures nécessaires pour que
+l'enseignement dispensé soit mis en conformité avec l'objet de l'instruction obligatoire ;
+
+- Lorsque la personne exploitant l'établissement d'enseignement n'est pas celle poursuivie sur le fondement des dispositions
+contestées, la mesure de fermeture de l'établissement ne saurait, sans méconnaître le principe selon lequel nul n'est
+punissable que de son propre fait, être prononcée sans que le ministère public ait cité cette personne devant le tribunal
+correctionnel en indiquant la nature des poursuites exercées et la possibilité pour ce tribunal de prononcer cette mesure.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Loi n°92-684 1992-07-22
+  - Loi n°92-684 du 22 juillet 1992
 
 _Modifié par_:
 
-  - Loi n°2005-380 du 23 avril 2005 - art. 8 () JORF 24 avril 2005
+  - Décret n°2012-16 du 5 janvier 2012 - art. 7 (VD)
 
 _Cité par_:
 
@@ -20735,8 +20751,7 @@ _Cité par_:
 
 _Cite_:
 
-  - Code de l'éducation - art. L131-1-1 (V)
-  - Code de l'éducation - art. L131-10 (M)
+  - Code de l'éducation - art. L131-1-1
 
 
 ###### Article 227-17-2
@@ -41236,10 +41251,11 @@ _Cite_:
 ###### Article R624-7
 
 Le fait, pour l'un ou l'autre parent d'un enfant soumis à l'obligation scolaire ou pour toute personne exerçant à son égard
-l'autorité parentale ou une autorité de fait de façon continue, après avertissement donné par l'inspecteur d'académie et mise
-en oeuvre des procédures définies à l'article R. 131-7 du code de l'éducation, de ne pas imposer à l'enfant l'obligation
-d'assiduité scolaire sans faire connaître de motif légitime ou d'excuse valable ou en donnant des motifs d'absence inexacts
-est puni de l'amende prévue pour les contraventions de la 4e classe.
+l'autorité parentale ou une autorité de fait de façon continue, après avertissement donné par le directeur académique des
+services de l'éducation nationale agissant sur délégation du recteur d'académie et mise en oeuvre des procédures définies à
+l'article R. 131-7 du code de l'éducation, de ne pas imposer à l'enfant l'obligation d'assiduité scolaire sans faire
+connaître de motif légitime ou d'excuse valable ou en donnant des motifs d'absence inexacts est puni de l'amende prévue pour
+les contraventions de la 4e classe.
 
 Le fait de faciliter, par aide ou assistance, la commission de la contravention prévue au présent article est puni des mêmes
 peines.
@@ -41254,16 +41270,11 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2010-671 du 18 juin 2010 - art. 4
+  - Décret n°2012-16 du 5 janvier 2012 - art. 7 (VD)
 
 **Liens**:
 
   - PILOTE_SUIVEUR: Code de l'éducation - art. R131-19 (VD)
-
-_Cite_:
-
-  - Code pénal - art. 121-2
-  - Code pénal - art. 131-41
 
 
 #### Chapitre V : Des contraventions de la 5e classe contre les personnes<a id=373></a>
