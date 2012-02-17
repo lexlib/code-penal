@@ -1,5 +1,5 @@
 # Code pénal  
-Version Consolidée au 2012-02-03
+Version Consolidée au 2012-02-18
 ## Contenu: 
   - [Partie législative (art. 111-1 à 727-3)](#1)
     - [Livre Ier : Dispositions générales (art. 111-1 à 133-17)](#2)
@@ -21422,38 +21422,6 @@ _Cite_:
   - Code pénal - art. 113-8 (V)
   - Code pénal - art. 227-22 (V)
   - Code pénal - art. 227-25 (V)
-
-
-###### Article 227-27-2
-
-Les infractions définies aux articles 227-25, 227-26 et 227-27 sont qualifiées d'incestueuses lorsqu'elles sont commises au
-sein de la famille sur la personne d'un mineur par un ascendant, un frère, une sœur ou par toute autre personne, y compris
-s'il s'agit d'un concubin d'un membre de la famille, ayant sur la victime une autorité de droit ou de fait.
-
-**Nota:**
-
-Dans sa décision n° 2011-222 QPC du 17 février 2012 (NOR : CSCX1205183S), le Conseil constitutionnel a déclaré contraire à la
-Constitution l'article 227-27-2 du code pénal. La déclaration d'inconstitutionnalité prend effet à compter de la publication
-de la présente décision.
-
-**Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Loi n°2010-121 du 8 février 2010 - art. 1
-
-_Abrogé par_:
-
-  - Décision n°2011-222 QPC du 17 février 2012 - art. 1, v. init.
-
-_Cité par_:
-
-  - Code de procédure pénale - art. 356 (V)
-  - Code de procédure pénale - art. 706-50 (V)
-
-_Cite_:
-
-  - Code pénal - art. 227-25
 
 
 ###### Article 227-27-3
