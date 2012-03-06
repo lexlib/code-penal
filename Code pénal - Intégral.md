@@ -1,5 +1,5 @@
 # Code pénal  
-Version Consolidée au 2012-02-18
+Version Consolidée au 2012-03-07
 ## Contenu: 
   - [Partie législative (art. 111-1 à 727-3)](#1)
     - [Livre Ier : Dispositions générales (art. 111-1 à 133-17)](#2)
@@ -15294,25 +15294,38 @@ _Cite_:
 
 ###### Article 223-8
 
-Le fait de pratiquer ou de faire pratiquer sur une personne une recherche biomédicale sans avoir recueilli le consentement
-libre, éclairé et exprès de l'intéressé, des titulaires de l'autorité parentale ou du tuteur ou d'autres personnes, autorités
-ou organes désignés pour consentir à la recherche ou pour l'autoriser, dans les cas prévus par les dispositions du code de la
-santé publique est puni de trois ans d'emprisonnement et de 45 000 euros d'amende.
+Le fait de pratiquer ou de faire pratiquer sur une personne une recherche mentionnée aux 1° ou 2° de l'article L. 1121-1 du
+code de la santé publique sans avoir recueilli le consentement libre, éclairé et, le cas échéant, écrit de l'intéressé, des
+titulaires de l'autorité parentale ou du tuteur ou d'autres personnes, autorités ou organes désignés pour consentir à la
+recherche ou pour l'autoriser, dans les cas prévus par le code de la santé publique, est puni de trois ans d'emprisonnement
+et de 45 000 € d'amende. 
 
-Les mêmes peines sont applicables lorsque la recherche biomédicale est pratiquée alors que le consentement a été retiré.
+Les mêmes peines sont applicables lorsque la recherche interventionnelle est pratiquée alors que le consentement a été
+retiré. 
+
+Les mêmes peines sont applicables lorsqu'une recherche non interventionnelle est pratiquée alors que la personne s'y est
+opposée. 
 
 Les dispositions du présent article ne sont pas applicables à l'examen des caractéristiques génétiques d'une personne ou à
 son identification par ses empreintes génétiques effectués à des fins de recherche scientifique.
+
+**Nota:**
+
+Conformément à l'article 11 de la loi n° 2012-300 du 5 mars 2012, l'article 1 de la présente loi entre en vigueur dès la
+publication au Journal officiel des décrets mentionnés aux articles L. 1121-17 et L. 1123-14 du code de la santé publique,
+ainsi qu'à l'article 8 de la présente loi (Entrée en vigueur : date indéterminée).
+
+L'article 11 de ladite loi a été abrogé par ordonnance n° 2016-800 du 16 juin 2016, article 8.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Loi n°92-684 1992-07-22
+  - Loi n°92-684 du 22 juillet 1992
 
 _Modifié par_:
 
-  - Loi n°2004-806 du 9 août 2004 - art. 94 () JORF 11 août 2004
+  - Loi n°2012-300 du 5 mars 2012 - art. 1 (V)
 
 _Cité par_:
 
@@ -15335,6 +15348,10 @@ _Cité par_:
 
   - PILOTE_SUIVEUR: Code de la santé publique - art. L1126-1 (VD)
   - TXT_ASSOCIE: Code de la santé publique - art. L209-19 (Ab)
+
+_Cite_:
+
+  - Code de la santé publique - art. L1121-1
 
 
 ###### Article 223-9
@@ -36991,26 +37008,17 @@ _Cite_:
 
 ###### Article 723-1
 
-Le premier alinéa de l'article 223-8 est rédigé comme suit :
+Le premier alinéa de l'article 223-8 est rédigé comme suit : 
 
-" Le fait de pratiquer ou de faire pratiquer sur une personne une recherche biomédicale sans avoir recueilli le consentement
-libre, éclairé et exprès de l'intéressé, des titulaires de l'autorité parentale ou du tuteur est puni de trois ans
-d'emprisonnement et de 45 000 euros d'amende. "
+" Le fait de pratiquer ou de faire pratiquer sur une personne une recherche impliquant la personne humaine sans avoir
+recueilli le consentement libre, éclairé et exprès de l'intéressé, des titulaires de l'autorité parentale ou du tuteur est
+puni de trois ans d'emprisonnement et de 45 000 euros d'amende. "
 
 **Liens relatifs à cet article**
 
-**Liens**:
-
-  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
-  - PILOTE_SUIVEUR: Code de la santé publique - art. L1517-2 (V)
-
-_Codifié par_:
-
-  - Ordonnance 96-267 1996-03-28
-
 _Modifié par_:
 
-  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+  - Loi n°2012-300 du 5 mars 2012 - art. 1 (V)
 
 _Cité par_:
 
@@ -37020,9 +37028,13 @@ _Nouveaux textes_:
 
   - Code de la santé publique - art. L1517-2 (MMN)
 
+**Liens**:
+
+  - PILOTE_SUIVEUR: Code de la santé publique - art. L1517-2 (V)
+
 _Cite_:
 
-  - Code pénal - art. 223-8 (M)
+  - Code pénal - art. 223-8 (V)
 
 
 ###### Article 723-2
