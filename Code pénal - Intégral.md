@@ -1,5 +1,5 @@
 # Code pénal  
-Version Consolidée au 2012-03-07
+Version Consolidée au 2012-03-08
 ## Contenu: 
   - [Partie législative (art. 111-1 à 727-3)](#1)
     - [Livre Ier : Dispositions générales (art. 111-1 à 133-17)](#2)
@@ -11803,12 +11803,12 @@ _Cite_:
 
 ###### Article 221-8
 
-Les personnes physiques coupables des infractions prévues au présent chapitre encourent également les peines complémentaires
-suivantes : 
+I. – Les personnes physiques coupables des infractions prévues au présent chapitre encourent également les peines
+complémentaires suivantes : 
 
 1° L'interdiction, suivant les modalités prévues par l'article 131-27, soit d'exercer une fonction publique ou d'exercer
 l'activité professionnelle ou sociale dans l'exercice ou à l'occasion de l'exercice de laquelle l'infraction a été commise,
-soit, pour les crimes prévus par les articles 221-1, 221-2, 221-3, 221-4 et 221-5, d'exercer une profession commerciale ou
+soit, pour les crimes prévus par les articles 221-1,221-2,221-3,221-4 et 221-5, d'exercer une profession commerciale ou
 industrielle, de diriger, d'administrer, de gérer ou de contrôler à un titre quelconque, directement ou indirectement, pour
 son propre compte ou pour le compte d'autrui, une entreprise commerciale ou industrielle ou une société commerciale. Ces
 interdictions d'exercice peuvent être prononcées cumulativement ; 
@@ -11845,7 +11845,7 @@ condamné s'est servi pour commettre l'infraction, s'il en est le propriétaire 
 l'infraction, s'il en est le propriétaire ; 
 
 La confiscation du véhicule est obligatoire dans les cas prévus par les 4° et dernier alinéa de l'article 221-6-1 ainsi que,
-dans les cas prévus par les 2°,3° et 5° du même article, en cas de récidive ou si la personne a déjà été définitivement
+dans les cas prévus par les 2°, 3° et 5° du même article, en cas de récidive ou si la personne a déjà été définitivement
 condamnée pour un des délits prévus par les articles L. 221-2, 
 L. 224-16, L. 234-1, L. 234-8, 
 L. 235-1, L. 235-3 ou L. 413-1 du code de la route ou pour la contravention mentionnée à ce même article L. 413-1. La
@@ -11860,7 +11860,15 @@ s'applique, pour la durée fixée par la juridiction, à l'issue de l'exécution
 Toute condamnation pour les délits prévus par les 1° à 6° et le dernier alinéa de l'article 221-6-1 donne lieu de plein droit
 à l'annulation du permis de conduire avec interdiction de solliciter un nouveau permis pendant dix ans au plus. En cas de
 récidive, la durée de l'interdiction est portée de plein droit à dix ans et le tribunal peut, par décision spécialement
-motivée, prévoir que cette interdiction est définitive.
+motivée, prévoir que cette interdiction est définitive. 
+
+II. – En cas de condamnation pour les infractions prévues à la section 1 du présent chapitre, le prononcé des peines
+complémentaires prévues aux 2°, 5° et 6° du I est obligatoire. La durée des peines prévues aux 2° et 6° du I est portée à
+quinze ans au plus. 
+
+Toutefois, la juridiction peut, par une décision spécialement motivée lorsque la condamnation est prononcée par une
+juridiction correctionnelle, décider de ne pas prononcer ces peines, en considération des circonstances de l'infraction et de
+la personnalité de son auteur.
 
 **Liens relatifs à cet article**
 
@@ -11874,7 +11882,8 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2011-267 du 14 mars 2011 - art. 73
+  - Loi n°2012-304 du 6 mars 2012 - art. 20
+  - Loi n°2012-304 du 6 mars 2012 - art. 7
 
 **Liens**:
 
@@ -11890,6 +11899,7 @@ _Cite_:
   - Code de la route. - art. L221-2
   - Code de la route. - art. L224-16
   - Code de la route. - art. L234-1
+  - Code de la route. - art. L234-17 (V)
   - Code de la route. - art. L234-8
   - Code de la route. - art. L235-1
   - Code de la route. - art. L235-3
@@ -14622,8 +14632,8 @@ _Créé par_:
 
 ###### Article 222-44
 
-Les personnes physiques coupables des infractions prévues au présent chapitre encourent également les peines complémentaires
-suivantes : 
+I. - Les personnes physiques coupables des infractions prévues au présent chapitre encourent également les peines
+complémentaires suivantes : 
 
 1° L'interdiction, suivant les modalités prévues par l'article 131-27, soit d'exercer une fonction publique ou d'exercer
 l'activité professionnelle ou sociale dans l'exercice ou à l'occasion de l'exercice de laquelle l'infraction a été commise,
@@ -14669,7 +14679,7 @@ véhicule dont le condamné s'est servi pour commettre l'infraction, s'il en est
 
 13° Dans les cas prévus par les articles 222-19-1 et 222-20-1, la confiscation du véhicule dont le condamné s'est servi pour
 commettre l'infraction, s'il en est le propriétaire. La confiscation du véhicule est obligatoire dans les cas prévus par les
-4° et dernier alinéa de ces articles ainsi que, dans les cas prévus par les 2°,3° et 5° des mêmes articles, en cas de
+4° et dernier alinéa de ces articles ainsi que, dans les cas prévus par les 2°, 3° et 5° des mêmes articles, en cas de
 récidive ou si la personne a déjà été définitivement condamnée pour un des délits prévus par les articles L. 221-2, L.
 224-16, L. 234-1, 
 L. 234-8, L. 235-1, L. 235-3, 
@@ -14686,6 +14696,14 @@ peine.
 Toute condamnation pour les délits prévus par les 1° à 6° et le dernier alinéa de l'article 222-19-1 donne lieu de plein
 droit à l'annulation du permis de conduire avec interdiction de solliciter un nouveau permis pendant dix ans au plus.
 
+II. - En cas de condamnation pour les crimes ou pour les délits commis avec une arme prévus aux sections 1, 3, 3 ter et 4 du
+présent chapitre, le prononcé des peines complémentaires prévues aux 2° et 6° du I est obligatoire. La durée de la peine
+prévue au 2° du I est portée à quinze ans au plus.
+
+Toutefois, la juridiction peut, par une décision spécialement motivée lorsque la condamnation est prononcée par une
+juridiction correctionnelle, décider de ne pas prononcer ces peines, en considération des circonstances de l'infraction et de
+la personnalité de son auteur.
+
 **Liens relatifs à cet article**
 
 _Cité par_:
@@ -14697,7 +14715,8 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2011-267 du 14 mars 2011 - art. 73
+  - Loi n°2012-304 du 6 mars 2012 - art. 20
+  - Loi n°2012-304 du 6 mars 2012 - art. 8
 
 **Liens**:
 
@@ -16095,7 +16114,7 @@ _Créé par_:
 
 ###### Article 224-9
 
-Les personnes physiques coupables des infractions prévues au présent chapitre encourent les peines complémentaires
+I. - Les personnes physiques coupables des infractions prévues au présent chapitre encourent les peines complémentaires
 suivantes : 
 
 1° L'interdiction, suivant les modalités prévues par l'article 131-26, des droits civiques, civils et de famille ; 
@@ -16108,22 +16127,35 @@ d'administrer, de gérer ou de contrôler à un titre quelconque, directement ou
 le compte d'autrui, une entreprise commerciale ou industrielle ou une société commerciale. Ces interdictions d'exercice
 peuvent être prononcées cumulativement ; 
 
-3° L'interdiction, pour une durée de cinq ans au plus, de détenir ou de porter une arme soumise à autorisation ; 
+3° (Abrogé) 
 
 4° S'il s'agit des crimes visés à la section 1 du présent chapitre, l'obligation d'accomplir un stage de responsabilité
-parentale, selon les modalités fixées à l'article 131-35-1.
+parentale, selon les modalités fixées à l'article 131-35-1. 
+
+II. - En cas de condamnation pour les infractions prévues au présent chapitre, le prononcé de la peine complémentaire
+d'interdiction de détenir ou de porter, pour une durée de dix ans au plus, une arme soumise à autorisation est obligatoire. 
+
+Toutefois, la juridiction peut, par une décision spécialement motivée lorsque la condamnation est prononcée par une
+juridiction correctionnelle, décider de ne pas prononcer cette peine, en considération des circonstances de l'infraction et
+de la personnalité de son auteur.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Loi n°2008-776 du 4 août 2008 - art. 70
+  - Loi n°2012-304 du 6 mars 2012 - art. 20
+  - Loi n°2012-304 du 6 mars 2012 - art. 9
 
 _Cite_:
 
-  - Code pénal - art. 131-26 (V)
-  - Code pénal - art. 131-35-1 (V)
-  - Code pénal - art. 224-1 (V)
+  - Code pénal - art. 131-26
+  - Code pénal - art. 131-27
+  - Code pénal - art. 131-35-1
+  - Code pénal - art. 224-1
+  - Code pénal - art. 224-2
+  - Code pénal - art. 224-3
+  - Code pénal - art. 224-5
+  - Code pénal - art. 224-7
 
 
 ###### Article 224-10
@@ -17762,18 +17794,18 @@ _Cite_:
 
 ###### Article 225-20
 
-Les personnes physiques coupables des infractions prévues par les sections 1 bis, 2, 2 bis, 2 ter et 2 quater du présent
+I. - Les personnes physiques coupables des infractions prévues par les sections 1 bis, 2, 2 bis, 2 ter et 2 quater du présent
 chapitre encourent également les peines complémentaires suivantes : 
 
 1° L'interdiction des droits civiques, civils et de famille, suivant les modalités prévues par l'article 131-26 ; 
 
 2° L'interdiction, suivant les modalités prévues par l'article 131-27, soit d'exercer une fonction publique ou d'exercer
 l'activité professionnelle ou sociale dans l'exercice ou à l'occasion de l'exercice de laquelle l'infraction a été commise,
-soit, pour les infractions prévues par les articles 225-4-3, 225-4-4, 225-5, 225-6, 225-7, 225-7-1, 225-8, 225-9, 225-10,
-225-10-1, 225-12-1 et 225-12-2, d'exercer une profession commerciale ou industrielle, de diriger, d'administrer, de gérer ou
-de contrôler à un titre quelconque, directement ou indirectement, pour son propre compte ou pour le compte d'autrui, une
-entreprise commerciale ou industrielle ou une société commerciale. Ces interdictions d'exercice peuvent être prononcées
-cumulativement ; 
+soit, pour les infractions prévues par les articles 225-4-3
+, 225-4-4, 225-5, 225-6, 225-7, 225-7-1, 225-8, 225-9, 225-10, 225-10-1, 225-12-1 et 225-12-2, d'exercer une profession
+commerciale ou industrielle, de diriger, d'administrer, de gérer ou de contrôler à un titre quelconque, directement ou
+indirectement, pour son propre compte ou pour le compte d'autrui, une entreprise commerciale ou industrielle ou une société
+commerciale. Ces interdictions d'exercice peuvent être prononcées cumulativement ; 
 
 3° L'interdiction de séjour ; 
 
@@ -17788,19 +17820,30 @@ quelconque participation financière ;
 7° L'interdiction d'exercer, soit à titre définitif, soit pour une durée de dix ans au plus, une activité professionnelle ou
 bénévole impliquant un contact habituel avec des mineurs ; 
 
-8° L'obligation d'accomplir un stage de responsabilité parentale, selon les modalités fixées à l'article 131-35-1.
+8° L'obligation d'accomplir un stage de responsabilité parentale, selon les modalités fixées à l'article 131-35-1. 
+
+II. - En cas de condamnation pour les infractions prévues aux sections 1 bis, 2 et 2 ter du présent chapitre, le prononcé de
+la peine complémentaire prévue au 5° du I est obligatoire et la durée de l'interdiction est portée à dix ans au plus. 
+
+Toutefois, la juridiction peut, par une décision spécialement motivée lorsque la condamnation est prononcée par une
+juridiction correctionnelle, décider de ne pas prononcer cette peine, en considération des circonstances de l'infraction et
+de la personnalité de son auteur.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Loi n°2011-267 du 14 mars 2011 - art. 52
+  - Loi n°2003-239 du 18 mars 2003 - art. 64
+  - Loi n°2012-304 du 6 mars 2012 - art. 10
+  - Loi n°2012-304 du 6 mars 2012 - art. 20
 
 _Cite_:
 
   - Code pénal - art. 131-26
+  - Code pénal - art. 131-27
   - Code pénal - art. 131-35-1
   - Code pénal - art. 225-4-3
+  - Code pénal - art. 225-4-4
 
 
 ###### Article 225-21
@@ -21877,7 +21920,7 @@ _Cité par_:
 
 ###### Article 311-14
 
-Les personnes physiques coupables de l'une des infractions prévues au présent chapitre encourent également les peines
+I. - Les personnes physiques coupables de l'une des infractions prévues au présent chapitre encourent également les peines
 complémentaires suivantes : 
 
 1° L'interdiction des droits civiques, civils et de famille, suivant les modalités prévues par l'article 131-26 ; 
@@ -21898,17 +21941,26 @@ l'exception des objets susceptibles de restitution ;
 5° L'interdiction de séjour, suivant les modalités prévues par l'article 131-31, dans les cas prévus par les articles 311-5 à
 311-10 ; 
 
-6° L'obligation d'accomplir un stage de citoyenneté, selon les modalités prévues par l'article 131-5-1.
+6° L'obligation d'accomplir un stage de citoyenneté, selon les modalités prévues par l'article 131-5-1. 
+
+II. - En cas de condamnation pour vol commis avec violence ou pour vol puni d'une peine criminelle, le prononcé de la peine
+complémentaire prévue au 3° du I est obligatoire. 
+
+Toutefois, la juridiction peut, par une décision spécialement motivée lorsque la condamnation est prononcée par une
+juridiction correctionnelle, décider de ne pas prononcer cette peine, en considération des circonstances de l'infraction et
+de la personnalité de son auteur.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Loi n°2011-267 du 14 mars 2011 - art. 47
+  - Loi n°2012-304 du 6 mars 2012 - art. 11
+  - Loi n°2012-304 du 6 mars 2012 - art. 20
 
 _Cite_:
 
   - Code pénal - art. 131-26
+  - Code pénal - art. 131-27
   - Code pénal - art. 131-31
   - Code pénal - art. 131-35-1
   - Code pénal - art. 311-3
@@ -22398,7 +22450,7 @@ _Créé par_:
 
 ###### Article 312-13
 
-Les personnes physiques coupables de l'une des infractions prévues au présent chapitre encourent également les peines
+I. – Les personnes physiques coupables de l'une des infractions prévues au présent chapitre encourent également les peines
 complémentaires suivantes : 
 
 1° L'interdiction des droits civiques, civils et de famille, suivant les modalités prévues par l'article 131-26 ; 
@@ -22406,12 +22458,12 @@ complémentaires suivantes :
 2° L'interdiction, suivant les modalités prévues par l'article 131-27, soit d'exercer une fonction publique ou d'exercer
 l'activité professionnelle ou sociale dans l'exercice ou à l'occasion de l'exercice de laquelle l'infraction a été commise,
 cette interdiction étant définitive ou provisoire dans les cas prévus aux articles 312-3 à 312-7 et pour une durée de cinq
-ans au plus dans les cas prévus aux articles 312-1, 312-2 et 312-10, soit d'exercer une profession commerciale ou
+ans au plus dans les cas prévus aux articles 312-1,312-2 et 312-10, soit d'exercer une profession commerciale ou
 industrielle, de diriger, d'administrer, de gérer ou de contrôler à un titre quelconque, directement ou indirectement, pour
 son propre compte ou pour le compte d'autrui, une entreprise commerciale ou industrielle ou une société commerciale. Ces
 interdictions d'exercice peuvent être prononcées cumulativement ; 
 
-3° L'interdiction de détenir ou de porter, pour une durée de cinq ans au plus, une arme soumise à autorisation ; 
+3° (Abrogé) ; 
 
 4° La confiscation de la chose qui a servi ou était destinée à commettre l'infraction ou de la chose qui en est le produit, à
 l'exception des objets susceptibles de restitution ; 
@@ -22421,21 +22473,31 @@ l'exception des objets susceptibles de restitution ;
 6° L'obligation d'accomplir un stage de citoyenneté, selon les modalités de l'article 131-5-1 ; 
 
 7° L'obligation d'accomplir un stage de sensibilisation aux dangers de l'usage de produits stupéfiants, selon les modalités
-fixées à l'article 131-35-1.
+fixées à l'article 131-35-1. 
+
+II. – En cas de condamnation pour les infractions prévues au présent chapitre, le prononcé de la peine complémentaire
+d'interdiction de détenir ou de porter, pour une durée de cinq ans au plus, une arme soumise à autorisation est obligatoire. 
+
+Toutefois, la juridiction peut, par une décision spécialement motivée lorsque la condamnation est prononcée par une
+juridiction correctionnelle, décider de ne pas prononcer cette peine, en considération des circonstances de l'infraction et
+de la personnalité de son auteur.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Loi n°2008-776 du 4 août 2008 - art. 70
+  - Loi n°2012-304 du 6 mars 2012 - art. 12
+  - Loi n°2012-304 du 6 mars 2012 - art. 20
 
 _Cite_:
 
-  - Code pénal - art. 131-26 (V)
-  - Code pénal - art. 131-31 (V)
-  - Code pénal - art. 131-5-1 (V)
-  - Code pénal - art. 312-1 (V)
-  - Code pénal - art. 312-3 (V)
+  - Code pénal - art. 131-26
+  - Code pénal - art. 131-27
+  - Code pénal - art. 131-31
+  - Code pénal - art. 131-35-1 (V)
+  - Code pénal - art. 131-5-1
+  - Code pénal - art. 312-1
+  - Code pénal - art. 312-3
 
 
 ###### Article 312-14
@@ -23640,22 +23702,24 @@ _Cité par_:
 
 ###### Article 321-6-1
 
-Les peines prévues par l'article 321-6 sont portées à cinq ans d'emprisonnement et 150 000 Euros d'amende lorsque les crimes
-et délits sont commis par un mineur sur lequel la personne ne pouvant justifier ses ressources a autorité.
+Les peines prévues par l'article 321-6 sont portées à cinq ans d'emprisonnement et 150 000 euros d'amende lorsque les crimes
+et délits sont commis par un mineur sur lequel la personne ne pouvant justifier ses ressources a autorité. 
 
-Elles sont portées à sept ans d'emprisonnement et 200 000 Euros d'amende lorsque les infractions commises constituent les
-crimes ou délits de traite des êtres humains, d'extorsion ou d'association de malfaiteurs, ou qu'elles constituent les crimes
-ou délits de trafic de stupéfiants, y compris en cas de relations habituelles avec une ou plusieurs personnes faisant usage
-de stupéfiants.
+Elles sont portées à sept ans d'emprisonnement et 200 000 euros d'amende lorsque les infractions commises constituent les
+crimes ou délits de traite des êtres humains, d'extorsion ou d'association de malfaiteurs ou les délits et crimes en matière
+d'armes et de produits explosifs prévus par les articles L. 2339-2, L. 2339-3, L. 2339-5, L. 2339-8, 
+L. 2339-10, L. 2341-4, 
+L. 2353-4 et L. 2353-5 du code de la défense. Il en est de même lorsqu'elles constituent les crimes ou délits de trafic de
+stupéfiants, y compris en cas de relations habituelles avec une ou plusieurs personnes faisant usage de stupéfiants. 
 
-Elles sont portées à dix ans d'emprisonnement et 300 000 Euros d'amende lorsqu'il s'agit d'une infraction mentionnée à
+Elles sont portées à dix ans d'emprisonnement et 300 000 euros d'amende lorsqu'il s'agit d'une infraction mentionnée à
 l'alinéa précédent commise par un ou plusieurs mineurs.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Loi n°92-685 1992-07-22
+  - Loi n°92-685 du 22 juillet 1992
 
 _Cité par_:
 
@@ -23670,13 +23734,19 @@ _Cité par_:
   - Code de procédure pénale - art. 706-73-1 (V)
   - Code pénal - art. 450-5 (V)
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°2006-64 du 23 janvier 2006 - art. 24 () JORF 24 janvier 2006
+  - Loi n°2012-304 du 6 mars 2012 - art. 31
 
 _Cite_:
 
-  - Code pénal - art. 321-6 (M)
+  - Code pénal - art. 321-6
+  - Code de la défense. - art. L2339-10
+  - Code de la défense. - art. L2339-2
+  - Code de la défense. - art. L2339-5
+  - Code de la défense. - art. L2339-8
+  - Code de la défense. - art. L2341-4
+  - Code de la défense. - art. L2353-4
 
 
 ###### Article 321-7
@@ -23820,22 +23890,26 @@ _Cite_:
 ###### Article 321-10
 
 Dans les cas prévus aux articles 321-1 à 321-4, peuvent être également prononcées les autres peines complémentaires encourues
-pour les crimes ou les délits dont provient le bien recélé.
+pour les crimes ou les délits dont provient le bien recélé. 
+
+Lorsque les peines complémentaires prévues pour ces crimes ou délits sont obligatoires, elles doivent également être
+obligatoirement prononcées contre la personne condamnée pour recel, sauf décision spécialement motivée de la juridiction,
+s'il s'agit d'une juridiction correctionnelle, en considération des circonstances de l'infraction et de la personnalité de
+son auteur.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Loi n°92-685 1992-07-22
+  - Loi n°92-685 du 22 juillet 1992
 
-**Liens**:
+_Modifié par_:
 
-  - SPEC_APPLI: Loi n°92-685 1992-07-22 art. 1
-  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
+  - Loi n°2012-304 du 6 mars 2012 - art. 13
 
 _Cite_:
 
-  - Code pénal 321-1 à 321-4
+  - Code pénal - art. 321-1
 
 
 ###### Article 321-10-1
@@ -24583,7 +24657,7 @@ _Cité par_:
 
 ###### Article 322-15
 
-Les personnes physiques coupables de l'une des infractions prévues au présent chapitre encourent également les peines
+I. - Les personnes physiques coupables de l'une des infractions prévues au présent chapitre encourent également les peines
 complémentaires suivantes : 
 
 1° L'interdiction des droits civiques, civils et de famille, suivant les modalités prévues par l'article 131-26 ; 
@@ -24591,11 +24665,12 @@ complémentaires suivantes :
 2° L'interdiction, suivant les modalités prévues par l'article 131-27, soit d'exercer une fonction publique ou d'exercer
 l'activité professionnelle ou sociale dans l'exercice ou à l'occasion de l'exercice de laquelle l'infraction a été commise,
 cette interdiction étant définitive ou provisoire dans les cas prévus aux articles 322-6 à 322-10 et pour une durée de cinq
-ans au plus dans les cas prévus aux articles 322-1, 322-2, 322-3, 322-3-1, 322-5, 322-12, 322-13 et 322-14, soit, pour les
-crimes prévus au second alinéa de l'article 322-6 ainsi qu'aux articles 322-7, 322-8, 322-9 et 322-10, d'exercer une
-profession commerciale ou industrielle, de diriger, d'administrer, de gérer ou de contrôler à un titre quelconque,
-directement ou indirectement, pour son propre compte ou pour le compte d'autrui, une entreprise commerciale ou industrielle
-ou une société commerciale. Ces interdictions d'exercice peuvent être prononcées cumulativement ; 
+ans au plus dans les cas prévus aux articles 322-1,
+322-2, 322-3, 322-3-1, 322-5, 322-12, 322-13 et 322-14, soit, pour les crimes prévus au second alinéa de l'article 322-6
+ainsi qu'aux articles 322-7, 322-8, 322-9 et 322-10, d'exercer une profession commerciale ou industrielle, de diriger,
+d'administrer, de gérer ou de contrôler à un titre quelconque, directement ou indirectement, pour son propre compte ou pour
+le compte d'autrui, une entreprise commerciale ou industrielle ou une société commerciale. Ces interdictions d'exercice
+peuvent être prononcées cumulativement ; 
 
 3° L'interdiction de détenir ou de porter, pour une durée de cinq ans au plus, une arme soumise à autorisation ; 
 
@@ -24605,13 +24680,21 @@ ou une société commerciale. Ces interdictions d'exercice peuvent être prononc
 5° L'obligation d'accomplir un stage de citoyenneté, selon les modalités de l'article 131-5-1 ; 
 
 6° L'obligation d'accomplir un stage de sensibilisation aux dangers de l'usage de produits stupéfiants, selon les modalités
-fixées à l'article 131-35-1.
+fixées à l'article 131-35-1. 
+
+II. - En cas de condamnation pour les crimes ou délits prévus aux articles 322-6 à 322-11-1, le prononcé de la peine
+complémentaire prévue au 3° du I du présent article est obligatoire. 
+
+Toutefois, la juridiction peut, par une décision spécialement motivée lorsque la condamnation est prononcée par une
+juridiction correctionnelle, décider de ne pas prononcer cette peine, en considération des circonstances de l'infraction et
+de la personnalité de son auteur.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Loi n°2008-776 du 4 août 2008 - art. 70
+  - Loi n°2012-304 du 6 mars 2012 - art. 14
+  - Loi n°2012-304 du 6 mars 2012 - art. 20
 
 _Cité par_:
 
@@ -24622,11 +24705,16 @@ _Cité par_:
 
 _Cite_:
 
-  - Code pénal - art. 131-26 (V)
-  - Code pénal - art. 131-35-1 (V)
-  - Code pénal - art. 131-5-1 (V)
-  - Code pénal - art. 322-1 (V)
-  - Code pénal - art. 322-6 (V)
+  - Code pénal - art. 131-26
+  - Code pénal - art. 131-27
+  - Code pénal - art. 131-31
+  - Code pénal - art. 131-35-1
+  - Code pénal - art. 131-5-1
+  - Code pénal - art. 322-1
+  - Code pénal - art. 322-12
+  - Code pénal - art. 322-2
+  - Code pénal - art. 322-6
+  - Code pénal - art. 322-7
 
 
 ###### Article 322-15-1
@@ -27394,34 +27482,41 @@ _Modifié par_:
 
 ###### Article 431-7
 
-Les personnes physiques coupables de l'une des infractions prévues par les articles 431-5 et 431-6 encourent également les
-peines complémentaires suivantes :
+I. - Les personnes physiques coupables de l'une des infractions prévues par les articles 431-5 et 431-6 encourent également
+les peines complémentaires suivantes : 
 
-1° L'interdiction des droits civiques, civils et de famille, suivant les modalités prévues par l'article 131-26 ;
+1° L'interdiction des droits civiques, civils et de famille, suivant les modalités prévues par l'article 131-26 ; 
 
-2° L'interdiction de détenir ou de porter, pour une durée de cinq ans au plus, une arme soumise à autorisation ;
+2° et 3° (Abrogés) ;
 
-3° La confiscation d'une ou de plusieurs armes dont le condamné est propriétaire ou dont il a la libre disposition ;
+4° L'interdiction de séjour, suivant les modalités prévues par l'article 131-31. 
 
-4° L'interdiction de séjour, suivant les modalités prévues par l'article 131-31.
+II. - En cas de condamnation pour l'une des infractions prévues par les articles 431-5 et 431-6, le prononcé des peines
+complémentaires suivantes est obligatoire : 
+
+1° L'interdiction de détenir ou de porter, pour une durée de cinq ans au plus, une arme soumise à autorisation ; 
+
+2° La confiscation d'une ou de plusieurs armes dont le condamné est propriétaire ou dont il a la libre disposition. 
+
+Toutefois, la juridiction peut, par une décision spécialement motivée, décider de ne pas prononcer ces peines, en
+considération des circonstances de l'infraction et de la personnalité de son auteur.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Loi n°92-686 1992-07-22
+  - Loi n°92-686 du 22 juillet 1992
 
-**Liens**:
+_Modifié par_:
 
-  - SPEC_APPLI: Loi n°92-686 1992-07-22 art. 1
-  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
+  - Loi n°2012-304 du 6 mars 2012 - art. 15
+  - Loi n°2012-304 du 6 mars 2012 - art. 20
 
 _Cite_:
 
-  - Code pénal - art. 131-26 (V)
-  - Code pénal - art. 131-31 (V)
-  - Code pénal - art. 431-5 (M)
-  - Code pénal - art. 431-6 (M)
+  - Code pénal - art. 131-26
+  - Code pénal - art. 131-31
+  - Code pénal - art. 431-5
 
 
 ###### Article 431-8
@@ -27507,33 +27602,41 @@ _Cité par_:
 
 ###### Article 431-11
 
-Les personnes physiques coupables de l'infraction prévue par l'article 431-10 encourent également les peines complémentaires
-suivantes :
+I. - Les personnes physiques coupables de l'infraction prévue par l'article 431-10 encourent également les peines
+complémentaires suivantes : 
 
-1° L'interdiction des droits civiques, civils et de famille, suivant les modalités prévues par l'article 131-26 ;
+1° L'interdiction des droits civiques, civils et de famille, suivant les modalités prévues par l'article 131-26 ; 
 
-2° L'interdiction de détenir ou de porter, pour une durée de cinq ans au plus, une arme soumise à autorisation ;
+2° et 3° (Abrogés) ;
 
-3° La confiscation d'une ou de plusieurs armes dont le condamné est propriétaire ou dont il a la libre disposition ;
+4° L'interdiction de séjour, suivant les modalités prévues par l'article 131-31. 
 
-4° L'interdiction de séjour, suivant les modalités prévues par l'article 131-31.
+II. - En cas de condamnation pour l'infraction prévue à l'article 431-10, le prononcé des peines complémentaires suivantes
+est obligatoire : 
+
+1° L'interdiction de détenir ou de porter, pour une durée de cinq ans au plus, une arme soumise à autorisation ; 
+
+2° La confiscation d'une ou de plusieurs armes dont le condamné est propriétaire ou dont il a la libre disposition. 
+
+Toutefois, la juridiction peut, par une décision spécialement motivée, décider de ne pas prononcer ces peines, en
+considération des circonstances de l'infraction et de la personnalité de son auteur.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Loi n°92-686 1992-07-22
+  - Loi n°92-686 du 22 juillet 1992
 
-**Liens**:
+_Modifié par_:
 
-  - SPEC_APPLI: Loi n°92-686 1992-07-22 art. 1
-  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
+  - Loi n°2012-304 du 6 mars 2012 - art. 16
+  - Loi n°2012-304 du 6 mars 2012 - art. 20
 
 _Cite_:
 
-  - Code pénal - art. 131-26 (V)
-  - Code pénal - art. 131-31 (V)
-  - Code pénal - art. 431-10 (M)
+  - Code pénal - art. 131-26
+  - Code pénal - art. 131-31
+  - Code pénal - art. 431-10
 
 
 ###### Article 431-12
@@ -27870,8 +27973,8 @@ _Cité par_:
 
 ###### Article 431-26
 
-Les personnes physiques coupables de l'une des infractions prévues par la présente section encourent également les peines
-complémentaires suivantes : 
+I. - Les personnes physiques coupables de l'une des infractions prévues par la présente section encourent également les
+peines complémentaires suivantes : 
 
 1° L'interdiction des droits civiques, civils et de famille, suivant les modalités prévues par l'article 131-26 ; 
 
@@ -27881,18 +27984,26 @@ complémentaires suivantes :
 
 4° La confiscation d'une ou de plusieurs armes dont le condamné est propriétaire ou dont il a la libre disposition ; 
 
-5° L'interdiction de séjour, suivant les modalités prévues par l'article 131-31.
+5° L'interdiction de séjour, suivant les modalités prévues par l'article 131-31. 
+
+II. - En cas de condamnation pour les délits prévus aux articles 431-24 et 431-25, le prononcé de la peine complémentaire
+prévue aux 2° et 4° du I est obligatoire et la durée de l'interdiction est portée à dix ans au plus. 
+
+Toutefois, la juridiction peut, par une décision spécialement motivée, décider de ne pas prononcer ces peines, en
+considération des circonstances de l'infraction et de la personnalité de son auteur.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°2010-201 du 2 mars 2010 - art. 13
+  - Loi n°2012-304 du 6 mars 2012 - art. 17
+  - Loi n°2012-304 du 6 mars 2012 - art. 20
 
 _Cite_:
 
   - Code pénal - art. 131-26
   - Code pénal - art. 131-31
+  - Code pénal - art. 431-24
 
 
 ###### Article 431-27
@@ -27926,17 +28037,26 @@ suivantes :
 
 1° L'interdiction des droits civiques, civils et de famille, suivant les modalités prévues par l'article 131-26 ; 
 
-2° L'interdiction de détenir ou de porter, pour une durée de cinq ans au plus, une arme soumise à autorisation ; 
+2° (Abrogé) ;
 
 3° Une peine de travail d'intérêt général ; 
 
 4° La confiscation d'une ou de plusieurs armes dont le condamné est propriétaire ou dont il a la libre disposition.
 
+En outre, en cas de condamnation pour l'infraction prévue par le premier alinéa, le prononcé de la peine complémentaire
+d'interdiction de détenir ou de porter, pour une durée de cinq ans au plus, une arme soumise à autorisation est obligatoire.
+Toutefois, la juridiction peut, par une décision spécialement motivée, décider de ne pas prononcer cette peine, en
+considération des circonstances de l'infraction et de la personnalité de son auteur.
+
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°2010-201 du 2 mars 2010 - art. 13
+  - Loi n°2012-304 du 6 mars 2012 - art. 18
+
+_Abrogé par_:
+
+  - Loi n°2016-731 du 3 juin 2016 - art. 26
 
 _Cité par_:
 
@@ -29691,27 +29811,32 @@ _Cite_:
 
 ###### Article 433-24
 
-Les personnes physiques coupables de l'une des infractions prévues à l'article 433-8 encourent également les peines
-complémentaires suivantes :
+En cas de condamnation pour les infractions prévues à l'article 433-8, le prononcé des peines complémentaires suivantes est
+obligatoire : 
 
-1° L'interdiction de détenir ou de porter, pour une durée de cinq ans au plus, une arme soumise à autorisation ;
+1° L'interdiction de détenir ou de porter, pour une durée de dix ans au plus, une arme soumise à autorisation ; 
 
-2° La confiscation des armes dont le condamné est propriétaire ou dont il a la libre disposition.
+2° La confiscation d'une ou de plusieurs armes dont le condamné est propriétaire ou dont il a la libre disposition ; 
+
+3° Le retrait du permis de chasser avec interdiction de solliciter la délivrance d'un nouveau permis pendant trois ans au
+plus. 
+
+Toutefois, la juridiction peut, par une décision spécialement motivée, décider de ne pas prononcer ces peines, en
+considération des circonstances de l'infraction et de la personnalité de son auteur.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Loi n°92-686 1992-07-22
+  - Loi n°92-686 du 22 juillet 1992
 
-**Liens**:
+_Modifié par_:
 
-  - SPEC_APPLI: Loi n°92-686 1992-07-22 art. 1
-  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
+  - Loi n°2012-304 du 6 mars 2012 - art. 19
 
 _Cite_:
 
-  - Code pénal - art. 433-8 (M)
+  - Code pénal - art. 433-8
 
 
 ###### Article 433-25
