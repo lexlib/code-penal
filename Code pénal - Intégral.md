@@ -1,5 +1,5 @@
 # Code pénal  
-Version Consolidée au 2012-03-08
+Version Consolidée au 2012-03-14
 ## Contenu: 
   - [Partie législative (art. 111-1 à 727-3)](#1)
     - [Livre Ier : Dispositions générales (art. 111-1 à 133-17)](#2)
@@ -151,7 +151,7 @@ Version Consolidée au 2012-03-08
           - [Section 3 : Peines complémentaires applicables aux personnes physiques et responsabilité des personnes morales (art. 312-13 à 312-15)](#148)
         - [Chapitre III : De l'escroquerie et des infractions voisines (art. 313-1 à 313-9)](#149)
           - [Section 1 : De l'escroquerie (art. 313-1 à 313-3)](#150)
-          - [Section 2 : Des infractions voisines de l'escroquerie (art. 313-5 à 313-6-1)](#151)
+          - [Section 2 : Des infractions voisines de l'escroquerie (art. 313-5 à 313-6-2)](#151)
           - [Section 3 : Peines complémentaires applicables aux personnes physiques et responsabilité des personnes morales (art. 313-7 à 313-9)](#152)
         - [Chapitre IV : Des détournements (art. 314-1 à 314-13)](#153)
           - [Section 1 : De l'abus de confiance (art. 314-1 à 314-4)](#154)
@@ -22868,6 +22868,29 @@ _Cité par_:
   - Code pénal - art. 313-9 (V)
 
 
+###### Article 313-6-2
+
+Le fait de vendre, d'offrir à la vente ou d'exposer en vue de la vente ou de la cession ou de fournir les moyens en vue de la
+vente ou de la cession des titres d'accès à une manifestation sportive, culturelle ou commerciale ou à un spectacle vivant,
+de manière habituelle et sans l'autorisation du producteur, de l'organisateur ou du propriétaire des droits d'exploitation de
+cette manifestation ou de ce spectacle, est puni de 15 000 € d'amende. Cette peine est portée à 30 000 € d'amende en cas de
+récidive.
+
+Pour l'application du premier alinéa, est considéré comme titre d'accès tout billet, document, message ou code, quels qu'en
+soient la forme et le support, attestant de l'obtention auprès du producteur, de l'organisateur ou du propriétaire des droits
+d'exploitation du droit d'assister à la manifestation ou au spectacle.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2012-348 du 12 mars 2012 - art. 3
+
+**Liens**:
+
+  - RECTIFICATION: Loi n°2012-348 du 12 mars 2012, v. init.
+
+
 ##### Section 3 : Peines complémentaires applicables aux personnes physiques et responsabilité des personnes morales<a id=152></a>
 
 ###### Article 313-7
@@ -22988,8 +23011,8 @@ _Cite_:
 ###### Article 313-9
 
 Les personnes morales déclarées responsables pénalement, dans les conditions prévues par l'article 121-2, des infractions
-définies aux articles 313-1 à 313-3 et à l'article 313-6-1 encourent, outre l'amende suivant les modalités prévues par
-l'article 131-38, les peines prévues par l'article 131-39.
+définies aux articles 313-1 à 313-3 et aux articles 313-6-1 et 313-6-2 encourent, outre l'amende suivant les modalités
+prévues par l'article 131-38, les peines prévues par l'article 131-39. 
 
 L'interdiction mentionnée au 2° de l'article 131-39 porte sur l'activité dans l'exercice ou à l'occasion de l'exercice de
 laquelle l'infraction a été commise.
@@ -22998,11 +23021,10 @@ laquelle l'infraction a été commise.
 
 _Modifié par_:
 
-  - Loi n°2009-1437 du 24 novembre 2009 - art. 50
+  - Loi n°2012-348 du 12 mars 2012 - art. 3
 
 _Cite_:
 
-  - Code pénal
   - Code pénal - art. 121-2
   - Code pénal - art. 131-38
   - Code pénal - art. 131-39
