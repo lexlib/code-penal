@@ -1,5 +1,5 @@
 # Code pénal  
-Version Consolidée au 2012-03-14
+Version Consolidée au 2012-03-24
 ## Contenu: 
   - [Partie législative (art. 111-1 à 727-3)](#1)
     - [Livre Ier : Dispositions générales (art. 111-1 à 133-17)](#2)
@@ -35483,18 +35483,18 @@ _Cite_:
 ###### Article 511-8-1
 
 Le fait de procéder à la distribution ou à la cession en vue d'un usage thérapeutique de tissus ou de préparations de
-thérapie cellulaire en violation des dispositions de l'article L. 1243-5 du code de la santé publique est puni de deux ans
-d'emprisonnement et de 30 000 Euros d'amende.
+thérapie cellulaire en violation des dispositions de l'article L. 1243-2 du code de la santé publique est puni de deux ans
+d'emprisonnement et de 30 000 euros d'amende.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Loi n°92-1336 1992-12-16
+  - Loi n°92-1336 du 16 décembre 1992
 
 _Modifié par_:
 
-  - Loi n°2004-800 2004-08-06 art. 15 6° JORF 7 août 2004
+  - Loi n°2012-387 du 22 mars 2012 - art. 122
 
 **Liens**:
 
@@ -35507,7 +35507,7 @@ _Cité par_:
 
 _Cite_:
 
-  - Code de la santé publique - art. L1243-5 (M)
+  - Code de la santé publique - art. L1243-2 (V)
 
 
 ###### Article 511-8-2
