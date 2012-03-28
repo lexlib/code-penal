@@ -1,5 +1,5 @@
 # Code pénal  
-Version Consolidée au 2012-03-24
+Version Consolidée au 2012-03-29
 ## Contenu: 
   - [Partie législative (art. 111-1 à 727-3)](#1)
     - [Livre Ier : Dispositions générales (art. 111-1 à 133-17)](#2)
@@ -3297,40 +3297,41 @@ _Cité par_:
 
 La peine complémentaire de confiscation est encourue dans les cas prévus par la loi ou le règlement. Elle est également
 encourue de plein droit pour les crimes et pour les délits punis d'une peine d'emprisonnement d'une durée supérieure à un an,
-à l'exception des délits de presse.
+à l'exception des délits de presse. 
 
 La confiscation porte sur tous les biens meubles ou immeubles, quelle qu'en soit la nature, divis ou indivis, ayant servi à
 commettre l'infraction ou qui étaient destinés à la commettre, et dont le condamné est propriétaire ou, sous réserve des
-droits du propriétaire de bonne foi, dont il a la libre disposition.
+droits du propriétaire de bonne foi, dont il a la libre disposition. 
 
 Elle porte également sur tous les biens qui sont l'objet ou le produit direct ou indirect de l'infraction, à l'exception des
 biens susceptibles de restitution à la victime. Si le produit de l'infraction a été mêlé à des fonds d'origine licite pour
 l'acquisition d'un ou plusieurs biens, la confiscation peut ne porter sur ces biens qu'à concurrence de la valeur estimée de
-ce produit.
+ce produit. 
 
 La confiscation peut en outre porter sur tout bien meuble ou immeuble défini par la loi ou le règlement qui réprime
-l'infraction.
+l'infraction. 
 
 S'il s'agit d'un crime ou d'un délit puni d'au moins cinq ans d'emprisonnement et ayant procuré un profit direct ou indirect,
 la confiscation porte également sur les biens meubles ou immeubles, quelle qu'en soit la nature, divis ou indivis,
-appartenant au condamné lorsque celui-ci, mis en mesure de s'expliquer sur les biens dont la confiscation est envisagée, n'a
-pu en justifier l'origine.
+appartenant au condamné ou, sous réserve des droits du propriétaire de bonne foi, dont il a la libre disposition, lorsque ni
+le condamné, ni le propriétaire, mis en mesure de s'expliquer sur les biens dont la confiscation est envisagée, n'ont pu en
+justifier l'origine. 
 
 Lorsque la loi qui réprime le crime ou le délit le prévoit, la confiscation peut aussi porter sur tout ou partie des biens
-appartenant au condamné, quelle qu'en soit la nature, meubles ou immeubles, divis ou indivis.
+appartenant au condamné ou, sous réserve des droits du propriétaire de bonne foi, dont il a la libre disposition, quelle
+qu'en soit la nature, meubles ou immeubles, divis ou indivis. 
 
 La confiscation est obligatoire pour les objets qualifiés de dangereux ou nuisibles par la loi ou le règlement, ou dont la
-détention est illicite, que ces biens soient ou non la propriété du condamné.
+détention est illicite, que ces biens soient ou non la propriété du condamné. 
 
 La peine complémentaire de confiscation s'applique dans les mêmes conditions à tous les droits incorporels, quelle qu'en soit
 la nature, divis ou indivis. 
 
-Lorsque la chose confisquée n'a pas été saisie ou ne peut être représentée, la confiscation est ordonnée en valeur. Pour le
-recouvrement de la somme représentative de la valeur de la chose confisquée, les dispositions relatives à la contrainte
-judiciaire sont applicables.
+La confiscation peut être ordonnée en valeur. Pour le recouvrement de la somme représentative de la valeur de la chose
+confisquée, les dispositions relatives à la contrainte judiciaire sont applicables. 
 
 La chose confisquée est, sauf disposition particulière prévoyant sa destruction ou son attribution, dévolue à l'Etat, mais
-elle demeure grevée, à concurrence de sa valeur, des droits réels licitement constitués au profit de tiers.
+elle demeure grevée, à concurrence de sa valeur, des droits réels licitement constitués au profit de tiers. 
 
 Lorsque la chose confisquée est un véhicule qui n'a pas été saisi ou mis en fourrière au cours de la procédure, le condamné
 doit, sur l'injonction qui lui en est faite par le ministère public, remettre ce véhicule au service ou à l'organisme chargé
@@ -3425,7 +3426,8 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2010-768 du 9 juillet 2010 - art. 9
+  - Loi n°2012-409 du 27 mars 2012 - art. 16
+  - Loi n°2012-409 du 27 mars 2012 - art. 17
 
 
 ###### Article 131-21-1
@@ -9273,7 +9275,10 @@ l'une ou de plusieurs des obligations suivantes :
 3° Se soumettre à des mesures d'examen médical, de traitement ou de soins, même sous le régime de l'hospitalisation. Ces
 mesures peuvent consister en l'injonction thérapeutique prévue par les articles L. 3413-1 à L. 3413-4 du code de la santé
 publique, lorsqu'il apparaît que le condamné fait usage de stupéfiants ou fait une consommation habituelle et excessive de
-boissons alcooliques ; 
+boissons alcooliques. Une copie de la décision ordonnant ces mesures est adressée par le juge de l'application des peines au
+médecin ou au psychologue qui doit suivre la personne condamnée. Les rapports des expertises réalisées pendant la procédure
+sont adressés au médecin ou au psychologue, à leur demande ou à l'initiative du juge de l'application des peines. Celui-ci
+peut également leur adresser toute autre pièce utile du dossier ;  
 
 4° Justifier qu'il contribue aux charges familiales ou acquitte régulièrement les pensions alimentaires dont il est
 débiteur ; 
@@ -9371,7 +9376,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2010-242 du 10 mars 2010 - art. 11
+  - Loi n°2012-409 du 27 mars 2012 - art. 5
 
 _Cite_:
 
@@ -11035,7 +11040,8 @@ Toutefois, le maximum de l'interdiction temporaire est porté à dix ans ;
 3° L'interdiction de séjour, selon les modalités prévues par l'article 131-31. Toutefois, le maximum de l'interdiction est
 porté à quinze ans ; 
 
-4° La confiscation de tout ou partie de leurs biens ; 
+4° La confiscation de tout ou partie  des biens leur appartenant ou, sous réserve des droits du propriétaire de bonne foi,
+dont elles ont la libre disposition ; 
 
 5° L'interdiction, suivant les modalités prévues par l'article 131-27, soit d'exercer une fonction publique ou d'exercer
 l'activité professionnelle ou sociale dans l'exercice ou à l'occasion de l'exercice de laquelle l'infraction a été commise,
@@ -11047,7 +11053,7 @@ industrielle ou une société commerciale. Ces interdictions d'exercice peuvent 
 
 _Modifié par_:
 
-  - Loi n°2010-930 du 9 août 2010 - art. 9
+  - Loi n°2012-409 du 27 mars 2012 - art. 13 (V)
 
 _Cite_:
 
@@ -11084,18 +11090,19 @@ l'humanité encourent, outre l'amende suivant les modalités prévues par l'arti
 
 1° Les peines mentionnées à l'article 131-39 ; 
 
-2° La confiscation de tout ou partie de leurs biens.
+2° La confiscation de tout ou partie des biens leur appartenant ou, sous réserve des droits du propriétaire de bonne foi,
+dont elles ont la libre disposition.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Loi n°2009-526 du 12 mai 2009 - art. 124
+  - Loi n°2012-409 du 27 mars 2012 - art. 13 (V)
 
 _Cite_:
 
   - Code pénal - art. 121-2
-  - Code pénal - art. 131-38 (V)
+  - Code pénal - art. 131-38
   - Code pénal - art. 131-39 (V)
 
 
@@ -11286,7 +11293,8 @@ suivantes :
 
 3° L'interdiction de séjour, selon les modalités prévues par l'article 131-31 ; 
 
-4° La confiscation de tout ou partie de leurs biens, meubles ou immeubles, divis ou indivis ; 
+4° La confiscation de tout ou partie  des biens leur appartenant ou, sous réserve des droits du propriétaire de bonne foi,
+dont elles ont la libre disposition, meubles ou immeubles, divis ou indivis ; 
 
 5° La confiscation du matériel qui a servi à commettre l'infraction ; 
 
@@ -11302,7 +11310,7 @@ cumulativement.
 
 _Modifié par_:
 
-  - Loi n°2009-1437 du 24 novembre 2009 - art. 50
+  - Loi n°2012-409 du 27 mars 2012 - art. 13 (V)
 
 _Cite_:
 
@@ -11344,7 +11352,8 @@ définies au présent sous-titre encourent, outre l'amende suivant les modalité
 
 2° Les peines mentionnées à l'article 131-39 ; 
 
-3° La confiscation de tout ou partie de leurs biens, meubles ou immeubles, divis ou indivis ; 
+3° La confiscation de tout ou partie des biens leur appartenant ou, sous réserve des droits du propriétaire de bonne foi,
+dont elles ont la libre disposition, meubles ou immeubles, divis ou indivis ; 
 
 4° L'interdiction d'exercer une fonction de prestataire de formation professionnelle continue au sens de l'article L. 6313-1
 du code du travail pour une durée de cinq ans.
@@ -11353,7 +11362,7 @@ du code du travail pour une durée de cinq ans.
 
 _Modifié par_:
 
-  - Loi n°2009-1437 du 24 novembre 2009 - art. 50
+  - Loi n°2012-409 du 27 mars 2012 - art. 13 (V)
 
 _Cite_:
 
@@ -15015,16 +15024,17 @@ _Cite_:
 Dans les cas prévus par les articles 222-34 à 222-40, doit être prononcée la confiscation des installations, matériels et de
 tout bien ayant servi, directement ou indirectement, à la commission de l'infraction, ainsi que tout produit provenant de
 celle-ci, à quelque personne qu'ils appartiennent et en quelque lieu qu'ils se trouvent, dès lors que leur propriétaire ne
-pouvait en ignorer l'origine ou l'utilisation frauduleuse.
+pouvait en ignorer l'origine ou l'utilisation frauduleuse. 
 
 Dans les cas prévus par les articles 222-34, 222-35, 222-36, 222-37 et 222-38, peut également être prononcée la confiscation
-de tout ou partie des biens du condamné, quelle qu'en soit la nature, meubles ou immeubles, divis ou indivis.
+de tout ou partie des biens du condamné ou, sous réserve des droits du propriétaire de bonne foi, dont il a la libre
+disposition, quelle qu'en soit la nature, meubles ou immeubles, divis ou indivis.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Loi n°2010-768 du 9 juillet 2010 - art. 10
+  - Loi n°2012-409 du 27 mars 2012 - art. 13 (V)
 
 _Cité par_:
 
@@ -15032,6 +15042,10 @@ _Cité par_:
   - CODE DE PROCEDURE PENALE - art. 866 (M)
   - Code de la santé publique - art. L3421-3 (V)
   - Code de la santé publique - art. L629-1 (Ab)
+
+_Cite_:
+
+  - Code pénal - art. 222-34
 
 
 ###### Article 222-50
@@ -18115,17 +18129,22 @@ _Cite_:
 
 Les personnes physiques et morales reconnues coupables des infractions prévues aux sections 1 bis et 2 du présent chapitre, à
 l'exception de celle prévue par l'article 225-10-1, encourent également la peine complémentaire de confiscation de tout ou
-partie de leurs biens, quelle qu'en soit la nature, meubles ou immeubles, divis ou indivis.
+partie des biens leur appartenant ou, sous réserve des droits du propriétaire de bonne foi, dont elles ont la libre
+disposition, quelle qu'en soit la nature, meubles ou immeubles, divis ou indivis.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Loi n°92-684 1992-07-22
+  - Loi n°92-684 du 22 juillet 1992
+
+_Créé par_:
+
+  - Loi n°2003-239 du 18 mars 2003 - art. 37
 
 _Modifié par_:
 
-  - Loi n°2004-204 du 9 mars 2004 - art. 35 () JORF 10 mars 2004
+  - Loi n°2012-409 du 27 mars 2012 - art. 13 (V)
 
 _Cité par_:
 
@@ -21602,23 +21621,24 @@ _Cite_:
 ###### Article 227-33
 
 Les personnes physiques ou morales coupables des infractions prévues au troisième alinéa de l'article 227-22 et au sixième
-alinéa de l'article 227-23 encourent également la peine complémentaire de confiscation de tout ou partie de leurs biens,
-quelle qu'en soit la nature, meubles ou immeubles, divis ou indivis.
+alinéa de l'article 227-23 encourent également la peine complémentaire de confiscation de tout ou partie des biens leur
+appartenant ou, sous réserve des droits du propriétaire de bonne foi, dont elles ont la libre disposition, quelle qu'en soit
+la nature, meubles ou immeubles, divis ou indivis.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Loi n°92-684 1992-07-22
+  - Loi n°92-684 du 22 juillet 1992
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°2007-297 du 5 mars 2007 - art. 66 () JORF 7 mars 2007
+  - Loi n°2012-409 du 27 mars 2012 - art. 13 (V)
 
 _Cite_:
 
-  - Code pénal - art. 227-22 (M)
-  - Code pénal - art. 227-23 (M)
+  - Code pénal - art. 227-22 (V)
+  - Code pénal - art. 227-23 (V)
 
 
 ## Livre III : Des crimes et délits contre les biens<a id=138></a>
@@ -25071,20 +25091,24 @@ _Cite_:
 ###### Article 323-1
 
 Le fait d'accéder ou de se maintenir, frauduleusement, dans tout ou partie d'un système de traitement automatisé de données
-est puni de deux ans d'emprisonnement et de 30000 euros d'amende.
+est puni de deux ans d'emprisonnement et de 30 000 euros d'amende.
 
 Lorsqu'il en est résulté soit la suppression ou la modification de données contenues dans le système, soit une altération du
-fonctionnement de ce système, la peine est de trois ans d'emprisonnement et de 45000 euros d'amende.
+fonctionnement de ce système, la peine est de trois ans d'emprisonnement et de 45 000 euros d'amende.
+
+Lorsque les infractions prévues aux deux premiers alinéas ont été commises à l'encontre d'un système de traitement automatisé
+de données à caractère personnel mis en œuvre par l'Etat, la peine est portée à cinq ans d'emprisonnement et à 75 000 €
+d'amende.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Loi n°92-685 1992-07-22
+  - Loi n°92-685 du 22 juillet 1992
 
 _Modifié par_:
 
-  - Loi n°2004-575 du 21 juin 2004 - art. 45 () JORF 22 juin 2004
+  - Loi n°2012-410 du 27 mars 2012 - art. 9
 
 _Cité par_:
 
@@ -25096,49 +25120,43 @@ _Cité par_:
   - Code pénal - art. 323-3-1 (V)
   - Code pénal - art. 323-4-1 (V)
 
-**Liens**:
-
-  - SPEC_APPLI: Loi n°2004-575 du 21 juin 2004 art. 57 I : Champ d'application
-
 
 ###### Article 323-2
 
 Le fait d'entraver ou de fausser le fonctionnement d'un système de traitement automatisé de données est puni de cinq ans
-d'emprisonnement et de 75000 euros d'amende.
+d'emprisonnement et de 75 000 euros d'amende.
+
+Lorsque cette infraction a été commise à l'encontre d'un système de traitement automatisé de données à caractère personnel
+mis en œuvre par l'Etat, la peine est portée à sept ans d'emprisonnement et à 100 000 € d'amende.
 
 **Liens relatifs à cet article**
 
-**Liens**:
-
-  - SPEC_APPLI: Loi n°2004-575 du 21 juin 2004 art. 57 I : Champ d'application
-
 _Codifié par_:
 
-  - Loi n°92-685 1992-07-22
+  - Loi n°92-685 du 22 juillet 1992
 
 _Modifié par_:
 
-  - Loi n°2004-575 du 21 juin 2004 - art. 45 () JORF 22 juin 2004
+  - Loi n°2012-410 du 27 mars 2012 - art. 9
 
 
 ###### Article 323-3
 
 Le fait d'introduire frauduleusement des données dans un système de traitement automatisé ou de supprimer ou de modifier
-frauduleusement les données qu'il contient est puni de cinq ans d'emprisonnement et de 75000 euros d'amende.
+frauduleusement les données qu'il contient est puni de cinq ans d'emprisonnement et de 75 000 euros d'amende.
+
+Lorsque cette infraction a été commise à l'encontre d'un système de traitement automatisé de données à caractère personnel
+mis en œuvre par l'Etat, la peine est portée à sept ans d'emprisonnement et à 100 000 € d'amende.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Loi n°92-685 1992-07-22
+  - Loi n°92-685 du 22 juillet 1992
 
 _Modifié par_:
 
-  - Loi n°2004-575 du 21 juin 2004 - art. 45 () JORF 22 juin 2004
-
-**Liens**:
-
-  - SPEC_APPLI: Loi n°2004-575 du 21 juin 2004 art. 57 I : Champ d'application
+  - Loi n°2012-410 du 27 mars 2012 - art. 9
 
 
 ###### Article 323-3-1
@@ -25520,8 +25538,8 @@ l'exception des objets susceptibles de restitution ;
 
 11° L'interdiction, pour une durée de cinq ans au plus, de quitter le territoire de la République ; 
 
-12° La confiscation de tout ou partie des biens du condamné, quelle qu'en soit la nature, meubles ou immeubles, divis ou
-indivis.
+12° La confiscation de tout ou partie des biens du condamné ou, sous réserve des droits du propriétaire de bonne foi, dont il
+a la libre disposition, quelle qu'en soit la nature, meubles ou immeubles, divis ou indivis.
 
 **Liens relatifs à cet article**
 
@@ -25532,14 +25550,14 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2008-776 du 4 août 2008 - art. 70
+  - Loi n°2012-409 du 27 mars 2012 - art. 13 (V)
 
 _Cite_:
 
-  - Code pénal - art. 131-26 (V)
-  - Code pénal - art. 131-27 (V)
-  - Code pénal - art. 131-31 (V)
-  - Code pénal - art. 324-1 (V)
+  - Code pénal - art. 131-26
+  - Code pénal - art. 131-27
+  - Code pénal - art. 131-31
+  - Code pénal - art. 324-1
 
 
 ###### Article 324-8
@@ -27517,21 +27535,18 @@ _Cite_:
 ###### Article 422-6
 
 Les personnes physiques ou morales reconnues coupables d'actes de terrorisme encourent également la peine complémentaire de
-confiscation de tout ou partie de leurs biens quelle qu'en soit la nature, meubles ou immeubles, divis ou indivis.
+confiscation de tout ou partie  des biens leur appartenant ou, sous réserve des droits du propriétaire de bonne foi, dont
+elles ont la libre disposition, quelle qu'en soit la nature, meubles ou immeubles, divis ou indivis.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Loi n°92-686 1992-07-22
+  - Loi n°92-686 du 22 juillet 1992
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°2001-1062 du 15 novembre 2001 - art. 33 () JORF 16 novembre 2001
-
-**Liens**:
-
-  - SPEC_APPLI: Loi n°2001-1062 du 15 novembre 2001 - art. 71 (M)
+  - Loi n°2012-409 du 27 mars 2012 - art. 13 (V)
 
 _Cité par_:
 
@@ -33443,22 +33458,22 @@ _Cite_:
 ###### Article 442-16
 
 Les personnes physiques ou morales coupables des crimes et délits prévus aux articles 442-1 à 442-3 encourent également la
-peine complémentaire de confiscation de tout ou partie de leurs biens, quelle qu'en soit la nature, meubles ou immeubles,
-divis ou indivis.
+peine complémentaire de confiscation de tout ou partie des biens leur appartenant ou, sous réserve des droits du propriétaire
+de bonne foi, dont elles ont la libre disposition, quelle qu'en soit la nature, meubles ou immeubles, divis ou indivis.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Loi n°92-686 1992-07-22
+  - Loi n°92-686 du 22 juillet 1992
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°2007-297 du 5 mars 2007 - art. 66 () JORF 7 mars 2007
+  - Loi n°2012-409 du 27 mars 2012 - art. 13 (V)
 
 _Cite_:
 
-  - Code pénal 442-1 à 442-3
+  - Code pénal - art. 442-1 (V)
 
 
 #### Chapitre III : De la falsification des titres ou autres valeurs fiduciaires émises par l'autorité publique<a id=252></a>
@@ -34373,23 +34388,24 @@ _Cite_:
 ###### Article 450-5
 
 Les personnes physiques et morales reconnues coupables des infractions prévues au deuxième alinéa de l'article 450-1 et à
-l'article 321-6-1 encourent également la peine complémentaire de confiscation de tout ou partie de leurs biens, quelle qu'en
-soit la nature, meubles ou immeubles, divis ou indivis.
+l'article 321-6-1 encourent également la peine complémentaire de confiscation de tout ou partie des biens leur appartenant
+ou, sous réserve des droits du propriétaire de bonne foi, dont elles ont la libre disposition, quelle qu'en soit la nature,
+meubles ou immeubles, divis ou indivis.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Loi n°92-686 1992-07-22
+  - Loi n°92-686 du 22 juillet 1992
 
 _Modifié par_:
 
-  - Loi n°2006-64 du 23 janvier 2006 - art. 24 () JORF 24 janvier 2006
+  - Loi n°2012-409 du 27 mars 2012 - art. 13 (V)
 
 _Cite_:
 
   - Code pénal - art. 321-6-1 (V)
-  - Code pénal - art. 450-1 (M)
+  - Code pénal - art. 450-1 (V)
 
 
 ## Livre IV bis : Des crimes et des délits de guerre<a id=259></a>
@@ -35028,13 +35044,14 @@ _Cite_:
 ###### Article 462-6
 
 Les personnes physiques ou les personnes morales reconnues coupables d'un crime ou d'un délit de guerre visé par le présent
-livre encourent également la peine complémentaire de confiscation de tout ou partie de leurs biens.
+livre encourent également la peine complémentaire de confiscation de tout ou partie  des biens leur appartenant ou, sous
+réserve des droits du propriétaire de bonne foi, dont elles ont la libre disposition.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°2010-930 du 9 août 2010 - art. 7
+  - Loi n°2012-409 du 27 mars 2012 - art. 13 (V)
 
 
 ###### Article 462-7
