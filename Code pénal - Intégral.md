@@ -1,5 +1,5 @@
 # Code pénal  
-Version Consolidée au 2012-03-29
+Version Consolidée au 2012-04-27
 ## Contenu: 
   - [Partie législative (art. 111-1 à 727-3)](#1)
     - [Livre Ier : Dispositions générales (art. 111-1 à 133-17)](#2)
@@ -10807,6 +10807,36 @@ _Cite_:
 
   - Code pénal - art. 131-36-1 (V)
   - Code pénal - art. 133-10 (V)
+
+
+###### Article 133-16-1
+
+Si la personne a été condamnée par une juridiction pénale d'un Etat membre de l'Union européenne à une des peines suivantes,
+la réhabilitation n'est susceptible de produire ses effets sur les condamnations françaises antérieures qu'à l'issue des
+délais ci-après déterminés :
+
+1° Lorsque la peine prononcée est une sanction pécuniaire, qu'à partir de l'effacement de cette condamnation ou de
+l'écoulement d'un délai de trois ans à compter de son prononcé ;
+
+2° Lorsque la peine prononcée est une peine d'emprisonnement d'une durée supérieure à un an, qu'à partir de l'effacement de
+cette condamnation ou de l'écoulement d'un délai de dix ans à compter de son prononcé ;
+
+3° Lorsque la peine prononcée est une peine d'emprisonnement d'une durée supérieure à dix ans, qu'à partir de l'effacement de
+cette condamnation ou de l'écoulement d'un délai de quarante ans à compter de son prononcé ;
+
+4° Lorsque la personne a été condamnée à une peine autre que celles définies aux 1° à 3°, qu'à partir de l'effacement de
+cette condamnation ou de l'écoulement d'un délai de cinq ans à compter de son prononcé.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2012-409 du 27 mars 2012 - art. 14 (V)
+
+_Cité par_:
+
+  - Code de procédure pénale - art. 770-1 (VD)
+  - Code de procédure pénale - art. 775-3 (VD)
 
 
 ###### Article 133-17
