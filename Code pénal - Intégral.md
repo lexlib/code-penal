@@ -1,5 +1,5 @@
 # Code pénal  
-Version Consolidée au 2012-08-01
+Version Consolidée au 2012-08-08
 ## Contenu: 
   - [Partie législative (art. 111-1 à 727-3)](#1)
     - [Livre Ier : Dispositions générales (art. 111-1 à 133-17)](#2)
@@ -86,7 +86,7 @@ Version Consolidée au 2012-08-01
             - [Paragraphe 1 : Du viol (art. 222-23 à 222-26)](#83)
             - [Paragraphe 2 : Des autres agressions sexuelles (art. 222-27 à 222-31)](#84)
             - [Paragraphe 3 : De l'inceste commis sur les mineurs (art. 222-31-2)](#85)
-            - [Paragraphe 4 : De l'exhibition sexuelle et du harcèlement sexuel (art. 222-32)](#86)
+            - [Paragraphe 4 : De l'exhibition sexuelle et du harcèlement sexuel (art. 222-32 à 222-33)](#86)
             - [Paragraphe 5 : Responsabilité pénale des personnes morales (art. 222-33-1)](#87)
           - [Section 3 bis : Du harcèlement moral (art. 222-33-2 à 222-33-2-1)](#88)
           - [Section 3 ter : De l'enregistrement et de la diffusion d'images de violence (art. 222-33-3)](#89)
@@ -10190,12 +10190,12 @@ _Modifié par_:
 ###### Article 132-77
 
 Dans les cas prévus par la loi, les peines encourues pour un crime ou un délit sont aggravées lorsque l'infraction est
-commise à raison de l'orientation sexuelle de la victime.
+commise à raison de l'orientation ou identité sexuelle de la victime. 
 
 La circonstance aggravante définie au premier alinéa est constituée lorsque l'infraction est précédée, accompagnée ou suivie
 de propos, écrits, utilisation d'images ou d'objets ou actes de toute nature portant atteinte à l'honneur ou à la
-considération de la victime ou d'un groupe de personnes dont fait partie la victime à raison de leur orientation sexuelle
-vraie ou supposée.
+considération de la victime ou d'un groupe de personnes dont fait partie la victime à raison de leur orientation ou identité
+sexuelle vraie ou supposée.
 
 **Liens relatifs à cet article**
 
@@ -10205,15 +10205,11 @@ _Cité par_:
 
 _Codifié par_:
 
-  - Loi n°92-683 1992-07-22
-
-_Créé par_:
-
-  - Loi n°2003-239 du 18 mars 2003 - art. 47
+  - Loi n°92-683 du 22 juillet 1992
 
 _Modifié par_:
 
-  - Loi n°2004-204 du 9 mars 2004 - art. 12 () JORF 10 mars 2004
+  - Loi n°2012-954 du 6 août 2012 - art. 4
 
 
 ###### Article 132-78
@@ -11504,7 +11500,7 @@ déposer en justice, soit en raison de sa dénonciation, de sa plainte ou de sa 
 6° A raison de l'appartenance ou de la non-appartenance, vraie ou supposée, de la victime à une ethnie, une nation, une race
 ou une religion déterminée ; 
 
-7° A raison de l'orientation sexuelle de la victime ; 
+7° A raison de l'orientation ou identité sexuelle de la victime ; 
 
 8° Par plusieurs personnes agissant en bande organisée ; 
 
@@ -11526,7 +11522,7 @@ sûreté est alors égale à la durée de la peine résultant de la mesure de gr
 
 _Modifié par_:
 
-  - Ordonnance n°2012-351 du 12 mars 2012 - art. 3 (V)
+  - Loi n°2012-954 du 6 août 2012 - art. 4
 
 _Cité par_:
 
@@ -12203,12 +12199,12 @@ au domicile des personnes mentionnées aux 4° et 4° bis, en raison des fonctio
 
 5° Sur un témoin, une victime ou une partie civile, soit pour l'empêcher de dénoncer les faits, de porter plainte ou de
 déposer en justice, soit en raison de sa dénonciation ou de sa plainte, soit à cause de sa déposition devant une juridiction
-nationale ou devant la Cour pénale internationale ;  
+nationale ou devant la Cour pénale internationale ; 
 
 5° bis A raison de l'appartenance ou de la non-appartenance, vraie ou supposée, de la victime à une ethnie, une nation, une
 race ou une religion déterminée ; 
 
-5° ter A raison de l'orientation sexuelle de la victime ; 
+5° ter A raison de l'orientation ou identité sexuelle de la victime ; 
 
 6° Par le conjoint ou le concubin de la victime ou le partenaire lié à la victime par un pacte civil de solidarité ; 
 
@@ -12222,7 +12218,7 @@ l'occasion de l'exercice de ses fonctions ou de sa mission ;
 
 9° Avec préméditation ou avec guet-apens ; 
 
-10° Avec usage ou menace d'une arme.
+10° Avec usage ou menace d'une arme. 
 
 L'infraction définie à l'article 222-1 est également punie de vingt ans de réclusion criminelle lorsqu'elle est accompagnée
 d'agressions sexuelles autres que le viol. 
@@ -12238,8 +12234,7 @@ présent article.
 
 _Modifié par_:
 
-  - Loi n°2003-239 du 18 mars 2003 - art. 60
-  - Loi n°2010-930 du 9 août 2010 - art. 4
+  - Loi n°2012-954 du 6 août 2012 - art. 4
 
 _Cité par_:
 
@@ -12470,7 +12465,7 @@ nationale ou devant la Cour pénale internationale ;
 5° bis A raison de l'appartenance ou de la non-appartenance, vraie ou supposée, de la victime à une ethnie, une nation, une
 race ou une religion déterminée ; 
 
-5° ter A raison de l'orientation sexuelle de la victime ; 
+5° ter A raison de l'orientation ou identité sexuelle de la victime ; 
 
 6° Par le conjoint ou le concubin de la victime ou le partenaire lié à la victime par un pacte civil de solidarité ; 
 
@@ -12519,8 +12514,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2003-239 du 18 mars 2003 - art. 60
-  - Loi n°2010-930 du 9 août 2010 - art. 4
+  - Loi n°2012-954 du 6 août 2012 - art. 4
 
 _Cite_:
 
@@ -12600,12 +12594,12 @@ au domicile des personnes mentionnées aux 4° et 4° bis, en raison des fonctio
 
 5° Sur un témoin, une victime ou une partie civile, soit pour l'empêcher de dénoncer les faits, de porter plainte ou de
 déposer en justice, soit en raison de sa dénonciation ou de sa plainte, soit à cause de sa déposition devant une juridiction
-nationale ou devant la Cour pénale internationale ;  
+nationale ou devant la Cour pénale internationale ; 
 
 5° bis A raison de l'appartenance ou de la non-appartenance, vraie ou supposée, de la victime à une ethnie, une nation, une
 race ou une religion déterminée ; 
 
-5° ter A raison de l'orientation sexuelle de la victime ; 
+5° ter A raison de l'orientation ou identité sexuelle de la victime ; 
 
 6° Par le conjoint ou le concubin de la victime ou le partenaire lié à la victime par un pacte civil de solidarité ; 
 
@@ -12656,8 +12650,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2003-239 du 18 mars 2003 - art. 60
-  - Loi n°2010-930 du 9 août 2010 - art. 4
+  - Loi n°2012-954 du 6 août 2012 - art. 4
 
 _Cite_:
 
@@ -12727,12 +12720,12 @@ au domicile des personnes mentionnées aux 4° et 4° bis, en raison des fonctio
 
 5° Sur un témoin, une victime ou une partie civile, soit pour l'empêcher de dénoncer les faits, de porter plainte ou de
 déposer en justice, soit en raison de sa dénonciation ou de sa plainte, soit à cause de sa déposition devant une juridiction
-nationale ou devant la Cour pénale internationale ;  
+nationale ou devant la Cour pénale internationale ; 
 
 5° bis A raison de l'appartenance ou de la non-appartenance, vraie ou supposée, de la victime à une ethnie, une nation, une
 race ou une religion déterminée ; 
 
-5° ter A raison de l'orientation sexuelle de la victime ; 
+5° ter A raison de l'orientation ou identité sexuelle de la victime ; 
 
 6° Par le conjoint ou le concubin de la victime ou le partenaire lié à la victime par un pacte civil de solidarité ; 
 
@@ -12797,9 +12790,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2003-239 du 18 mars 2003 - art. 60
-  - Loi n°2003-239 du 18 mars 2003 - art. 78
-  - Loi n°2010-930 du 9 août 2010 - art. 4
+  - Loi n°2012-954 du 6 août 2012 - art. 4
 
 _Cite_:
 
@@ -12843,7 +12834,7 @@ nationale ou devant la Cour pénale internationale ;
 5° bis A raison de l'appartenance ou de la non-appartenance, vraie ou supposée, de la victime à une ethnie, une nation, une
 race ou une religion déterminée ; 
 
-5° ter A raison de l'orientation sexuelle de la victime ; 
+5° ter A raison de l'orientation ou identité sexuelle de la victime ; 
 
 6° Par le conjoint ou le concubin de la victime ou le partenaire lié à la victime par un pacte civil de solidarité ; 
 
@@ -12899,9 +12890,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2003-239 du 18 mars 2003 - art. 60
-  - Loi n°2003-239 du 18 mars 2003 - art. 78
-  - Loi n°2010-930 du 9 août 2010 - art. 4
+  - Loi n°2012-954 du 6 août 2012 - art. 4
 
 _Cite_:
 
@@ -13267,25 +13256,29 @@ _Cité par_:
 
 Lorsqu'elles sont commises à raison de l'appartenance ou de la non-appartenance, vraie ou supposée, de la victime à une
 ethnie, une nation, une race ou une religion déterminée, les menaces prévues au premier alinéa de l'article 222-17 sont
-punies de deux ans d'emprisonnement et de 30 000 Euros d'amende, celles prévues au second alinéa de cet article et au premier
-alinéa de l'article 222-18 sont punies de cinq  ans d'emprisonnement et de 75 000 Euros d'amende, et celles prévues au second
-alinéa de l'article 222-18 sont punies de sept ans d'emprisonnement et de 100 000 Euros d'amende. Les mêmes peines sont
-encourues lorsque ces menaces sont proférées à raison de l'orientation sexuelle vraie ou supposée de la victime.
+punies de deux ans d'emprisonnement et de 30 000 euros d'amende, celles prévues au second alinéa de cet article et au premier
+alinéa de l'article 222-18 sont punies de cinq ans d'emprisonnement et de 75 000 euros d'amende, et celles prévues au second
+alinéa de l'article 222-18 sont punies de sept ans d'emprisonnement et de 100 000 euros d'amende. Les mêmes peines sont
+encourues lorsque ces menaces sont proférées à raison de l'orientation ou identité sexuelle vraie ou supposée de la victime.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Loi n°92-684 1992-07-22
+  - Loi n°92-684 du 22 juillet 1992
 
 _Modifié par_:
 
-  - Loi n°2004-204 du 9 mars 2004 - art. 39 () JORF 10 mars 2004
+  - Loi n°2012-954 du 6 août 2012 - art. 4
+
+_Abrogé par_:
+
+  - Loi n°2017-86 du 27 janvier 2017 - art. 171
 
 _Cite_:
 
-  - Code pénal - art. 222-17 (M)
-  - Code pénal - art. 222-18 (M)
+  - Code pénal - art. 222-17
+  - Code pénal - art. 222-18
 
 _Cité par_:
 
@@ -13842,32 +13835,32 @@ _Anciens textes_:
 
 ###### Article 222-24
 
-Le viol est puni de vingt ans de réclusion criminelle :
+Le viol est puni de vingt ans de réclusion criminelle : 
 
-1° Lorsqu'il a entraîné une mutilation ou une infirmité permanente ;
+1° Lorsqu'il a entraîné une mutilation ou une infirmité permanente ; 
 
-2° Lorsqu'il est commis sur un mineur de quinze ans ;
+2° Lorsqu'il est commis sur un mineur de quinze ans ; 
 
 3° Lorsqu'il est commis sur une personne dont la particulière vulnérabilité, due à son âge, à une maladie, à une infirmité, à
-une déficience physique ou psychique ou à un état de grossesse, est apparente ou connue de l'auteur ;
+une déficience physique ou psychique ou à un état de grossesse, est apparente ou connue de l'auteur ; 
 
 4° Lorsqu'il est commis par un ascendant ou par toute autre personne ayant sur la victime une autorité de droit ou de fait ; 
 
-5° Lorsqu'il est commis par une personne qui abuse de l'autorité que lui confèrent ses fonctions ;
+5° Lorsqu'il est commis par une personne qui abuse de l'autorité que lui confèrent ses fonctions ; 
 
-6° Lorsqu'il est commis par plusieurs personnes agissant en qualité d'auteur ou de complice ;
+6° Lorsqu'il est commis par plusieurs personnes agissant en qualité d'auteur ou de complice ; 
 
-7° Lorsqu'il est commis avec usage ou menace d'une arme ;
+7° Lorsqu'il est commis avec usage ou menace d'une arme ; 
 
 8° Lorsque la victime a été mise en contact avec l'auteur des faits grâce à l'utilisation, pour la diffusion de messages à
-destination d'un public non déterminé, d'un réseau de communication électronique   ;
+destination d'un public non déterminé, d'un réseau de communication électronique ; 
 
-9° Lorsqu'il a été commis à raison de l'orientation sexuelle de la victime ;
+9° Lorsqu'il a été commis à raison de l'orientation ou identité sexuelle de la victime ; 
 
-10° Lorsqu'il est commis en concours avec un ou plusieurs autres viols commis sur d'autres victimes ;
+10° Lorsqu'il est commis en concours avec un ou plusieurs autres viols commis sur d'autres victimes ; 
 
 11° Lorsqu'il est commis par le conjoint ou le concubin de la victime ou le partenaire lié à la victime par un pacte civil de
-solidarité ;
+solidarité ; 
 
 12° Lorsqu'il est commis par une personne agissant en état d'ivresse manifeste ou sous l'emprise manifeste de produits
 stupéfiants.
@@ -13876,7 +13869,7 @@ stupéfiants.
 
 _Modifié par_:
 
-  - Loi n°2011-525 du 17 mai 2011 - art. 150
+  - Loi n°2012-954 du 6 août 2012 - art. 4
 
 _Cité par_:
 
@@ -14056,7 +14049,7 @@ fait ;
 
 5° Lorsqu'elle est commise avec usage ou menace d'une arme ; 
 
-6° Lorsqu'elle a été commise à raison de l'orientation sexuelle de la victime ; 
+6° Lorsqu'elle a été commise à raison de l'orientation ou identité sexuelle de la victime ; 
 
 7° Lorsqu'elle est commise par une personne agissant en état d'ivresse manifeste ou sous l'emprise manifeste de produits
 stupéfiants.
@@ -14065,7 +14058,7 @@ stupéfiants.
 
 _Modifié par_:
 
-  - Loi n°2010-121 du 8 février 2010 - art. 2
+  - Loi n°2012-954 du 6 août 2012 - art. 4
 
 _Cité par_:
 
@@ -14156,6 +14149,60 @@ _Anciens textes_:
   - CODE PENAL - art. 330 (Ab)
 
 
+###### Article 222-33
+
+I. - Le harcèlement sexuel est le fait d'imposer à une personne, de façon répétée, des propos ou comportements à connotation
+sexuelle qui soit portent atteinte à sa dignité en raison de leur caractère dégradant ou humiliant, soit créent à son
+encontre une situation intimidante, hostile ou offensante. 
+
+II. - Est assimilé au harcèlement sexuel le fait, même non répété, d'user de toute forme de pression grave dans le but réel
+ou apparent d'obtenir un acte de nature sexuelle, que celui-ci soit recherché au profit de l'auteur des faits ou au profit
+d'un tiers. 
+
+III. - Les faits mentionnés aux I et II sont punis de deux ans d'emprisonnement et de 30 000 € d'amende. 
+
+Ces peines sont portées à trois ans d'emprisonnement et 45 000 € d'amende lorsque les faits sont commis : 
+
+1° Par une personne qui abuse de l'autorité que lui confèrent ses fonctions ; 
+
+2° Sur un mineur de quinze ans ; 
+
+3° Sur une personne dont la particulière vulnérabilité, due à son âge, à une maladie, à une infirmité, à une déficience
+physique ou psychique ou à un état de grossesse, est apparente ou connue de leur auteur ; 
+
+4° Sur une personne dont la particulière vulnérabilité ou dépendance résultant de la précarité de sa situation économique ou
+sociale est apparente ou connue de leur auteur ; 
+
+5° Par plusieurs personnes agissant en qualité d'auteur ou de complice.
+
+**Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Loi n°52-1322 du 15 décembre 1952 - art. 145 (V)
+  - Décret n°85-891 du 16 août 1985 - art. 6 (VT)
+  - Loi n°2002-1062 du 6 août 2002 - art. 14 (V)
+  - Loi n°2004-575 du 21 juin 2004 - art. 6 (V)
+  - Loi n°2012-954 du 6 août 2012 - art. 12 (V)
+  - Loi n°2012-954 du 6 août 2012 - art. 1
+  - Code de la défense. - art. L2336-1 (MMN)
+  - Code de la sécurité intérieure - art. L312-3 (VD)
+  - Code de procédure pénale - art. 2-2 (V)
+  - Code de procédure pénale - art. 706-47-4 (V)
+  - Code du travail - art. L1153-5 (VD)
+  - Code du travail - art. L8112-2 (VT)
+  - Code du travail applicable à Mayotte. - art. L053-5 (VT)
+  - Code du travail applicable à Mayotte. - art. L610-1 (VT)
+  - Code pénal - art. 132-77 (V)
+  - Code pénal - art. 222-33-3 (V)
+  - Code pénal - art. 222-50-1 (V)
+  - Code pénal - art. 225-1-1 (V)
+
+_Créé par_:
+
+  - Loi n°2012-954 du 6 août 2012 - art. 1
+
+
 ##### Paragraphe 5 : Responsabilité pénale des personnes morales<a id=87></a>
 
 ###### Article 222-33-1
@@ -14187,7 +14234,7 @@ _Cite_:
 
 Le fait de harceler autrui par des agissements répétés ayant pour objet ou pour effet une dégradation des conditions de
 travail susceptible de porter atteinte à ses droits et à sa dignité, d'altérer sa santé physique ou mentale ou de
-compromettre son avenir professionnel, est puni d'un an d'emprisonnement et de 15000 euros d'amende.
+compromettre son avenir professionnel, est puni de deux ans d'emprisonnement et de 30 000 € d'amende.
 
 **Liens relatifs à cet article**
 
@@ -14208,11 +14255,11 @@ _Cité par_:
 
 _Codifié par_:
 
-  - Loi n°92-684 1992-07-22
+  - Loi n°92-684 du 22 juillet 1992
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°2002-73 du 17 janvier 2002 - art. 170 () JORF 18 janvier 2002
+  - Loi n°2012-954 du 6 août 2012 - art. 2
 
 
 ###### Article 222-33-2-1
@@ -16243,14 +16290,14 @@ _Cite_:
 
 Constitue une discrimination toute distinction opérée entre les personnes physiques à raison de leur origine, de leur sexe,
 de leur situation de famille, de leur grossesse, de leur apparence physique, de leur patronyme, de leur état de santé, de
-leur handicap, de leurs caractéristiques génétiques, de leurs moeurs, de leur orientation sexuelle, de leur âge, de leurs
-opinions politiques, de leurs activités syndicales, de leur appartenance ou de leur non-appartenance, vraie ou supposée, à
-une ethnie, une nation, une race ou une religion déterminée.
+leur handicap, de leurs caractéristiques génétiques, de leurs moeurs, de leur orientation ou identité sexuelle, de leur âge,
+de leurs opinions politiques, de leurs activités syndicales, de leur appartenance ou de leur non-appartenance, vraie ou
+supposée, à une ethnie, une nation, une race ou une religion déterminée. 
 
 Constitue également une discrimination toute distinction opérée entre les personnes morales à raison de l'origine, du sexe,
 de la situation de famille, de l'apparence physique, du patronyme, de l'état de santé, du handicap, des caractéristiques
-génétiques, des moeurs, de l'orientation sexuelle, de l'âge, des opinions politiques, des activités syndicales, de
-l'appartenance ou de la non-appartenance, vraie ou supposée, à une ethnie, une nation, une race ou une religion déterminée
+génétiques, des moeurs, de l'orientation ou identité sexuelle, de l'âge, des opinions politiques, des activités syndicales,
+de l'appartenance ou de la non-appartenance, vraie ou supposée, à une ethnie, une nation, une race ou une religion déterminée
 des membres ou de certains membres de ces personnes morales.
 
 **Liens relatifs à cet article**
@@ -16283,34 +16330,58 @@ _Cité par_:
 
 _Codifié par_:
 
-  - Loi n°92-684 1992-07-22
+  - Loi n°92-684 du 22 juillet 1992
 
 _Modifié par_:
 
-  - Loi n°2006-340 du 23 mars 2006 - art. 13 () JORF 24 mars 2006
+  - Loi n°2012-954 du 6 août 2012 - art. 4
+
+
+###### Article 225-1-1
+
+Constitue une discrimination toute distinction opérée entre les personnes parce qu'elles ont subi ou refusé de subir des
+faits de harcèlement sexuel tels que définis à l'article 222-33 ou témoigné de tels faits, y compris, dans le cas mentionné
+au I du même article, si les propos ou comportements n'ont pas été répétés.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2012-954 du 6 août 2012 - art. 3
+
+_Cité par_:
+
+  - Décret n°2018-388 du 24 mai 2018 - art. 1 (V)
+  - Code de la santé publique - art. L1110-3 (V)
+  - Code de la santé publique - art. L1110-3-1 (V)
+  - Code pénal - art. 225-2 (V)
+
+_Cite_:
+
+  - Code pénal - art. 222-33
 
 
 ###### Article 225-2
 
-La discrimination définie à l'article 225-1, commise à l'égard d'une personne physique ou morale, est punie de trois ans
-d'emprisonnement et de 45 000 Euros d'amende lorsqu'elle consiste :
+La discrimination définie aux articles 225-1 et 225-1-1, commise à l'égard d'une personne physique ou morale, est punie de
+trois ans d'emprisonnement et de 45 000 euros d'amende lorsqu'elle consiste : 
 
-1° A refuser la fourniture d'un bien ou d'un service ;
+1° A refuser la fourniture d'un bien ou d'un service ; 
 
-2° A entraver l'exercice normal d'une activité économique quelconque ;
+2° A entraver l'exercice normal d'une activité économique quelconque ; 
 
-3° A refuser d'embaucher, à sanctionner ou à licencier une personne ;
+3° A refuser d'embaucher, à sanctionner ou à licencier une personne ; 
 
-4° A subordonner la fourniture d'un bien ou d'un service à une condition fondée sur l'un des éléments visés à l'article
-225-1 ;
+4° A subordonner la fourniture d'un bien ou d'un service à une condition fondée sur l'un des éléments visés à l'article 225-1
+ou prévue à l'article 225-1-1 ; 
 
 5° A subordonner une offre d'emploi, une demande de stage ou une période de formation en entreprise à une condition fondée
-sur l'un des éléments visés à l'article 225-1 ;
+sur l'un des éléments visés à l'article 225-1 ou prévue à l'article 225-1-1 ; 
 
-6° A refuser d'accepter une personne à l'un des stages visés par le 2° de l'article L. 412-8 du code de la sécurité sociale.
+6° A refuser d'accepter une personne à l'un des stages visés par le 2° de l'article L. 412-8 du code de la sécurité sociale. 
 
 Lorsque le refus discriminatoire prévu au 1° est commis dans un lieu accueillant du public ou aux fins d'en interdire
-l'accès, les peines sont portées à cinq ans d'emprisonnement et à 75 000 Euros d'amende.
+l'accès, les peines sont portées à cinq ans d'emprisonnement et à 75 000 euros d'amende.
 
 **Liens relatifs à cet article**
 
@@ -16339,16 +16410,17 @@ _Cité par_:
 
 _Codifié par_:
 
-  - Loi n°92-684 1992-07-22
+  - Loi n°92-684 du 22 juillet 1992
 
 _Modifié par_:
 
-  - Loi n°2004-204 du 9 mars 2004 - art. 41 () JORF 10 mars 2004
+  - Loi n°2012-954 du 6 août 2012 - art. 3
 
 _Cite_:
 
-  - Code pénal - art. 225-1 (M)
-  - Code de la sécurité sociale. - art. L412-8 (M)
+  - Code pénal - art. 225-1
+  - Code pénal - art. 225-1-1
+  - Code de la sécurité sociale. - art. L412-8
 
 
 ###### Article 225-3
@@ -19616,8 +19688,8 @@ _Créé par_:
 Le fait, hors les cas prévus par la loi, de mettre ou de conserver en mémoire informatisée, sans le consentement exprès de
 l'intéressé, des données à caractère personnel qui, directement ou indirectement, font apparaître les origines raciales ou
 ethniques, les opinions politiques, philosophiques ou religieuses, ou les appartenances syndicales des personnes, ou qui sont
-relatives à la santé ou à l'orientation sexuelle de celles-ci, est puni de cinq ans d'emprisonnement et de 300 000 Euros
-d'amende.
+relatives à la santé ou à l'orientation ou identité sexuelle de celles-ci, est puni de cinq ans d'emprisonnement et de 300
+000 euros d'amende. 
 
 Est puni des mêmes peines le fait, hors les cas prévus par la loi, de mettre ou de conserver en mémoire informatisée des
 données à caractère personnel concernant des infractions, des condamnations ou des mesures de sûreté.
@@ -19626,11 +19698,11 @@ données à caractère personnel concernant des infractions, des condamnations o
 
 _Codifié par_:
 
-  - Loi n°92-684 1992-07-22
+  - Loi n°92-684 du 22 juillet 1992
 
 _Modifié par_:
 
-  - Loi n°2004-801 du 6 août 2004 - art. 14 () JORF 7 août 2004
+  - Loi n°2012-954 du 6 août 2012 - art. 4
 
 _Cité par_:
 
@@ -21627,7 +21699,7 @@ moyen de transport collectif de voyageurs ;
 8° Lorsqu'il est précédé, accompagné ou suivi d'un acte de destruction, dégradation ou détérioration ; 
 
 9° Lorsqu'il est commis à raison de l'appartenance ou de la non-appartenance, vraie ou supposée, de la victime à une ethnie,
-une nation, une race ou une religion déterminée, ou de son orientation sexuelle, vraie ou supposée ; 
+une nation, une race ou une religion déterminée, ou de son orientation ou identité sexuelle, vraie ou supposée ; 
 
 10° Lorsqu'il est commis par une personne dissimulant volontairement en tout ou partie son visage afin de ne pas être
 identifiée ; 
@@ -21659,7 +21731,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2011-267 du 14 mars 2011 - art. 47
+  - Loi n°2012-954 du 6 août 2012 - art. 4
 
 
 ###### Article 311-4-1
@@ -22173,19 +22245,19 @@ _Cité par_:
 
 ###### Article 312-2
 
-L'extorsion est punie de dix ans d'emprisonnement et de 150 000 euros d'amende :
+L'extorsion est punie de dix ans d'emprisonnement et de 150 000 euros d'amende : 
 
 1° Lorsqu'elle est précédée, accompagnée ou suivie de violences sur autrui ayant entraîné une incapacité totale de travail
-pendant huit jours au plus ;
+pendant huit jours au plus ; 
 
 2° Lorsqu'elle est commise au préjudice d'une personne dont la particulière vulnérabilité, due à son âge, à une maladie, à
-une infirmité, à une déficience physique ou psychique ou à un état de grossesse, est apparente ou connue de son auteur ;
+une infirmité, à une déficience physique ou psychique ou à un état de grossesse, est apparente ou connue de son auteur ; 
 
 3° Lorsqu'elle est commise à raison de l'appartenance ou de la non-appartenance, vraie ou supposée, de la victime à une
-ethnie, une nation, une race ou une religion déterminée, ou de son orientation sexuelle, vraie ou supposée ;
+ethnie, une nation, une race ou une religion déterminée, ou de son orientation ou identité sexuelle, vraie ou supposée ; 
 
 4° Lorsqu'elle est commise par une personne dissimulant volontairement en tout ou partie son visage afin de ne pas être
-identifiée ;
+identifiée ; 
 
 5° Lorsqu'elle est commise dans les établissements d'enseignement ou d'éducation ainsi que, lors des entrées ou sorties des
 élèves ou dans un temps très voisin de celles-ci, aux abords de ces établissements.
@@ -22203,8 +22275,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2010-201 du 2 mars 2010 - art. 12
-  - Loi n°2010-201 du 2 mars 2010 - art. 3
+  - Loi n°2012-954 du 6 août 2012 - art. 4
 
 
 ###### Article 312-3
@@ -28405,11 +28476,11 @@ _Cité par_:
 
 ###### Article 432-7
 
-La discrimination définie à l'article 225-1, commise à l'égard d'une personne physique ou morale par une personne dépositaire
-de l'autorité publique ou chargée d'une mission de service public, dans l'exercice ou à l'occasion de l'exercice de ses
-fonctions ou de sa mission, est punie de cinq ans d'emprisonnement et de 75000 euros d'amende lorsqu'elle consiste :
+La discrimination définie aux articles 225-1 et 225-1-1, commise à l'égard d'une personne physique ou morale par une personne
+dépositaire de l'autorité publique ou chargée d'une mission de service public, dans l'exercice ou à l'occasion de l'exercice
+de ses fonctions ou de sa mission, est punie de cinq ans d'emprisonnement et de 75 000 euros d'amende lorsqu'elle consiste : 
 
-1° A refuser le bénéfice d'un droit accordé par la loi ;
+1° A refuser le bénéfice d'un droit accordé par la loi ; 
 
 2° A entraver l'exercice normal d'une activité économique quelconque.
 
@@ -28434,15 +28505,15 @@ _Cité par_:
 
 _Codifié par_:
 
-  - Loi n°92-686 1992-07-22
+  - Loi n°92-686 du 22 juillet 1992
 
 _Modifié par_:
 
-  - Loi n°2004-204 du 9 mars 2004 - art. 41 () JORF 10 mars 2004
+  - Loi n°2012-954 du 6 août 2012 - art. 3
 
 _Cite_:
 
-  - Code pénal - art. 225-1 (M)
+  - Code pénal - art. 225-1
 
 
 ##### Paragraphe 3 : Des atteintes à l'inviolabilité du domicile<a id=207></a>
