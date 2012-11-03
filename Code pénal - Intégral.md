@@ -1,5 +1,5 @@
 # Code pénal  
-Version Consolidée au 2012-08-08
+Version Consolidée au 2012-11-04
 ## Contenu: 
   - [Partie législative (art. 111-1 à 727-3)](#1)
     - [Livre Ier : Dispositions générales (art. 111-1 à 133-17)](#2)
@@ -3119,9 +3119,17 @@ conduire n'est pas exigé, pour une durée de trois ans au plus ;
 10° La confiscation de l'animal ayant été utilisé pour commettre l'infraction ou à l'encontre duquel l'infraction a été
 commise ; 
 
-11° L'interdiction, pour une durée de trois ans au plus, de détenir un animal.
+11° L'interdiction, pour une durée de trois ans au plus, de détenir un animal ;
+
+12°  Le retrait pour une durée d'un an au plus des titres de conduite en mer  des navires de plaisance à moteur et, à
+l'encontre de toute personne  embarquée sur un navire étranger, l'interdiction pour un an au plus de  pratiquer la navigation
+dans les eaux territoriales ou les eaux  intérieures maritimes françaises.
 
 **Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°92-683 du 22 juillet 1992 (V)
 
 _Cité par_:
 
@@ -3156,18 +3164,13 @@ _Cité par_:
   - Code rural et de la pêche maritime - art. R641-55 (Ab)
   - Code rural et de la pêche maritime - art. R945-5 (V)
 
-_Codifié par_:
-
-  - Loi n°92-683 du 22 juillet 1992 (V)
-
 _Modifié par_:
 
-  - Loi n°2007-297 du 5 mars 2007 - art. 65 () JORF 7 mars 2007
-  - Loi n°2007-297 du 5 mars 2007 - art. 25
+  - Ordonnance n°2012-1218 du 2 novembre 2012 - art. 13
 
 _Cite_:
 
-  - Code pénal - art. 131-35-1 (V)
+  - Code pénal - art. 131-35-1
 
 
 ###### Article 131-17
