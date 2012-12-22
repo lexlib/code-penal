@@ -1,14 +1,14 @@
 # Code pénal  
-Version Consolidée au 2012-11-04
+Version Consolidée au 2012-12-23
 ## Contenu: 
   - [Partie législative (art. 111-1 à 727-3)](#1)
     - [Livre Ier : Dispositions générales (art. 111-1 à 133-17)](#2)
-      - [Titre Ier : De la loi pénale (art. 111-1 à 113-12)](#3)
+      - [Titre Ier : De la loi pénale (art. 111-1 à 113-13)](#3)
         - [Chapitre Ier : Des principes généraux (art. 111-1 à 111-5)](#4)
         - [Chapitre II : De l'application de la loi pénale dans le temps (art. 112-1 à 112-4)](#5)
-        - [Chapitre III : De l'application de la loi pénale dans l'espace (art. 113-1 à 113-12)](#6)
+        - [Chapitre III : De l'application de la loi pénale dans l'espace (art. 113-1 à 113-13)](#6)
           - [Section 1 : Des infractions commises ou réputées commises sur le territoire de la République (art. 113-2 à 113-5)](#7)
-          - [Section 2 : Des infractions commises hors du territoire de la République (art. 113-6 à 113-12)](#8)
+          - [Section 2 : Des infractions commises hors du territoire de la République (art. 113-6 à 113-13)](#8)
       - [Titre II : De la responsabilité pénale (art. 121-1 à 122-8)](#9)
         - [Chapitre Ier : Dispositions générales (art. 121-1 à 121-7)](#10)
         - [Chapitre II : Des causes d'irresponsabilité ou d'atténuation de la responsabilité (art. 122-1 à 122-8)](#11)
@@ -983,6 +983,18 @@ _Codifié par_:
 _Créé par_:
 
   - Loi n°96-151 du 26 février 1996 - art. 9 () JORF 27 février 1996
+
+
+###### Article 113-13
+
+La loi pénale française s'applique aux crimes et délits qualifiés d'actes de terrorisme et réprimés par le titre II du livre
+IV commis à l'étranger par un Français ou par une personne résidant habituellement sur le territoire français.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2012-1432 du 21 décembre 2012 - art. 2
 
 
 ### Titre II : De la responsabilité pénale<a id=9></a>
@@ -27244,6 +27256,25 @@ _Cite_:
 
   - Code pénal - art. 421-1 (V)
   - Code pénal - art. 421-2-2 (V)
+
+
+###### Article 421-2-4
+
+Le fait d'adresser à une personne des offres ou des promesses, de lui proposer des dons, présents ou avantages quelconques,
+de la menacer ou d'exercer sur elle des pressions afin qu'elle participe à un groupement ou une entente prévu à l'article
+421-2-1 ou qu'elle commette un des actes de terrorisme mentionnés aux articles 421-1 et 421-2 est puni, même lorsqu'il n'a
+pas été suivi d'effet, de dix ans d'emprisonnement et de 150 000 € d'amende.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2012-1432 du 21 décembre 2012 - art. 3
+
+_Cite_:
+
+  - Code pénal - art. 421-1 (V)
+  - Code pénal - art. 421-2-1 (V)
 
 
 ###### Article 421-3
