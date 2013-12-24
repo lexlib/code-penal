@@ -1,5 +1,5 @@
 # Code pénal  
-Version Consolidée au 2013-12-20
+Version Consolidée au 2013-12-25
 ## Contenu: 
   - [Partie législative (art. 111-1 à 727-3)](#1)
     - [Livre Ier : Dispositions générales (art. 111-1 à 133-17)](#2)
@@ -23616,7 +23616,10 @@ de service public ;
 d'entraide humanitaire ou sociale ;
 
 4° Au préjudice d'une personne dont la particulière vulnérabilité, due à son âge, à une maladie, à une infirmité, à une
-déficience physique ou psychique ou à un état de grossesse, est apparente ou connue de son auteur.
+déficience physique ou psychique ou à un état de grossesse, est apparente ou connue de son auteur ;
+
+5° Au préjudice d'une personne publique, d'un organisme de protection sociale ou d'un organisme chargé d'une mission de
+service public, pour l'obtention d'une allocation, d'une prestation, d'un paiement ou d'un avantage indu. 
 
 Les peines sont portées à dix ans d'emprisonnement et à 1 000 000 euros d'amende lorsque l'escroquerie est commise en bande
 organisée.
@@ -23625,7 +23628,7 @@ organisée.
 
 _Codifié par_:
 
-  - Loi n°92-685 1992-07-22
+  - Loi n°92-685 du 22 juillet 1992
 
 _Cité par_:
 
@@ -23645,7 +23648,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2004-204 du 9 mars 2004 - art. 6 () JORF 10 mars 2004
+  - Loi n°2013-1203 du 23 décembre 2013 - art. 86
 
 
 ###### Article 313-3
@@ -33610,8 +33613,10 @@ Le fait de se faire délivrer indûment par une administration publique ou par u
 public, par quelque moyen frauduleux que ce soit, un document destiné à constater un droit, une identité ou une qualité ou à
 accorder une autorisation est puni de deux ans d'emprisonnement et de 30 000 euros d'amende.
 
-Est puni des mêmes peines le fait de fournir une déclaration mensongère en vue d'obtenir d'une administration publique ou
-d'un organisme chargé d'une mission de service public une allocation, un paiement ou un avantage indu.
+Est puni des mêmes peines le fait de fournir sciemment une fausse déclaration ou une déclaration incomplète en vue d'obtenir
+ou de tenter d'obtenir, de faire obtenir ou de tenter de faire obtenir d'une personne publique, d'un organisme de protection
+sociale ou d'un organisme chargé d'une mission de service public une allocation, une prestation, un paiement ou un avantage
+indu.
 
 **Liens relatifs à cet article**
 
@@ -33656,16 +33661,11 @@ _Cité par_:
 
 _Codifié par_:
 
-  - Loi n°92-686 1992-07-22
-
-**Liens**:
-
-  - SPEC_APPLI: Loi n°92-686 1992-07-22 art. 1
-  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
+  - Loi n°92-686 du 22 juillet 1992
 
 _Modifié par_:
 
-  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+  - Loi n°2013-1203 du 23 décembre 2013 - art. 86
 
 
 ###### Article 441-7
