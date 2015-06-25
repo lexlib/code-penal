@@ -1,5 +1,5 @@
 # Code pénal  
-Version Consolidée au 2015-03-28
+Version Consolidée au 2015-06-26
 ## Contenu: 
   - [Partie législative (art. 111-1 à 727-3)](#1)
     - [Livre Ier : Dispositions générales (art. 111-1 à 133-17)](#2)
@@ -19158,23 +19158,21 @@ _Cite_:
 
 ###### Article 226-4
 
-L'introduction ou le maintien dans le domicile d'autrui à l'aide de manoeuvres, menaces, voies de fait ou contrainte, hors
-les cas où la loi le permet, est puni d'un an d'emprisonnement et de 15 000 euros d'amende.
+L'introduction dans le domicile d'autrui à l'aide de manoeuvres, menaces, voies de fait ou contrainte, hors les cas où la loi
+le permet, est puni d'un an d'emprisonnement et de 15 000 euros d'amende.
+
+Le maintien dans le domicile d'autrui à la suite de l'introduction mentionnée au premier alinéa, hors les cas où la loi le
+permet, est puni des mêmes peines.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Loi n°92-684 1992-07-22
-
-**Liens**:
-
-  - SPEC_APPLI: Loi n°92-684 1992-07-22 art. 1
-  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
+  - Loi n°92-684 du 22 juillet 1992
 
 _Modifié par_:
 
-  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+  - Loi n°2015-714 du 24 juin 2015 - art. unique
 
 _Cité par_:
 
