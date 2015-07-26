@@ -1,5 +1,5 @@
 # Code pénal  
-Version Consolidée au 2015-06-26
+Version Consolidée au 2015-07-27
 ## Contenu: 
   - [Partie législative (art. 111-1 à 727-3)](#1)
     - [Livre Ier : Dispositions générales (art. 111-1 à 133-17)](#2)
@@ -172,7 +172,7 @@ Version Consolidée au 2015-06-26
           - [Section 2 : Des destructions, dégradations et détériorations dangereuses pour les personnes (art. 322-5 à 322-11-1)](#169)
           - [Section 3 : Des menaces de destruction, de dégradation ou de détérioration et des fausses alertes (art. 322-12 à 322-14)](#170)
           - [Section 4 : Peines complémentaires applicables aux personnes physiques et responsabilité des personnes morales (art. 322-15 à 322-18)](#171)
-        - [Chapitre III : Des atteintes aux systèmes de traitement automatisé de données (art. 323-1 à 323-7)](#172)
+        - [Chapitre III : Des atteintes aux systèmes de traitement automatisé de données (art. 323-1 à 323-8)](#172)
         - [Chapitre IV : Du blanchiment (art. 324-1 à 324-9)](#173)
           - [Section 1 : Du blanchiment simple et du blanchiment aggravé (art. 324-1 à 324-6-1)](#174)
           - [Section 2 : Peines complémentaires applicables aux personnes physiques et responsabilité pénale des personnes morales (art. 324-7 à 324-9)](#175)
@@ -25645,13 +25645,13 @@ _Cite_:
 ###### Article 323-1
 
 Le fait d'accéder ou de se maintenir, frauduleusement, dans tout ou partie d'un système de traitement automatisé de données
-est puni de deux ans d'emprisonnement et de 30 000 euros d'amende.
+est puni de deux ans d'emprisonnement et de 60 000 € d'amende. 
 
 Lorsqu'il en est résulté soit la suppression ou la modification de données contenues dans le système, soit une altération du
-fonctionnement de ce système, la peine est de trois ans d'emprisonnement et de 45 000 euros d'amende.
+fonctionnement de ce système, la peine est de trois ans d'emprisonnement et de 100 000 € d'amende. 
 
 Lorsque les infractions prévues aux deux premiers alinéas ont été commises à l'encontre d'un système de traitement automatisé
-de données à caractère personnel mis en œuvre par l'Etat, la peine est portée à cinq ans d'emprisonnement et à 75 000 €
+de données à caractère personnel mis en œuvre par l'Etat, la peine est portée à cinq ans d'emprisonnement et à  150 000 €
 d'amende.
 
 **Liens relatifs à cet article**
@@ -25662,7 +25662,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2012-410 du 27 mars 2012 - art. 9
+  - Loi n°2015-912 du 24 juillet 2015 - art. 4
 
 _Cité par_:
 
@@ -25678,10 +25678,10 @@ _Cité par_:
 ###### Article 323-2
 
 Le fait d'entraver ou de fausser le fonctionnement d'un système de traitement automatisé de données est puni de cinq ans
-d'emprisonnement et de 75 000 euros d'amende.
+d'emprisonnement et de 150 000 € d'amende. 
 
 Lorsque cette infraction a été commise à l'encontre d'un système de traitement automatisé de données à caractère personnel
-mis en œuvre par l'Etat, la peine est portée à sept ans d'emprisonnement et à 100 000 € d'amende.
+mis en œuvre par l'Etat, la peine est portée à sept ans d'emprisonnement et à  300 000 € d'amende.
 
 **Liens relatifs à cet article**
 
@@ -25691,17 +25691,17 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2012-410 du 27 mars 2012 - art. 9
+  - Loi n°2015-912 du 24 juillet 2015 - art. 4
 
 
 ###### Article 323-3
 
 Le fait d'introduire frauduleusement des données dans un système de traitement automatisé, d'extraire, de détenir, de
 reproduire, de transmettre, de supprimer ou de modifier frauduleusement les données qu'il contient est puni de cinq ans
-d'emprisonnement et de 75 000 euros d'amende.
+d'emprisonnement et de 150 000 € d'amende. 
 
 Lorsque cette infraction a été commise à l'encontre d'un système de traitement automatisé de données à caractère personnel
-mis en œuvre par l'Etat, la peine est portée à sept ans d'emprisonnement et à 100 000 € d'amende.
+mis en œuvre par l'Etat, la peine est portée à sept ans d'emprisonnement et à  300 000 € d'amende.
 
 **Liens relatifs à cet article**
 
@@ -25711,7 +25711,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2014-1353 du 13 novembre 2014 - art. 16
+  - Loi n°2015-912 du 24 juillet 2015 - art. 4
 
 
 ###### Article 323-3-1
@@ -25765,13 +25765,13 @@ _Cite_:
 
 Lorsque les infractions prévues aux articles 323-1 à 323-3-1 ont été commises en bande organisée et à l'encontre d'un système
 de traitement automatisé de données à caractère personnel mis en œuvre par l'Etat, la peine est portée à dix ans
-d'emprisonnement et à 150 000 € d'amende.
+d'emprisonnement et à  300 000 € d'amende.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°2014-1353 du 13 novembre 2014 - art. 17
+  - Loi n°2015-912 du 24 juillet 2015 - art. 4
 
 _Cité par_:
 
@@ -25868,6 +25868,25 @@ _Modifié par_:
 _Cite_:
 
   - Code pénal 323-1 à 323-3-1
+
+
+###### Article 323-8
+
+Le présent chapitre n'est pas applicable aux mesures mises en œuvre, par les agents habilités des services de l'Etat désignés
+par arrêté du Premier ministre parmi les services spécialisés de renseignement mentionnés à l'article L. 811-2 du code de la
+sécurité intérieure, pour assurer hors du territoire national la protection des intérêts fondamentaux de la Nation mentionnés
+à l'article L. 811-3 du même code.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2015-912 du 24 juillet 2015 - art. 18
+
+_Cite_:
+
+  - Code de la sécurité intérieure - art. L811-2
+  - Code de la sécurité intérieure - art. L811-3
 
 
 #### Chapitre IV : Du blanchiment<a id=173></a>
