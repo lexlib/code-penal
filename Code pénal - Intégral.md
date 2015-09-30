@@ -1,5 +1,5 @@
 # Code pénal  
-Version Consolidée au 2015-07-27
+Version Consolidée au 2015-10-01
 ## Contenu: 
   - [Partie législative (art. 111-1 à 727-3)](#1)
     - [Livre Ier : Dispositions générales (art. 111-1 à 133-17)](#2)
@@ -32595,6 +32595,24 @@ _Codifié par_:
 _Modifié par_:
 
   - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+
+
+###### Article 434-42-1
+
+Le fait, pour une personne faisant l'objet d'une ou plusieurs obligations ou interdictions imposées par une ordonnance du
+juge des libertés et de la détention prise en application d'une décision de protection européenne conformément à l'article
+696-102 du code de procédure pénale, de ne pas se conformer à l'une de ces obligations ou interdictions, est puni de deux ans
+d'emprisonnement et de 30 000 € d'amende.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2015-993 du 17 août 2015 - art. 6
+
+_Cite_:
+
+  - Code de procédure pénale - art. 696-102
 
 
 ###### Article 434-43
