@@ -1,5 +1,5 @@
 # Code pénal  
-Version Consolidée au 2015-10-16
+Version Consolidée au 2015-11-07
 ## Contenu: 
   - [Partie législative (art. 111-1 à 727-3)](#1)
     - [Livre Ier : Dispositions générales (art. 111-1 à 133-17)](#2)
@@ -19835,18 +19835,20 @@ pas applicable :
 lorsqu'il s'agit d'atteintes ou mutilations sexuelles, dont il a eu connaissance et qui ont été infligées à un mineur ou à
 une personne qui n'est pas en mesure de se protéger en raison de son âge ou de son incapacité physique ou psychique ; 
 
-2° Au médecin qui, avec l'accord de la victime, porte à la connaissance du procureur de la République les sévices ou
-privations qu'il a constatés, sur le plan physique ou psychique, dans l'exercice de sa profession et qui lui permettent de
-présumer que des violences physiques, sexuelles ou psychiques de toute nature ont été commises. Lorsque la victime est un
-mineur ou une personne qui n'est pas en mesure de se protéger en raison de son âge ou de son incapacité physique ou
-psychique, son accord n'est pas nécessaire ; 
+2° Au médecin ou à tout autre professionnel de santé qui, avec l'accord de la victime, porte à la connaissance du procureur
+de la République ou de la cellule de recueil, de traitement et d'évaluation des informations préoccupantes relatives aux
+mineurs en danger ou qui risquent de l'être, mentionnée au deuxième alinéa de l'article L. 226-3 du code de l'action sociale
+et des familles, les sévices ou privations qu'il a constatés, sur le plan physique ou psychique, dans l'exercice de sa
+profession et qui lui permettent de présumer que des violences physiques, sexuelles ou psychiques de toute nature ont été
+commises. Lorsque la victime est un mineur ou une personne qui n'est pas en mesure de se protéger en raison de son âge ou de
+son incapacité physique ou psychique, son accord n'est pas nécessaire ; 
 
 3° Aux professionnels de la santé ou de l'action sociale qui informent le préfet et, à Paris, le préfet de police du
 caractère dangereux pour elles-mêmes ou pour autrui des personnes qui les consultent et dont ils savent qu'elles détiennent
 une arme ou qu'elles ont manifesté leur intention d'en acquérir une. 
 
-Le signalement aux autorités compétentes effectué dans les conditions prévues au présent article ne peut faire l'objet
-d'aucune sanction disciplinaire.
+Le signalement aux autorités compétentes effectué dans les conditions prévues au présent article ne peut engager la
+responsabilité civile, pénale ou disciplinaire de son auteur, sauf s'il est établi qu'il n'a pas agi de bonne foi.
 
 **Liens relatifs à cet article**
 
@@ -20076,16 +20078,16 @@ _Cité par_:
 
 _Codifié par_:
 
-  - Loi n°92-684 1992-07-22
+  - Loi n°92-684 du 22 juillet 1992
 
 _Modifié par_:
 
-  - Loi n°2003-239 du 18 mars 2003 - art. 85
-  - Loi n°2007-297 du 5 mars 2007 - art. 34 () JORF 7 mars 2007
+  - Loi n°2015-1402 du 5 novembre 2015 - art. 1
 
 _Cite_:
 
-  - Code pénal - art. 226-13 (V)
+  - Code pénal - art. 226-13
+  - Code de l'action sociale et des familles - art. L226-3
 
 
 ##### Paragraphe 2 : De l'atteinte au secret des correspondances<a id=129></a>
@@ -37530,6 +37532,27 @@ _Modifié par_:
 _Cite_:
 
   - Code pénal - art. 225-3 (V)
+
+
+###### Article 713-3-1
+
+Pour l'application de l'article 226-14 : 
+
+1° Au 2°, les mots : " ou de la cellule de recueil, de traitement et d'évaluation des informations préoccupantes relatives
+aux mineurs en danger ou qui risquent de l'être, mentionnée au deuxième alinéa de l'article L. 226-3 du code de l'action
+sociale et des familles, " sont supprimés ; 
+
+2° Au dernier alinéa, le mot : " civile, " et les mots : " ou disciplinaire " sont supprimés.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2015-1402 du 5 novembre 2015 - art. 3
+
+_Cite_:
+
+  - Code pénal - art. 226-14 (V)
 
 
 ###### Article 713-4
