@@ -1,5 +1,5 @@
 # Code pénal  
-Version Consolidée au 2015-11-07
+Version Consolidée au 2015-12-19
 ## Contenu: 
   - [Partie législative (art. 111-1 à 727-3)](#1)
     - [Livre Ier : Dispositions générales (art. 111-1 à 133-17)](#2)
@@ -40980,8 +40980,7 @@ l'article 7 de la loi n° 69-3 du 3 janvier 1969 est considéré comme le lieu d
 
 La déclaration comporte les indications suivantes : nom et prénoms du déclarant ; date et lieu de naissance ; nationalité ;
 lieu d'exercice habituel de la profession ; statut de l'entreprise ainsi qu'un extrait d'immatriculation au registre du
-commerce et des sociétés ou le récépissé de déclaration d'activité remis par le centre de formalités des entreprises aux
-personnes physiques bénéficiant de la dispense d'immatriculation prévue par l'article L. 123-1-1 du code de commerce. 
+commerce et des sociétés. 
 
 Il est remis un récépissé de déclaration qui doit être présenté à toute réquisition des services de police et de gendarmerie,
 des services fiscaux, des douanes ainsi que des services de la concurrence, de la consommation et de la répression des
@@ -40994,10 +40993,6 @@ _Cite_:
   - Loi n°69-3 du 3 janvier 1969 - art. 7
   - Code de commerce - art. L123-1-1
   - Code pénal - art. 321-7
-
-_Modifié par_:
-
-  - Décret n°2009-16 du 7 janvier 2009 - art. 3
 
 _Cité par_:
 
@@ -41012,6 +41007,10 @@ _Cité par_:
   - Code pénal - art. R635-3 (V)
   - Code pénal - art. R635-4 (V)
   - Code pénal - art. R711-1 (V)
+
+_Modifié par_:
+
+  - Décret n°2015-731 du 24 juin 2015 - art. 2
 
 
 ###### Article R321-2
