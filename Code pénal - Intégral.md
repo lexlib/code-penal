@@ -1,5 +1,5 @@
 # Code pénal  
-Version Consolidée au 2015-12-19
+Version Consolidée au 2015-12-30
 ## Contenu: 
   - [Partie législative (art. 111-1 à 727-3)](#1)
     - [Livre Ier : Dispositions générales (art. 111-1 à 133-17)](#2)
@@ -22745,19 +22745,20 @@ Ne peut donner lieu à des poursuites pénales le vol commis par une personne :
 
 2° Au préjudice de son conjoint, sauf lorsque les époux sont séparés de corps ou autorisés à résider séparément.
 
-Les dispositions du présent article ne sont pas applicables lorsque le vol porte sur des objets ou documents indispensables à
-la vie quotidienne de la victime, tels que des documents d'identité, relatifs au titre de séjour ou de résidence d'un
-étranger, ou des moyens de paiement.
+Le présent article n'est pas applicable : 
+
+a) Lorsque le vol porte sur des objets ou des documents indispensables à la vie quotidienne de la victime, tels que des
+documents d'identité, relatifs au titre de séjour ou de résidence d'un étranger, ou des moyens de paiement ; 
+
+b) Lorsque l'auteur des faits est le tuteur, le curateur, le mandataire spécial désigné dans le cadre d'une sauvegarde de
+justice, la personne habilitée dans le cadre d'une habilitation familiale ou le mandataire exécutant un mandat de protection
+future de la victime.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Loi n°92-685 1992-07-22
-
-_Modifié par_:
-
-  - Loi n°2006-399 du 4 avril 2006 - art. 9 () JORF 5 avril 2006
+  - Loi n°92-685 du 22 juillet 1992
 
 _Cité par_:
 
@@ -22767,6 +22768,10 @@ _Cité par_:
   - Code pénal - art. 312-9 (V)
   - Code pénal - art. 313-3 (V)
   - Code pénal - art. 314-4 (V)
+
+_Modifié par_:
+
+  - Loi n°2015-1776 du 28 décembre 2015 - art. 36
 
 
 ###### Article 311-13
