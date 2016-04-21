@@ -1,5 +1,5 @@
 # Code pénal  
-Version Consolidée au 2016-04-15
+Version Consolidée au 2016-04-22
 ## Contenu: 
   - [Partie législative (art. 111-1 à 727-3)](#1)
     - [Livre Ier : Dispositions générales (art. 111-1 à 133-17)](#2)
@@ -115,85 +115,85 @@ Version Consolidée au 2016-04-15
           - [Section 1 bis : De la traite des êtres humains (art. 225-4-1 à 225-4-9)](#112)
           - [Section 1 ter :  De la dissimulation forcée du visage (art. 225-4-10)](#113)
           - [Section 2 : Du proxénétisme et des infractions qui en résultent (art. 225-5 à 225-12)](#114)
-          - [Section 2 bis : Du recours à la prostitution de mineurs ou de personnes particulièrement vulnérables. (art.  à 225-12)](#115)
-          - [Section 2 bis : Du recours à la prostitution (art. 225-12-1 à 225-12-4)](#116)
-          - [Section 2 ter : De l'exploitation de la mendicité (art. 225-12-5 à 225-12-7)](#117)
-          - [Section 2 quater : De l'exploitation de la vente à la sauvette (art. 225-12-8 à 225-12-10)](#118)
-          - [Section 3 : Des conditions de travail et d'hébergement contraires à la dignité de la personne, du travail forcé et de la réduction en servitude (art. 225-13 à 225-16)](#119)
-          - [Section 3 bis : Du bizutage (art. 225-16-1 à 225-16-3)](#120)
-          - [Section 4 : Des atteintes au respect dû aux morts (art. 225-17 à 225-18-1)](#121)
-          - [Section 5 : Peines complémentaires applicables aux personnes physiques (art. 225-19 à 225-21)](#122)
-          - [Section 6 : Dispositions communes aux personnes physiques et aux personnes morales (art. 225-22 à 225-25)](#123)
-        - [Chapitre VI : Des atteintes à la personnalité (art. 226-1 à 226-32)](#124)
-          - [Section 1 : De l'atteinte à la vie privée (art. 226-1 à 226-7)](#125)
-          - [Section 2 : De l'atteinte à la représentation de la personne (art. 226-8 à 226-9)](#126)
-          - [Section 3 : De la dénonciation calomnieuse (art. 226-10 à 226-12)](#127)
-          - [Section 4 : De l'atteinte au secret (art. 226-13 à 226-15)](#128)
-            - [Paragraphe 1 : De l'atteinte au secret professionnel (art. 226-13 à 226-14)](#129)
-            - [Paragraphe 2 : De l'atteinte au secret des correspondances (art. 226-15)](#130)
-          - [Section 5 : Des atteintes aux droits de la personne résultant des fichiers ou des traitements informatiques. (art. 226-16 à 226-24)](#131)
-          - [Section 6 : Des atteintes à la personne résultant de l'examen de ses caractéristiques génétiques ou de l'identification par ses empreintes génétiques (art. 226-25 à 226-30)](#132)
-          - [Section 7 : Peines complémentaires applicables aux personnes physiques (art. 226-31 à 226-32)](#133)
-        - [Chapitre VII : Des atteintes aux mineurs et à la famille (art. 227-1 à 227-33)](#134)
-          - [Section 1 : Du délaissement de mineur (art. 227-1 à 227-2)](#135)
-          - [Section 2 : De l'abandon de famille (art. 227-3 à 227-4-1)](#136)
-          - [Section 2 bis : De la violation des ordonnances prises par le juge aux affaires familiales en cas de violences (art. 227-4-2 à 227-4-3)](#137)
-          - [Section 3 : Des atteintes à l'exercice de l'autorité parentale (art. 227-5 à 227-11)](#138)
-          - [Section 4 : Des atteintes à la filiation (art. 227-12 à 227-14)](#139)
-          - [Section 5 : De la mise en péril des mineurs (art. 227-15 à 227-28-3)](#140)
-          - [Section 6 : Peines complémentaires applicables aux personnes physiques (art. 227-29 à 227-32)](#141)
-          - [Section 7 : Peine complémentaire commune aux personnes physiques et aux personnes morales (art. 227-33)](#142)
-    - [Livre III : Des crimes et délits contre les biens (art. 311-1 à 324-9)](#143)
-      - [Titre Ier : Des appropriations frauduleuses (art. 311-1 à 314-13)](#144)
-        - [Chapitre Ier : Du vol (art. 311-1 à 311-16)](#145)
-          - [Section 1 : Du vol simple et des vols aggravés (art. 311-1 à 311-11)](#146)
-          - [Section 2 : Dispositions générales (art. 311-12 à 311-13)](#147)
-          - [Section 3 : Peines complémentaires applicables aux personnes physiques et responsabilité des personnes morales (art. 311-14 à 311-16)](#148)
-        - [Chapitre II : De l'extorsion (art. 312-1 à 312-15)](#149)
-          - [Section 1 : De l'extorsion (art. 312-1 à 312-9)](#150)
-          - [Section 2 : Du chantage (art. 312-10 à 312-12)](#151)
-          - [Section 2 bis : De la demande de fonds sous contrainte (art. 312-12-1)](#152)
-          - [Section 3 : Peines complémentaires applicables aux personnes physiques et responsabilité des personnes morales (art. 312-13 à 312-15)](#153)
-        - [Chapitre III : De l'escroquerie et des infractions voisines (art. 313-1 à 313-9)](#154)
-          - [Section 1 : De l'escroquerie (art. 313-1 à 313-3)](#155)
-          - [Section 2 : Des infractions voisines de l'escroquerie (art. 313-5 à 313-6-2)](#156)
-          - [Section 3 : Peines complémentaires applicables aux personnes physiques et responsabilité des personnes morales (art. 313-7 à 313-9)](#157)
-        - [Chapitre IV : Des détournements (art. 314-1 à 314-13)](#158)
-          - [Section 1 : De l'abus de confiance (art. 314-1 à 314-4)](#159)
-          - [Section 2 : Du détournement de gage ou d'objet saisi (art. 314-5 à 314-6)](#160)
-          - [Section 3 : De l'organisation frauduleuse de l'insolvabilité (art. 314-7 à 314-9)](#161)
-          - [Section 4 : Peines complémentaires applicables aux personnes physiques et responsabilité des personnes morales (art. 314-10 à 314-13)](#162)
-      - [Titre II : Des autres atteintes aux biens (art. 321-1 à 324-9)](#163)
-        - [Chapitre Ier : Du recel et des infractions assimilées ou voisines (art. 321-1 à 321-12)](#164)
-          - [Section 1 : Du recel (art. 321-1 à 321-5)](#165)
-          - [Section 2 : Des infractions assimilées au recel ou voisines de celui-ci (art. 321-6 à 321-8)](#166)
-          - [Section 3 : Peines complémentaires applicables aux personnes physiques et responsabilité de personnes morales (art. 321-9 à 321-12)](#167)
-        - [Chapitre II : Des destructions, dégradations et détériorations (art. 322-1 à 322-18)](#168)
-          - [Section 1 : Des destructions, dégradations et détériorations ne présentant pas de danger pour les personnes (art. 322-1 à 322-4-1)](#169)
-          - [Section 2 : Des destructions, dégradations et détériorations dangereuses pour les personnes (art. 322-5 à 322-11-1)](#170)
-          - [Section 3 : Des menaces de destruction, de dégradation ou de détérioration et des fausses alertes (art. 322-12 à 322-14)](#171)
-          - [Section 4 : Peines complémentaires applicables aux personnes physiques et responsabilité des personnes morales (art. 322-15 à 322-18)](#172)
-        - [Chapitre III : Des atteintes aux systèmes de traitement automatisé de données (art. 323-1 à 323-8)](#173)
-        - [Chapitre IV : Du blanchiment (art. 324-1 à 324-9)](#174)
-          - [Section 1 : Du blanchiment simple et du blanchiment aggravé (art. 324-1 à 324-6-1)](#175)
-          - [Section 2 : Peines complémentaires applicables aux personnes physiques et responsabilité pénale des personnes morales (art. 324-7 à 324-9)](#176)
-    - [Livre IV : Des crimes et délits contre la nation, l'Etat et la paix publique (art. 410-1 à 450-5)](#177)
-      - [Titre Ier : Des atteintes aux intérêts fondamentaux de la nation (art. 410-1 à 414-9)](#178)
-        - [Chapitre Ier : De la trahison et de l'espionnage (art. 411-1 à 411-11)](#179)
-          - [Section 1 : De la livraison de tout ou partie du territoire national, de forces armées ou de matériel à une puissance étrangère (art. 411-2 à 411-3)](#180)
-          - [Section 2 : Des intelligences avec une puissance étrangère (art. 411-4 à 411-5)](#181)
-          - [Section 3 : De la livraison d'informations à une puissance étrangère (art. 411-6 à 411-8)](#182)
-          - [Section 4 : Du sabotage (art. 411-9)](#183)
-          - [Section 5 : De la fourniture de fausses informations (art. 411-10)](#184)
-          - [Section 6 : De la provocation aux crimes prévus au présent chapitre (art. 411-11)](#185)
-        - [Chapitre II : Des autres atteintes aux institutions de la République ou à l'intégrité du territoire national (art. 412-1 à 412-8)](#186)
-          - [Section 1 : De l'attentat et du complot (art. 412-1 à 412-2)](#187)
-          - [Section 2 : Du mouvement insurrectionnel (art. 412-3 à 412-6)](#188)
-          - [Section 3 : De l'usurpation de commandement, de la levée de forces armées et de la provocation à s'armer illégalement (art. 412-7 à 412-8)](#189)
-        - [Chapitre III : Des autres atteintes à la défense nationale (art. 413-1 à 413-13)](#190)
-          - [Section 1 : Des atteintes à la sécurité des forces armées et aux zones protégées intéressant la défense nationale (art. 413-1 à 413-8)](#191)
-          - [Section 2 : Des atteintes au secret de la défense nationale (art. 413-9 à 413-12)](#192)
-          - [Section 3 : Des atteintes aux services spécialisés  de renseignement (art. 413-13)](#193)
+          - [Section 2 bis : Du recours à la prostitution (art. 225-12-1 à 225-12-4)](#115)
+          - [Section 2 ter : De l'exploitation de la mendicité (art. 225-12-5 à 225-12-7)](#116)
+          - [Section 2 quater : De l'exploitation de la vente à la sauvette (art. 225-12-8 à 225-12-10)](#117)
+          - [Section 3 : Des conditions de travail et d'hébergement contraires à la dignité de la personne, du travail forcé et de la réduction en servitude (art. 225-13 à 225-16)](#118)
+          - [Section 3 bis : Du bizutage (art. 225-16-1 à 225-16-3)](#119)
+          - [Section 4 : Des atteintes au respect dû aux morts (art. 225-17 à 225-18-1)](#120)
+          - [Section 5 : Peines complémentaires applicables aux personnes physiques (art. 225-19 à 225-21)](#121)
+          - [Section 6 : Dispositions communes aux personnes physiques et aux personnes morales (art. 225-22 à 225-25)](#122)
+        - [Chapitre VI : Des atteintes à la personnalité (art. 226-1 à 226-32)](#123)
+          - [Section 1 : De l'atteinte à la vie privée (art. 226-1 à 226-7)](#124)
+          - [Section 2 : De l'atteinte à la représentation de la personne (art. 226-8 à 226-9)](#125)
+          - [Section 3 : De la dénonciation calomnieuse (art. 226-10 à 226-12)](#126)
+          - [Section 4 : De l'atteinte au secret (art. 226-13 à 226-15)](#127)
+            - [Paragraphe 1 : De l'atteinte au secret professionnel (art. 226-13 à 226-14)](#128)
+            - [Paragraphe 2 : De l'atteinte au secret des correspondances (art. 226-15)](#129)
+          - [Section 5 : Des atteintes aux droits de la personne résultant des fichiers ou des traitements informatiques. (art. 226-16 à 226-24)](#130)
+          - [Section 6 : Des atteintes à la personne résultant de l'examen de ses caractéristiques génétiques ou de l'identification par ses empreintes génétiques (art. 226-25 à 226-30)](#131)
+          - [Section 7 : Peines complémentaires applicables aux personnes physiques (art. 226-31 à 226-32)](#132)
+        - [Chapitre VII : Des atteintes aux mineurs et à la famille (art. 227-1 à 227-33)](#133)
+          - [Section 1 : Du délaissement de mineur (art. 227-1 à 227-2)](#134)
+          - [Section 2 : De l'abandon de famille (art. 227-3 à 227-4-1)](#135)
+          - [Section 2 bis : De la violation des ordonnances prises par le juge aux affaires familiales en cas de violences (art. 227-4-2 à 227-4-3)](#136)
+          - [Section 3 : Des atteintes à l'exercice de l'autorité parentale (art. 227-5 à 227-11)](#137)
+          - [Section 4 : Des atteintes à la filiation (art. 227-12 à 227-14)](#138)
+          - [Section 5 : De la mise en péril des mineurs (art. 227-15 à 227-28-3)](#139)
+          - [Section 6 : Peines complémentaires applicables aux personnes physiques (art. 227-29 à 227-32)](#140)
+          - [Section 7 : Peine complémentaire commune aux personnes physiques et aux personnes morales (art. 227-33)](#141)
+    - [Livre III : Des crimes et délits contre les biens (art. 311-1 à 324-9)](#142)
+      - [Titre Ier : Des appropriations frauduleuses (art. 311-1 à 314-13)](#143)
+        - [Chapitre Ier : Du vol (art. 311-1 à 311-16)](#144)
+          - [Section 1 : Du vol simple et des vols aggravés (art. 311-1 à 311-11)](#145)
+          - [Section 2 : Dispositions générales (art. 311-12 à 311-13)](#146)
+          - [Section 3 : Peines complémentaires applicables aux personnes physiques et responsabilité des personnes morales (art. 311-14 à 311-16)](#147)
+        - [Chapitre II : De l'extorsion (art. 312-1 à 312-15)](#148)
+          - [Section 1 : De l'extorsion (art. 312-1 à 312-9)](#149)
+          - [Section 2 : Du chantage (art. 312-10 à 312-12)](#150)
+          - [Section 2 bis : De la demande de fonds sous contrainte (art. 312-12-1)](#151)
+          - [Section 3 : Peines complémentaires applicables aux personnes physiques et responsabilité des personnes morales (art. 312-13 à 312-15)](#152)
+        - [Chapitre III : De l'escroquerie et des infractions voisines (art. 313-1 à 313-9)](#153)
+          - [Section 1 : De l'escroquerie (art. 313-1 à 313-3)](#154)
+          - [Section 2 : Des infractions voisines de l'escroquerie (art. 313-5 à 313-6-2)](#155)
+          - [Section 3 : Peines complémentaires applicables aux personnes physiques et responsabilité des personnes morales (art. 313-7 à 313-9)](#156)
+        - [Chapitre IV : Des détournements (art. 314-1 à 314-13)](#157)
+          - [Section 1 : De l'abus de confiance (art. 314-1 à 314-4)](#158)
+          - [Section 2 : Du détournement de gage ou d'objet saisi (art. 314-5 à 314-6)](#159)
+          - [Section 3 : De l'organisation frauduleuse de l'insolvabilité (art. 314-7 à 314-9)](#160)
+          - [Section 4 : Peines complémentaires applicables aux personnes physiques et responsabilité des personnes morales (art. 314-10 à 314-13)](#161)
+      - [Titre II : Des autres atteintes aux biens (art. 321-1 à 324-9)](#162)
+        - [Chapitre Ier : Du recel et des infractions assimilées ou voisines (art. 321-1 à 321-12)](#163)
+          - [Section 1 : Du recel (art. 321-1 à 321-5)](#164)
+          - [Section 2 : Des infractions assimilées au recel ou voisines de celui-ci (art. 321-6 à 321-8)](#165)
+          - [Section 3 : Peines complémentaires applicables aux personnes physiques et responsabilité de personnes morales (art. 321-9 à 321-12)](#166)
+        - [Chapitre II : Des destructions, dégradations et détériorations (art. 322-1 à 322-18)](#167)
+          - [Section 1 : Des destructions, dégradations et détériorations ne présentant pas de danger pour les personnes (art. 322-1 à 322-4-1)](#168)
+          - [Section 2 : Des destructions, dégradations et détériorations dangereuses pour les personnes (art. 322-5 à 322-11-1)](#169)
+          - [Section 3 : Des menaces de destruction, de dégradation ou de détérioration et des fausses alertes (art. 322-12 à 322-14)](#170)
+          - [Section 4 : Peines complémentaires applicables aux personnes physiques et responsabilité des personnes morales (art. 322-15 à 322-18)](#171)
+        - [Chapitre III : Des atteintes aux systèmes de traitement automatisé de données (art. 323-1 à 323-8)](#172)
+        - [Chapitre IV : Du blanchiment (art. 324-1 à 324-9)](#173)
+          - [Section 1 : Du blanchiment simple et du blanchiment aggravé (art. 324-1 à 324-6-1)](#174)
+          - [Section 2 : Peines complémentaires applicables aux personnes physiques et responsabilité pénale des personnes morales (art. 324-7 à 324-9)](#175)
+    - [Livre IV : Des crimes et délits contre la nation, l'Etat et la paix publique (art. 410-1 à 450-5)](#176)
+      - [Titre Ier : Des atteintes aux intérêts fondamentaux de la nation (art. 410-1 à 414-9)](#177)
+        - [Chapitre Ier : De la trahison et de l'espionnage (art. 411-1 à 411-11)](#178)
+          - [Section 1 : De la livraison de tout ou partie du territoire national, de forces armées ou de matériel à une puissance étrangère (art. 411-2 à 411-3)](#179)
+          - [Section 2 : Des intelligences avec une puissance étrangère (art. 411-4 à 411-5)](#180)
+          - [Section 3 : De la livraison d'informations à une puissance étrangère (art. 411-6 à 411-8)](#181)
+          - [Section 4 : Du sabotage (art. 411-9)](#182)
+          - [Section 5 : De la fourniture de fausses informations (art. 411-10)](#183)
+          - [Section 6 : De la provocation aux crimes prévus au présent chapitre (art. 411-11)](#184)
+        - [Chapitre II : Des autres atteintes aux institutions de la République ou à l'intégrité du territoire national (art. 412-1 à 412-8)](#185)
+          - [Section 1 : De l'attentat et du complot (art. 412-1 à 412-2)](#186)
+          - [Section 2 : Du mouvement insurrectionnel (art. 412-3 à 412-6)](#187)
+          - [Section 3 : De l'usurpation de commandement, de la levée de forces armées et de la provocation à s'armer illégalement (art. 412-7 à 412-8)](#188)
+        - [Chapitre III : Des autres atteintes à la défense nationale (art. 413-1 à 413-14)](#189)
+          - [Section 1 : Des atteintes à la sécurité des forces armées et aux zones protégées intéressant la défense nationale (art. 413-1 à 413-8)](#190)
+          - [Section 2 : Des atteintes au secret de la défense nationale (art. 413-9 à 413-12)](#191)
+          - [Section 3 : Des atteintes aux services spécialisés  de renseignement (art.  à 413-12)](#192)
+          - [Section 3 : Des atteintes à certains services ou unités spécialisés (art. 413-13 à 413-14)](#193)
         - [Chapitre IV : Dispositions particulières (art. 414-1 à 414-9)](#194)
       - [Titre II : Du terrorisme (art. 421-1 à 422-7)](#195)
         - [Chapitre Ier : Des actes de terrorisme (art. 421-1 à 421-6)](#196)
@@ -18041,9 +18041,7 @@ _Cite_:
   - Code pénal - art. 225-5 (V)
 
 
-##### Section 2 bis : Du recours à la prostitution de mineurs ou de personnes particulièrement vulnérables.<a id=115></a>
-
-##### Section 2 bis : Du recours à la prostitution<a id=116></a>
+##### Section 2 bis : Du recours à la prostitution<a id=115></a>
 
 ###### Article 225-12-1
 
@@ -18178,7 +18176,7 @@ _Cite_:
   - Code pénal - art. 131-39 (V)
 
 
-##### Section 2 ter : De l'exploitation de la mendicité<a id=117></a>
+##### Section 2 ter : De l'exploitation de la mendicité<a id=116></a>
 
 ###### Article 225-12-5
 
@@ -18278,7 +18276,7 @@ _Créé par_:
   - Loi n°2003-239 du 18 mars 2003 - art. 64
 
 
-##### Section 2 quater : De l'exploitation de la vente à la sauvette<a id=118></a>
+##### Section 2 quater : De l'exploitation de la vente à la sauvette<a id=117></a>
 
 ###### Article 225-12-8
 
@@ -18357,7 +18355,7 @@ _Créé par_:
   - Loi n°2011-267 du 14 mars 2011 - art. 52
 
 
-##### Section 3 : Des conditions de travail et d'hébergement contraires à la dignité de la personne, du travail forcé et de la réduction en servitude<a id=119></a>
+##### Section 3 : Des conditions de travail et d'hébergement contraires à la dignité de la personne, du travail forcé et de la réduction en servitude<a id=118></a>
 
 ###### Article 225-13
 
@@ -18567,7 +18565,7 @@ _Cite_:
   - Code pénal - art. 225-14 (V)
 
 
-##### Section 3 bis : Du bizutage<a id=120></a>
+##### Section 3 bis : Du bizutage<a id=119></a>
 
 ###### Article 225-16-1
 
@@ -18651,7 +18649,7 @@ _Cite_:
   - Code pénal - art. 225-16-1 (V)
 
 
-##### Section 4 : Des atteintes au respect dû aux morts<a id=121></a>
+##### Section 4 : Des atteintes au respect dû aux morts<a id=120></a>
 
 ###### Article 225-17
 
@@ -18754,7 +18752,7 @@ _Cite_:
   - Code pénal - art. 225-18 (V)
 
 
-##### Section 5 : Peines complémentaires applicables aux personnes physiques<a id=122></a>
+##### Section 5 : Peines complémentaires applicables aux personnes physiques<a id=121></a>
 
 ###### Article 225-19
 
@@ -18895,7 +18893,7 @@ _Cite_:
   - Code pénal - art. 131-30
 
 
-##### Section 6 : Dispositions communes aux personnes physiques et aux personnes morales<a id=123></a>
+##### Section 6 : Dispositions communes aux personnes physiques et aux personnes morales<a id=122></a>
 
 ###### Article 225-22
 
@@ -19020,9 +19018,9 @@ _Cite_:
   - Code pénal - art. 225-10-1
 
 
-#### Chapitre VI : Des atteintes à la personnalité<a id=124></a>
+#### Chapitre VI : Des atteintes à la personnalité<a id=123></a>
 
-##### Section 1 : De l'atteinte à la vie privée<a id=125></a>
+##### Section 1 : De l'atteinte à la vie privée<a id=124></a>
 
 ###### Article 226-1
 
@@ -19337,7 +19335,7 @@ _Cite_:
   - Code pénal - art. 131-38 (V)
 
 
-##### Section 2 : De l'atteinte à la représentation de la personne<a id=126></a>
+##### Section 2 : De l'atteinte à la représentation de la personne<a id=125></a>
 
 ###### Article 226-8
 
@@ -19391,7 +19389,7 @@ _Cite_:
   - Code pénal - art. 226-7 (V)
 
 
-##### Section 3 : De la dénonciation calomnieuse<a id=127></a>
+##### Section 3 : De la dénonciation calomnieuse<a id=126></a>
 
 ###### Article 226-10
 
@@ -19479,9 +19477,9 @@ _Cite_:
   - Code pénal - art. 226-10 (V)
 
 
-##### Section 4 : De l'atteinte au secret<a id=128></a>
+##### Section 4 : De l'atteinte au secret<a id=127></a>
 
-##### Paragraphe 1 : De l'atteinte au secret professionnel<a id=129></a>
+##### Paragraphe 1 : De l'atteinte au secret professionnel<a id=128></a>
 
 ###### Article 226-13
 
@@ -20428,7 +20426,7 @@ _Cite_:
   - Code de l'action sociale et des familles - art. L226-3
 
 
-##### Paragraphe 2 : De l'atteinte au secret des correspondances<a id=130></a>
+##### Paragraphe 2 : De l'atteinte au secret des correspondances<a id=129></a>
 
 ###### Article 226-15
 
@@ -20466,7 +20464,7 @@ _Modifié par_:
   - Loi n°2013-1168 du 18 décembre 2013 - art. 23
 
 
-##### Section 5 : Des atteintes aux droits de la personne résultant des fichiers ou des traitements informatiques.<a id=131></a>
+##### Section 5 : Des atteintes aux droits de la personne résultant des fichiers ou des traitements informatiques.<a id=130></a>
 
 ###### Article 226-16
 
@@ -20884,7 +20882,7 @@ _Cite_:
   - Code pénal - art. 131-39 (V)
 
 
-##### Section 6 : Des atteintes à la personne résultant de l'examen de ses caractéristiques génétiques ou de l'identification par ses empreintes génétiques<a id=132></a>
+##### Section 6 : Des atteintes à la personne résultant de l'examen de ses caractéristiques génétiques ou de l'identification par ses empreintes génétiques<a id=131></a>
 
 ###### Article 226-25
 
@@ -21139,7 +21137,7 @@ _Cite_:
   - Code pénal - art. 131-39 (V)
 
 
-##### Section 7 : Peines complémentaires applicables aux personnes physiques<a id=133></a>
+##### Section 7 : Peines complémentaires applicables aux personnes physiques<a id=132></a>
 
 ###### Article 226-31
 
@@ -21222,9 +21220,9 @@ _Cite_:
   - Code pénal - art. 226-28 (V)
 
 
-#### Chapitre VII : Des atteintes aux mineurs et à la famille<a id=134></a>
+#### Chapitre VII : Des atteintes aux mineurs et à la famille<a id=133></a>
 
-##### Section 1 : Du délaissement de mineur<a id=135></a>
+##### Section 1 : Du délaissement de mineur<a id=134></a>
 
 ###### Article 227-1
 
@@ -21286,7 +21284,7 @@ _Codifié par_:
   - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
 
 
-##### Section 2 : De l'abandon de famille<a id=136></a>
+##### Section 2 : De l'abandon de famille<a id=135></a>
 
 ###### Article 227-3
 
@@ -21374,7 +21372,7 @@ _Cite_:
   - Code pénal - art. 131-39 (V)
 
 
-##### Section 2 bis : De la violation des ordonnances prises par le juge aux affaires familiales en cas de violences<a id=137></a>
+##### Section 2 bis : De la violation des ordonnances prises par le juge aux affaires familiales en cas de violences<a id=136></a>
 
 ###### Article 227-4-2
 
@@ -21415,7 +21413,7 @@ _Cite_:
   - Code civil - art. 515-9
 
 
-##### Section 3 : Des atteintes à l'exercice de l'autorité parentale<a id=138></a>
+##### Section 3 : Des atteintes à l'exercice de l'autorité parentale<a id=137></a>
 
 ###### Article 227-5
 
@@ -21606,7 +21604,7 @@ _Cite_:
   - Code pénal - art. 227-7 (V)
 
 
-##### Section 4 : Des atteintes à la filiation<a id=139></a>
+##### Section 4 : Des atteintes à la filiation<a id=138></a>
 
 ###### Article 227-12
 
@@ -21685,7 +21683,7 @@ _Cite_:
   - Code pénal - art. 131-39 (V)
 
 
-##### Section 5 : De la mise en péril des mineurs<a id=140></a>
+##### Section 5 : De la mise en péril des mineurs<a id=139></a>
 
 ###### Article 227-15
 
@@ -22464,7 +22462,7 @@ _Cite_:
   - Code pénal - art. 227-25 (V)
 
 
-##### Section 6 : Peines complémentaires applicables aux personnes physiques<a id=141></a>
+##### Section 6 : Peines complémentaires applicables aux personnes physiques<a id=140></a>
 
 ###### Article 227-29
 
@@ -22583,7 +22581,7 @@ _Cite_:
   - Code pénal - art. 227-18
 
 
-##### Section 7 : Peine complémentaire commune aux personnes physiques et aux personnes morales<a id=142></a>
+##### Section 7 : Peine complémentaire commune aux personnes physiques et aux personnes morales<a id=141></a>
 
 ###### Article 227-33
 
@@ -22608,13 +22606,13 @@ _Cite_:
   - Code pénal - art. 227-23 (V)
 
 
-## Livre III : Des crimes et délits contre les biens<a id=143></a>
+## Livre III : Des crimes et délits contre les biens<a id=142></a>
 
-### Titre Ier : Des appropriations frauduleuses<a id=144></a>
+### Titre Ier : Des appropriations frauduleuses<a id=143></a>
 
-#### Chapitre Ier : Du vol<a id=145></a>
+#### Chapitre Ier : Du vol<a id=144></a>
 
-##### Section 1 : Du vol simple et des vols aggravés<a id=146></a>
+##### Section 1 : Du vol simple et des vols aggravés<a id=145></a>
 
 ###### Article 311-1
 
@@ -23060,7 +23058,7 @@ _Cite_:
   - Code pénal - art. 311-9 (V)
 
 
-##### Section 2 : Dispositions générales<a id=147></a>
+##### Section 2 : Dispositions générales<a id=146></a>
 
 ###### Article 311-12
 
@@ -23124,7 +23122,7 @@ _Cité par_:
   - Code forestier (nouveau) - art. L163-7 (V)
 
 
-##### Section 3 : Peines complémentaires applicables aux personnes physiques et responsabilité des personnes morales<a id=148></a>
+##### Section 3 : Peines complémentaires applicables aux personnes physiques et responsabilité des personnes morales<a id=147></a>
 
 ###### Article 311-14
 
@@ -23235,9 +23233,9 @@ _Cite_:
   - Code pénal - art. 311-6 (V)
 
 
-#### Chapitre II : De l'extorsion<a id=149></a>
+#### Chapitre II : De l'extorsion<a id=148></a>
 
-##### Section 1 : De l'extorsion<a id=150></a>
+##### Section 1 : De l'extorsion<a id=149></a>
 
 ###### Article 312-1
 
@@ -23548,7 +23546,7 @@ _Cite_:
   - Code pénal - art. 311-12 (V)
 
 
-##### Section 2 : Du chantage<a id=151></a>
+##### Section 2 : Du chantage<a id=150></a>
 
 ###### Article 312-10
 
@@ -23621,7 +23619,7 @@ _Cite_:
   - Code pénal - art. 311-12 (V)
 
 
-##### Section 2 bis : De la demande de fonds sous contrainte<a id=152></a>
+##### Section 2 bis : De la demande de fonds sous contrainte<a id=151></a>
 
 ###### Article 312-12-1
 
@@ -23653,7 +23651,7 @@ _Créé par_:
   - Loi n°2003-239 du 18 mars 2003 - art. 65
 
 
-##### Section 3 : Peines complémentaires applicables aux personnes physiques et responsabilité des personnes morales<a id=153></a>
+##### Section 3 : Peines complémentaires applicables aux personnes physiques et responsabilité des personnes morales<a id=152></a>
 
 ###### Article 312-13
 
@@ -23752,9 +23750,9 @@ _Cite_:
   - Code pénal - art. 131-39 (V)
 
 
-#### Chapitre III : De l'escroquerie et des infractions voisines<a id=154></a>
+#### Chapitre III : De l'escroquerie et des infractions voisines<a id=153></a>
 
-##### Section 1 : De l'escroquerie<a id=155></a>
+##### Section 1 : De l'escroquerie<a id=154></a>
 
 ###### Article 313-1
 
@@ -23955,7 +23953,7 @@ _Cite_:
   - Code pénal - art. 311-12 (V)
 
 
-##### Section 2 : Des infractions voisines de l'escroquerie<a id=156></a>
+##### Section 2 : Des infractions voisines de l'escroquerie<a id=155></a>
 
 ###### Article 313-5
 
@@ -24080,7 +24078,7 @@ _Créé par_:
   - RECTIFICATION: Loi n°2012-348 du 12 mars 2012, v. init.
 
 
-##### Section 3 : Peines complémentaires applicables aux personnes physiques et responsabilité des personnes morales<a id=157></a>
+##### Section 3 : Peines complémentaires applicables aux personnes physiques et responsabilité des personnes morales<a id=156></a>
 
 ###### Article 313-7
 
@@ -24221,9 +24219,9 @@ _Cite_:
   - Code pénal - art. 313-6-1
 
 
-#### Chapitre IV : Des détournements<a id=158></a>
+#### Chapitre IV : Des détournements<a id=157></a>
 
-##### Section 1 : De l'abus de confiance<a id=159></a>
+##### Section 1 : De l'abus de confiance<a id=158></a>
 
 ###### Article 314-1
 
@@ -24398,7 +24396,7 @@ _Cite_:
   - Code pénal - art. 311-12 (V)
 
 
-##### Section 2 : Du détournement de gage ou d'objet saisi<a id=160></a>
+##### Section 2 : Du détournement de gage ou d'objet saisi<a id=159></a>
 
 ###### Article 314-5
 
@@ -24489,7 +24487,7 @@ _Modifié par_:
   - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 
-##### Section 3 : De l'organisation frauduleuse de l'insolvabilité<a id=161></a>
+##### Section 3 : De l'organisation frauduleuse de l'insolvabilité<a id=160></a>
 
 ###### Article 314-7
 
@@ -24582,7 +24580,7 @@ _Cite_:
   - Code pénal - art. 314-7 (V)
 
 
-##### Section 4 : Peines complémentaires applicables aux personnes physiques et responsabilité des personnes morales<a id=162></a>
+##### Section 4 : Peines complémentaires applicables aux personnes physiques et responsabilité des personnes morales<a id=161></a>
 
 ###### Article 314-10
 
@@ -24724,11 +24722,11 @@ _Cite_:
   - Code pénal - art. 314-5 (V)
 
 
-### Titre II : Des autres atteintes aux biens<a id=163></a>
+### Titre II : Des autres atteintes aux biens<a id=162></a>
 
-#### Chapitre Ier : Du recel et des infractions assimilées ou voisines<a id=164></a>
+#### Chapitre Ier : Du recel et des infractions assimilées ou voisines<a id=163></a>
 
-##### Section 1 : Du recel<a id=165></a>
+##### Section 1 : Du recel<a id=164></a>
 
 ###### Article 321-1
 
@@ -24911,7 +24909,7 @@ _Codifié par_:
   - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
 
 
-##### Section 2 : Des infractions assimilées au recel ou voisines de celui-ci<a id=166></a>
+##### Section 2 : Des infractions assimilées au recel ou voisines de celui-ci<a id=165></a>
 
 ###### Article 321-6
 
@@ -25073,7 +25071,7 @@ _Modifié par_:
   - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 
-##### Section 3 : Peines complémentaires applicables aux personnes physiques et responsabilité de personnes morales<a id=167></a>
+##### Section 3 : Peines complémentaires applicables aux personnes physiques et responsabilité de personnes morales<a id=166></a>
 
 ###### Article 321-9
 
@@ -25238,9 +25236,9 @@ _Cite_:
   - Code pénal - art. 321-7 (V)
 
 
-#### Chapitre II : Des destructions, dégradations et détériorations<a id=168></a>
+#### Chapitre II : Des destructions, dégradations et détériorations<a id=167></a>
 
-##### Section 1 : Des destructions, dégradations et détériorations ne présentant pas de danger pour les personnes<a id=169></a>
+##### Section 1 : Des destructions, dégradations et détériorations ne présentant pas de danger pour les personnes<a id=168></a>
 
 ###### Article 322-1
 
@@ -25495,7 +25493,7 @@ _Cité par_:
   - Code pénal - art. 322-15-1 (V)
 
 
-##### Section 2 : Des destructions, dégradations et détériorations dangereuses pour les personnes<a id=170></a>
+##### Section 2 : Des destructions, dégradations et détériorations dangereuses pour les personnes<a id=169></a>
 
 ###### Article 322-5
 
@@ -25801,7 +25799,7 @@ _Cite_:
   - Code pénal - art. 322-6 (M)
 
 
-##### Section 3 : Des menaces de destruction, de dégradation ou de détérioration et des fausses alertes<a id=171></a>
+##### Section 3 : Des menaces de destruction, de dégradation ou de détérioration et des fausses alertes<a id=170></a>
 
 ###### Article 322-12
 
@@ -25900,7 +25898,7 @@ _Cité par_:
   - Code pénal - art. 322-17 (V)
 
 
-##### Section 4 : Peines complémentaires applicables aux personnes physiques et responsabilité des personnes morales<a id=172></a>
+##### Section 4 : Peines complémentaires applicables aux personnes physiques et responsabilité des personnes morales<a id=171></a>
 
 ###### Article 322-15
 
@@ -26065,7 +26063,7 @@ _Cite_:
   - Code pénal - art. 322-6 (V)
 
 
-#### Chapitre III : Des atteintes aux systèmes de traitement automatisé de données<a id=173></a>
+#### Chapitre III : Des atteintes aux systèmes de traitement automatisé de données<a id=172></a>
 
 ###### Article 323-1
 
@@ -26314,9 +26312,9 @@ _Cite_:
   - Code de la sécurité intérieure - art. L811-3
 
 
-#### Chapitre IV : Du blanchiment<a id=174></a>
+#### Chapitre IV : Du blanchiment<a id=173></a>
 
-##### Section 1 : Du blanchiment simple et du blanchiment aggravé<a id=175></a>
+##### Section 1 : Du blanchiment simple et du blanchiment aggravé<a id=174></a>
 
 ###### Article 324-1
 
@@ -26550,7 +26548,7 @@ _Créé par_:
   - Loi n°2013-1117 du 6 décembre 2013 - art. 5
 
 
-##### Section 2 : Peines complémentaires applicables aux personnes physiques et responsabilité pénale des personnes morales<a id=176></a>
+##### Section 2 : Peines complémentaires applicables aux personnes physiques et responsabilité pénale des personnes morales<a id=175></a>
 
 ###### Article 324-7
 
@@ -26660,9 +26658,9 @@ _Cite_:
   - Code pénal - art. 324-1 (V)
 
 
-## Livre IV : Des crimes et délits contre la nation, l'Etat et la paix publique<a id=177></a>
+## Livre IV : Des crimes et délits contre la nation, l'Etat et la paix publique<a id=176></a>
 
-### Titre Ier : Des atteintes aux intérêts fondamentaux de la nation<a id=178></a>
+### Titre Ier : Des atteintes aux intérêts fondamentaux de la nation<a id=177></a>
 
 ###### Article 410-1
 
@@ -26691,7 +26689,7 @@ _Codifié par_:
   - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
 
 
-#### Chapitre Ier : De la trahison et de l'espionnage<a id=179></a>
+#### Chapitre Ier : De la trahison et de l'espionnage<a id=178></a>
 
 ###### Article 411-1
 
@@ -26721,7 +26719,7 @@ _Cite_:
   - Code pénal - art. 411-2 (V)
 
 
-##### Section 1 : De la livraison de tout ou partie du territoire national, de forces armées ou de matériel à une puissance étrangère<a id=180></a>
+##### Section 1 : De la livraison de tout ou partie du territoire national, de forces armées ou de matériel à une puissance étrangère<a id=179></a>
 
 ###### Article 411-2
 
@@ -26788,7 +26786,7 @@ _Cité par_:
   - Code pénal - art. 414-5 (V)
 
 
-##### Section 2 : Des intelligences avec une puissance étrangère<a id=181></a>
+##### Section 2 : Des intelligences avec une puissance étrangère<a id=180></a>
 
 ###### Article 411-4
 
@@ -26849,7 +26847,7 @@ _Cité par_:
   - Code de procédure pénale - art. 706-73-1 (VD)
 
 
-##### Section 3 : De la livraison d'informations à une puissance étrangère<a id=182></a>
+##### Section 3 : De la livraison d'informations à une puissance étrangère<a id=181></a>
 
 ###### Article 411-6
 
@@ -26944,7 +26942,7 @@ _Cité par_:
   - Code de procédure pénale - art. 706-167 (V)
 
 
-##### Section 4 : Du sabotage<a id=183></a>
+##### Section 4 : Du sabotage<a id=182></a>
 
 ###### Article 411-9
 
@@ -26981,7 +26979,7 @@ _Cité par_:
   - Code pénal - art. 414-5 (V)
 
 
-##### Section 5 : De la fourniture de fausses informations<a id=184></a>
+##### Section 5 : De la fourniture de fausses informations<a id=183></a>
 
 ###### Article 411-10
 
@@ -27010,7 +27008,7 @@ _Cité par_:
   - Code de justice militaire - art. 476-14 (Ab)
 
 
-##### Section 6 : De la provocation aux crimes prévus au présent chapitre<a id=185></a>
+##### Section 6 : De la provocation aux crimes prévus au présent chapitre<a id=184></a>
 
 ###### Article 411-11
 
@@ -27034,9 +27032,9 @@ _Modifié par_:
   - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 
-#### Chapitre II : Des autres atteintes aux institutions de la République ou à l'intégrité du territoire national<a id=186></a>
+#### Chapitre II : Des autres atteintes aux institutions de la République ou à l'intégrité du territoire national<a id=185></a>
 
-##### Section 1 : De l'attentat et du complot<a id=187></a>
+##### Section 1 : De l'attentat et du complot<a id=186></a>
 
 ###### Article 412-1
 
@@ -27108,7 +27106,7 @@ _Cité par_:
   - Code pénal - art. 414-5 (V)
 
 
-##### Section 2 : Du mouvement insurrectionnel<a id=188></a>
+##### Section 2 : Du mouvement insurrectionnel<a id=187></a>
 
 ###### Article 412-3
 
@@ -27216,7 +27214,7 @@ _Cité par_:
   - Code pénal - art. 414-4 (V)
 
 
-##### Section 3 : De l'usurpation de commandement, de la levée de forces armées et de la provocation à s'armer illégalement<a id=189></a>
+##### Section 3 : De l'usurpation de commandement, de la levée de forces armées et de la provocation à s'armer illégalement<a id=188></a>
 
 ###### Article 412-7
 
@@ -27274,9 +27272,9 @@ _Cité par_:
   - Code pénal - art. 414-5 (V)
 
 
-#### Chapitre III : Des autres atteintes à la défense nationale<a id=190></a>
+#### Chapitre III : Des autres atteintes à la défense nationale<a id=189></a>
 
-##### Section 1 : Des atteintes à la sécurité des forces armées et aux zones protégées intéressant la défense nationale<a id=191></a>
+##### Section 1 : Des atteintes à la sécurité des forces armées et aux zones protégées intéressant la défense nationale<a id=190></a>
 
 ###### Article 413-1
 
@@ -27557,7 +27555,7 @@ _Cite_:
   - Code pénal - art. 413-5 (V)
 
 
-##### Section 2 : Des atteintes au secret de la défense nationale<a id=192></a>
+##### Section 2 : Des atteintes au secret de la défense nationale<a id=191></a>
 
 ###### Article 413-9
 
@@ -27723,7 +27721,9 @@ _Cite_:
   - Code pénal - art. 413-11 (V)
 
 
-##### Section 3 : Des atteintes aux services spécialisés  de renseignement<a id=193></a>
+##### Section 3 : Des atteintes aux services spécialisés  de renseignement<a id=192></a>
+
+##### Section 3 : Des atteintes à certains services ou unités spécialisés<a id=193></a>
 
 ###### Article 413-13
 
@@ -27771,6 +27771,32 @@ _Cite_:
   - Code de la sécurité intérieure - art. L811-2
   - Code de la sécurité intérieure - art. L811-4
   - Code de la sécurité intérieure - art. L861-2
+
+
+###### Article 413-14
+
+La révélation ou la divulgation, par quelque moyen que ce soit, de toute information qui pourrait conduire, directement ou
+indirectement, à l'identification d'une personne comme membre des unités des forces spéciales désignées par arrêté du
+ministre de la défense ou des unités d'intervention spécialisées dans la lutte contre le terrorisme désignées par arrêté du
+ministre de l'intérieur est punie de cinq ans d'emprisonnement et de 75 000 € d'amende. 
+
+Les deuxième à avant-dernier alinéas de l'article 413-13 sont applicables à cette révélation ou à cette divulgation.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2016-483 du 20 avril 2016 - art. 22
+
+_Cité par_:
+
+  - Arrêté du 20 octobre 2016 - art. 1 (V)
+  - Arrêté du 25 juin 2018 - art. 1 (V)
+  - Code de procédure pénale - art. 656-1 (V)
+
+_Cite_:
+
+  - Code pénal - art. 413-13 (V)
 
 
 #### Chapitre IV : Dispositions particulières<a id=194></a>
@@ -30103,13 +30129,13 @@ _Cite_:
 
 ###### Article 432-13
 
-Est puni de            trois ans d'emprisonnement et d'une amende de 200 000 €, dont le montant peut être porté au double du
-produit tiré de l'infraction, le fait, par une personne ayant été chargée, en tant que membre du Gouvernement, titulaire
-d'une fonction exécutive locale, fonctionnaire ou agent d'une administration publique, dans le cadre des fonctions qu'elle a
-effectivement exercées, soit d'assurer la surveillance ou le contrôle d'une entreprise privée, soit de conclure des contrats
-de toute nature avec une entreprise privée ou de formuler un avis sur de tels contrats, soit de proposer directement à
-l'autorité compétente des décisions relatives à des opérations réalisées par une entreprise privée ou de formuler un avis sur
-de telles décisions, de prendre ou de recevoir une participation par travail, conseil ou capitaux dans l'une de ces
+Est puni de trois ans d'emprisonnement et d'une amende de 200 000 €, dont le montant peut être porté au double du produit
+tiré de l'infraction, le fait, par une personne ayant été chargée, en tant que membre du Gouvernement, titulaire d'une
+fonction exécutive locale, fonctionnaire, militaire ou agent d'une administration publique, dans le cadre des fonctions
+qu'elle a effectivement exercées, soit d'assurer la surveillance ou le contrôle d'une entreprise privée, soit de conclure des
+contrats de toute nature avec une entreprise privée ou de formuler un avis sur de tels contrats, soit de proposer directement
+à l'autorité compétente des décisions relatives à des opérations réalisées par une entreprise privée ou de formuler un avis
+sur de telles décisions, de prendre ou de recevoir une participation par travail, conseil ou capitaux dans l'une de ces
 entreprises avant l'expiration d'un délai de trois ans suivant la cessation de ces fonctions. 
 
 Est punie des mêmes peines toute participation par travail, conseil ou capitaux dans une entreprise privée qui possède au
@@ -30188,7 +30214,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2013-907 du 11 octobre 2013 - art. 28
+  - Loi n°2016-483 du 20 avril 2016 - art. 3
 
 
 ##### Paragraphe 4 : Des atteintes à la liberté d'accès et à l'égalité des candidats dans les marchés publics et les délégations de service public<a id=218></a>
