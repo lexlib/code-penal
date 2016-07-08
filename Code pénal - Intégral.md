@@ -1,5 +1,5 @@
 # Code pénal  
-Version Consolidée au 2016-07-03
+Version Consolidée au 2016-07-09
 ## Contenu: 
   - [Partie législative (art. 111-1 à 727-3)](#1)
     - [Livre Ier : Dispositions générales (art. 111-1 à 133-17)](#2)
@@ -25530,12 +25530,13 @@ lorsqu'elle porte sur :
 1° Un immeuble ou objet mobilier classé ou inscrit en application des dispositions du code du patrimoine ou un document
 d'archives privées classé en application des dispositions du même code ; 
 
-2° Une découverte archéologique faite au cours de fouilles ou fortuitement, un terrain sur lequel se déroulent des opérations
-archéologiques ou un édifice affecté au culte ; 
+2° Le patrimoine archéologique, au sens de l'article L. 510-1 du code du patrimoine ; 
 
 3° Un bien culturel qui relève du domaine public mobilier ou qui est exposé, conservé ou déposé, même de façon temporaire,
 soit dans un musée de France, une bibliothèque, une médiathèque ou un service d'archives, soit dans un lieu dépendant d'une
-personne publique ou d'une personne privée assurant une mission d'intérêt général, soit dans un édifice affecté au culte. 
+personne publique ou d'une personne privée assurant une mission d'intérêt général, soit dans un édifice affecté au culte ; 
+
+4° Un édifice affecté au culte. 
 
 Les peines sont portées à dix ans d'emprisonnement et 150 000 € d'amende lorsque l'infraction prévue au présent article est
 commise avec la circonstance prévue au 1° de l'article 322-3. 
@@ -25545,9 +25546,9 @@ dégradé ou détérioré.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°2008-696  du 15 juillet 2008 - art. 34
+  - Loi n°2016-925 du 7 juillet 2016 - art. 97 (V)
 
 _Cité par_:
 
@@ -25558,6 +25559,11 @@ _Cité par_:
   - Code du patrimoine. - art. R114-1 (V)
   - Code pénal - art. 714-1 (V)
   - Code pénal - art. 724-1 (V)
+
+_Cite_:
+
+  - Code pénal - art. 322-3 (V)
+  - Code du patrimoine - art. L510-1 (V)
 
 
 ###### Article 322-3-2
@@ -28965,9 +28971,12 @@ Le fait d'entraver, d'une manière concertée et à l'aide de menaces, l'exercic
 d'association, de réunion ou de manifestation ou d'entraver le déroulement des débats d'une assemblée parlementaire ou d'un
 organe délibérant d'une collectivité territoriale est puni d'un an d'emprisonnement et de 15 000 euros d'amende. 
 
+Le fait d'entraver, d'une manière concertée et à l'aide de menaces, l'exercice de la liberté de création artistique ou de la
+liberté de la diffusion de la création artistique est puni d'un an d'emprisonnement et de 15 000 euros d'amende.
+
 Le fait d'entraver, d'une manière concertée et à l'aide de coups, violences, voies de fait, destructions ou dégradations au
-sens du présent code, l'exercice d'une des libertés visées à l'alinéa précédent est puni de trois ans d'emprisonnement et de
-45 000 euros d'amende.
+sens du présent code, l'exercice d'une des libertés visées aux alinéas précédents est puni de trois ans d'emprisonnement et
+de 45 000 euros d'amende.
 
 **Liens relatifs à cet article**
 
@@ -28985,7 +28994,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2011-267 du 14 mars 2011 - art. 49
+  - Loi n°2016-925 du 7 juillet 2016 - art. 2 (V)
 
 
 ###### Article 431-2
