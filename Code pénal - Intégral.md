@@ -1,5 +1,5 @@
 # Code pénal  
-Version Consolidée au 2016-07-09
+Version Consolidée au 2016-07-22
 ## Contenu: 
   - [Partie législative (art. 111-1 à 727-3)](#1)
     - [Livre Ier : Dispositions générales (art. 111-1 à 133-17)](#2)
@@ -28730,7 +28730,7 @@ _Cite_:
 Les actes de terrorisme définis aux articles 421-2-1 et 421-2-2 sont punis de dix ans d'emprisonnement et de 225 000 euros
 d'amende. 
 
-Le fait de diriger ou d'organiser le groupement ou l'entente défini à l'article 421-2-1 est puni de vingt ans de réclusion
+Le fait de diriger ou d'organiser le groupement ou l'entente défini à l'article 421-2-1 est puni de trente ans de réclusion
 criminelle et de 500 000 euros d'amende. 
 
 La tentative du délit défini à l'article 421-2-2 est punie des mêmes peines. 
@@ -28757,13 +28757,14 @@ _Cité par_:
   - Code de la commande publique - art. L2141-1 (VD)
   - Code de la commande publique - art. L2341-1 (VD)
   - Code de procédure pénale - art. 706-24-3 (M)
+  - Code de procédure pénale - art. 706-24-4 (V)
   - Code général des collectivités territoriales - art. L1414-4 (VD)
   - Code monétaire et financier - art. L561-22 (V)
   - Code pénal - art. 422-3 (V)
 
 _Modifié par_:
 
-  - Loi n°2016-731 du 3 juin 2016 - art. 11
+  - Loi n°2016-987 du 21 juillet 2016 - art. 13
 
 _Cite_:
 
@@ -28775,7 +28776,7 @@ _Cite_:
 
 ###### Article 421-6
 
-Les peines sont portées à vingt ans de réclusion criminelle et 350 000 euros d'amende lorsque le groupement ou l'entente
+Les peines sont portées à trente ans de réclusion criminelle et 450 000 euros d'amende lorsque le groupement ou l'entente
 définie à l'article 421-2-1 a pour objet la préparation : 
 
 1° Soit d'un ou plusieurs crimes d'atteintes aux personnes visés au 1° de l'article 421-1 ; 
@@ -28786,8 +28787,8 @@ définie à l'article 421-2-1 a pour objet la préparation :
 3° Soit de l'acte de terrorisme défini à l'article 421-2 lorsqu'il est susceptible d'entraîner la mort d'une ou plusieurs
 personnes. 
 
-Le fait de diriger ou d'organiser un tel groupement ou une telle entente est puni de trente ans de réclusion criminelle et
-500 000 euros d'amende.
+Le fait de diriger ou d'organiser un tel groupement ou une telle entente est puni de la réclusion criminelle à perpétuité et
+de 500 000 euros d'amende.
 
 **Liens relatifs à cet article**
 
@@ -28798,18 +28799,19 @@ _Codifié par_:
 _Cité par_:
 
   - Loi n°2006-64 du 23 janvier 2006 - art. 28 (V)
+  - Code de procédure pénale - art. 706-24-4 (V)
   - Code de procédure pénale - art. 706-47-4 (V)
   - Code de procédure pénale - art. 720-1 (V)
   - Code pénal - art. 422-3 (V)
 
 _Modifié par_:
 
-  - Loi n°2016-731 du 3 juin 2016 - art. 11
+  - Loi n°2016-987 du 21 juillet 2016 - art. 13
 
 _Cite_:
 
   - Code pénal - art. 132-23
-  - Code pénal - art. 421-1 (V)
+  - Code pénal - art. 421-1
   - Code pénal - art. 421-2
   - Code pénal - art. 421-2-1
 
@@ -28949,19 +28951,22 @@ _Cite_:
 
 ###### Article 422-4
 
-L'interdiction du territoire français peut être prononcée dans les conditions prévues par l'article 131-30, soit à titre
-définitif, soit pour une durée de dix ans au plus, à l'encontre de tout étranger coupable de l'une des infractions définies
-au présent titre.
+L'interdiction du territoire français est prononcée par la juridiction de jugement dans les conditions prévues à l'article
+131-30, soit à titre définitif, soit pour une durée de dix ans au plus, à l'encontre de tout étranger coupable de l'une des
+infractions définies au présent titre. 
+
+Toutefois, la juridiction peut, par une décision spécialement motivée, décider de ne pas prononcer ces peines, en
+considération des circonstances de l'infraction et de la personnalité de son auteur.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Loi n°92-686 1992-07-22
+  - Loi n°92-686 du 22 juillet 1992
 
 _Modifié par_:
 
-  - Loi n°2003-1119 du 26 novembre 2003 - art. 78 () JORF 27 novembre 2003
+  - Loi n°2016-987 du 21 juillet 2016 - art. 14
 
 _Cite_:
 
@@ -38108,24 +38113,25 @@ _Cite_:
 
 ###### Article 711-1
 
-Sous réserve des adaptations prévues au présent titre,  les livres Ier à V du présent code sont applicables, dans leur
-rédaction résultant de la loi n° 2016-731 du 3 juin 2016 renforçant la lutte contre le crime organisé, le terrorisme et leur
-financement, et améliorant l'efficacité et les garanties de la procédure pénale,  en Nouvelle-Calédonie et, en Polynésie
-française et dans les îles Wallis et Futuna.
+Sous réserve des adaptations prévues au présent titre, les livres Ier à V du présent code sont applicables, dans leur
+rédaction résultant de la  loi n° 2016-987 du 21 juillet 2016 prorogeant l'application de la  loi n° 55-385 du 3 avril 1955
+relative à l'état d'urgence et portant mesures de renforcement de la lutte antiterroriste, en Nouvelle-Calédonie et, en
+Polynésie française et dans les îles Wallis et Futuna.
 
 **Liens relatifs à cet article**
+
+_Cite_:
+
+  - Loi n°55-385 du 3 avril 1955
+  - Loi n°2016-987 du 21 juillet 2016
 
 _Codifié par_:
 
   - Ordonnance n°96-267 du 28 mars 1996
 
-_Cite_:
-
-  - Loi n°2016-731 du 3 juin 2016
-
 _Modifié par_:
 
-  - Loi n°2016-731 du 3 juin 2016 - art. 119
+  - Loi n°2016-987 du 21 juillet 2016 - art. 21 (V)
 
 _Cité par_:
 
@@ -38137,7 +38143,7 @@ _Cité par_:
   - Code de la santé publique - art. L1534-7 (V)
   - Code de la santé publique - art. L1543-1 (V)
   - Code de la santé publique - art. L1543-7 (V)
-  - Code pénal - art. 711-4 (V)
+  - Code pénal - art. 711-4 (M)
 
 _Nouveaux textes_:
 
