@@ -1,5 +1,5 @@
 # Code pénal  
-Version Consolidée au 2016-10-09
+Version Consolidée au 2016-11-01
 ## Contenu: 
   - [Partie législative (art. 111-1 à 727-3)](#1)
     - [Livre Ier : Dispositions générales (art. 111-1 à 133-17)](#2)
@@ -4530,23 +4530,28 @@ antérieur aux faits ayant entraîné sa condamnation, que la communauté de vie
 conjoint ait conservé la nationalité française ; 
 
 3° Un étranger qui justifie par tous moyens qu'il réside habituellement en France depuis plus de quinze ans, sauf s'il a été,
-pendant toute cette période, titulaire d'une carte de séjour temporaire portant la mention " étudiant " ; 
+pendant toute cette période, titulaire d'une carte de séjour temporaire ou pluriannuelle  portant la mention " étudiant " ; 
 
 4° Un étranger qui réside régulièrement en France depuis plus de dix ans, sauf s'il a été, pendant toute cette période,
-titulaire d'une carte de séjour temporaire portant la mention " étudiant " ; 
+titulaire d'une carte de séjour temporaire ou pluriannuelle  portant la mention " étudiant " ; 
 
 5° Un étranger titulaire d'une rente d'accident du travail ou de maladie professionnelle servie par un organisme français et
 dont le taux d'incapacité permanente est égal ou supérieur à 20 %.
+
+**Nota:**
+
+Conformément à l'article 67 II de la loi n° 2016-274 du 7 mars 2016, les présentes dispositions entrent en vigueur à compter
+d'une date fixée par décret en Conseil d'Etat, et au plus tard le 1er novembre 2016.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Loi n°92-683 1992-07-22
+  - Loi n°92-683 du 22 juillet 1992
 
 _Modifié par_:
 
-  - Loi n°2006-911 du 24 juillet 2006 - art. 75 () JORF 25 juillet 2006
+  - Loi n°2016-274 du 7 mars 2016 - art. 57
 
 **Liens**:
 
@@ -4559,7 +4564,7 @@ _Cité par_:
 
 _Cite_:
 
-  - Code civil - art. 371-2 (V)
+  - Code civil - art. 371-2
 
 
 ###### Article 131-30-2
