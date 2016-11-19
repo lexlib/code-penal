@@ -1,5 +1,5 @@
 # Code pénal  
-Version Consolidée au 2016-11-16
+Version Consolidée au 2016-11-20
 ## Contenu: 
   - [Partie législative (art. 111-1 à 727-3)](#1)
     - [Livre Ier : Dispositions générales (art. 111-1 à 133-17)](#2)
@@ -9400,7 +9400,9 @@ l'absence de décision sur l'action civile ;
 6° Justifier qu'il acquitte en fonction de ses facultés contributives les sommes dues au Trésor public à la suite de la
 condamnation ; 
 
-7° S'abstenir de conduire certains véhicules déterminés par les catégories de permis prévues par le code de la route ; 
+7° S'abstenir de conduire certains véhicules déterminés par les catégories de permis prévues par le code de la route ou de
+conduire un véhicule qui ne soit pas équipé, par un professionnel agréé ou par construction, d'un dispositif homologué
+d'antidémarrage par éthylotest électronique ; 
 
 7° bis Sous réserve de son accord, s'inscrire et se présenter aux épreuves du permis de conduire, le cas échéant après avoir
 suivi des leçons de conduite ; 
@@ -9503,7 +9505,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2016-731 du 3 juin 2016 - art. 10
+  - Loi n°2016-1547 du 18 novembre 2016 - art. 34 (V)
 
 _Cite_:
 
@@ -17386,19 +17388,21 @@ _Cite_:
 
 ###### Article 225-1
 
-Constitue une discrimination toute distinction opérée entre les personnes physiques à raison de leur origine, de leur sexe,
-de leur situation de famille, de leur grossesse, de leur apparence physique, de la particulière vulnérabilité résultant de
-leur situation économique, apparente ou connue de son auteur, de leur patronyme, de leur lieu de résidence, de leur état de
-santé, de leur handicap, de leurs caractéristiques génétiques, de leurs moeurs, de leur orientation ou identité sexuelle, de
-leur âge, de leurs opinions politiques, de leurs activités syndicales, de leur appartenance ou de leur non-appartenance,
-vraie ou supposée, à une ethnie, une nation, une race ou une religion déterminée. 
+Constitue une discrimination toute distinction opérée entre les personnes physiques sur le fondement de leur origine, de leur
+sexe, de leur situation de famille, de leur grossesse, de leur apparence physique, de la particulière vulnérabilité résultant
+de leur situation économique, apparente ou connue de son auteur, de leur patronyme, de leur lieu de résidence, de leur état
+de santé, de leur perte d'autonomie, de leur handicap, de leurs caractéristiques génétiques, de leurs mœurs, de leur
+orientation sexuelle, de leur identité de genre, de leur âge, de leurs opinions politiques, de leurs activités syndicales, de
+leur capacité à s'exprimer dans une langue autre que le français, de leur appartenance ou de leur non-appartenance, vraie ou
+supposée, à une ethnie, une Nation, une prétendue race ou une religion déterminée. 
 
-Constitue également une discrimination toute distinction opérée entre les personnes morales à raison de l'origine, du sexe,
-de la situation de famille, de l'apparence physique, de la particulière vulnérabilité résultant de la situation économique,
-apparente ou connue de son auteur, du patronyme, du lieu de résidence, de l'état de santé, du handicap, des caractéristiques
-génétiques, des moeurs, de l'orientation ou identité sexuelle, de l'âge, des opinions politiques, des activités syndicales,
-de l'appartenance ou de la non-appartenance, vraie ou supposée, à une ethnie, une nation, une race ou une religion déterminée
-des membres ou de certains membres de ces personnes morales.
+Constitue également une discrimination toute distinction opérée entre les personnes morales sur le fondement de l'origine, du
+sexe, de la situation de famille, de la grossesse, de l'apparence physique, de la particulière vulnérabilité résultant de la
+situation économique, apparente ou connue de son auteur, du patronyme, du lieu de résidence, de l'état de santé, de la perte
+d'autonomie, du handicap, des caractéristiques génétiques, des mœurs, de l'orientation sexuelle, de l'identité de genre, de
+l'âge, des opinions politiques, des activités syndicales, de la capacité à s'exprimer dans une langue autre que le français,
+de l'appartenance ou de la non-appartenance, vraie ou supposée, à une ethnie, une Nation, une prétendue race ou une religion
+déterminée des membres ou de certains membres de ces personnes morales.
 
 **Liens relatifs à cet article**
 
@@ -17435,7 +17439,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2016-832 du 24 juin 2016 - art. unique
+  - Loi n°2016-1547 du 18 novembre 2016 - art. 86
 
 
 ###### Article 225-1-1
@@ -17539,9 +17543,9 @@ sur l'état de santé d'un prélèvement d'organe tel que défini à l'article L
 licenciement fondé sur l'inaptitude médicalement constatée soit dans le cadre du titre IV du livre II du code du travail,
 soit dans le cadre des lois portant dispositions statutaires relatives à la fonction publique ; 
 
-3° Aux discriminations fondées, en matière d'embauche, sur le sexe, l'âge ou l'apparence physique, lorsqu'un tel motif
-constitue une exigence professionnelle essentielle et déterminante et pour autant que l'objectif soit légitime et l'exigence
-proportionnée ; 
+3° Aux discriminations fondées, en matière d'embauche, sur un motif mentionné à l'article 225-1 du présent code, lorsqu'un
+tel motif constitue une exigence professionnelle essentielle et déterminante et pour autant que l'objectif soit légitime et
+l'exigence proportionnée ; 
 
 4° Aux discriminations fondées, en matière d'accès aux biens et services, sur le sexe lorsque cette discrimination est
 justifiée par la protection des victimes de violences à caractère sexuel, des considérations liées au respect de la vie
@@ -17549,10 +17553,10 @@ privée et de la décence, la promotion de l'égalité des sexes ou des intérê
 d'association ou l'organisation d'activités sportives ; 
 
 5° Aux refus d'embauche fondés sur la nationalité lorsqu'ils résultent de l'application des dispositions statutaires
-relatives à la fonction publique ;
+relatives à la fonction publique ; 
 
 6° Aux discriminations liées au lieu de résidence lorsque la personne chargée de la fourniture d'un bien ou service se trouve
-en situation de danger manifeste.
+en situation de danger manifeste. 
 
 Les mesures prises en faveur des personnes résidant dans certaines zones géographiques et visant à favoriser l'égalité de
 traitement ne constituent pas une discrimination.
@@ -17567,10 +17571,11 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2014-173 du 21 février 2014 - art. 15
+  - Loi n°2016-1547 du 18 novembre 2016 - art. 86
 
 _Cite_:
 
+  - Code pénal - art. 225-1 (V)
   - Code de la santé publique - art. L1231-1
 
 
