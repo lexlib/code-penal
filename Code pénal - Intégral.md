@@ -1,5 +1,5 @@
 # Code pénal  
-Version Consolidée au 2016-12-31
+Version Consolidée au 2017-01-01
 ## Contenu: 
   - [Partie législative (art. 111-1 à 727-3)](#1)
     - [Livre Ier : Dispositions générales (art. 111-1 à 133-17)](#2)
@@ -2349,8 +2349,8 @@ _Modifié par_:
 ###### Article 131-4-1
 
 Lorsque la personnalité et la situation matérielle, familiale et sociale de l'auteur d'un délit puni d'une peine
-d'emprisonnement d'une durée inférieure ou égale à cinq ans et les faits de l'espèce justifient un accompagnement socio-
-éducatif individualisé et soutenu, la juridiction peut prononcer la peine de contrainte pénale. 
+d'emprisonnement et les faits de l'espèce justifient un accompagnement socio-éducatif individualisé et soutenu, la
+juridiction peut prononcer la peine de contrainte pénale. 
 
 La contrainte pénale emporte pour le condamné l'obligation de se soumettre, sous le contrôle du juge de l'application des
 peines, pendant une durée comprise entre six mois et cinq ans et qui est fixée par la juridiction, à des mesures de contrôle
@@ -2398,7 +2398,7 @@ La condamnation à la contrainte pénale est exécutoire par provision.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
   - Loi n°2014-896 du 15 août 2014 - art. 19
 
@@ -21552,11 +21552,11 @@ _Codifié par_:
 
 ###### Article 227-3
 
-Le fait, pour une personne, de ne pas exécuter une décision judiciaire ou une convention judiciairement homologuée lui
-imposant de verser au profit d'un enfant mineur, d'un descendant, d'un ascendant ou du conjoint une pension, une
-contribution, des subsides ou des prestations de toute nature dues en raison de l'une des obligations familiales prévues par
-le code civil, en demeurant plus de deux mois sans s'acquitter intégralement de cette obligation, est puni de deux ans
-d'emprisonnement et de 15 000 euros d'amende. 
+Le fait, pour une personne, de ne pas exécuter une décision judiciaire, une convention judiciairement homologuée ou une
+convention prévue à l'article 229-1 du code civil lui imposant de verser au profit d'un enfant mineur, d'un descendant, d'un
+ascendant ou du conjoint une pension, une contribution, des subsides ou des prestations de toute nature dues en raison de
+l'une des obligations familiales prévues par le code civil, en demeurant plus de deux mois sans s'acquitter intégralement de
+cette obligation, est puni de deux ans d'emprisonnement et de 15 000 euros d'amende. 
 
 Les infractions prévues par le premier alinéa du présent article sont assimilées à des abandons de famille pour l'application
 du 3° de l'article 373 du code civil.
@@ -21567,17 +21567,18 @@ _Cité par_:
 
   - Loi n°95-884 du 3 août 1995 - art. 25 (V)
   - Loi n°2002-1062 du 6 août 2002 - art. 14 (V)
-  - Code de procédure pénale - art. 382 (M)
+  - Code de procédure pénale - art. 382 (V)
   - Code de procédure pénale - art. 398-1 (M)
   - Code de procédure pénale - art. R40-27 (V)
   - Code pénal - art. 227-4 (V)
 
 _Modifié par_:
 
-  - Loi n°2011-525 du 17 mai 2011 - art. 151
+  - Loi n°2016-1547 du 18 novembre 2016 - art. 50
 
 _Cite_:
 
+  - Code civil - art. 229-1 (V)
   - Code civil - art. 373
 
 
@@ -21708,8 +21709,9 @@ _Cité par_:
 
 Le fait, pour une personne qui transfère son domicile en un autre lieu, alors que ses enfants résident habituellement chez
 elle, de ne pas notifier son changement de domicile, dans un délai d'un mois à compter de ce changement, à ceux qui peuvent
-exercer à l'égard des enfants un droit de visite ou d'hébergement en vertu d'un jugement ou d'une convention judiciairement
-homologuée, est puni de six mois d'emprisonnement et de 7 500 euros d'amende.
+exercer à l'égard des enfants un droit de visite ou d'hébergement en vertu d'un jugement, d'une convention judiciairement
+homologuée ou d'une convention prévue à l'article 229-1 du code civil, est puni de six mois d'emprisonnement et de 7 500
+euros d'amende.
 
 **Liens relatifs à cet article**
 
@@ -21719,16 +21721,15 @@ _Cité par_:
 
 _Codifié par_:
 
-  - Loi n°92-684 1992-07-22
-
-**Liens**:
-
-  - SPEC_APPLI: Loi n°92-684 1992-07-22 art. 1
-  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
+  - Loi n°92-684 du 22 juillet 1992
 
 _Modifié par_:
 
-  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+  - Loi n°2016-1547 du 18 novembre 2016 - art. 50
+
+_Cite_:
+
+  - Code civil - art. 229-1 (V)
 
 
 ###### Article 227-7
