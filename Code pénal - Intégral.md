@@ -1,5 +1,5 @@
 # Code pénal  
-Version Consolidée au 2017-01-01
+Version Consolidée au 2017-01-22
 ## Contenu: 
   - [Partie législative (art. 111-1 à 727-3)](#1)
     - [Livre Ier : Dispositions générales (art. 111-1 à 133-17)](#2)
@@ -30450,13 +30450,14 @@ _Cite_:
 ###### Article 432-13
 
 Est puni de trois ans d'emprisonnement et d'une amende de 200 000 €, dont le montant peut être porté au double du produit
-tiré de l'infraction, le fait, par une personne ayant été chargée, en tant que membre du Gouvernement, titulaire d'une
-fonction exécutive locale, fonctionnaire, militaire ou agent d'une administration publique, dans le cadre des fonctions
-qu'elle a effectivement exercées, soit d'assurer la surveillance ou le contrôle d'une entreprise privée, soit de conclure des
-contrats de toute nature avec une entreprise privée ou de formuler un avis sur de tels contrats, soit de proposer directement
-à l'autorité compétente des décisions relatives à des opérations réalisées par une entreprise privée ou de formuler un avis
-sur de telles décisions, de prendre ou de recevoir une participation par travail, conseil ou capitaux dans l'une de ces
-entreprises avant l'expiration d'un délai de trois ans suivant la cessation de ces fonctions. 
+tiré de l'infraction, le fait, par une personne ayant été chargée, en tant que membre du Gouvernement, membre d'une autorité
+administrative indépendante ou d'une autorité publique indépendante, titulaire d'une fonction exécutive locale,
+fonctionnaire, militaire ou agent d'une administration publique, dans le cadre des fonctions qu'elle a effectivement
+exercées, soit d'assurer la surveillance ou le contrôle d'une entreprise privée, soit de conclure des contrats de toute
+nature avec une entreprise privée ou de formuler un avis sur de tels contrats, soit de proposer directement à l'autorité
+compétente des décisions relatives à des opérations réalisées par une entreprise privée ou de formuler un avis sur de telles
+décisions, de prendre ou de recevoir une participation par travail, conseil ou capitaux dans l'une de ces entreprises avant
+l'expiration d'un délai de trois ans suivant la cessation de ces fonctions. 
 
 Est punie des mêmes peines toute participation par travail, conseil ou capitaux dans une entreprise privée qui possède au
 moins 30 % de capital commun ou a conclu un contrat comportant une exclusivité de droit ou de fait avec l'une des entreprises
@@ -30501,7 +30502,7 @@ _Cité par_:
   - Code de la défense. - art. R4122-16 (VD)
   - Code de la défense. - art. R4122-24-1 (VD)
   - Code de la propriété intellectuelle - art. L331-18 (V)
-  - Code des transports - art. L1261-7 (M)
+  - Code des transports - art. L1261-7 (V)
   - Code des transports - art. L2132-8 (V)
   - Code pénal - art. 715-4 (V)
   - Code pénal - art. 725-4 (V)
@@ -30516,7 +30517,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2016-483 du 20 avril 2016 - art. 3
+  - Loi n°2017-55 du 20 janvier 2017 - art. 50
 
 
 ##### Paragraphe 4 : Des atteintes à la liberté d'accès et à l'égalité des candidats dans les marchés publics et les contrats de concession<a id=217></a>
