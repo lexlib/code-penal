@@ -1,5 +1,5 @@
 # Code pénal  
-Version Consolidée au 2017-01-27
+Version Consolidée au 2017-01-29
 ## Contenu: 
   - [Partie législative (art. 111-1 à 727-3)](#1)
     - [Livre Ier : Dispositions générales (art. 111-1 à 133-17)](#2)
@@ -2490,10 +2490,9 @@ _Modifié par_:
 ###### Article 131-5-1
 
 Lorsqu'un délit est puni d'une peine d'emprisonnement, la juridiction peut, à la place de l'emprisonnement, prescrire que le
-condamné devra accomplir un stage de citoyenneté, dont les modalités, la durée et le contenu sont fixés par décret en Conseil
-d'Etat, et qui a pour objet de lui rappeler les valeurs républicaines de tolérance et de respect de la dignité humaine sur
-lesquelles est fondée la société. La juridiction précise si ce stage, dont le coût ne peut excéder celui des amendes
-contraventionnelles de la 3e classe, doit être effectué aux frais du condamné.
+condamné devra accomplir un stage de citoyenneté, tendant à l'apprentissage des valeurs de la République et des devoirs du
+citoyen. Les modalités et le contenu de ce stage sont fixés par décret en Conseil d'Etat. La juridiction précise si ce stage,
+dont le coût ne peut excéder celui des amendes contraventionnelles de la 3e classe, doit être effectué aux frais du condamné.
 
 Cette peine ne peut être prononcée contre le prévenu qui la refuse ou n'est pas présent à l'audience. Toutefois, cette peine
 peut être prononcée lorsque le prévenu, absent à l'audience, a fait connaître par écrit son accord et qu'il est représenté
@@ -2524,7 +2523,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2016-731 du 3 juin 2016 - art. 106
+  - Loi n°2017-86 du 27 janvier 2017 - art. 170
 
 
 ###### Article 131-6
@@ -10615,14 +10614,30 @@ _Modifié par_:
 
 ###### Article 132-76
 
-Dans les cas prévus par la loi, les peines encourues pour un crime ou un délit sont aggravées lorsque l'infraction est
-commise à raison de l'appartenance ou de la non-appartenance, vraie ou supposée, de la victime à une ethnie, une nation, une
-race ou une religion déterminée.
+Lorsqu'un crime ou un délit est précédé, accompagné ou suivi de propos, écrits, images, objets ou actes de toute nature qui
+soit portent atteinte à l'honneur ou à la considération de la victime ou d'un groupe de personnes dont fait partie la victime
+à raison de son appartenance ou de sa non-appartenance, vraie ou supposée, à une prétendue race, une ethnie, une nation ou
+une religion déterminée, soit établissent que les faits ont été commis contre la victime pour l'une de ces raisons, le
+maximum de la peine privative de liberté encourue est relevé ainsi qu'il suit : 
 
-La circonstance aggravante définie au premier alinéa est constituée lorsque l'infraction est précédée, accompagnée ou suivie
-de propos, écrits, images, objets ou actes de toute nature portant atteinte à l'honneur ou à la considération de la victime
-ou d'un groupe de personnes dont fait partie la victime à raison de leur appartenance ou de leur non-appartenance, vraie ou
-supposée, à une ethnie, une nation, une race ou une religion déterminée.
+1° Il est porté à la réclusion criminelle à perpétuité lorsque l'infraction est punie de trente ans de réclusion
+criminelle ; 
+
+2° Il est porté à trente ans de réclusion criminelle lorsque l'infraction est punie de vingt ans de réclusion criminelle ; 
+
+3° Il est porté à vingt ans de réclusion criminelle lorsque l'infraction est punie de quinze ans de réclusion criminelle ; 
+
+4° Il est porté à quinze ans de réclusion criminelle lorsque l'infraction est punie de dix ans d'emprisonnement ; 
+
+5° Il est porté à dix ans d'emprisonnement lorsque l'infraction est punie de sept ans d'emprisonnement ; 
+
+6° Il est porté à sept ans d'emprisonnement lorsque l'infraction est punie de cinq ans d'emprisonnement ; 
+
+7° Il est porté au double lorsque l'infraction est punie de trois ans d'emprisonnement au plus. 
+
+Le présent article n'est pas applicable aux infractions prévues aux articles 222-13,225-1 et 432-7 du présent code, ou au
+septième alinéa de l'article 24, au deuxième alinéa de l'article 32 et au troisième alinéa de l'article 33 de la loi du 29
+juillet 1881 sur la liberté de la presse.
 
 **Liens relatifs à cet article**
 
@@ -10634,29 +10649,64 @@ _Cité par_:
 
 _Codifié par_:
 
-  - Loi n°92-683 1992-07-22
+  - Loi n°92-683 du 22 juillet 1992
 
 _Modifié par_:
 
-  - Loi n°2004-204 du 9 mars 2004 - art. 12 () JORF 10 mars 2004
-  - Loi n°2004-204 du 9 mars 2004 - art. 38 () JORF 10 mars 2004
+  - Loi n°2017-86 du 27 janvier 2017 - art. 171
+
+_Cite_:
+
+  - Code pénal - art. 222-13 (V)
+  - Code pénal - art. 225-1 (V)
+  - Code pénal - art. 432-7 (V)
 
 
 ###### Article 132-77
 
-Dans les cas prévus par la loi, les peines encourues pour un crime ou un délit sont aggravées lorsque l'infraction est
-commise à raison de l'orientation ou identité sexuelle de la victime. 
+Lorsqu'un crime ou un délit est précédé, accompagné ou suivi de propos, écrits, images, objets ou actes de toute nature qui
+soit portent atteinte à l'honneur ou à la considération de la victime ou d'un groupe de personnes dont fait partie la victime
+à raison de son sexe, son orientation sexuelle ou identité de genre vraie ou supposée, soit établissent que les faits ont été
+commis contre la victime pour l'une de ces raisons, le maximum de la peine privative de liberté encourue est relevé ainsi
+qu'il suit : 
 
-La circonstance aggravante définie au premier alinéa est constituée lorsque l'infraction est précédée, accompagnée ou suivie
-de propos, écrits, utilisation d'images ou d'objets ou actes de toute nature portant atteinte à l'honneur ou à la
-considération de la victime ou d'un groupe de personnes dont fait partie la victime à raison de leur orientation ou identité
-sexuelle vraie ou supposée.
+1° Il est porté à la réclusion criminelle à perpétuité lorsque l'infraction est punie de trente ans de réclusion
+criminelle ; 
+
+2° Il est porté à trente ans de réclusion criminelle lorsque l'infraction est punie de vingt ans de réclusion criminelle ; 
+
+3° Il est porté à vingt ans de réclusion criminelle lorsque l'infraction est punie de quinze ans de réclusion criminelle ; 
+
+4° Il est porté à quinze ans de réclusion criminelle lorsque l'infraction est punie de dix ans d'emprisonnement ; 
+
+5° Il est porté à dix ans d'emprisonnement lorsque l'infraction est punie de sept ans d'emprisonnement ; 
+
+6° Il est porté à sept ans d'emprisonnement lorsque l'infraction est punie de cinq ans d'emprisonnement ; 
+
+7° Il est porté au double lorsque l'infraction est punie de trois ans d'emprisonnement au plus. 
+
+Le présent article n'est pas applicable aux infractions prévues aux articles 222-13,222-33,225-1 et 432-7 du présent code, ou
+au huitième alinéa de l'article 24, au troisième alinéa de l'article 32 et au quatrième alinéa de l'article 33 de la loi du
+29 juillet 1881 sur la liberté de la presse, ni lorsque l'infraction est déjà aggravée soit parce qu'elle est commise par le
+conjoint, le concubin de la victime ou le partenaire lié à celle-ci par un pacte civil de solidarité, soit parce qu'elle est
+commise contre une personne afin de la contraindre à contracter un mariage ou à conclure une union ou en raison de son refus
+de contracter ce mariage ou cette union
 
 **Liens relatifs à cet article**
 
+_Cite_:
+
+  - Loi du 29 juillet 1881 - art. 24 (V)
+  - Loi du 29 juillet 1881 - art. 32 (V)
+  - Loi du 29 juillet 1881 - art. 33 (V)
+  - Code pénal - art. 222-13 (V)
+  - Code pénal - art. 222-33 (V)
+  - Code pénal - art. 225-1 (V)
+  - Code pénal - art. 432-7 (V)
+
 _Cité par_:
 
-  - Loi du 29 juillet 1881 - art. 48-4 (M)
+  - Loi du 29 juillet 1881 - art. 48-4 (V)
   - Code de procédure pénale - art. 398-1 (VD)
 
 _Codifié par_:
@@ -10665,7 +10715,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2012-954 du 6 août 2012 - art. 4
+  - Loi n°2017-86 du 27 janvier 2017 - art. 171
 
 
 ###### Article 132-78
@@ -11950,10 +12000,7 @@ au domicile des personnes mentionnées aux 4° et 4° bis, en raison des fonctio
 5° Sur un témoin, une victime ou une partie civile, soit pour l'empêcher de dénoncer les faits, de porter plainte ou de
 déposer en justice, soit en raison de sa dénonciation, de sa plainte ou de sa déposition ; 
 
-6° A raison de l'appartenance ou de la non-appartenance, vraie ou supposée, de la victime à une ethnie, une nation, une race
-ou une religion déterminée ; 
-
-7° A raison de l'orientation ou identité sexuelle de la victime ; 
+6° et 7° (abrogés)
 
 8° Par plusieurs personnes agissant en bande organisée ; 
 
@@ -11975,7 +12022,7 @@ sûreté est alors égale à la durée de la peine résultant de la mesure de gr
 
 _Modifié par_:
 
-  - Loi n°2012-954 du 6 août 2012 - art. 4
+  - Loi n°2017-86 du 27 janvier 2017 - art. 171
 
 _Cité par_:
 
@@ -11993,7 +12040,7 @@ _Cité par_:
 _Cite_:
 
   - Code pénal - art. 132-23
-  - Code de la sécurité intérieure - art. L271-1 (V)
+  - Code de la sécurité intérieure - art. L271-1
 
 
 ###### Article 221-5
@@ -12869,10 +12916,7 @@ au domicile des personnes mentionnées aux 4° et 4° bis, en raison des fonctio
 déposer en justice, soit en raison de sa dénonciation ou de sa plainte, soit à cause de sa déposition devant une juridiction
 nationale ou devant la Cour pénale internationale ; 
 
-5° bis A raison de l'appartenance ou de la non-appartenance, vraie ou supposée, de la victime à une ethnie, une nation, une
-race ou une religion déterminée ; 
-
-5° ter A raison de l'orientation ou identité sexuelle de la victime ; 
+5° bis et 5° ter (abrogés)
 
 5° quater Sur une personne qui se livre à la prostitution, y compris de façon occasionnelle, si les faits sont commis dans
 l'exercice de cette activité ;
@@ -12905,7 +12949,7 @@ présent article.
 
 _Modifié par_:
 
-  - Loi n°2016-444 du 13 avril 2016 - art. 11
+  - Loi n°2017-86 du 27 janvier 2017 - art. 171
 
 _Cité par_:
 
@@ -13133,10 +13177,7 @@ au domicile des personnes mentionnées aux 4° et 4° bis, en raison des fonctio
 déposer en justice, soit en raison de sa dénonciation ou de sa plainte, soit à cause de sa déposition devant une juridiction
 nationale ou devant la Cour pénale internationale ; 
 
-5° bis A raison de l'appartenance ou de la non-appartenance, vraie ou supposée, de la victime à une ethnie, une nation, une
-race ou une religion déterminée ; 
-
-5° ter A raison de l'orientation ou identité sexuelle de la victime ; 
+5° bis et 5° ter  (abrogés)
 
 5° quater Sur une personne qui se livre à la prostitution, y compris de façon occasionnelle, si les faits sont commis dans
 l'exercice de cette activité ;
@@ -13188,7 +13229,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2016-444 du 13 avril 2016 - art. 11
+  - Loi n°2017-86 du 27 janvier 2017 - art. 171
 
 _Cite_:
 
@@ -13270,10 +13311,7 @@ au domicile des personnes mentionnées aux 4° et 4° bis, en raison des fonctio
 déposer en justice, soit en raison de sa dénonciation ou de sa plainte, soit à cause de sa déposition devant une juridiction
 nationale ou devant la Cour pénale internationale ; 
 
-5° bis A raison de l'appartenance ou de la non-appartenance, vraie ou supposée, de la victime à une ethnie, une nation, une
-race ou une religion déterminée ; 
-
-5° ter A raison de l'orientation ou identité sexuelle de la victime ; 
+5° bis et 5° ter (abrogés)
 
 5° quater Sur une personne qui se livre à la prostitution, y compris de façon occasionnelle, si les faits sont commis dans
 l'exercice de cette activité ;
@@ -13327,7 +13365,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2016-444 du 13 avril 2016 - art. 11
+  - Loi n°2017-86 du 27 janvier 2017 - art. 171
 
 _Cite_:
 
@@ -13399,10 +13437,7 @@ au domicile des personnes mentionnées aux 4° et 4° bis, en raison des fonctio
 déposer en justice, soit en raison de sa dénonciation ou de sa plainte, soit à cause de sa déposition devant une juridiction
 nationale ou devant la Cour pénale internationale ; 
 
-5° bis A raison de l'appartenance ou de la non-appartenance, vraie ou supposée, de la victime à une ethnie, une nation, une
-race ou une religion déterminée ; 
-
-5° ter A raison de l'orientation ou identité sexuelle de la victime ; 
+5° bis et 5° ter (abrogés)
 
 5° quater Sur une personne qui se livre à la prostitution, y compris de façon occasionnelle, si les faits sont commis dans
 l'exercice de cette activité ;
@@ -13470,7 +13505,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2016-444 du 13 avril 2016 - art. 11
+  - Loi n°2017-86 du 27 janvier 2017 - art. 171
 
 _Cite_:
 
@@ -13512,9 +13547,9 @@ déposer en justice, soit en raison de sa dénonciation ou de sa plainte, soit �
 nationale ou devant la Cour pénale internationale ; 
 
 5° bis A raison de l'appartenance ou de la non-appartenance, vraie ou supposée, de la victime à une ethnie, une nation, une
-race ou une religion déterminée ; 
+prétendue race ou une religion déterminée ; 
 
-5° ter A raison de l'orientation ou identité sexuelle de la victime ; 
+5° ter A raison du sexe, de l'orientation sexuelle ou de l'identité de genre vraie ou supposée de la victime ;
 
 5° quater Sur une personne qui se livre à la prostitution, y compris de façon occasionnelle, si les faits sont commis dans
 l'exercice de cette activité ;
@@ -13573,7 +13608,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2016-444 du 13 avril 2016 - art. 11
+  - Loi n°2017-86 du 27 janvier 2017 - art. 171
 
 _Cite_:
 
@@ -13953,43 +13988,6 @@ _Cité par_:
   - Code pénal - art. 222-18-3 (V)
 
 
-###### Article 222-18-1
-
-Lorsqu'elles sont commises à raison de l'appartenance ou de la non-appartenance, vraie ou supposée, de la victime à une
-ethnie, une nation, une race ou une religion déterminée, les menaces prévues au premier alinéa de l'article 222-17 sont
-punies de deux ans d'emprisonnement et de 30 000 euros d'amende, celles prévues au second alinéa de cet article et au premier
-alinéa de l'article 222-18 sont punies de cinq ans d'emprisonnement et de 75 000 euros d'amende, et celles prévues au second
-alinéa de l'article 222-18 sont punies de sept ans d'emprisonnement et de 100 000 euros d'amende. Les mêmes peines sont
-encourues lorsque ces menaces sont proférées à raison de l'orientation ou identité sexuelle vraie ou supposée de la victime.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Loi n°92-684 du 22 juillet 1992
-
-_Modifié par_:
-
-  - Loi n°2012-954 du 6 août 2012 - art. 4
-
-_Abrogé par_:
-
-  - Loi n°2017-86 du 27 janvier 2017 - art. 171
-
-_Cite_:
-
-  - Code pénal - art. 222-17
-  - Code pénal - art. 222-18
-
-_Cité par_:
-
-  - Code pénal - art. 222-18-2 (M)
-
-_Nouveaux textes_:
-
-  - Code pénal - art. 222-18-2 (V)
-
-
 ###### Article 222-18-2
 
 Les personnes morales déclarées responsables pénalement, dans les conditions prévues par l'article 121-2, des infractions
@@ -13999,8 +13997,8 @@ définies au présent paragraphe encourent, outre l'amende suivant les modalité
 
 2° Les peines mentionnées aux 2° à 9° de l'article 131-39 ; 
 
-3° La peine mentionnée au 1° de l'article 131-39 pour les infractions définies par les articles 222-17 (deuxième alinéa),
-222-18 et 222-18-1.
+3° La peine mentionnée au 1° de l'article 131-39 pour les infractions définies par les articles 222-17 (deuxième alinéa) et
+222-18. 
 
 L'interdiction mentionnée au 2° de l'article 131-39 porte sur l'activité dans l'exercice ou à l'occasion de l'exercice de
 laquelle l'infraction a été commise.
@@ -14009,7 +14007,7 @@ laquelle l'infraction a été commise.
 
 _Modifié par_:
 
-  - Loi n°2009-526 du 12 mai 2009 - art. 124
+  - Loi n°2017-86 du 27 janvier 2017 - art. 171
 
 _Cite_:
 
@@ -14017,8 +14015,6 @@ _Cite_:
   - Code pénal - art. 131-38 (V)
   - Code pénal - art. 131-39 (V)
   - Code pénal - art. 222-17 (V)
-  - Code pénal - art. 222-18 (V)
-  - Code pénal - art. 222-18-1
 
 _Anciens textes_:
 
@@ -14581,7 +14577,7 @@ une déficience physique ou psychique ou à un état de grossesse, est apparente
 8° Lorsque la victime a été mise en contact avec l'auteur des faits grâce à l'utilisation, pour la diffusion de messages à
 destination d'un public non déterminé, d'un réseau de communication électronique ; 
 
-9° Lorsqu'il a été commis à raison de l'orientation ou identité sexuelle de la victime ; 
+9° (abrogé)
 
 10° Lorsqu'il est commis en concours avec un ou plusieurs autres viols commis sur d'autres victimes ; 
 
@@ -14598,7 +14594,7 @@ façon occasionnelle.
 
 _Modifié par_:
 
-  - Loi n°2016-444 du 13 avril 2016 - art. 11
+  - Loi n°2017-86 du 27 janvier 2017 - art. 171
 
 _Cité par_:
 
@@ -14790,16 +14786,12 @@ fait ;
 
 5° Lorsqu'elle est commise avec usage ou menace d'une arme ; 
 
-6° Lorsqu'elle a été commise à raison de l'orientation ou identité sexuelle de la victime ; 
+6° (abrogé)
 
 7° Lorsqu'elle est commise par une personne agissant en état d'ivresse manifeste ou sous l'emprise manifeste de produits
 stupéfiants.
 
 **Liens relatifs à cet article**
-
-_Modifié par_:
-
-  - Loi n°2012-954 du 6 août 2012 - art. 4
 
 _Cité par_:
 
@@ -14808,6 +14800,10 @@ _Cité par_:
   - Code de l'action sociale et des familles - art. L133-6 (VD)
   - Code de procédure pénale - art. 8 (V)
   - Code pénal - art. 222-48 (V)
+
+_Modifié par_:
+
+  - Loi n°2017-86 du 27 janvier 2017 - art. 171
 
 _Cite_:
 
@@ -17660,24 +17656,44 @@ _Cite_:
   - Code pénal - art. 222-33
 
 
+###### Article 225-1-2
+
+Constitue une discrimination toute distinction opérée entre les personnes parce qu'elles ont subi ou refusé de subir des
+faits de bizutage définis à l'article 225-16-1 ou témoigné de tels faits.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2017-86 du 27 janvier 2017 - art. 177
+
+_Cite_:
+
+  - Code pénal - art. 225-16-1 (V)
+
+_Cité par_:
+
+  - Code pénal - art. 225-2 (V)
+
+
 ###### Article 225-2
 
-La discrimination définie aux articles 225-1 et 225-1-1, commise à l'égard d'une personne physique ou morale, est punie de
-trois ans d'emprisonnement et de 45 000 euros d'amende lorsqu'elle consiste : 
+La discrimination définie aux articles 225-1 à 225-1-2, commise à l'égard d'une personne physique ou morale, est punie de
+trois ans d'emprisonnement et de 45 000 euros d'amende lorsqu'elle consiste :
 
-1° A refuser la fourniture d'un bien ou d'un service ; 
+1° A refuser la fourniture d'un bien ou d'un service ;
 
-2° A entraver l'exercice normal d'une activité économique quelconque ; 
+2° A entraver l'exercice normal d'une activité économique quelconque ;
 
-3° A refuser d'embaucher, à sanctionner ou à licencier une personne ; 
+3° A refuser d'embaucher, à sanctionner ou à licencier une personne ;
 
 4° A subordonner la fourniture d'un bien ou d'un service à une condition fondée sur l'un des éléments visés à l'article 225-1
-ou prévue à l'article 225-1-1 ; 
+ou prévue aux articles 225-1-1 ou 225-1-2 ;
 
 5° A subordonner une offre d'emploi, une demande de stage ou une période de formation en entreprise à une condition fondée
-sur l'un des éléments visés à l'article 225-1 ou prévue à l'article 225-1-1 ; 
+sur l'un des éléments visés à l'article 225-1 ou prévue aux articles 225-1-1 ou 225-1-2 ;
 
-6° A refuser d'accepter une personne à l'un des stages visés par le 2° de l'article L. 412-8 du code de la sécurité sociale. 
+6° A refuser d'accepter une personne à l'un des stages visés par le 2° de l'article L. 412-8 du code de la sécurité sociale.
 
 Lorsque le refus discriminatoire prévu au 1° est commis dans un lieu accueillant du public ou aux fins d'en interdire
 l'accès, les peines sont portées à cinq ans d'emprisonnement et à 75 000 euros d'amende.
@@ -17713,12 +17729,13 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2012-954 du 6 août 2012 - art. 3
+  - Loi n°2017-86 du 27 janvier 2017 - art. 177
 
 _Cite_:
 
-  - Code pénal - art. 225-1
-  - Code pénal - art. 225-1-1
+  - Code pénal - art. 225-1 (V)
+  - Code pénal - art. 225-1-1 (V)
+  - Code pénal - art. 225-1-2 (V)
   - Code de la sécurité sociale. - art. L412-8
 
 
@@ -19093,8 +19110,8 @@ _Cite_:
 
 Hors les cas de violences, de menaces ou d'atteintes sexuelles, le fait pour une personne d'amener autrui, contre son gré ou
 non, à subir ou à commettre des actes humiliants ou dégradants ou à consommer de l'alcool de manière excessive, lors de
-manifestations ou de réunions liées aux milieux scolaire et socio-éducatif est puni de six mois d'emprisonnement et de 7 500
-euros d'amende.
+manifestations ou de réunions liées aux milieux scolaire, sportif et socio-éducatif est puni de six mois d'emprisonnement et
+de 7 500 euros d'amende.
 
 **Liens relatifs à cet article**
 
@@ -19104,7 +19121,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2016-41 du 26 janvier 2016 - art. 12
+  - Loi n°2017-86 du 27 janvier 2017 - art. 177
 
 **Liens**:
 
@@ -19204,57 +19221,11 @@ _Modifié par_:
   - Loi n°2008-1350 du 19 décembre 2008 - art. 13
 
 
-###### Article 225-18
-
-Lorsque les infractions définies à l'article précédent ont été commises à raison de l'appartenance ou de la non-appartenance,
-vraie ou supposée, des personnes décédées à une ethnie, une nation, une race ou une religion déterminée, les peines sont
-portées à trois ans d'emprisonnement et à 45 000 euros d'amende pour les infractions définies aux deux premiers alinéas de
-l'article 225-17 et à cinq ans d'emprisonnement et à 75 000 euros d'amende pour celle définie au dernier alinéa de cet
-article.
-
-**Liens relatifs à cet article**
-
-**Liens**:
-
-  - SPEC_APPLI: Loi n°92-684 1992-07-22 art. 1
-  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
-
-_Codifié par_:
-
-  - Loi n°92-684 du 22 juillet 1992
-
-_Cité par_:
-
-  - Loi n°95-884 du 3 août 1995 - art. 25 (V)
-  - Loi n°2001-504 du 12 juin 2001 - art. 1 (VD)
-  - Loi n°2001-504 du 12 juin 2001 - art. 19 (V)
-  - Loi n°2002-1062 du 6 août 2002 - art. 14 (V)
-  - CODE DE PROCEDURE PENALE - art. 2-17 (M)
-  - Code pénal - art. 225-18-1 (M)
-
-_Modifié par_:
-
-  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
-
-_Abrogé par_:
-
-  - Loi n°2017-86 du 27 janvier 2017 - art. 171
-
-_Cite_:
-
-  - Code pénal - art. 225-17
-
-
 ###### Article 225-18-1
 
-Les personnes morales déclarées responsables pénalement, dans les conditions prévues par l'article 121-2, des infractions
-définies aux articles 225-17 et 225-18 encourent, outre l'amende suivant les modalités prévues par l'article 131-38 : 
-
-1° (Abrogé) ; 
-
-2° Les peines mentionnées aux 2° à 9° de l'article 131-39 ; 
-
-3° La peine mentionnée au 1° de l'article 131-39 pour les infractions définies par l'article 225-18. 
+Les personnes morales déclarées responsables pénalement, dans les conditions prévues à l'article 121-2, de l'infraction
+définie à l'article 225-17 encourent, outre l'amende suivant les modalités prévues à l'article 131-38, les peines mentionnées
+aux 1° à 9° de l'article 131-39. 
 
 L'interdiction mentionnée au 2° de l'article 131-39 porte sur l'activité dans l'exercice ou à l'occasion de l'exercice de
 laquelle l'infraction a été commise.
@@ -19263,7 +19234,7 @@ laquelle l'infraction a été commise.
 
 _Modifié par_:
 
-  - Loi n°2009-526 du 12 mai 2009 - art. 124
+  - Loi n°2017-86 du 27 janvier 2017 - art. 171
 
 _Cite_:
 
@@ -19271,7 +19242,6 @@ _Cite_:
   - Code pénal - art. 131-38 (V)
   - Code pénal - art. 131-39 (V)
   - Code pénal - art. 225-17 (V)
-  - Code pénal - art. 225-18 (V)
 
 
 ##### Section 5 : Peines complémentaires applicables aux personnes physiques<a id=122></a>
@@ -21186,8 +21156,8 @@ _Créé par_:
 Le fait, hors les cas prévus par la loi, de mettre ou de conserver en mémoire informatisée, sans le consentement exprès de
 l'intéressé, des données à caractère personnel qui, directement ou indirectement, font apparaître les origines raciales ou
 ethniques, les opinions politiques, philosophiques ou religieuses, ou les appartenances syndicales des personnes, ou qui sont
-relatives à la santé ou à l'orientation ou identité sexuelle de celles-ci, est puni de cinq ans d'emprisonnement et de 300
-000 euros d'amende. 
+relatives à la santé ou à l'orientation sexuelle ou à l'identité de genre de celles-ci, est puni de cinq ans d'emprisonnement
+et de 300 000 euros d'amende. 
 
 Est puni des mêmes peines le fait, hors les cas prévus par la loi, de mettre ou de conserver en mémoire informatisée des
 données à caractère personnel concernant des infractions, des condamnations ou des mesures de sûreté.
@@ -21200,7 +21170,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2012-954 du 6 août 2012 - art. 4
+  - Loi n°2017-86 du 27 janvier 2017 - art. 171
 
 _Cité par_:
 
@@ -23249,38 +23219,36 @@ _Cité par_:
 
 ###### Article 311-4
 
-Le vol est puni de cinq ans d'emprisonnement et de 75 000 euros d'amende : 
+Le vol est puni de cinq ans d'emprisonnement et de 75 000 euros d'amende :
 
 1° Lorsqu'il est commis par plusieurs personnes agissant en qualité d'auteur ou de complice, sans qu'elles constituent une
-bande organisée ; 
+bande organisée ;
 
 2° Lorsqu'il est commis par une personne dépositaire de l'autorité publique ou chargée d'une mission de service public, dans
-l'exercice ou à l'occasion de l'exercice de ses fonctions ou de sa mission ; 
+l'exercice ou à l'occasion de l'exercice de ses fonctions ou de sa mission ;
 
 3° Lorsqu'il est commis par une personne qui prend indûment la qualité d'une personne dépositaire de l'autorité publique ou
-chargée d'une mission de service public ; 
+chargée d'une mission de service public ;
 
-4° Lorsqu'il est précédé, accompagné ou suivi de violences sur autrui n'ayant pas entraîné une incapacité totale de
-travail ; 
+4° Lorsqu'il est précédé, accompagné ou suivi de violences sur autrui n'ayant pas entraîné une incapacité totale de travail ;
 
-5° (Abrogé) ;
+5° (Abrogé)
 
 6° Lorsqu'il est commis dans un local d'habitation ou dans un lieu utilisé ou destiné à l'entrepôt de fonds, valeurs,
-marchandises ou matériels ; 
+marchandises ou matériels ;
 
 7° Lorsqu'il est commis dans un véhicule affecté au transport collectif de voyageurs ou dans un lieu destiné à l'accès à un
-moyen de transport collectif de voyageurs ; 
+moyen de transport collectif de voyageurs ;
 
-8° Lorsqu'il est précédé, accompagné ou suivi d'un acte de destruction, dégradation ou détérioration ; 
+8° Lorsqu'il est précédé, accompagné ou suivi d'un acte de destruction, dégradation ou détérioration ;
 
-9° Lorsqu'il est commis à raison de l'appartenance ou de la non-appartenance, vraie ou supposée, de la victime à une ethnie,
-une nation, une race ou une religion déterminée, ou de son orientation ou identité sexuelle, vraie ou supposée ; 
+9° (Abrogé)
 
 10° Lorsqu'il est commis par une personne dissimulant volontairement en tout ou partie son visage afin de ne pas être
-identifiée ; 
+identifiée ;
 
 11° Lorsqu'il est commis dans les établissements d'enseignement ou d'éducation ainsi que, lors des entrées ou sorties des
-élèves ou dans un temps très voisin de celles-ci, aux abords de ces établissements. 
+élèves ou dans un temps très voisin de celles-ci, aux abords de ces établissements.
 
 Les peines sont portées à sept ans d'emprisonnement et à 100 000 euros d'amende lorsque le vol est commis dans deux des
 circonstances prévues par le présent article. Elles sont portées à dix ans d'emprisonnement et à 150 000 euros d'amende
@@ -23306,7 +23274,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2012-954 du 6 août 2012 - art. 4
+  - Loi n°2017-86 du 27 janvier 2017 - art. 171
 
 
 ###### Article 311-4-1
@@ -23833,8 +23801,7 @@ pendant huit jours au plus ;
 2° Lorsqu'elle est commise au préjudice d'une personne dont la particulière vulnérabilité, due à son âge, à une maladie, à
 une infirmité, à une déficience physique ou psychique ou à un état de grossesse, est apparente ou connue de son auteur ; 
 
-3° Lorsqu'elle est commise à raison de l'appartenance ou de la non-appartenance, vraie ou supposée, de la victime à une
-ethnie, une nation, une race ou une religion déterminée, ou de son orientation ou identité sexuelle, vraie ou supposée ; 
+3° (abrogé)
 
 4° Lorsqu'elle est commise par une personne dissimulant volontairement en tout ou partie son visage afin de ne pas être
 identifiée ; 
@@ -23855,7 +23822,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2012-954 du 6 août 2012 - art. 4
+  - Loi n°2017-86 du 27 janvier 2017 - art. 171
 
 
 ###### Article 312-3
@@ -25853,11 +25820,7 @@ lorsque le bien détruit, dégradé ou détérioré est :
 
 1° (Abrogé) ;
 
-2° Un registre, une minute ou un acte original de l'autorité publique. 
-
-Lorsque l'infraction définie au premier alinéa de l'article 322-1 est commise à raison de l'appartenance ou de la non-
-appartenance, vraie ou supposée, de la personne propriétaire ou utilisatrice de ce bien à une ethnie, une nation, une race ou
-une religion déterminée, les peines encourues sont également portées à trois ans d'emprisonnement et à 45 000 euros d'amende.
+2° Un registre, une minute ou un acte original de l'autorité publique.
 
 **Liens relatifs à cet article**
 
@@ -25888,11 +25851,11 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2011-267 du 14 mars 2011 - art. 66
+  - Loi n°2017-86 du 27 janvier 2017 - art. 171
 
 **Liens**:
 
-  - PILOTE_SUIVEUR: Code du patrimoine. - art. L114-2 (V)
+  - PILOTE_SUIVEUR: Code du patrimoine - art. L114-2 (V)
 
 _Cite_:
 
@@ -26044,10 +26007,10 @@ _Codifié par_:
 ###### Article 322-4-1
 
 Le fait de s'installer en réunion, en vue d'y établir une habitation, même temporaire, sur un terrain appartenant soit à une
-commune qui s'est conformée aux obligations lui incombant en vertu du schéma départemental prévu par l'article 2 de la loi n°
+commune qui s'est conformée aux obligations lui incombant en vertu du schéma départemental prévu à l'article 1er de la loi n°
 2000-614 du 5 juillet 2000 relative à l'accueil et à l'habitat des gens du voyage ou qui n'est pas inscrite à ce schéma, soit
 à tout autre propriétaire autre qu'une commune, sans être en mesure de justifier de son autorisation ou de celle du titulaire
-du droit d'usage du terrain, est puni de six mois d'emprisonnement et de 3 750 euros d'amende.
+du droit d'usage du terrain, est puni de six mois d'emprisonnement et de 3 750 euros d'amende. 
 
 Lorsque l'installation s'est faite au moyen de véhicules automobiles, il peut être procédé à leur saisie, à l'exception des
 véhicules destinés à l'habitation, en vue de leur confiscation par la juridiction pénale.
@@ -26056,16 +26019,15 @@ véhicules destinés à l'habitation, en vue de leur confiscation par la juridic
 
 _Codifié par_:
 
-  - Loi n°92-685 1992-07-22
+  - Loi n°92-685 du 22 juillet 1992
 
 _Cite_:
 
-  - Loi n°2000-614 du 5 juillet 2000 - art. 2 (M)
+  - Loi n°2000-614 du 5 juillet 2000 (V)
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°2003-239 2003-03-18 art. 53 1° JORF 19 mars 2003
-  - Loi n°2003-239 du 18 mars 2003 - art. 53
+  - Loi n°2017-86 du 27 janvier 2017 - art. 150
 
 _Cité par_:
 
@@ -26227,8 +26189,7 @@ L'infraction définie à l'article 322-6 est punie de vingt ans de réclusion cr
 
 2° Lorsqu'elle a entraîné pour autrui une incapacité totale de travail pendant plus de huit jours ;
 
-3° Lorsqu'elle est commise à raison de l'appartenance ou de la non-appartenance, vraie ou supposée, de la personne
-propriétaire ou utilisatrice du bien à une ethnie, une nation, une race ou une religion déterminée.
+3° (abrogé)
 
 Lorsqu'il s'agit de l'incendie de bois, forêts, landes, maquis, plantations ou reboisements d'autrui, les peines sont portées
 à trente ans de réclusion criminelle et à 200 000 euros d'amende.
@@ -26240,11 +26201,11 @@ présent article.
 
 _Codifié par_:
 
-  - Loi n°92-685 1992-07-22
+  - Loi n°92-685 du 22 juillet 1992
 
 _Modifié par_:
 
-  - Loi n°2004-204 du 9 mars 2004 - art. 32 () JORF 10 mars 2004
+  - Loi n°2017-86 du 27 janvier 2017 - art. 171
 
 _Cité par_:
 
@@ -26253,8 +26214,8 @@ _Cité par_:
 
 _Cite_:
 
-  - Code pénal - art. 132-23 (M)
-  - Code pénal - art. 322-6 (M)
+  - Code pénal - art. 132-23
+  - Code pénal - art. 322-6
 
 
 ###### Article 322-9
@@ -38738,24 +38699,23 @@ _Cite_:
 
 ###### Article 711-1
 
-Sous réserve des adaptations prévues au présent titre, les livres Ier à V du présent code sont applicables, dans leur
-rédaction résultant de la loi n° 2016-1691 du 9 décembre 2016 relative à la transparence, à la lutte contre la corruption et
-à la modernisation de la vie économique, en Nouvelle-Calédonie et, en Polynésie française et dans les îles Wallis et Futuna.
+Sous réserve des adaptations prévues au présent titre, les livres Ier à V du présent code sont applicables en Nouvelle-
+Calédonie, en Polynésie française et dans les îles Wallis et Futuna, dans leur rédaction résultant de la loi n° 2017-86 du 27
+janvier 2017 relative à l'égalité et à la citoyenneté.
 
 **Liens relatifs à cet article**
-
-_Cite_:
-
-  - Loi n°55-385 du 3 avril 1955
-  - Loi n°2016-987 du 21 juillet 2016
 
 _Codifié par_:
 
   - Ordonnance n°96-267 du 28 mars 1996
 
+_Cite_:
+
+  - Loi n°2017-86 du 27 janvier 2017
+
 _Modifié par_:
 
-  - Loi n°2016-1691 du 9 décembre 2016 - art. 168
+  - Loi n°2017-86 du 27 janvier 2017 - art. 224 (V)
 
 _Cité par_:
 
