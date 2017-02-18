@@ -1,5 +1,5 @@
 # Code pénal  
-Version Consolidée au 2017-02-12
+Version Consolidée au 2017-02-19
 ## Contenu: 
   - [Partie législative (art. 111-1 à 727-3)](#1)
     - [Livre Ier : Dispositions générales (art. 111-1 à 133-17)](#2)
@@ -40404,7 +40404,7 @@ limitations et restrictions de validité qu'il comporte ;
 4° La ou les catégories de véhicules pour lesquelles le permis de conduire cesse d'être valable. 
 
 Le certificat doit comporter, en outre, une photographie récente du condamné et indiquer qu'il vaut, notamment au regard des
-articles R. 221-1 à R. 221-3 du nouveau code de la route, justification du droit de conduire, à l'exception de la ou des
+articles R. 221-1-1 à R. 221-3 du nouveau code de la route, justification du droit de conduire, à l'exception de la ou des
 catégories de véhicules pour lesquelles la juridiction a prononcé l'interdiction de conduire. 
 
 A l'issue de la période d'interdiction, le permis de conduire est restitué au condamné par le greffier de la juridiction
@@ -40414,11 +40414,7 @@ contre remise du certificat.
 
 _Codifié par_:
 
-  - Décret n°93-726 1993-03-29
-
-_Modifié par_:
-
-  - Décret n°2003-642 du 11 juillet 2003 - art. 1 () JORF 12 juillet 2003
+  - Décret n°93-726 du 29 mars 1993
 
 _Cité par_:
 
@@ -40430,9 +40426,13 @@ _Cité par_:
   - Code pénal - art. R712-2 (V)
   - Code pénal - art. R722-2 (Ab)
 
+_Modifié par_:
+
+  - Décret n°2017-198 du 16 février 2017 - art. 2
+
 _Cite_:
 
-  - Code de la route. - art. R221-1 (V)
+  - Code de la route. - art. R221-1-1 (V)
 
 
 ###### Article R131-4-1
@@ -41781,8 +41781,11 @@ _Anciens textes_:
 
 ###### Article R132-45
 
-Lorsque le sursis avec mise à l'épreuve comprend comme obligation l'accomplissement d'un stage de sensibilisation à la
-sécurité routière prévu au 15° de l'article 132-45, les dispositions de l'article R. 131-11-1 sont applicables. 
+Lorsque le sursis avec mise à l'épreuve comprend l'obligation mentionnée au 7° de l'article 132-45, les dispositions des
+articles R. 131-3 à R. 131-4-1 sont applicables. 
+
+Lorsqu'il comprend comme obligation l'accomplissement d'un stage de sensibilisation à la sécurité routière prévu au 15° de
+l'article 132-45, les dispositions de l'article R. 131-11-1 sont applicables. 
 
 Lorsqu'il comprend comme obligation l'accomplissement d'un stage de citoyenneté prévu au 18° de l'article 132-45, les
 dispositions des articles R. 131-36 à R. 131-44 qui régissent le stage de citoyenneté sont applicables. 
@@ -41807,14 +41810,15 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2016-1709 du 12 décembre 2016 - art. 2
+  - Décret n°2017-198 du 16 février 2017 - art. 2
 
 _Cite_:
 
   - Code pénal - art. 132-45 (V)
-  - Code pénal - art. R131-11-1 (V)
-  - Code pénal - art. R131-36 (V)
-  - Code pénal - art. R131-51-1 (V)
+  - Code pénal - art. R131-11-1
+  - Code pénal - art. R131-3 (V)
+  - Code pénal - art. R131-36
+  - Code pénal - art. R131-51-1
 
 
 #### Chapitre III : De l'extinction des peines et de l'effacement des condamnations<a id=341></a>
@@ -45357,7 +45361,7 @@ _Cite_:
 Sous réserve des adaptations prévues au présent titre, les livres Ier à VI de la deuxième partie du présent code (Décrets en
 Conseil d'Etat), à l'exception des articles R. 321-1 à R. 321-12, R. 633-1 à R. 633-5, 
 R. 635-3 à R. 635-7 et R. 645-6, sont applicables en Nouvelle-Calédonie et dans les territoires de la Polynésie française et
-des îles Wallis et Futuna dans leur rédaction résultant du décret n° 2016-1709 du 12 décembre 2016.
+des îles Wallis et Futuna dans leur rédaction résultant du décret n° 2017-198 du 16 février 2017.
 
 **Liens relatifs à cet article**
 
@@ -45376,7 +45380,7 @@ _Cite_:
 
 _Modifié par_:
 
-  - Décret n°2016-1709 du 12 décembre 2016 - art. 4
+  - Décret n°2017-198 du 16 février 2017 - art. 2
 
 _Cité par_:
 
