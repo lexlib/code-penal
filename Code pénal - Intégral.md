@@ -1,5 +1,5 @@
 # Code pénal  
-Version Consolidée au 2017-09-17
+Version Consolidée au 2017-10-31
 ## Contenu: 
   - [Partie législative (art. 111-1 à 727-3)](#1)
     - [Livre Ier : Dispositions générales (art. 111-1 à 133-17)](#2)
@@ -28728,6 +28728,31 @@ _Cite_:
   - Code pénal - art. 421-2-1 (V)
 
 
+###### Article 421-2-4-1
+
+Le fait, par une personne ayant autorité sur un mineur, de faire participer ce mineur à un groupement formé ou à une entente
+établie en vue de la préparation, caractérisée par un ou plusieurs faits matériels, d'un des actes de terrorisme mentionnés
+aux articles 421-1 et 421-2 est puni de quinze ans de réclusion criminelle et de 225 000 € d'amende. 
+
+Lorsque le fait est commis par une personne titulaire de l'autorité parentale sur le mineur, la juridiction de jugement se
+prononce sur le retrait total ou partiel de l'autorité parentale en application des articles 378 et 379-1 du code civil. Elle
+peut alors statuer sur le retrait de l'autorité parentale en ce qu'elle concerne les autres enfants mineurs de cette
+personne. Si les poursuites ont lieu devant la cour d'assises, celle-ci statue sur cette question sans l'assistance des
+jurés.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2017-1510 du 30 octobre 2017 - art. 10
+
+_Cite_:
+
+  - Code pénal - art. 421-1
+  - Code civil - art. 378
+  - Code civil - art. 379-1
+
+
 ###### Article 421-2-5
 
 Le fait de provoquer directement à des actes de terrorisme ou de faire publiquement l'apologie de ces actes est puni de cinq
@@ -38458,8 +38483,8 @@ _Cite_:
 ###### Article 711-1
 
 Sous réserve des adaptations prévues au présent titre, les livres Ier à V du présent code sont applicables, dans leur
-rédaction résultant de la loi n° 2017-1339 du 15 septembre 2017 pour la confiance dans la vie politique, en Nouvelle-
-Calédonie, en Polynésie française et dans les îles Wallis et Futuna.
+rédaction résultant de la                loi n° 2017-1510 du 30 octobre 2017 renforçant la sécurité intérieure et la lutte
+contre le terrorisme, en Nouvelle-Calédonie, en Polynésie française et dans les îles Wallis et Futuna.
 
 **Liens relatifs à cet article**
 
@@ -38469,11 +38494,11 @@ _Codifié par_:
 
 _Cite_:
 
-  - Loi n°2017-1339 du 15 septembre 2017
+  - Loi n°2017-1510 du 30 octobre 2017
 
 _Modifié par_:
 
-  - Loi n°2017-1339 du 15 septembre 2017 - art. 1
+  - Loi n°2017-1510 du 30 octobre 2017 - art. 20 (V)
 
 _Cité par_:
 
