@@ -1,5 +1,5 @@
 # Code pénal  
-Version Consolidée au 2017-10-31
+Version Consolidée au 2017-11-05
 ## Contenu: 
   - [Partie législative (art. 111-1 à 727-3)](#1)
     - [Livre Ier : Dispositions générales (art. 111-1 à 133-17)](#2)
@@ -41939,8 +41939,8 @@ Toute personne soumise à l'obligation de tenir le registre d'objets mobiliers p
 effectuer une déclaration préalable à la préfecture ou la sous-préfecture dont dépend son établissement principal. A Paris,
 la déclaration est faite à la préfecture de police. 
 
-En l'absence d'établissement fixe ouvert au public, le lieu du domicile ou, à défaut, la commune de rattachement mentionnée à
-l'article 7 de la loi n° 69-3 du 3 janvier 1969 est considéré comme le lieu d'établissement. 
+En l'absence d'établissement fixe ouvert au public, le lieu du domicile ou, à défaut, le lieu d'élection de domicile au sens
+de l'article L. 264-1 du code de l'action sociale et des familles est considéré comme le lieu d'établissement. 
 
 La déclaration comporte les indications suivantes : nom et prénoms du déclarant ; date et lieu de naissance ; nationalité ;
 lieu d'exercice habituel de la profession ; statut de l'entreprise ainsi qu'un extrait d'immatriculation au registre du
@@ -41951,12 +41951,6 @@ des services fiscaux, des douanes ainsi que des services de la concurrence, de l
 fraudes.
 
 **Liens relatifs à cet article**
-
-_Cite_:
-
-  - Loi n°69-3 du 3 janvier 1969 - art. 7
-  - Code de commerce - art. L123-1-1
-  - Code pénal - art. 321-7
 
 _Cité par_:
 
@@ -41974,7 +41968,12 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2015-731 du 24 juin 2015 - art. 2
+  - Décret n°2017-1522 du 2 novembre 2017 - art. 5
+
+_Cite_:
+
+  - Code pénal - art. 321-7
+  - Code de l'action sociale et des familles - art. L264-1
 
 
 ###### Article R321-2
