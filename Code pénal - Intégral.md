@@ -1,5 +1,5 @@
 # Code pénal  
-Version Consolidée au 2017-11-05
+Version Consolidée au 2017-12-16
 ## Contenu: 
   - [Partie législative (art. 111-1 à 727-3)](#1)
     - [Livre Ier : Dispositions générales (art. 111-1 à 133-17)](#2)
@@ -28612,41 +28612,6 @@ _Cite_:
 _Créé par_:
 
   - Loi n°2016-731 du 3 juin 2016 - art. 18
-
-
-###### Article 421-2-5-2
-
-Le fait de consulter habituellement et sans motif légitime un service de communication au public en ligne mettant à
-disposition des messages, images ou représentations soit provoquant directement à la commission d'actes de terrorisme, soit
-faisant l'apologie de ces actes lorsque, à cette fin, ce service comporte des images ou représentations montrant la
-commission de tels actes consistant en des atteintes volontaires à la vie est puni de deux ans d'emprisonnement et de 30 000
-€ d'amende lorsque cette consultation s'accompagne d'une manifestation de l'adhésion à l'idéologie exprimée sur ce service.
-
-Constitue notamment un motif légitime tel que défini au premier alinéa la consultation résultant de l'exercice normal d'une
-profession ayant pour objet d'informer le public, intervenant dans le cadre de recherches scientifiques ou réalisée afin de
-servir de preuve en justice ou le fait que cette consultation s'accompagne d'un signalement des contenus de ce service aux
-autorités publiques compétentes.
-
-**Nota:**
-
-Dans sa décision n° 2017-682 QPC du 15 décembre 2017 (NOR: CSCX1735443S), le Conseil constitutionnel a déclaré l'article
-421-2-5-2 du code pénal, dans sa rédaction issue de la loi n° 2017-258 du 28 février 2017 relative à la sécurité publique,
-contraire à la Constitution. La déclaration d'inconstitutionnalité prend effet dans les conditions prévues au paragraphe 18
-de cette décision, à compter de sa date de publication.
-
-**Liens relatifs à cet article**
-
-_Modifié par_:
-
-  - Loi n°2017-258 du 28 février 2017 - art. 24
-
-_Abrogé par_:
-
-  - Décision n°2017-682 QPC du 15 décembre 2017 - art. 1, v. init.
-
-_Cité par_:
-
-  - Code de procédure pénale - art. 720-1 (V)
 
 
 ###### Article 421-2-6
