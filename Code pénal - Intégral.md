@@ -1,5 +1,5 @@
 # Code pénal  
-Version Consolidée au 2017-12-16
+Version Consolidée au 2018-03-28
 ## Contenu: 
   - [Partie législative (art. 111-1 à 727-3)](#1)
     - [Livre Ier : Dispositions générales (art. 111-1 à 133-17)](#2)
@@ -35610,17 +35610,18 @@ _Modifié par_:
 
 ###### Article 445-1-1
 
-Les peines prévues à l'article 445-1 sont applicables à toute personne qui promet ou offre, sans droit, à tout moment,
-directement ou indirectement, des présents, des dons ou des avantages quelconques, pour lui-même ou pour autrui, à un acteur
-d'une manifestation sportive donnant lieu à des paris sportifs,            pour que ce dernier accomplisse ou s'abstienne
-d'accomplir, ou parce qu'il a accompli ou s'est abstenu d'accomplir, un acte modifiant  le déroulement normal et équitable de
-cette manifestation.
+Est puni de cinq ans d'emprisonnement et d'une amende de 500 000 €, dont le montant peut être porté au double du produit tiré
+de l'infraction, le fait, par quiconque, de proposer, sans droit, à tout moment, directement ou indirectement, à un acteur
+d'une manifestation sportive donnant lieu à des paris, des offres, des promesses, des présents, des dons ou des avantages
+quelconques, pour lui-même ou pour autrui, pour que cet acteur, par un acte ou une abstention, modifie le déroulement normal
+et équitable de cette manifestation ou parce que cet acteur, par un acte ou une abstention, a modifié le déroulement normal
+et équitable de cette manifestation.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Loi n°2017-261 du 1er mars 2017 - art. 10
+  - Loi n°2018-202 du 26 mars 2018 - art. 26
 
 _Cité par_:
 
@@ -35662,16 +35663,17 @@ _Cité par_:
 
 ###### Article 445-2-1
 
-Les peines prévues à l'article 445-2 sont applicables à tout acteur d'une manifestation sportive donnant lieu à des paris
-sportifs qui sollicite ou accepte, à tout moment, des présents, des dons ou des avantages quelconques, pour lui-même ou pour
-autrui, pour modifier ou avoir modifié, par un acte ou une abstention, le déroulement normal et équitable de la
-manifestation.
+Est puni de cinq ans d'emprisonnement et d'une amende de 500 000 €, dont le montant peut être porté au double du produit tiré
+de l'infraction, le fait, par un acteur d'une manifestation sportive donnant lieu à des paris, de solliciter ou d'agréer de
+quiconque, sans droit, à tout moment, directement ou indirectement, des offres, des promesses, des présents, des dons ou des
+avantages quelconques, pour lui-même ou pour autrui, pour modifier ou pour avoir modifié, par un acte ou une abstention, le
+déroulement normal et équitable de cette manifestation.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Loi n°2017-261 du 1er mars 2017 - art. 10
+  - Loi n°2018-202 du 26 mars 2018 - art. 26
 
 _Cité par_:
 
