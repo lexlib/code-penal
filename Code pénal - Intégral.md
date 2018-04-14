@@ -1,5 +1,5 @@
 # Code pénal  
-Version Consolidée au 2018-03-28
+Version Consolidée au 2018-04-15
 ## Contenu: 
   - [Partie législative (art. 111-1 à 727-3)](#1)
     - [Livre Ier : Dispositions générales (art. 111-1 à 133-17)](#2)
@@ -22045,10 +22045,11 @@ d'amende.
 
 Le fait, par un directeur d'établissement privé accueillant des classes hors contrat, de n'avoir pas pris, malgré la mise en
 demeure de l'autorité de l'Etat compétente en matière d'éducation, les dispositions nécessaires pour que l'enseignement qui y
-est dispensé soit conforme à l'objet de l'instruction obligatoire, tel que celui-ci est défini par l'article L. 131-1-1 et L.
-131-10 du code de l'éducation, et de n'avoir pas procédé à la fermeture de ces classes est puni de six mois d'emprisonnement
-et de 7 500 euros d'amende. En outre, le tribunal peut ordonner à l'encontre de celui-ci l'interdiction de diriger ou
-d'enseigner ainsi que la fermeture de l'établissement.
+est dispensé soit conforme à l'objet de l'instruction obligatoire, tel que celui-ci est défini par l'article L. 131-1-1 du
+code de l'éducation, et permette aux élèves concernés l'acquisition progressive du socle commun défini à l'article L. 122-1-1
+du même code, et de n'avoir pas procédé à la fermeture de ces classes est puni de six mois d'emprisonnement et de 15 000
+euros d'amende. En outre, le tribunal peut ordonner à l'encontre de celui-ci l'interdiction de diriger ou d'enseigner ainsi
+que la fermeture de l'établissement.
 
 **Nota:**
 
@@ -22073,7 +22074,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2012-16 du 5 janvier 2012 - art. 7 (VD)
+  - Loi n°2018-266 du 13 avril 2018 - art. 4 (V)
 
 _Cité par_:
 
@@ -22087,6 +22088,7 @@ _Cité par_:
 
 _Cite_:
 
+  - Code de l'éducation - art. L122-1-1
   - Code de l'éducation - art. L131-1-1
 
 
