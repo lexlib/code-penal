@@ -1,5 +1,5 @@
 # Code pénal  
-Version Consolidée au 2018-04-15
+Version Consolidée au 2018-05-06
 ## Contenu: 
   - [Partie législative (art. 111-1 à 727-3)](#1)
     - [Livre Ier : Dispositions générales (art. 111-1 à 133-17)](#2)
@@ -40379,9 +40379,9 @@ _Cite_:
 ###### Article R131-13
 
 Le juge de l'application des peines procède à toutes diligences qu'il juge utiles. Il peut, notamment, consulter le conseil
-départemental de prévention de la délinquance, d'aide aux victimes et de lutte contre la drogue, les dérives sectaires et les
-violences faites aux femmes qui dispose alors d'un délai de deux mois pour donner son avis. Il communique ensuite au
-procureur de la République la demande d'habilitation et les éléments d'information recueillis par lui.
+départemental de prévention de la délinquance et de lutte contre la drogue, les dérives sectaires et les violences faites aux
+femmes qui dispose alors d'un délai de deux mois pour donner son avis. Il communique ensuite au procureur de la République la
+demande d'habilitation et les éléments d'information recueillis par lui.
 
 Au vu de l'avis du procureur de la République ou un mois au plus tôt après lui avoir communiqué la demande d'habilitation, le
 juge de l'application des peines statue sur celle-ci.
@@ -40397,7 +40397,7 @@ L'habilitation accordée est valable pour une durée de cinq ans.
 
 _Modifié par_:
 
-  - Décret n°2010-671 du 18 juin 2010 - art. 2
+  - Décret n°2018-329 du 3 mai 2018 - art. 8
 
 _Cité par_:
 
@@ -40522,14 +40522,14 @@ _Cite_:
 ###### Article R131-18
 
 Le juge de l'application des peines procède à toutes diligences et consultations utiles. A cette fin, il adresse copie de la
-demande au conseil départemental de prévention de la délinquance, d'aide aux victimes et de lutte contre la drogue, les
-dérives sectaires et les violences faites aux femmes.
+demande au conseil départemental de prévention de la délinquance et de lutte contre la drogue, les dérives sectaires et les
+violences faites aux femmes.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Décret n°2010-671 du 18 juin 2010 - art. 2
+  - Décret n°2018-329 du 3 mai 2018 - art. 8
 
 _Cité par_:
 
