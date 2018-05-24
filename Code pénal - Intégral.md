@@ -1,5 +1,5 @@
 # Code pénal  
-Version Consolidée au 2018-05-06
+Version Consolidée au 2018-05-25
 ## Contenu: 
   - [Partie législative (art. 111-1 à 727-3)](#1)
     - [Livre Ier : Dispositions générales (art. 111-1 à 133-17)](#2)
@@ -20766,18 +20766,19 @@ qu'aient été respectées les formalités préalables à leur mise en oeuvre pr
 d'emprisonnement et de 300 000 euros d'amende.
 
 Est puni des mêmes peines le fait, y compris par négligence, de procéder ou de faire procéder à un traitement qui a fait
-l'objet de l'une des mesures prévues au 3° du I de l'article 45 de la loi n° 78-17 du 6 janvier 1978 relative à
+l'objet de l'une des mesures prévues au 3° du III de l'article 45 de la loi n° 78-17 du 6 janvier 1978 relative à
 l'informatique, aux fichiers et aux libertés.
 
-Est puni des mêmes peines le fait de permettre l'accès aux données contenues dans un traitement mentionné à l'article L.
-4123-9-1 du code de la défense sans avoir recueilli l'avis favorable mentionné au II du même article.
+**Nota:**
+
+Conformément à l'article 7 II B de la loi n° 2018-493 du 20 juin 2018, le deuxième alinéa de l'article 226-16 du code pénal
+demeure applicable, dans sa rédaction antérieure à ladite loi, aux faits commis avant l'entrée en vigueur de celle-ci.
 
 **Liens relatifs à cet article**
 
 _Cite_:
 
   - Loi n°78-17 du 6 janvier 1978 - art. 45
-  - Code de la défense. - art. L4123-9-1
 
 _Cité par_:
 
@@ -20791,7 +20792,9 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2016-1321 du 7 octobre 2016 - art. 64
+  - Loi n°2016-731 du 3 juin 2016 - art. 117 (V)
+  - Loi n°2018-493 du 20 juin 2018 - art. 18
+  - Loi n°2018-493 du 20 juin 2018 - art. 7
 
 
 ###### Article 226-16-1
@@ -20814,32 +20817,6 @@ _Codifié par_:
 _Créé par_:
 
   - Loi n°2004-801 du 6 août 2004 - art. 14 () JORF 7 août 2004
-
-
-###### Article 226-16-1-A
-
-Lorsqu'il a été procédé ou fait procéder à un traitement de données à caractère personnel dans les conditions prévues par le
-I ou le II de l'article 24 de la loi n° 78-17 du 6 janvier 1978 précitée, le fait de ne pas respecter, y compris par
-négligence, les normes simplifiées ou d'exonération établies à cet effet par la Commission nationale de l'informatique et des
-libertés est puni de cinq ans d'emprisonnement et de 300 000 euros d'amende.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Loi n°78-17 du 6 janvier 1978 - art. 24
-
-_Codifié par_:
-
-  - Loi n°92-684 1992-07-22
-
-_Créé par_:
-
-  - Loi n°2004-801 du 6 août 2004 - art. 14 () JORF 7 août 2004
-
-_Abrogé par_:
-
-  - Loi n°2018-493 du 20 juin 2018 - art. 11
 
 
 ###### Article 226-17
@@ -20875,20 +20852,16 @@ de données à caractère personnel à la Commission nationale de l'informatique
 méconnaissance des dispositions du II de l'article 34 bis de la loi n° 78-17 du 6 janvier 1978, est puni de cinq ans
 d'emprisonnement et de 300 000 € d'amende.
 
-Est puni des mêmes peines le fait pour un responsable de traitement de ne pas procéder à la notification à la Commission
-nationale de l'informatique et des libertés d'une divulgation ou d'un accès non autorisé de données à un traitement mentionné
-à l'article L. 4123-9-1 du code de la défense.
-
 **Liens relatifs à cet article**
 
 _Cite_:
 
   - Loi n°78-17 du 6 janvier 1978 - art. 34 bis
-  - Code de la défense. - art. L4123-9-1
 
 _Modifié par_:
 
-  - Loi n°2016-731 du 3 juin 2016 - art. 117
+  - Loi n°2016-731 du 3 juin 2016 - art. 117 (V)
+  - Loi n°2018-493 du 20 juin 2018 - art. 18
 
 
 ###### Article 226-18
@@ -21096,25 +21069,26 @@ _Modifié par_:
 
 ###### Article 226-22-1
 
-Le fait, hors les cas prévus par la loi, de procéder ou de faire procéder à un transfert de données à caractère personnel
-faisant l'objet ou destinées à faire l'objet d'un traitement vers un Etat n'appartenant pas à la Communauté européenne en
-violation des mesures prises par la Commission des Communautés européennes ou par la Commission nationale de l'informatique
-et des libertés mentionnées à l'article 70 de la loi n° 78-17 du 6 janvier 1978 précitée est puni de cinq ans
-d'emprisonnement et de 300 000 euros d'amende.
+Le fait de procéder ou de faire procéder à un transfert de données à caractère personnel faisant l'objet ou destinées à faire
+l'objet d'un traitement vers un Etat n'appartenant pas à l'Union européenne ou à une organisation internationale en violation
+du chapitre V du règlement (UE) 2016/679 du Parlement européen et du Conseil du 27 avril 2016 relatif à la protection des
+personnes physiques à l'égard du traitement des données à caractère personnel et à la libre circulation de ces données, et
+abrogeant la directive 95/46/ CE, ou des articles 70-25 à 70-27 de la loi n° 78-17 du 6 janvier 1978 précitée est puni de
+cinq ans d'emprisonnement et de 300 000 euros d'amende.
 
 **Liens relatifs à cet article**
 
 _Cite_:
 
-  - Loi n°78-17 du 6 janvier 1978 - art. 70 (V)
+  - Loi n°78-17 du 6 janvier 1978 - art. 70 (Ab)
 
 _Codifié par_:
 
-  - Loi n°92-684 1992-07-22
+  - Loi n°92-684 du 22 juillet 1992
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°2004-801 du 6 août 2004 - art. 14 () JORF 7 août 2004
+  - Loi n°2018-493 du 20 juin 2018 - art. 27
 
 
 ###### Article 226-22-2
