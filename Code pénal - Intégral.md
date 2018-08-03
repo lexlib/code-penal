@@ -1,5 +1,5 @@
 # Code pénal  
-Version Consolidée au 2018-06-09
+Version Consolidée au 2018-08-04
 ## Contenu: 
   - [Partie législative (art. 111-1 à 727-3)](#1)
     - [Livre Ier : Dispositions générales (art. 111-1 à 133-17)](#2)
@@ -43566,8 +43566,8 @@ e) Des destinataires ou catégories de destinataires des données ;
 
 f) De ses droits d'opposition, d'interrogation, d'accès et de rectification ;
 
-g) Le cas échéant, des transferts de données à caractère personnel envisagés à destination d'un Etat non membre de la
-Communauté européenne ;
+g) Le cas échéant, des transferts de données à caractère personnel envisagés à destination d'un Etat n'appartenant pas à
+l'Union européenne ;
 
 2° Lorsque les données sont recueillies par voie de questionnaire, de ne pas porter sur le questionnaire les informations
 relatives :
@@ -43593,15 +43593,23 @@ b) Des moyens dont elle dispose pour s'y opposer ;
 d'elle, les informations énumérées au 1° et au 2° dès l'enregistrement des données ou, si une communication des données à des
 tiers est envisagée, au plus tard lors de la première communication des données.
 
+Est puni de la même peine le fait de ne pas fournir l'une des informations mentionnées au I de l'article 70-18 de la loi n°
+78-17 du 6 janvier 1978 relative à l'informatique, aux fichiers et aux libertés ou aux articles 13 et 14 du règlement (UE)
+2016/679 du Parlement européen et du Conseil du 27 avril 2016.
+
 **Liens relatifs à cet article**
+
+_Cite_:
+
+  - Loi n°78-17 du 6 janvier 1978 - art. 70-18
 
 _Codifié par_:
 
-  - Décret n°93-726 1993-03-29
+  - Décret n°93-726 du 29 mars 1993
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2005-1309 du 20 octobre 2005 - art. 90 (T)
+  - Décret n°2018-687 du 1er août 2018 - art. 29
 
 
 ###### Article R625-11
@@ -43616,7 +43624,7 @@ pour objet :
 destinataires ou aux catégories de destinataires auxquels les données sont communiquées ;
 
 3° Le cas échéant, les informations relatives aux transferts de données à caractère personnel envisagés à destination d'un
-Etat non membre de la Communauté européenne ;
+Etat n'appartenant pas à l'Union européenne ;
 
 4° La communication, sous une forme accessible, des données à caractère personnel qui la concernent ainsi que de toute
 information disponible quant à l'origine de celles-ci ;
@@ -43627,6 +43635,11 @@ décision prise sur le fondement de celui-ci et produisant des effets juridiques
 Est puni de la même peine le fait de refuser de délivrer, à la demande de l'intéressé, une copie des données à caractère
 personnel le concernant, le cas échéant, contre paiement d'une somme qui ne peut excéder le coût de la reproduction.
 
+Est puni de la même peine le fait de ne pas répondre aux demandes tendant à la mise en œuvre des droits prévus à l'article 15
+du règlement (UE) 2016/679 du Parlement européen et du Conseil du 27 avril 2016 ou, hors les cas prévus à l'article 70-21 de
+la loi n° 78-17 du 6 janvier 1978 relative à l'informatique, aux fichiers et aux libertés, au II de l'article 70-18 et à
+l'article 70-19 de cette même loi.
+
 Les contraventions prévues par le présent article ne sont toutefois pas constituées si le refus de réponse est autorisé par
 la loi soit afin de ne pas porter atteinte au droit d'auteur, soit parce qu'il s'agit de demandes manifestement abusives,
 notamment par leur nombre, leur caractère répétitif ou systématique, soit parce que les données à caractère personnel sont
@@ -43636,13 +43649,17 @@ ou historique.
 
 **Liens relatifs à cet article**
 
+_Cite_:
+
+  - Loi n°78-17 du 6 janvier 1978 - art. 70-21
+
 _Codifié par_:
 
-  - Décret n°93-726 1993-03-29
+  - Décret n°93-726 du 29 mars 1993
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2005-1309 du 20 octobre 2005 - art. 90 (T)
+  - Décret n°2018-687 du 1er août 2018 - art. 29
 
 
 ###### Article R625-12
@@ -43654,15 +43671,23 @@ les données à caractère personnel la concernant ou concernant la personne dé
 données sont inexactes, incomplètes, équivoques, périmées, ou lorsque leur collecte, leur utilisation, leur communication ou
 leur conservation est interdite.
 
+Est puni de la même peine le fait de ne pas procéder aux opérations exigées par les articles 16 à 18 du règlement (UE)
+2016/679 du Parlement européen et du Conseil du 27 avril 2016, ou, hors les cas prévus à l'article 70-21 de la loi n° 78-17
+du 6 janvier 1978 relative à l'informatique, aux fichiers et aux libertés, par l'article 70-20 de cette même loi.
+
 **Liens relatifs à cet article**
+
+_Cite_:
+
+  - Loi n°78-17 du 6 janvier 1978 - art. 70-21
 
 _Codifié par_:
 
-  - Décret n°93-726 1993-03-29
+  - Décret n°93-726 du 29 mars 1993
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2005-1309 du 20 octobre 2005 - art. 90 (T)
+  - Décret n°2018-687 du 1er août 2018 - art. 29
 
 
 ###### Article R625-13
