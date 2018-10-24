@@ -1,5 +1,5 @@
 # Code pénal  
-Version Consolidée au 2018-09-12
+Version Consolidée au 2018-10-25
 ## Contenu: 
   - [Partie législative (art. 111-1 à 727-3)](#1)
     - [Livre Ier : Dispositions générales (art. 111-1 à 133-17)](#2)
@@ -4123,8 +4123,8 @@ du présent code ;
 électoral ;
 
 8° Les délits prévus aux articles 1741 et 1743 du code général des impôts, lorsqu'ils sont commis en bande organisée ou
-lorsqu'ils résultent de l'un des comportements mentionnés aux 1° à 5° de l'article L. 228 du livre des procédures fiscales,
-ainsi que leur recel ou leur blanchiment ;
+lorsqu'ils résultent de l'un des comportements mentionnés aux 1° à 5° du II de l'article L. 228 du livre des procédures
+fiscales, ainsi que leur recel ou leur blanchiment ;
 
 9° Les délits prévus aux articles L. 465-1 à L. 465-3-3 du code monétaire et financier, ainsi que leur recel ou leur
 blanchiment ;
@@ -4149,46 +4149,46 @@ le présent article, en considération des circonstances de l'infraction et de l
 
 _Cite_:
 
-  - Loi n°88-227 du 11 mars 1988 - art. 11-5 (VD)
+  - Loi n°88-227 du 11 mars 1988 - art. 11-5
   - Loi n°2013-907 du 11 octobre 2013 - art. 26
-  - Décision n°2017-752 DC du 8 septembre 2017, v. init.
+  - Décision n°2017-752 DC du 8 septembre 2017
   - Code de commerce - art. L241-3
   - Code de commerce - art. L242-6
   - Code général des impôts, CGI. - art. 1741
   - Code général des impôts, CGI. - art. 1743
   - Livre des procédures fiscales - art. L228
-  - Code électoral - art. L106 (V)
+  - Code électoral - art. L106
   - Code électoral - art. L111
   - Code électoral - art. L113
   - Code électoral - art. L116
-  - Code électoral - art. L86 (V)
-  - Code électoral - art. L91 (V)
+  - Code électoral - art. L86
+  - Code électoral - art. L91
   - Code électoral - art. LO135-1
-  - Code pénal -  Chapitre Ier : Des actes de terrorisme (V)
-  - Code pénal - art. 222-11 (V)
-  - Code pénal - art. 222-12 (V)
-  - Code pénal - art. 222-14 (V)
-  - Code pénal - art. 222-14-4 (V)
-  - Code pénal - art. 222-15 (V)
-  - Code pénal - art. 222-27 (V)
-  - Code pénal - art. 222-9 (V)
-  - Code pénal - art. 225-1 (V)
-  - Code pénal - art. 313-1 (V)
-  - Code pénal - art. 314-1 (V)
-  - Code pénal - art. 432-10 (V)
-  - Code pénal - art. 433-1 (V)
-  - Code pénal - art. 434-43-1 (V)
-  - Code pénal - art. 434-9 (V)
-  - Code pénal - art. 435-1 (V)
-  - Code pénal - art. 441-2 (V)
-  - Code pénal - art. 445-1 (V)
-  - Code pénal - art. 450-1 (V)
-  - Code de procédure pénale - art. 775 (V)
-  - Code monétaire et financier - art. L465-1 (V)
+  - Code pénal
+  - Code pénal - art. 222-11
+  - Code pénal - art. 222-12
+  - Code pénal - art. 222-14
+  - Code pénal - art. 222-14-4
+  - Code pénal - art. 222-15
+  - Code pénal - art. 222-27
+  - Code pénal - art. 222-9
+  - Code pénal - art. 225-1
+  - Code pénal - art. 313-1
+  - Code pénal - art. 314-1
+  - Code pénal - art. 432-10
+  - Code pénal - art. 433-1
+  - Code pénal - art. 434-43-1
+  - Code pénal - art. 434-9
+  - Code pénal - art. 435-1
+  - Code pénal - art. 441-2
+  - Code pénal - art. 445-1
+  - Code pénal - art. 450-1
+  - Code de procédure pénale - art. 775
+  - Code monétaire et financier - art. L465-1
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°2017-1339 du 15 septembre 2017 - art. 1
+  - Loi n°2018-898 du 23 octobre 2018 - art. 36
 
 
 ###### Article 131-27
