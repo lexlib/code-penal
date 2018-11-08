@@ -1,5 +1,5 @@
 # Code pénal  
-Version Consolidée au 2018-10-25
+Version Consolidée au 2018-11-09
 ## Contenu: 
   - [Partie législative (art. 111-1 à 727-3)](#1)
     - [Livre Ier : Dispositions générales (art. 111-1 à 133-17)](#2)
@@ -26062,7 +26062,11 @@ Le fait de s'installer en réunion, en vue d'y établir une habitation, même te
 commune qui s'est conformée aux obligations lui incombant en vertu du schéma départemental prévu à l'article 1er de la loi n°
 2000-614 du 5 juillet 2000 relative à l'accueil et à l'habitat des gens du voyage ou qui n'est pas inscrite à ce schéma, soit
 à tout autre propriétaire autre qu'une commune, sans être en mesure de justifier de son autorisation ou de celle du titulaire
-du droit d'usage du terrain, est puni de six mois d'emprisonnement et de 3 750 euros d'amende. 
+du droit d'usage du terrain, est puni d'un an d'emprisonnement et de 7 500 € d'amende. 
+
+Dans les conditions prévues à l'article 495-17 du code de procédure pénale, l'action publique peut être éteinte par le
+versement d'une amende forfaitaire d'un montant de 500 €. Le montant de l'amende forfaitaire minorée est de 400 € et le
+montant de l'amende forfaitaire majorée de 1 000 €. 
 
 Lorsque l'installation s'est faite au moyen de véhicules automobiles, il peut être procédé à leur saisie, à l'exception des
 véhicules destinés à l'habitation, en vue de leur confiscation par la juridiction pénale.
@@ -26075,11 +26079,12 @@ _Codifié par_:
 
 _Cite_:
 
-  - Loi n°2000-614 du 5 juillet 2000 (V)
+  - Loi n°2000-614 du 5 juillet 2000
+  - Code de procédure pénale - art. 495-17 (V)
 
 _Modifié par_:
 
-  - Loi n°2017-86 du 27 janvier 2017 - art. 150
+  - Loi n°2018-957 du 7 novembre 2018 - art. 4
 
 _Cité par_:
 
@@ -38735,8 +38740,8 @@ _Cité par_:
 ###### Article 711-1
 
 Sous réserve des adaptations prévues au présent titre, les livres Ier à V sont applicables, dans leur rédaction résultant de
-la loi n° 2018-778 du 10 septembre 2018 pour une immigration maîtrisée, un droit d'asile effectif et une intégration réussie,
-en Nouvelle-Calédonie, en Polynésie française et dans les îles Wallis et Futuna.
+la loi n° 2018-957 du 7 novembre 2018 relative à l'accueil des gens du voyage et à la lutte contre les installations
+illicites, en Nouvelle-Calédonie, en Polynésie française et dans les îles Wallis et Futuna.
 
 **Liens relatifs à cet article**
 
@@ -38744,13 +38749,9 @@ _Codifié par_:
 
   - Ordonnance n°96-267 du 28 mars 1996
 
-_Cite_:
-
-  - Loi n°2018-778 du 10 septembre 2018
-
 _Modifié par_:
 
-  - Loi n°2018-778 du 10 septembre 2018 - art. 68
+  - Loi n°2018-957 du 7 novembre 2018 - art. 5
 
 _Cité par_:
 
