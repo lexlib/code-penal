@@ -1,5 +1,5 @@
 # Code pénal  
-Version Consolidée au 2018-11-09
+Version Consolidée au 2018-11-25
 ## Contenu: 
   - [Partie législative (art. 111-1 à 727-3)](#1)
     - [Livre Ier : Dispositions générales (art. 111-1 à 133-17)](#2)
@@ -111,7 +111,7 @@ Version Consolidée au 2018-11-09
           - [Section 1 bis : De l'enlèvement et de la séquestration (art. 224-1 à 224-5-2)](#108)
           - [Section 2 : Du détournement d'aéronef, de navire ou de tout autre moyen de transport (art. 224-6 à 224-8-1)](#109)
           - [Section 3 : Peines complémentaires applicables aux personnes physiques (art. 224-9 à 224-11)](#110)
-        - [Chapitre V : Des atteintes à la dignité de la personne (art. 225-1 à 225-25)](#111)
+        - [Chapitre V : Des atteintes à la dignité de la personne (art. 225-1 à 225-26)](#111)
           - [Section 1 : Des discriminations (art. 225-1 à 225-4)](#112)
           - [Section 1 bis : De la traite des êtres humains (art. 225-4-1 à 225-4-9)](#113)
           - [Section 1 ter :  De la dissimulation forcée du visage (art. 225-4-10)](#114)
@@ -123,7 +123,7 @@ Version Consolidée au 2018-11-09
           - [Section 3 bis : Du bizutage (art. 225-16-1 à 225-16-3)](#120)
           - [Section 4 : Des atteintes au respect dû aux morts (art. 225-17 à 225-18-1)](#121)
           - [Section 5 : Peines complémentaires applicables aux personnes physiques (art. 225-19 à 225-21)](#122)
-          - [Section 6 : Dispositions communes aux personnes physiques et aux personnes morales (art. 225-22 à 225-25)](#123)
+          - [Section 6 : Dispositions communes aux personnes physiques et aux personnes morales (art. 225-22 à 225-26)](#123)
         - [Chapitre VI : Des atteintes à la personnalité (art. 226-1 à 226-32)](#124)
           - [Section 1 : De l'atteinte à la vie privée (art. 226-1 à 226-7)](#125)
           - [Section 2 : De l'atteinte à la représentation de la personne (art. 226-8 à 226-9)](#126)
@@ -19213,30 +19213,25 @@ _Cite_:
 ###### Article 225-19
 
 Les personnes physiques coupables des infractions prévues par les sections 1 et 3 du présent chapitre encourent également les
-peines complémentaires suivantes : 
+peines complémentaires suivantes :
 
-1° L'interdiction des droits prévus aux 2° et 3° de l'article 131-26 pour une durée de cinq ans au plus ; 
+1° L'interdiction des droits prévus aux 2° et 3° de l'article 131-26 pour une durée de cinq ans au plus ;
 
-2° L'affichage ou la diffusion de la décision prononcée, dans les conditions prévues par l'article 131-35 ; 
+2° L'affichage ou la diffusion de la décision prononcée, dans les conditions prévues par l'article 131-35 ;
 
 3° La fermeture, pour une durée de cinq ans au plus ou à titre définitif, de l'un, de plusieurs ou de l'ensemble des
-établissements de l'entreprise appartenant à la personne condamnée ; 
+établissements de l'entreprise appartenant à la personne condamnée ;
 
-4° L'exclusion des marchés publics à titre définitif ou pour une durée de cinq ans au plus ; 
+4° L'exclusion des marchés publics à titre définitif ou pour une durée de cinq ans au plus ;
 
-4° bis La confiscation au profit de l'Etat de l'usufruit de tout ou partie de leurs biens, quelle qu'en soit la nature,
-meubles ou immeubles, divis ou indivis, ayant servi à commettre l'infraction prévue à l'article 225-14, les personnes
-physiques coupables gardant la nue-propriété de leurs biens ; 
+4° bis (Abrogé)
 
 5° La confiscation de tout ou partie de leurs biens, quelle qu'en soit la nature, meubles ou immeubles, divis ou indivis,
-ayant servi à commettre les infractions prévues aux articles 225-13 à 225-14-2 ; 
+ayant servi à commettre les infractions prévues aux articles 225-13 à 225-14-2 ;
 
-5° bis Pour l'infraction prévue à l'article 225-14, l'interdiction d'acheter pour une durée de cinq ans au plus soit à titre
-personnel, soit en tant qu'associé ou mandataire social de la société civile immobilière ou en nom collectif se portant
-acquéreur, soit sous forme de parts immobilières un bien immobilier à usage d'habitation, à d'autres fins que son occupation
-à titre personnel, ou un fonds de commerce d'un établissement recevant du public à usage total ou partiel d'hébergement ; 
+5° bis (Abrogé)
 
-6° L'obligation d'accomplir un stage de citoyenneté, selon les modalités prévues par l'article 131-5-1 ; 
+6° L'obligation d'accomplir un stage de citoyenneté, selon les modalités prévues par l'article 131-5-1 ;
 
 7° Pour les infractions prévues aux articles 225-13 à 225-15, l'interdiction, suivant les modalités prévues par l'article
 131-27, soit d'exercer une fonction publique ou d'exercer l'activité professionnelle ou sociale dans l'exercice ou à
@@ -19247,11 +19242,6 @@ d'exercice peuvent être prononcées cumulativement.
 
 **Liens relatifs à cet article**
 
-_Modifié par_:
-
-  - Loi n°2014-366 du 24 mars 2014 - art. 77
-  - Loi n°2014-366 du 24 mars 2014 - art. 81
-
 _Cité par_:
 
   - Décret n°2016-230 du 26 février 2016 - art.
@@ -19261,6 +19251,10 @@ _Cité par_:
   - Code de la construction et de l'habitation. - art. L651-10 (V)
   - Code pénal - art. 434-41 (V)
 
+_Modifié par_:
+
+  - Loi n°2018-1021 du 23 novembre 2018 - art. 190
+
 _Cite_:
 
   - Code pénal - art. 131-26
@@ -19268,7 +19262,7 @@ _Cite_:
   - Code pénal - art. 131-35
   - Code pénal - art. 131-5-1
   - Code pénal - art. 225-13
-  - Code pénal - art. 225-14 (V)
+  - Code pénal - art. 225-14
 
 
 ###### Article 225-20
@@ -19472,6 +19466,37 @@ _Cité par_:
 _Cite_:
 
   - Code pénal - art. 225-10-1
+
+
+###### Article 225-26
+
+I.-Les personnes physiques et morales coupables de l'infraction de soumission à des conditions d'hébergement incompatibles
+avec la dignité humaine prévue à l'article 225-14 encourent également les peines complémentaires suivantes :
+
+1° La confiscation de tout ou partie de leurs biens, quelle qu'en soit la nature, meubles ou immeubles, divis ou indivis,
+ayant servi à commettre l'infraction. Lorsque les biens immeubles qui appartenaient à la personne condamnée au moment de la
+commission de l'infraction ont fait l'objet d'une expropriation pour cause d'utilité publique, le montant de la confiscation
+en valeur prévue au neuvième alinéa de l'article 131-21 est égal à celui de l'indemnité d'expropriation ;
+
+2° L'interdiction pour une durée de dix ans au plus d'acheter un bien immobilier à usage d'habitation ou un fonds de commerce
+d'un établissement recevant du public à usage total ou partiel d'hébergement ou d'être usufruitier d'un tel bien ou fonds de
+commerce. Cette interdiction porte sur l'acquisition ou l'usufruit d'un bien ou d'un fonds de commerce soit à titre
+personnel, soit en tant qu'associé ou mandataire social de la société civile immobilière ou en nom collectif se portant
+acquéreur ou usufruitier, soit sous forme de parts immobilières ; cette interdiction ne porte toutefois pas sur l'acquisition
+ou l'usufruit d'un bien immobilier à usage d'habitation à des fins d'occupation à titre personnel ;
+
+3° La confiscation de tout ou partie des biens leur appartenant ou, sous réserve des droits du propriétaire de bonne foi,
+dont elles ont la libre disposition, quelle qu'en soit la nature, meubles ou immeubles, divis ou indivis.
+
+II.-Le prononcé des peines complémentaires mentionnées aux 1° et 2° du I du présent article est obligatoire. Toutefois, la
+juridiction peut, par une décision spécialement motivée, décider de ne pas prononcer ces peines, en considération des
+circonstances de l'infraction et de la personnalité de son auteur.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2018-1021 du 23 novembre 2018 - art. 190
 
 
 #### Chapitre VI : Des atteintes à la personnalité<a id=124></a>
@@ -33380,13 +33405,13 @@ d'établissement ou d'exclusion des marchés publics prononcées en application 
 131-14, 131-16 ou 131-17, d'interdiction de souscrire un nouveau contrat d'abonnement à un service de communication au public
 en ligne résultant de la peine complémentaire prévue en matière délictuelle par l'article L. 335-7 du code de la propriété
 intellectuelle, d'interdiction d'acheter un bien immobilier ou un fonds de commerce d'un établissement recevant du public à
-usage total ou partiel d'hébergement résultant de la peine complémentaire prévue au 5° bis de l'article 225-19 du présent
+usage total ou partiel d'hébergement résultant de la peine complémentaire prévue au 2° du I de l'article 225-26 du présent
 code, au 3° du III de l'article L. 511-6 du code de la construction et de l'habitation et au 3° du IV de l'article L. 1337-4
-du code de la santé publique. 
+du code de la santé publique.
 
 Est puni des mêmes peines le fait de détruire, détourner ou tenter de détruire ou de détourner un véhicule immobilisé ou un
 véhicule, une arme, tout autre bien, corporel ou incorporel, ou un animal confisqués en application des articles 131-6,
-131-10, 131-14, 131-16, 131-21 ou 131-39. 
+131-10, 131-14, 131-16, 131-21 ou 131-39.
 
 Est également puni des mêmes peines le fait, par une personne recevant la notification d'une décision prononçant à son égard,
 en application des articles précités, la suspension ou l'annulation du permis de conduire, le retrait du permis de chasser ou
@@ -33398,7 +33423,7 @@ décision.
 
 _Modifié par_:
 
-  - Loi n°2014-366 du 24 mars 2014 - art. 77
+  - Loi n°2018-1021 du 23 novembre 2018 - art. 190
 
 _Cite_:
 
@@ -33406,10 +33431,10 @@ _Cite_:
   - Code pénal - art. 131-10
   - Code pénal - art. 131-14
   - Code pénal - art. 131-16
-  - Code pénal - art. 131-21 (V)
-  - Code pénal - art. 131-39 (V)
+  - Code pénal - art. 131-21
+  - Code pénal - art. 131-39
   - Code pénal - art. 131-5-1
-  - Code pénal - art. 131-6 (VT)
+  - Code pénal - art. 131-6
   - Code pénal - art. 225-19
   - Code de la santé publique - art. L1337-4
   - Code de la construction et de l'habitation. - art. L511-6
