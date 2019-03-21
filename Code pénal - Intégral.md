@@ -1,5 +1,5 @@
 # Code pénal  
-Version Consolidée au 2018-11-25
+Version Consolidée au 2019-03-22
 ## Contenu: 
   - [Partie législative (art. 111-1 à 727-3)](#1)
     - [Livre Ier : Dispositions générales (art. 111-1 à 133-17)](#2)
@@ -410,38 +410,39 @@ dans les conflits armés (art. 461-7)](#270)
         - [Chapitre III : Des contraventions de la 3e classe contre la nation, l'Etat ou la paix publique (art. R643-1 à R643-2)](#406)
           - [Section 1 : De l'usurpation de signes réservés à l'autorité publique (art. R643-1)](#407)
           - [Section 2 : De l'utilisation de poids ou mesures différents de ceux établis par les lois et règlements en vigueur (art. R643-2)](#408)
-        - [Chapitre IV : Des contraventions de la 4e classe contre la nation, l'Etat ou la paix publique (art. R644-1 à R644-3)](#409)
+        - [Chapitre IV : Des contraventions de la 4e classe contre la nation, l'Etat ou la paix publique (art. R644-1 à R644-4)](#409)
           - [Section 1 : De l'accès sans autorisation à un terrain, une construction, un engin ou un appareil militaires (art. R644-1)](#410)
           - [Section 2 : Des entraves à la libre circulation sur la voie publique (art. R644-2)](#411)
           - [Section 3 : De la violation des dispositions réglementant les professions exercées dans les lieux publics (art. R644-3)](#412)
-        - [Chapitre V : Des contraventions de la 5e classe contre la nation, l'Etat ou la paix publique (art. R645-1 à R645-15)](#413)
-          - [Section 1 : Du port ou de l'exhibition d'uniformes, insignes ou emblèmes rappelant ceux d'organisations ou de personnes responsables de crimes contre l'humanité (art. R645-1)](#414)
-          - [Section 2 : Des dessins, levés ou enregistrements effectués sans autorisation dans une zone d'interdiction fixée par l'autorité militaire (art. R645-2)](#415)
-          - [Section 3 : Des atteintes à l'état civil des personnes (art. R645-3 à R645-6)](#416)
-          - [Section 4 : De la soustraction d'une pièce produite en justice (art. R645-7)](#417)
-          - [Section 5 : De l'utilisation d'un document délivré par une administration publique comportant des mentions devenues incomplètes ou inexactes (art. R645-8)](#418)
-          - [Section 5 bis : De l'usurpation de fonction ou de titre de délégué ou de médiateur du procureur de la République (art. R645-8-1)](#419)
-          - [Section 6 : Du refus de restitution de signes monétaires contrefaits ou falsifiés (art. R645-9)](#420)
-          - [Section 7 : De l'altération ou de la contrefaçon des timbres-poste ou des timbres émis par l'administration des finances (art. R645-10 à R645-11)](#421)
-          - [Section 8 : De l'intrusion dans les établissements scolaires (art. R645-12)](#422)
-          - [Section 9 : De l'intrusion dans les lieux historiques ou culturels (art. R645-13)](#423)
-          - [Section 10 : De la dissimulation illicite du visage à l'occasion de manifestations sur la voie publique (art. R645-14)](#424)
-          - [Section 11 : De l'outrage au drapeau tricolore (art. R645-15)](#425)
-      - [Titre V : Des autres contraventions (art. R653-1 à R655-1)](#426)
-        - [Chapitre III : Des contraventions de la 3e classe (art. R653-1)](#427)
-          - [Section unique : Des atteintes involontaires à la vie ou à l'intégrité d'un animal (art. R653-1)](#428)
-        - [Chapitre IV : Des contraventions de la 4e classe (art. R654-1)](#429)
-          - [Section unique : Des mauvais traitements envers un animal (art. R654-1)](#430)
-        - [Chapitre V : Des contraventions de la 5e classe (art. R655-1)](#431)
-          - [Section unique : Des atteintes volontaires à la vie d'un animal (art. R655-1)](#432)
-    - [Livre VII : Dispositions relatives à l'outre-mer (art. R711-1 à R722-7)](#433)
-      - [Titre Ier : Dispositions applicables dans les territoires d'outre-mer et en Nouvelle-Calédonie (art. R711-1 à R716-1)](#434)
-        - [Chapitre Ier : Dispositions générales (art. R711-1 à R711-3)](#435)
-        - [Chapitre II : Adaptation du livre Ier (art. R712-1 à R712-8)](#436)
-        - [Chapitre VI : Adaptation du livre V (art. R716-1)](#437)
-      - [Titre II : Dispositions particulières au Département de Mayotte (art. R721-1 à R722-7)](#438)
-        - [Chapitre Ier : Dispositions générales (art. R721-1)](#439)
-        - [Chapitre II : Adaptation du livre Ier (art. R722-3 à R722-7)](#440)
+          - [Section 4 : De la participation à une manifestation interdite sur la voie publique (art. R644-4)](#413)
+        - [Chapitre V : Des contraventions de la 5e classe contre la nation, l'Etat ou la paix publique (art. R645-1 à R645-15)](#414)
+          - [Section 1 : Du port ou de l'exhibition d'uniformes, insignes ou emblèmes rappelant ceux d'organisations ou de personnes responsables de crimes contre l'humanité (art. R645-1)](#415)
+          - [Section 2 : Des dessins, levés ou enregistrements effectués sans autorisation dans une zone d'interdiction fixée par l'autorité militaire (art. R645-2)](#416)
+          - [Section 3 : Des atteintes à l'état civil des personnes (art. R645-3 à R645-6)](#417)
+          - [Section 4 : De la soustraction d'une pièce produite en justice (art. R645-7)](#418)
+          - [Section 5 : De l'utilisation d'un document délivré par une administration publique comportant des mentions devenues incomplètes ou inexactes (art. R645-8)](#419)
+          - [Section 5 bis : De l'usurpation de fonction ou de titre de délégué ou de médiateur du procureur de la République (art. R645-8-1)](#420)
+          - [Section 6 : Du refus de restitution de signes monétaires contrefaits ou falsifiés (art. R645-9)](#421)
+          - [Section 7 : De l'altération ou de la contrefaçon des timbres-poste ou des timbres émis par l'administration des finances (art. R645-10 à R645-11)](#422)
+          - [Section 8 : De l'intrusion dans les établissements scolaires (art. R645-12)](#423)
+          - [Section 9 : De l'intrusion dans les lieux historiques ou culturels (art. R645-13)](#424)
+          - [Section 10 : De la dissimulation illicite du visage à l'occasion de manifestations sur la voie publique (art. R645-14)](#425)
+          - [Section 11 : De l'outrage au drapeau tricolore (art. R645-15)](#426)
+      - [Titre V : Des autres contraventions (art. R653-1 à R655-1)](#427)
+        - [Chapitre III : Des contraventions de la 3e classe (art. R653-1)](#428)
+          - [Section unique : Des atteintes involontaires à la vie ou à l'intégrité d'un animal (art. R653-1)](#429)
+        - [Chapitre IV : Des contraventions de la 4e classe (art. R654-1)](#430)
+          - [Section unique : Des mauvais traitements envers un animal (art. R654-1)](#431)
+        - [Chapitre V : Des contraventions de la 5e classe (art. R655-1)](#432)
+          - [Section unique : Des atteintes volontaires à la vie d'un animal (art. R655-1)](#433)
+    - [Livre VII : Dispositions relatives à l'outre-mer (art. R711-1 à R722-7)](#434)
+      - [Titre Ier : Dispositions applicables dans les territoires d'outre-mer et en Nouvelle-Calédonie (art. R711-1 à R716-1)](#435)
+        - [Chapitre Ier : Dispositions générales (art. R711-1 à R711-3)](#436)
+        - [Chapitre II : Adaptation du livre Ier (art. R712-1 à R712-8)](#437)
+        - [Chapitre VI : Adaptation du livre V (art. R716-1)](#438)
+      - [Titre II : Dispositions particulières au Département de Mayotte (art. R721-1 à R722-7)](#439)
+        - [Chapitre Ier : Dispositions générales (art. R721-1)](#440)
+        - [Chapitre II : Adaptation du livre Ier (art. R722-3 à R722-7)](#441)
 # Partie législative<a id=1></a>
 
 ## Livre Ier : Dispositions générales<a id=2></a>
@@ -44774,9 +44775,32 @@ _Cite_:
   - Code pénal - art. 131-41
 
 
-#### Chapitre V : Des contraventions de la 5e classe contre la nation, l'Etat ou la paix publique<a id=413></a>
+##### Section 4 : De la participation à une manifestation interdite sur la voie publique<a id=413></a>
 
-##### Section 1 : Du port ou de l'exhibition d'uniformes, insignes ou emblèmes rappelant ceux d'organisations ou de personnes responsables de crimes contre l'humanité<a id=414></a>
+###### Article R644-4
+
+Le fait de participer à une manifestation sur la voie publique interdite sur le fondement des  dispositions de l'article L.
+211-4 du code de la sécurité intérieure est puni de l'amende prévue pour les contraventions de la quatrième classe.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2019-208 du 20 mars 2019 - art. 1
+
+_Cité par_:
+
+  - Code de la sécurité intérieure - art. R211-26-1 (V)
+  - Code de procédure pénale - art. R48-1 (V)
+
+_Cite_:
+
+  - Code de la sécurité intérieure - art. L211-4
+
+
+#### Chapitre V : Des contraventions de la 5e classe contre la nation, l'Etat ou la paix publique<a id=414></a>
+
+##### Section 1 : Du port ou de l'exhibition d'uniformes, insignes ou emblèmes rappelant ceux d'organisations ou de personnes responsables de crimes contre l'humanité<a id=415></a>
 
 ###### Article R645-1
 
@@ -44827,7 +44851,7 @@ _Modifié par_:
   - Décret n°2010-671 du 18 juin 2010 - art. 4
 
 
-##### Section 2 : Des dessins, levés ou enregistrements effectués sans autorisation dans une zone d'interdiction fixée par l'autorité militaire<a id=415></a>
+##### Section 2 : Des dessins, levés ou enregistrements effectués sans autorisation dans une zone d'interdiction fixée par l'autorité militaire<a id=416></a>
 
 ###### Article R645-2
 
@@ -44863,7 +44887,7 @@ _Cite_:
   - Code pénal - art. 132-11 (V)
 
 
-##### Section 3 : Des atteintes à l'état civil des personnes<a id=416></a>
+##### Section 3 : Des atteintes à l'état civil des personnes<a id=417></a>
 
 ###### Article R645-3
 
@@ -44973,7 +44997,7 @@ _Cité par_:
   - Code pénal - art. R711-1 (V)
 
 
-##### Section 4 : De la soustraction d'une pièce produite en justice<a id=417></a>
+##### Section 4 : De la soustraction d'une pièce produite en justice<a id=418></a>
 
 ###### Article R645-7
 
@@ -44994,7 +45018,7 @@ _Cite_:
   - Code pénal - art. 132-15 (V)
 
 
-##### Section 5 : De l'utilisation d'un document délivré par une administration publique comportant des mentions devenues incomplètes ou inexactes<a id=418></a>
+##### Section 5 : De l'utilisation d'un document délivré par une administration publique comportant des mentions devenues incomplètes ou inexactes<a id=419></a>
 
 ###### Article R645-8
 
@@ -45032,7 +45056,7 @@ _Cite_:
   - Code pénal - art. 132-15
 
 
-##### Section 5 bis : De l'usurpation de fonction ou de titre de délégué ou de médiateur du procureur de la République<a id=419></a>
+##### Section 5 bis : De l'usurpation de fonction ou de titre de délégué ou de médiateur du procureur de la République<a id=420></a>
 
 ###### Article R645-8-1
 
@@ -45051,7 +45075,7 @@ _Cite_:
   - Code pénal - art. 121-2
 
 
-##### Section 6 : Du refus de restitution de signes monétaires contrefaits ou falsifiés<a id=420></a>
+##### Section 6 : Du refus de restitution de signes monétaires contrefaits ou falsifiés<a id=421></a>
 
 ###### Article R645-9
 
@@ -45093,7 +45117,7 @@ _Cite_:
   - Code pénal - art. 442-13
 
 
-##### Section 7 : De l'altération ou de la contrefaçon des timbres-poste ou des timbres émis par l'administration des finances<a id=421></a>
+##### Section 7 : De l'altération ou de la contrefaçon des timbres-poste ou des timbres émis par l'administration des finances<a id=422></a>
 
 ###### Article R645-10
 
@@ -45163,7 +45187,7 @@ _Cite_:
   - Code pénal - art. 132-15
 
 
-##### Section 8 : De l'intrusion dans les établissements scolaires<a id=422></a>
+##### Section 8 : De l'intrusion dans les établissements scolaires<a id=423></a>
 
 ###### Article R645-12
 
@@ -45196,7 +45220,7 @@ _Cite_:
   - Code pénal - art. 132-11
 
 
-##### Section 9 : De l'intrusion dans les lieux historiques ou culturels<a id=423></a>
+##### Section 9 : De l'intrusion dans les lieux historiques ou culturels<a id=424></a>
 
 ###### Article R645-13
 
@@ -45236,7 +45260,7 @@ _Cite_:
   - Code du patrimoine - art. L621-1
 
 
-##### Section 10 : De la dissimulation illicite du visage à l'occasion de manifestations sur la voie publique<a id=424></a>
+##### Section 10 : De la dissimulation illicite du visage à l'occasion de manifestations sur la voie publique<a id=425></a>
 
 ###### Article R645-14
 
@@ -45261,7 +45285,7 @@ _Cite_:
   - Code pénal - art. 132-15
 
 
-##### Section 11 : De l'outrage au drapeau tricolore<a id=425></a>
+##### Section 11 : De l'outrage au drapeau tricolore<a id=426></a>
 
 ###### Article R645-15
 
@@ -45288,11 +45312,11 @@ _Cite_:
   - Code pénal - art. 433-5-1
 
 
-### Titre V : Des autres contraventions<a id=426></a>
+### Titre V : Des autres contraventions<a id=427></a>
 
-#### Chapitre III : Des contraventions de la 3e classe<a id=427></a>
+#### Chapitre III : Des contraventions de la 3e classe<a id=428></a>
 
-##### Section unique : Des atteintes involontaires à la vie ou à l'intégrité d'un animal<a id=428></a>
+##### Section unique : Des atteintes involontaires à la vie ou à l'intégrité d'un animal<a id=429></a>
 
 ###### Article R653-1
 
@@ -45323,9 +45347,9 @@ _Cité par_:
   - Code de procédure pénale - art. R15-33-29-3 (V)
 
 
-#### Chapitre IV : Des contraventions de la 4e classe<a id=429></a>
+#### Chapitre IV : Des contraventions de la 4e classe<a id=430></a>
 
-##### Section unique : Des mauvais traitements envers un animal<a id=430></a>
+##### Section unique : Des mauvais traitements envers un animal<a id=431></a>
 
 ###### Article R654-1
 
@@ -45363,9 +45387,9 @@ _Cite_:
   - Code pénal - art. 521-1 (V)
 
 
-#### Chapitre V : Des contraventions de la 5e classe<a id=431></a>
+#### Chapitre V : Des contraventions de la 5e classe<a id=432></a>
 
-##### Section unique : Des atteintes volontaires à la vie d'un animal<a id=432></a>
+##### Section unique : Des atteintes volontaires à la vie d'un animal<a id=433></a>
 
 ###### Article R655-1
 
@@ -45399,18 +45423,18 @@ _Cite_:
   - Code pénal - art. 132-11 (V)
 
 
-## Livre VII : Dispositions relatives à l'outre-mer<a id=433></a>
+## Livre VII : Dispositions relatives à l'outre-mer<a id=434></a>
 
-### Titre Ier : Dispositions applicables dans les territoires d'outre-mer et en Nouvelle-Calédonie<a id=434></a>
+### Titre Ier : Dispositions applicables dans les territoires d'outre-mer et en Nouvelle-Calédonie<a id=435></a>
 
-#### Chapitre Ier : Dispositions générales<a id=435></a>
+#### Chapitre Ier : Dispositions générales<a id=436></a>
 
 ###### Article R711-1
 
 Sous réserve des adaptations prévues au présent titre, les livres Ier à VI de la deuxième partie du présent code (Décrets en
 Conseil d'Etat), à l'exception des articles R. 321-1 à R. 321-12, R. 633-1 à R. 633-5, 
 R. 635-3 à R. 635-7 et R. 645-6, sont applicables en Nouvelle-Calédonie et dans les territoires de la Polynésie française et
-des îles Wallis et Futuna dans leur rédaction résultant du décret n° 2017-1230 du 3 août 2017.
+des îles Wallis et Futuna dans leur rédaction résultant du décret n° 2019-208 du 20 mars 2019.
 
 **Liens relatifs à cet article**
 
@@ -45429,7 +45453,7 @@ _Cite_:
 
 _Modifié par_:
 
-  - Décret n°2017-1230 du 3 août 2017 - art. 1
+  - Décret n°2019-208 du 20 mars 2019 - art. 4
 
 _Cité par_:
 
@@ -45483,7 +45507,7 @@ _Cite_:
   - Code pénal - art. R711-1 (V)
 
 
-#### Chapitre II : Adaptation du livre Ier<a id=436></a>
+#### Chapitre II : Adaptation du livre Ier<a id=437></a>
 
 ###### Article R712-1
 
@@ -45663,7 +45687,7 @@ _Cite_:
   - Code pénal - art. R131-36 (V)
 
 
-#### Chapitre VI : Adaptation du livre V<a id=437></a>
+#### Chapitre VI : Adaptation du livre V<a id=438></a>
 
 ###### Article R716-1
 
@@ -45687,9 +45711,9 @@ _Cite_:
   - Code pénal - art. R511-1 (V)
 
 
-### Titre II : Dispositions particulières au Département de Mayotte<a id=438></a>
+### Titre II : Dispositions particulières au Département de Mayotte<a id=439></a>
 
-#### Chapitre Ier : Dispositions générales<a id=439></a>
+#### Chapitre Ier : Dispositions générales<a id=440></a>
 
 ###### Article R721-1
 
@@ -45708,7 +45732,7 @@ _Modifié par_:
   - Décret n°2011-338 du 29 mars 2011 - art. 3
 
 
-#### Chapitre II : Adaptation du livre Ier<a id=440></a>
+#### Chapitre II : Adaptation du livre Ier<a id=441></a>
 
 ###### Article R722-3
 
