@@ -1,5 +1,5 @@
 # Code pénal  
-Version Consolidée au 2019-03-22
+Version Consolidée au 2019-03-25
 ## Contenu: 
   - [Partie législative (art. 111-1 à 727-3)](#1)
     - [Livre Ier : Dispositions générales (art. 111-1 à 133-17)](#2)
@@ -2623,16 +2623,27 @@ _Cité par_:
 ###### Article 131-8
 
 Lorsqu'un délit est puni d'une peine d'emprisonnement, la juridiction peut prescrire, à la place de l'emprisonnement, que le
-condamné accomplira, pour une durée de vingt à deux cent quatre-vingts heures, un travail d'intérêt général non rémunéré au
-profit soit d'une personne morale de droit public, soit d'une personne morale de droit privé chargée d'une mission de service
-public ou d'une association habilitées à mettre en oeuvre des travaux d'intérêt général.
+condamné accomplira, pour une durée de vingt à quatre cents heures, un travail d'intérêt général non rémunéré au profit soit
+d'une personne morale de droit public, soit d'une personne morale de droit privé chargée d'une mission de service public ou
+d'une association habilitées à mettre en oeuvre des travaux d'intérêt général.
 
-La peine de travail d'intérêt général ne peut être prononcée contre le prévenu qui la refuse ou qui n'est pas présent à
-l'audience. Le président du tribunal, avant le prononcé du jugement, informe le prévenu de son droit de refuser
-l'accomplissement d'un travail d'intérêt général et reçoit sa réponse.
+Lorsque le prévenu est présent à l'audience, la peine de travail d'intérêt général ne peut être prononcée si celui-ci la
+refuse. Le président du tribunal, avant le prononcé du jugement, informe le prévenu de son droit de refuser l'accomplissement
+d'un travail d'intérêt général et reçoit sa réponse.
 
-La peine de travail d'intérêt général peut être prononcée lorsque le prévenu, absent à l'audience, a fait connaître par écrit
-son accord et qu'il est représenté par son avocat.
+Lorsque le prévenu n'est pas présent à l'audience mais y est représenté par son avocat, cette peine peut être prononcée s'il
+a fait connaître par écrit son accord.
+
+Lorsque le prévenu n'est pas présent à l'audience et n'a pas fait connaître son accord, cette peine ne peut être prononcée
+que si le tribunal fait application des dispositions du deuxième alinéa de l'article 131-9. Dans ce cas, avant la mise à
+exécution de la peine de travail d'intérêt général, le juge de l'application des peines informe le condamné de son droit de
+refuser l'accomplissement d'un travail et reçoit sa réponse. En cas de refus, tout ou partie de l'emprisonnement ou de
+l'amende fixée par la juridiction peut être mis à exécution, dans les conditions prévues à l'article 712-6 du code de
+procédure pénale, sous réserve, s'il y a lieu, des possibilités d'aménagement ou de conversion.
+
+**Nota:**
+
+Se reporter au XIX de l’article 109 de la loi n° 2019-222 du 23 mars 2019.
 
 **Liens relatifs à cet article**
 
@@ -2685,7 +2696,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2016-731 du 3 juin 2016 - art. 107
+  - Loi n°2019-222 du 23 mars 2019 - art. 71 (V)
 
 
 ###### Article 131-8-1
@@ -3800,9 +3811,9 @@ _Cité par_:
 ###### Article 131-25
 
 En cas de condamnation à une peine de jours-amende, le montant global est exigible à l'expiration du délai correspondant au
-nombre de jours-amende prononcés. 
+nombre de jours-amende prononcés.
 
-Sous réserve du second alinéa de l'article 747-1-2 du code de procédure pénale, le défaut total ou partiel du paiement de ce
+Sous réserve des dispositions de l'article 747-1-1 du code de procédure pénale, le défaut total ou partiel du paiement de ce
 montant entraîne l'incarcération du condamné pour une durée correspondant au nombre de jours-amende impayés. Il est procédé
 comme en matière de contrainte judiciaire. La détention ainsi subie est soumise au régime des peines d'emprisonnement.
 
@@ -3834,7 +3845,7 @@ _Cité par_:
   - Code de la route. - art. L245-1 (VD)
   - Code de la route. - art. L324-2 (V)
   - Code de la route. - art. L325-3-1 (VD)
-  - Code de la santé publique - art. L3421-7 (V)
+  - Code de la santé publique - art. L3421-7 (VD)
   - Code de procédure pénale - art. 747-1-1 (VD)
   - Code de procédure pénale - art. 747-1-2 (VT)
   - Code de procédure pénale - art. R55 (VD)
@@ -3850,7 +3861,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2014-896 du 15 août 2014 - art. 29
+  - Loi n°2019-222 du 23 mars 2019 - art. 85
 
 
 ###### Article 131-26
@@ -5321,38 +5332,30 @@ _Abrogé par_:
 
 ###### Article 131-36
 
-Un décret en Conseil d'Etat détermine les modalités d'application des dispositions de la présente sous-section. 
+Un décret en Conseil d'Etat détermine les modalités d'application des dispositions de la présente sous-section.
 
 Ce décret détermine également les conditions dans lesquelles s'exécutera l'activité des condamnés à la peine de travail
-d'intérêt général ainsi que la nature des travaux proposés. 
+d'intérêt général ainsi que la nature des travaux proposés.
 
-Il détermine en outre les conditions dans lesquelles : 
+Il détermine en outre les conditions dans lesquelles :
 
 1° Le juge de l'application des peines établit, après avis du ministère public et consultation de tout organisme public
 compétent en matière de prévention de la délinquance, la liste des travaux d'intérêt général susceptibles d'être accomplis
-dans son ressort ; 
+dans son ressort ;
 
-2° Le travail d'intérêt général peut, pour les condamnés salariés, se cumuler avec la durée légale du travail ; 
+2° Le travail d'intérêt général peut, pour les condamnés salariés, se cumuler avec la durée légale du travail ;
 
-3° Sont habilitées les associations mentionnées au premier alinéa de l'article 131-8 ; 
+3° Sont habilitées les personnes morales de droit privé chargées d'une mission de service public et les associations
+mentionnées au premier alinéa de l'article 131-8 ;
 
 4° Sont désignées les personnes physiques ou morales chargées de participer à la mise en oeuvre des stages mentionnés à
-l'article 131-35-1.
+l'article 131-5-1.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Loi n°92-683 1992-07-22
-
-**Liens**:
-
-  - SPEC_APPLI: Loi n°92-683 1992-07-22 art. 1
-  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
-
-_Modifié par_:
-
-  - Loi n°2007-297 2007-03-05 art. 53 1° JORF 7 mars 2007
+  - Loi n°92-683 du 22 juillet 1992
 
 _Cité par_:
 
@@ -5363,10 +5366,14 @@ _Cité par_:
   - Code pénal - art. R131-47 (VT)
   - Code pénal - art. R131-49 (VT)
 
+_Modifié par_:
+
+  - Loi n°2019-222 du 23 mars 2019 - art. 71 (V)
+
 _Cite_:
 
-  - Code pénal - art. 131-35-1 (V)
-  - Code pénal - art. 131-8 (V)
+  - Code pénal - art. 131-35-1
+  - Code pénal - art. 131-8
 
 
 ##### Sous-section 6 : Du suivi socio-judiciaire<a id=20></a>
@@ -5644,6 +5651,26 @@ _Cité par_:
   - Code pénal - art. 131-36-12-1 (V)
 
 
+###### Article 131-36-11
+
+La juridiction ne peut ordonner le placement sous surveillance électronique mobile qu'après avoir fait vérifier la
+faisabilité technique de la mesure et la disponibilité du dispositif technique devant être utilisé.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°92-683 du 22 juillet 1992 (V)
+
+_Modifié par_:
+
+  - Loi n°2019-222 du 23 mars 2019 - art. 75
+
+_Cite_:
+
+  - Code de procédure pénale - art. 362
+
+
 ###### Article 131-36-12
 
 Le placement sous surveillance électronique mobile emporte pour le condamné l'obligation de porter pour une durée de deux
@@ -5679,7 +5706,8 @@ _Cite_:
 
 Par dérogation aux dispositions de l'article 131-36-10, le placement sous surveillance électronique mobile peut être ordonné
 à l'encontre d'une personne majeure, dont une expertise médicale a constaté la dangerosité, condamnée à une peine privative
-de liberté d'une durée égale ou supérieure à cinq ans pour des violences ou des menaces commises :
+de liberté d'une durée égale ou supérieure à deux ans pour des violences ou des menaces punies d'au moins cinq ans
+d'emprisonnement et commises :
 
 1° Soit contre son conjoint, son concubin ou son partenaire lié par un pacte civil de solidarité ;
 
@@ -5691,9 +5719,9 @@ la victime.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°2010-769 du 9 juillet 2010 - art. 6 (V)
+  - Loi n°2019-222 du 23 mars 2019 - art. 75
 
 _Cité par_:
 
@@ -9322,6 +9350,9 @@ détermine, le sursis antérieurement accordé qui accompagne une peine quelconq
 lorsqu'elle prononce une nouvelle condamnation d'une personne physique ou morale à une peine autre que la réclusion ou
 l'emprisonnement sans sursis.
 
+Lorsque la juridiction ordonne la révocation du sursis en totalité ou en partie, elle peut, par décision spéciale et motivée,
+exécutoire par provision, faire incarcérer le condamné.
+
 **Liens relatifs à cet article**
 
 _Codifié par_:
@@ -9330,13 +9361,13 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2014-896 du 15 août 2014 - art. 8
+  - Loi n°2019-222 du 23 mars 2019 - art. 72
 
 _Cité par_:
 
   - Code de procédure pénale - art. 735 (VD)
   - Code pénal - art. 132-35 (VD)
-  - Code pénal - art. 132-37 (VD)
+  - Code pénal - art. 132-37 (V)
   - Code pénal - art. 132-39 (VD)
 
 
@@ -22108,11 +22139,16 @@ Le fait, pour une personne faisant l'objet d'une ou plusieurs obligations ou int
 protection rendue en application des articles 515-9 ou 515-13 du code civil, de ne pas se conformer à cette ou ces
 obligations ou interdictions est puni de deux ans d'emprisonnement et de 15 000 € d'amende.
 
+Les mêmes peines sont applicables à la violation d'une mesure de protection en matière civile ordonnée dans un autre Etat
+membre de l'Union européenne reconnue et ayant force exécutoire en France en application du règlement (UE) n° 606/2013 du
+Parlement européen et du Conseil du 12 juin 2013 relatif à la reconnaissance mutuelle des mesures de protection en matière
+civile.
+
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°2010-769 du 9 juillet 2010 - art. 5
+  - Loi n°2019-222 du 23 mars 2019 - art. 70
 
 _Cité par_:
 
@@ -29182,7 +29218,8 @@ I. – Constitue un acte de terrorisme le fait de préparer la commission d'une 
 la préparation de ladite infraction est intentionnellement en relation avec une entreprise individuelle ayant pour but de
 troubler gravement l'ordre public par l'intimidation ou la terreur et qu'elle est caractérisée par :
 
-1° Le fait de détenir, de se procurer ou de fabriquer des objets ou des substances de nature à créer un danger pour autrui ;
+1° Le fait de détenir, de se procurer, de tenter de se procurer ou de fabriquer des objets ou des substances de nature à
+créer un danger pour autrui ;
 
 2° Et l'un des autres faits matériels suivants :
 
@@ -29222,7 +29259,7 @@ de cette décision. Celle-ci intervient donc à compter de la date de publicatio
 
 _Modifié par_:
 
-  - Décision n°2017-625 QPC du 7 avril 2017 - art. 1, v. init.
+  - Loi n°2019-222 du 23 mars 2019 - art. 67
 
 _Cite_:
 
@@ -36397,11 +36434,14 @@ réglementaires sur la police de ces lieux.
 
 La vente à la sauvette est punie de six mois d'emprisonnement et de 3 750 € d'amende.
 
+Pour le délit prévu au premier alinéa du présent article, y compris en cas de récidive, l'action publique peut être éteinte,
+dans les conditions prévues aux articles 495-17 à 495-25 du code de procédure pénale, par le versement d'une amende
+forfaitaire d'un montant de 300 €. Le montant de l'amende forfaitaire minorée est de 250 € et le montant de l'amende
+forfaitaire majorée est de 600 €.
+
+L'auteur de cette infraction encourt également les peines complémentaires définies à l'article 446-3 du présent code.
+
 **Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Loi n°2011-267 du 14 mars 2011 - art. 51
 
 _Cité par_:
 
@@ -36411,6 +36451,10 @@ _Cité par_:
   - Code des transports - art. L2241-5 (V)
   - Code pénal - art. 225-12-8 (V)
   - Code pénal - art. 225-12-9 (V)
+
+_Modifié par_:
+
+  - Loi n°2019-222 du 23 mars 2019 - art. 58
 
 
 ###### Article 446-2
@@ -38960,9 +39004,9 @@ _Cité par_:
 
 ###### Article 711-1
 
-Sous réserve des adaptations prévues au présent titre, les livres Ier à V sont applicables, dans leur rédaction résultant de
-la loi n° 2018-957 du 7 novembre 2018 relative à l'accueil des gens du voyage et à la lutte contre les installations
-illicites, en Nouvelle-Calédonie, en Polynésie française et dans les îles Wallis et Futuna.
+Sous réserve des adaptations prévues au présent titre, les livres Ier à V du présent code sont applicables, dans leur
+rédaction résultant de la loi n° 2019-222 du 23 mars 2019 de programmation 2018-2022 et de réforme pour la justice, en
+Nouvelle-Calédonie, en Polynésie française et dans les îles Wallis et Futuna.
 
 **Liens relatifs à cet article**
 
@@ -38970,9 +39014,13 @@ _Codifié par_:
 
   - Ordonnance n°96-267 du 28 mars 1996
 
+_Cite_:
+
+  - Loi n°2019-222 du 23 mars 2019
+
 _Modifié par_:
 
-  - Loi n°2018-957 du 7 novembre 2018 - art. 5
+  - Loi n°2019-222 du 23 mars 2019 - art. 110 (V)
 
 _Cité par_:
 
@@ -39096,6 +39144,20 @@ _Modifié par_:
 _Cite_:
 
   - Code pénal - art. 131-35 (V)
+
+
+###### Article 712-1 A
+
+Pour son application en Nouvelle-Calédonie, l'article 131-8 est complété par un alinéa ainsi rédigé :
+
+“ Peuvent également être habilitées à mettre en œuvre des travaux d'intérêt général les institutions de droit coutumier dont
+la liste est fixée par voie réglementaire. ”
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2019-222 du 23 mars 2019 - art. 71 (V)
 
 
 ###### Article 712-2
