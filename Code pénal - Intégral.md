@@ -1,5 +1,5 @@
 # Code pénal  
-Version Consolidée au 2019-03-25
+Version Consolidée au 2019-04-12
 ## Contenu: 
   - [Partie législative (art. 111-1 à 727-3)](#1)
     - [Livre Ier : Dispositions générales (art. 111-1 à 133-17)](#2)
@@ -201,7 +201,7 @@ Version Consolidée au 2019-03-25
       - [Titre III : Des atteintes à l'autorité de l'Etat (art. 431-1 à 436-5)](#198)
         - [Chapitre Ier : Des atteintes à la paix publique (art. 431-1 à 431-30)](#199)
           - [Section 1 : Des entraves à l'exercice des libertés d'expression, du travail, d'association, de réunion ou de manifestation (art. 431-1 à 431-2)](#200)
-          - [Section 2 : De la participation délictueuse à un attroupement (art. 431-3 à 431-8)](#201)
+          - [Section 2 : De la participation délictueuse à un attroupement (art. 431-3 à 431-8-1)](#201)
           - [Section 3 : Des manifestations illicites et de la participation délictueuse à une manifestation ou à une réunion publique (art. 431-9 à 431-12)](#202)
           - [Section 4 : Des groupes de combat et des mouvements dissous (art. 431-13 à 431-21)](#203)
           - [Section 5 : De l'intrusion dans un établissement   d'enseignement scolaire (art. 431-22 à 431-27)](#204)
@@ -4883,6 +4883,25 @@ _Cité par_:
 _Cite_:
 
   - CODE DE PROCEDURE PENALE - art. 763 (V)
+
+
+###### Article 131-32-1
+
+La peine d'interdiction de participer à des manifestations sur la voie publique, qui ne peut excéder une durée de trois ans,
+emporte défense de manifester sur la voie publique dans certains lieux déterminés par la juridiction.
+
+Si la peine d'interdiction de participer à des manifestations sur la voie publique accompagne une peine privative de liberté
+sans sursis, elle s'applique à compter du jour où la privation de liberté a pris fin.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2019-290 du 10 avril 2019 - art. 7
+
+_Cité par_:
+
+  - Code de procédure pénale - art. 230-19 (VT)
 
 
 ###### Article 131-33
@@ -15853,7 +15872,11 @@ _Cite_:
 ###### Article 222-47
 
 Dans les cas prévus par les articles 222-1 à 222-15, 222-23 à 222-30 et 222-34 à 222-40, peut être prononcée à titre de peine
-complémentaire l'interdiction de séjour, suivant les modalités prévues par l'article 131-31. 
+complémentaire l'interdiction de séjour, suivant les modalités prévues par l'article 131-31.
+
+Dans les cas prévus aux articles 222-7 à 222-13 et 222-14-2, lorsque les faits sont commis lors du déroulement de
+manifestations sur la voie publique, peut être prononcée la peine complémentaire d'interdiction de participer à des
+manifestations sur la voie publique, dans les conditions prévues à l'article 131-32-1.
 
 Dans les cas prévus par les articles 222-23 à 222-30, lorsqu'ils sont commis sur des mineurs, par le 6° bis des articles
 222-3,
@@ -15863,13 +15886,9 @@ l'interdiction, pour une durée de cinq ans au plus, de quitter le territoire de
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
-
-  - Loi n°92-684 du 22 juillet 1992
-
 _Modifié par_:
 
-  - Loi n°2013-711 du 5 août 2013 - art. 19
+  - Loi n°2019-290 du 10 avril 2019 - art. 7
 
 _Cite_:
 
@@ -26699,9 +26718,9 @@ _Cité par_:
 ###### Article 322-15
 
 I. - Les personnes physiques coupables de l'une des infractions prévues au présent chapitre encourent également les peines
-complémentaires suivantes : 
+complémentaires suivantes :
 
-1° L'interdiction des droits civiques, civils et de famille, suivant les modalités prévues par l'article 131-26 ; 
+1° L'interdiction des droits civiques, civils et de famille, suivant les modalités prévues par l'article 131-26 ;
 
 2° L'interdiction, suivant les modalités prévues par l'article 131-27, soit d'exercer une fonction publique ou d'exercer
 l'activité professionnelle ou sociale dans l'exercice ou à l'occasion de l'exercice de laquelle l'infraction a été commise,
@@ -26711,20 +26730,24 @@ ans au plus dans les cas prévus aux articles 322-1,
 ainsi qu'aux articles 322-7, 322-8, 322-9 et 322-10, d'exercer une profession commerciale ou industrielle, de diriger,
 d'administrer, de gérer ou de contrôler à un titre quelconque, directement ou indirectement, pour son propre compte ou pour
 le compte d'autrui, une entreprise commerciale ou industrielle ou une société commerciale. Ces interdictions d'exercice
-peuvent être prononcées cumulativement ; 
+peuvent être prononcées cumulativement ;
 
-3° L'interdiction de détenir ou de porter, pour une durée de cinq ans au plus, une arme soumise à autorisation ; 
+3° L'interdiction de détenir ou de porter, pour une durée de cinq ans au plus, une arme soumise à autorisation ;
 
 4° L'interdiction de séjour, suivant les modalités prévues par l'article 131-31, dans les cas prévus par les articles 322-7 à
-322-10 ; 
+322-10 ;
 
 5° L'obligation d'accomplir un stage de citoyenneté, selon les modalités de l'article 131-5-1 ; 
 
 6° L'obligation d'accomplir un stage de sensibilisation aux dangers de l'usage de produits stupéfiants, selon les modalités
-fixées à l'article 131-35-1. 
+fixées à l'article 131-35-1 ;
+
+7° L'interdiction de participer à des manifestations sur la voie publique, dans les conditions prévues à l'article 131-32-1,
+lorsque les faits punis par le premier alinéa de l'article 322-1 et les articles 322-2,322-3 et 322-6 à 322-10 sont commis
+lors du déroulement de manifestations sur la voie publique.
 
 II. - En cas de condamnation pour les crimes ou délits prévus aux articles 322-6 à 322-11-1, le prononcé de la peine
-complémentaire prévue au 3° du I du présent article est obligatoire. 
+complémentaire prévue au 3° du I du présent article est obligatoire.
 
 Toutefois, la juridiction peut, par une décision spécialement motivée lorsque la condamnation est prononcée par une
 juridiction correctionnelle, décider de ne pas prononcer cette peine, en considération des circonstances de l'infraction et
@@ -26734,8 +26757,7 @@ de la personnalité de son auteur.
 
 _Modifié par_:
 
-  - Loi n°2012-304 du 6 mars 2012 - art. 14
-  - Loi n°2012-304 du 6 mars 2012 - art. 20
+  - Loi n°2019-290 du 10 avril 2019 - art. 7
 
 _Cité par_:
 
@@ -29894,6 +29916,18 @@ _Cite_:
   - Code pénal - art. 431-5 (V)
 
 
+###### Article 431-8-1
+
+Les articles 393 à 397-7 et 495-7 à 495-15-1 du code de procédure pénale sont applicables aux délits prévus à la présente
+section.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2019-290 du 10 avril 2019 - art. 7
+
+
 ##### Section 3 : Des manifestations illicites et de la participation délictueuse à une manifestation ou à une réunion publique<a id=202></a>
 
 ###### Article 431-9
@@ -29922,6 +29956,19 @@ _Codifié par_:
 _Modifié par_:
 
   - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+
+
+###### Article 431-9-1
+
+Est puni d'un an d'emprisonnement et de 15 000 € d'amende le fait pour une personne, au sein ou aux abords immédiats d'une
+manifestation sur la voie publique, au cours ou à l'issue de laquelle des troubles à l'ordre public sont commis ou risquent
+d'être commis, de dissimuler volontairement tout ou partie de son visage sans motif légitime.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2019-290 du 10 avril 2019 - art. 6
 
 
 ###### Article 431-10
@@ -29954,35 +30001,32 @@ _Cité par_:
 
 ###### Article 431-11
 
-I. - Les personnes physiques coupables de l'infraction prévue par l'article 431-10 encourent également les peines
-complémentaires suivantes : 
+I. - Les personnes physiques coupables des infractions prévues à la présente section encourent également les peines
+complémentaires suivantes :
 
-1° L'interdiction des droits civiques, civils et de famille, suivant les modalités prévues par l'article 131-26 ; 
+1° L'interdiction des droits civiques, civils et de famille, suivant les modalités prévues par l'article 131-26 ;
 
-2° et 3° (Abrogés) ;
+2° L'interdiction de participer à des manifestations sur la voie publique, dans les conditions prévues à l'article 131-32-1 ;
 
-4° L'interdiction de séjour, suivant les modalités prévues par l'article 131-31. 
+3° (Abrogé) ;
 
-II. - En cas de condamnation pour l'infraction prévue à l'article 431-10, le prononcé des peines complémentaires suivantes
-est obligatoire : 
+4° L'interdiction de séjour, suivant les modalités prévues par l'article 131-31.
 
-1° L'interdiction de détenir ou de porter, pour une durée de cinq ans au plus, une arme soumise à autorisation ; 
+II. - En cas de condamnation pour les infractions prévues à la présente section, le prononcé des peines complémentaires
+suivantes est obligatoire :
 
-2° La confiscation d'une ou de plusieurs armes dont le condamné est propriétaire ou dont il a la libre disposition. 
+1° L'interdiction de détenir ou de porter, pour une durée de cinq ans au plus, une arme soumise à autorisation ;
+
+2° La confiscation d'une ou de plusieurs armes dont le condamné est propriétaire ou dont il a la libre disposition.
 
 Toutefois, la juridiction peut, par une décision spécialement motivée, décider de ne pas prononcer ces peines, en
 considération des circonstances de l'infraction et de la personnalité de son auteur.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
-
-  - Loi n°92-686 du 22 juillet 1992
-
 _Modifié par_:
 
-  - Loi n°2012-304 du 6 mars 2012 - art. 16
-  - Loi n°2012-304 du 6 mars 2012 - art. 20
+  - Loi n°2019-290 du 10 avril 2019 - art. 7
 
 _Cite_:
 
@@ -33689,6 +33733,19 @@ _Cité par_:
 
   - Loi n°2015-993 du 17 août 2015 - art. 3
   - Code de procédure pénale - art. D571-2 (V)
+
+
+###### Article 434-38-1
+
+Le fait, pour une personne condamnée à une peine d'interdiction de participer à des manifestations sur la voie publique, de
+participer à une manifestation en méconnaissance de cette interdiction est puni d'un an d'emprisonnement et de 15 000 €
+d'amende.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2019-290 du 10 avril 2019 - art. 7
 
 
 ###### Article 434-39
@@ -39005,14 +39062,10 @@ _Cité par_:
 ###### Article 711-1
 
 Sous réserve des adaptations prévues au présent titre, les livres Ier à V du présent code sont applicables, dans leur
-rédaction résultant de la loi n° 2019-222 du 23 mars 2019 de programmation 2018-2022 et de réforme pour la justice, en
-Nouvelle-Calédonie, en Polynésie française et dans les îles Wallis et Futuna.
+rédaction résultant de la loi n° 2019-290 du 10 avril 2019 visant à renforcer et garantir le maintien de l'ordre public lors
+des manifestations, en Nouvelle-Calédonie, en Polynésie française et dans les îles Wallis et Futuna.
 
 **Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Ordonnance n°96-267 du 28 mars 1996
 
 _Cite_:
 
@@ -39020,7 +39073,7 @@ _Cite_:
 
 _Modifié par_:
 
-  - Loi n°2019-222 du 23 mars 2019 - art. 110 (V)
+  - Loi n°2019-290 du 10 avril 2019 - art. 10 (V)
 
 _Cité par_:
 
