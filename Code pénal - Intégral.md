@@ -1,5 +1,5 @@
 # Code pénal  
-Version Consolidée au 2019-04-12
+Version Consolidée au 2019-06-01
 ## Contenu: 
   - [Partie législative (art. 111-1 à 727-3)](#1)
     - [Livre Ier : Dispositions générales (art. 111-1 à 133-17)](#2)
@@ -19746,22 +19746,27 @@ _Cite_:
 
 ###### Article 226-3
 
-Est puni de cinq ans d'emprisonnement et de 300 000 € d'amende : 
+Est puni de cinq ans d'emprisonnement et de 300 000 € d'amende :
 
 1° La fabrication, l'importation, la détention, l'exposition, l'offre, la location ou la vente d'appareils ou de dispositifs
 techniques de nature à permettre la réalisation d'opérations pouvant constituer l'infraction prévue par le second alinéa de
 l'article 226-15 ou qui, conçus pour la détection à distance des conversations, permettent de réaliser l'infraction prévue
-par l'article 226-1 ou ayant pour objet la captation de données informatiques prévue aux articles    706-102-1 et 706-102-2
-du code de procédure pénale et L. 853-2 du code de la sécurité intérieure et figurant sur une liste dressée dans des
-conditions fixées par décret en Conseil d'Etat, lorsque ces faits sont commis, y compris par négligence, en l'absence
-d'autorisation ministérielle dont les conditions d'octroi sont fixées par ce même décret ou sans respecter les conditions
-fixées par cette autorisation ; 
+par l'article 226-1 ou ayant pour objet la captation de données informatiques prévue aux articles 706-102-1 du code de
+procédure pénale et L. 853-2 du code de la sécurité intérieure et figurant sur une liste dressée dans des conditions fixées
+par décret en Conseil d'Etat, lorsque ces faits sont commis, y compris par négligence, en l'absence d'autorisation
+ministérielle dont les conditions d'octroi sont fixées par ce même décret ou sans respecter les conditions fixées par cette
+autorisation ;
 
 2° Le fait de réaliser une publicité en faveur d'un appareil ou d'un dispositif technique susceptible de permettre la
 réalisation des infractions prévues par l'article 226-1 et le second alinéa de l'article 226-15 lorsque cette publicité
 constitue une incitation à commettre cette infraction ou ayant pour objet la captation de données informatiques prévue aux
-articles    706-102-1 et 706-102-2 du code de procédure pénale et L. 853-2 du code de la sécurité intérieure lorsque cette
-publicité constitue une incitation à en faire un usage frauduleux.
+articles 706-102-1 du code de procédure pénale et L. 853-2 du code de la sécurité intérieure lorsque cette publicité
+constitue une incitation à en faire un usage frauduleux.
+
+**Nota:**
+
+Conformément à l’article 109, XIII de la loi n° 2019-222 du 23 mars 2019, ces dispositions entrent en vigueur le premier jour
+du troisième mois suivant la publication de la présente loi.
 
 **Liens relatifs à cet article**
 
@@ -19793,6 +19798,7 @@ _Cité par_:
   - Code de la sécurité intérieure - art. L852-1 (V)
   - Code de la sécurité intérieure - art. R114-5 (V)
   - Code de procédure pénale - art. 706-95-4 (T)
+  - Code de procédure pénale - art. 706-95-5 (VT)
   - Code de procédure pénale - art. 706-99 (T)
   - Code de procédure pénale - art. 727-1 (M)
   - Code monétaire et financier - art. R153-2 (VD)
@@ -19814,13 +19820,13 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2016-731 du 3 juin 2016 - art. 5
+  - Loi n°2019-222 du 23 mars 2019 - art. 46
 
 _Cite_:
 
   - Code pénal - art. 226-1
   - Code pénal - art. 226-15
-  - Code de procédure pénale - art. 706-102-1
+  - Code de procédure pénale - art. 706-102-1 (VD)
   - Code de la sécurité intérieure - art. L853-2
 
 
@@ -21104,13 +21110,15 @@ qu'aient été respectées les formalités préalables à leur mise en oeuvre pr
 d'emprisonnement et de 300 000 euros d'amende.
 
 Est puni des mêmes peines le fait, y compris par négligence, de procéder ou de faire procéder à un traitement qui a fait
-l'objet de l'une des mesures prévues au 3° du III de l'article 45 de la loi n° 78-17 du 6 janvier 1978 relative à
+l'objet de l'une des mesures prévues au 3° du III de l'article 20 de la loi n° 78-17 du 6 janvier 1978 relative à
 l'informatique, aux fichiers et aux libertés.
 
 **Nota:**
 
-Conformément à l'article 7 II B de la loi n° 2018-493 du 20 juin 2018, le deuxième alinéa de l'article 226-16 du code pénal
-demeure applicable, dans sa rédaction antérieure à ladite loi, aux faits commis avant l'entrée en vigueur de celle-ci.
+Conformément à l'article 29 de l’ordonnance n° 2018-1125 du 12 décembre 2018, ces dispositions entrent en vigueur en même
+temps que le décret modifiant le décret n° 2005-1309 du 20 octobre 2005 pris pour l'application de la loi n° 78-17 du 6
+janvier 1978 relative à l'informatique, aux fichiers et aux libertés, dans sa rédaction résultant de ladite ordonnance, et au
+plus tard le 1er juin 2019.
 
 **Liens relatifs à cet article**
 
@@ -21120,7 +21128,7 @@ _Cite_:
 
 _Cité par_:
 
-  - Loi n°78-17 du 6 janvier 1978 - art. 50 (V)
+  - Loi n°78-17 du 6 janvier 1978 - art. 50 (VD)
   - Code de l'action sociale et des familles - art. L121-6-1 (V)
   - Code pénal - art. 226-22-2 (VD)
 
@@ -21130,9 +21138,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2016-731 du 3 juin 2016 - art. 117 (V)
-  - Loi n°2018-493 du 20 juin 2018 - art. 18
-  - Loi n°2018-493 du 20 juin 2018 - art. 7
+  - Ordonnance n°2018-1125 du 12 décembre 2018 - art. 13
 
 
 ###### Article 226-16-1
@@ -21160,14 +21166,22 @@ _Créé par_:
 ###### Article 226-17
 
 Le fait de procéder ou de faire procéder à un traitement de données à caractère personnel sans mettre en oeuvre les mesures
-prescrites à l'article 34 de la loi n° 78-17 du 6 janvier 1978 précitée est puni de cinq ans d'emprisonnement et de 300 000
-euros d'amende.
+prescrites aux articles 24, 25, 30 et 32 du règlement (UE) 2016/679 du 27 avril 2016 précité ou au 6° de l'article 4 et aux
+articles 99 à 101 de la loi n° 78-17 du 6 janvier 1978 précitée est puni de cinq ans d'emprisonnement et de 300 000 euros
+d'amende.
+
+**Nota:**
+
+Conformément à l'article 29 de l’ordonnance n° 2018-1125 du 12 décembre 2018, ces dispositions entrent en vigueur en même
+temps que le décret modifiant le décret n° 2005-1309 du 20 octobre 2005 pris pour l'application de la loi n° 78-17 du 6
+janvier 1978 relative à l'informatique, aux fichiers et aux libertés, dans sa rédaction résultant de ladite ordonnance, et au
+plus tard le 1er juin 2019.
 
 **Liens relatifs à cet article**
 
 _Cite_:
 
-  - Loi n°78-17 du 6 janvier 1978 - art. 34 (V)
+  - Loi n°78-17 du 6 janvier 1978 - art. 34
 
 _Cité par_:
 
@@ -21176,19 +21190,31 @@ _Cité par_:
 
 _Codifié par_:
 
-  - Loi n°92-684 1992-07-22
+  - Loi n°92-684 du 22 juillet 1992
 
 _Modifié par_:
 
-  - Loi n°2004-801 du 6 août 2004 - art. 14 () JORF 7 août 2004
+  - Ordonnance n°2018-1125 du 12 décembre 2018 - art. 13
 
 
 ###### Article 226-17-1
 
-Le fait pour un fournisseur de services de communications électroniques de ne pas procéder à la notification d'une violation
-de données à caractère personnel à la Commission nationale de l'informatique et des libertés ou à l'intéressé, en
-méconnaissance des dispositions du II de l'article 34 bis de la loi n° 78-17 du 6 janvier 1978, est puni de cinq ans
+Le fait pour un fournisseur de services de communications électroniques ou pour un responsable de traitement de ne pas
+procéder à la notification d'une violation de données à caractère personnel à la Commission nationale de l'informatique et
+des libertés ou à l'intéressé, en méconnaissance des articles 33 et 34 du règlement (UE) 2016/679 du 27 avril 2016 précité ou
+des dispositions du II de l'article 83 et de l'article 102 de la loi n° 78-17 du 6 janvier 1978, est puni de cinq ans
 d'emprisonnement et de 300 000 € d'amende.
+
+Est puni des mêmes peines le fait pour un sous-traitant de ne pas notifier cette violation au responsable de traitement en
+méconnaissance de l'article 33 du règlement (UE) 2016/679 du 27 avril 2016 précité ou de l'article 102 de la loi n° 78-17 du
+6 janvier 1978 précitée.
+
+**Nota:**
+
+Conformément à l'article 29 de l’ordonnance n° 2018-1125 du 12 décembre 2018, ces dispositions entrent en vigueur en même
+temps que le décret modifiant le décret n° 2005-1309 du 20 octobre 2005 pris pour l'application de la loi n° 78-17 du 6
+janvier 1978 relative à l'informatique, aux fichiers et aux libertés, dans sa rédaction résultant de ladite ordonnance, et au
+plus tard le 1er juin 2019.
 
 **Liens relatifs à cet article**
 
@@ -21198,8 +21224,7 @@ _Cite_:
 
 _Modifié par_:
 
-  - Loi n°2016-731 du 3 juin 2016 - art. 117 (V)
-  - Loi n°2018-493 du 20 juin 2018 - art. 18
+  - Ordonnance n°2018-1125 du 12 décembre 2018 - art. 13
 
 
 ###### Article 226-18
@@ -21251,10 +21276,20 @@ Le fait, hors les cas prévus par la loi, de mettre ou de conserver en mémoire 
 l'intéressé, des données à caractère personnel qui, directement ou indirectement, font apparaître les origines raciales ou
 ethniques, les opinions politiques, philosophiques ou religieuses, ou les appartenances syndicales des personnes, ou qui sont
 relatives à la santé ou à l'orientation sexuelle ou à l'identité de genre de celles-ci, est puni de cinq ans d'emprisonnement
-et de 300 000 euros d'amende. 
+et de 300 000 euros d'amende.
 
 Est puni des mêmes peines le fait, hors les cas prévus par la loi, de mettre ou de conserver en mémoire informatisée des
 données à caractère personnel concernant des infractions, des condamnations ou des mesures de sûreté.
+
+Les dispositions du présent article sont applicables aux traitements non automatisés de données à caractère personnel dont la
+mise en œuvre ne se limite pas à l'exercice d'activités exclusivement personnelles.
+
+**Nota:**
+
+Conformément à l'article 29 de l’ordonnance n° 2018-1125 du 12 décembre 2018, ces dispositions entrent en vigueur en même
+temps que le décret modifiant le décret n° 2005-1309 du 20 octobre 2005 pris pour l'application de la loi n° 78-17 du 6
+janvier 1978 relative à l'informatique, aux fichiers et aux libertés, dans sa rédaction résultant de ladite ordonnance, et au
+plus tard le 1er juin 2019.
 
 **Liens relatifs à cet article**
 
@@ -21264,12 +21299,12 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2017-86 du 27 janvier 2017 - art. 171
+  - Ordonnance n°2018-1125 du 12 décembre 2018 - art. 13
 
 _Cité par_:
 
   - Code de procédure pénale - art. 2-1 (V)
-  - Code pénal - art. 226-23 (V)
+  - Code pénal - art. 226-23 (VD)
 
 
 ###### Article 226-19-1
@@ -21411,14 +21446,21 @@ Le fait de procéder ou de faire procéder à un transfert de données à caract
 l'objet d'un traitement vers un Etat n'appartenant pas à l'Union européenne ou à une organisation internationale en violation
 du chapitre V du règlement (UE) 2016/679 du Parlement européen et du Conseil du 27 avril 2016 relatif à la protection des
 personnes physiques à l'égard du traitement des données à caractère personnel et à la libre circulation de ces données, et
-abrogeant la directive 95/46/ CE, ou des articles 70-25 à 70-27 de la loi n° 78-17 du 6 janvier 1978 précitée est puni de
-cinq ans d'emprisonnement et de 300 000 euros d'amende.
+abrogeant la directive 95/46/ CE, ou des articles 112 à 114 de la loi n° 78-17 du 6 janvier 1978 précitée est puni de cinq
+ans d'emprisonnement et de 300 000 euros d'amende.
+
+**Nota:**
+
+Conformément à l'article 29 de l’ordonnance n° 2018-1125 du 12 décembre 2018, ces dispositions entrent en vigueur en même
+temps que le décret modifiant le décret n° 2005-1309 du 20 octobre 2005 pris pour l'application de la loi n° 78-17 du 6
+janvier 1978 relative à l'informatique, aux fichiers et aux libertés, dans sa rédaction résultant de ladite ordonnance, et au
+plus tard le 1er juin 2019.
 
 **Liens relatifs à cet article**
 
 _Cite_:
 
-  - Loi n°78-17 du 6 janvier 1978 - art. 70 (Ab)
+  - Loi n°78-17 du 6 janvier 1978 - art. 70
 
 _Codifié par_:
 
@@ -21426,48 +21468,73 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2018-493 du 20 juin 2018 - art. 27
+  - Ordonnance n°2018-1125 du 12 décembre 2018 - art. 13
 
 
 ###### Article 226-22-2
 
-Dans les cas prévus aux articles 226-16 à 226-22-1, l'effacement de tout ou partie des données à caractère personnel faisant
-l'objet du traitement ayant donné lieu à l'infraction peut être ordonné. Les membres et les agents de la Commission nationale
-de l'informatique et des libertés sont habilités à constater l'effacement de ces données.
+Est puni d'un an d'emprisonnement et de 15 000 € d'amende le fait d'entraver l'action de la Commission nationale de
+l'informatique et des libertés :
+
+1° Soit en s'opposant à l'exercice des missions confiées à ses membres ou aux agents habilités en application du dernier
+alinéa de l'article 10 de la loi n° 78-17 du 6 janvier 1978 précitée lorsque la visite a été autorisée par le juge ;
+
+2° Soit en refusant de communiquer à ses membres ou aux agents habilités en application du dernier alinéa de l'article 10 de
+la même loi, ou aux agents d'une autorité de contrôle d'un Etat membre de l'Union européenne en application de l'article 62
+du règlement (UE) 2016/679 du 27 avril 2016 précité, les renseignements et documents utiles à leur mission, ou en dissimulant
+lesdits documents ou renseignements, ou en les faisant disparaître ;
+
+3° Soit en communiquant des informations qui ne sont pas conformes au contenu des enregistrements tel qu'il était au moment
+où la demande a été formulée ou qui ne présentent pas ce contenu sous une forme directement accessible.
+
+**Nota:**
+
+Conformément à l'article 29 de l’ordonnance n° 2018-1125 du 12 décembre 2018, ces dispositions entrent en vigueur en même
+temps que le décret modifiant le décret n° 2005-1309 du 20 octobre 2005 pris pour l'application de la loi n° 78-17 du 6
+janvier 1978 relative à l'informatique, aux fichiers et aux libertés, dans sa rédaction résultant de ladite ordonnance, et au
+plus tard le 1er juin 2019.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Loi n°92-684 1992-07-22
+  - Loi n°92-684 du 22 juillet 1992
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°2004-801 du 6 août 2004 - art. 14 () JORF 7 août 2004
+  - Ordonnance n°2018-1125 du 12 décembre 2018 - art. 13
 
 _Cite_:
 
-  - Code pénal - art. 226-16 (V)
+  - Code pénal - art. 226-16
 
 
 ###### Article 226-23
 
-Les dispositions de l'article 226-19 sont applicables aux traitements non automatisés de données à caractère personnel dont
-la mise en oeuvre ne se limite pas à l'exercice d'activités exclusivement personnelles.
+Dans les cas prévus aux articles 226-16 à 226-22-2, l'effacement de tout ou partie des données à caractère personnel faisant
+l'objet du traitement ayant donné lieu à l'infraction peut être ordonné. Les membres et les agents de la Commission nationale
+de l'informatique et des libertés sont habilités à constater l'effacement de ces données.
+
+**Nota:**
+
+Conformément à l'article 29 de l’ordonnance n° 2018-1125 du 12 décembre 2018, ces dispositions entrent en vigueur en même
+temps que le décret modifiant le décret n° 2005-1309 du 20 octobre 2005 pris pour l'application de la loi n° 78-17 du 6
+janvier 1978 relative à l'informatique, aux fichiers et aux libertés, dans sa rédaction résultant de ladite ordonnance, et au
+plus tard le 1er juin 2019.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Loi n°92-684 1992-07-22
+  - Loi n°92-684 du 22 juillet 1992
 
 _Modifié par_:
 
-  - Loi n°2004-801 du 6 août 2004 - art. 14 () JORF 7 août 2004
+  - Ordonnance n°2018-1125 du 12 décembre 2018 - art. 13
 
 _Cite_:
 
-  - Code pénal - art. 226-19 (V)
+  - Code pénal - art. 226-19 (VD)
 
 _Cité par_:
 
@@ -38796,19 +38863,28 @@ _Cité par_:
 
 ###### Article 711-1
 
-Sous réserve des adaptations prévues au présent titre, les livres Ier à V du présent code sont applicables, dans leur
-rédaction résultant de la loi n° 2019-290 du 10 avril 2019 visant à renforcer et garantir le maintien de l'ordre public lors
-des manifestations, en Nouvelle-Calédonie, en Polynésie française et dans les îles Wallis et Futuna.
+Sous réserve des adaptations prévues au présent titre, les livres Ier à V sont applicables, dans leur rédaction résultant de
+la l'ordonnance n° 2018-1125 du 12 décembre 2018 prise en application de l'article 32 de la loi n° 2018-493 du 20 juin 2018
+relative à la protection des données personnelles et portant modification de la loi n° 78-17 du 6 janvier 1978 relative à
+l'informatique, aux fichiers et aux libertés et diverses dispositions concernant la protection des données à caractère
+personnel, en Nouvelle-Calédonie, en Polynésie française et dans les îles Wallis et Futuna.
+
+**Nota:**
+
+Conformément à l'article 29 de l’ordonnance n° 2018-1125 du 12 décembre 2018, ces dispositions entrent en vigueur en même
+temps que le décret modifiant le décret n° 2005-1309 du 20 octobre 2005 pris pour l'application de la loi n° 78-17 du 6
+janvier 1978 relative à l'informatique, aux fichiers et aux libertés, dans sa rédaction résultant de ladite ordonnance, et au
+plus tard le 1er juin 2019.
 
 **Liens relatifs à cet article**
 
-_Cite_:
+_Codifié par_:
 
-  - Loi n°2019-222 du 23 mars 2019
+  - Ordonnance n°96-267 du 28 mars 1996
 
 _Modifié par_:
 
-  - Loi n°2019-290 du 10 avril 2019 - art. 10 (V)
+  - Ordonnance n°2018-1125 du 12 décembre 2018 - art. 13
 
 _Cité par_:
 
