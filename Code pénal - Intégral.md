@@ -1,5 +1,5 @@
 # Code pénal  
-Version Consolidée au 2019-06-01
+Version Consolidée au 2019-07-29
 ## Contenu: 
   - [Partie législative (art. 111-1 à 727-3)](#1)
     - [Livre Ier : Dispositions générales (art. 111-1 à 133-17)](#2)
@@ -22625,7 +22625,10 @@ est dispensé soit conforme à l'objet de l'instruction obligatoire, tel que cel
 code de l'éducation, et permette aux élèves concernés l'acquisition progressive du socle commun défini à l'article L. 122-1-1
 du même code, et de n'avoir pas procédé à la fermeture de ces classes est puni de six mois d'emprisonnement et de 15 000
 euros d'amende. En outre, le tribunal peut ordonner à l'encontre de celui-ci l'interdiction de diriger ou d'enseigner ainsi
-que la fermeture de l'établissement.
+que la fermeture de l'établissement. 
+
+Il en est de même lorsque le directeur d'établissement privé accueillant des classes hors contrat n'a pas respecté la mise en
+demeure mentionnée au III de l'article L. 442-2 dudit code.
 
 **Nota:**
 
@@ -22650,7 +22653,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2018-266 du 13 avril 2018 - art. 4 (V)
+  - Loi n°2019-791 du 26 juillet 2019 - art. 23
 
 _Cité par_:
 
@@ -22668,6 +22671,7 @@ _Cite_:
 
   - Code de l'éducation - art. L122-1-1
   - Code de l'éducation - art. L131-1-1
+  - Code de l'éducation - art. L442-2
 
 
 ###### Article 227-17-2
