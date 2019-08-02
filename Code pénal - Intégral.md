@@ -1,5 +1,5 @@
 # Code pénal  
-Version Consolidée au 2019-07-29
+Version Consolidée au 2019-08-03
 ## Contenu: 
   - [Partie législative (art. 111-1 à 727-3)](#1)
     - [Livre Ier : Dispositions générales (art. 111-1 à 133-17)](#2)
@@ -19885,7 +19885,7 @@ _Cite_:
 
 ###### Article 226-3
 
-Est puni de cinq ans d'emprisonnement et de 300 000 € d'amende :
+Est puni de cinq ans d'emprisonnement et de 300 000 € d'amende : 
 
 1° La fabrication, l'importation, la détention, l'exposition, l'offre, la location ou la vente d'appareils ou de dispositifs
 techniques de nature à permettre la réalisation d'opérations pouvant constituer l'infraction prévue par le second alinéa de
@@ -19894,18 +19894,18 @@ par l'article 226-1 ou ayant pour objet la captation de données informatiques p
 procédure pénale et L. 853-2 du code de la sécurité intérieure et figurant sur une liste dressée dans des conditions fixées
 par décret en Conseil d'Etat, lorsque ces faits sont commis, y compris par négligence, en l'absence d'autorisation
 ministérielle dont les conditions d'octroi sont fixées par ce même décret ou sans respecter les conditions fixées par cette
-autorisation ;
+autorisation ; 
 
 2° Le fait de réaliser une publicité en faveur d'un appareil ou d'un dispositif technique susceptible de permettre la
 réalisation des infractions prévues par l'article 226-1 et le second alinéa de l'article 226-15 lorsque cette publicité
 constitue une incitation à commettre cette infraction ou ayant pour objet la captation de données informatiques prévue aux
 articles 706-102-1 du code de procédure pénale et L. 853-2 du code de la sécurité intérieure lorsque cette publicité
-constitue une incitation à en faire un usage frauduleux.
+constitue une incitation à en faire un usage frauduleux. 
 
-**Nota:**
-
-Conformément à l’article 109, XIII de la loi n° 2019-222 du 23 mars 2019, ces dispositions entrent en vigueur le premier jour
-du troisième mois suivant la publication de ladite loi.
+Le présent article n'est pas applicable à la détention ou à l'acquisition par les opérateurs mentionnés à l'article L. 1332-1
+du code de la défense, ainsi désignés en vertu de leur activité d'exploitant d'un réseau de communications électroniques
+ouvert au public, des appareils soumis à une autorisation du Premier ministre en application de la section 7 du chapitre II
+du titre Ier du livre II du code des postes et des communications électroniques.
 
 **Liens relatifs à cet article**
 
@@ -19938,7 +19938,6 @@ _Cité par_:
   - Code de la sécurité intérieure - art. L852-1 (V)
   - Code de la sécurité intérieure - art. R114-5 (V)
   - Code de procédure pénale - art. 706-95-4 (T)
-  - Code de procédure pénale - art. 706-95-5 (VT)
   - Code de procédure pénale - art. 706-99 (T)
   - Code de procédure pénale - art. 727-1 (M)
   - Code monétaire et financier - art. R153-2 (VT)
@@ -19960,13 +19959,14 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2019-222 du 23 mars 2019 - art. 46
+  - Loi n°2019-810 du 1er août 2019 - art. 4
 
 _Cite_:
 
   - Code pénal - art. 226-1
   - Code pénal - art. 226-15
-  - Code de procédure pénale - art. 706-102-1 (VD)
+  - Code de procédure pénale - art. 706-102-1
+  - Code de la défense. - art. L1332-1
   - Code de la sécurité intérieure - art. L853-2
 
 
