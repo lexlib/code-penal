@@ -1,14 +1,14 @@
 # Code pénal  
-Version Consolidée au 2019-08-03
+Version Consolidée au 2019-09-20
 ## Contenu: 
   - [Partie législative (art. 111-1 à 727-3)](#1)
     - [Livre Ier : Dispositions générales (art. 111-1 à 133-17)](#2)
-      - [Titre Ier : De la loi pénale (art. 111-1 à 113-13)](#3)
+      - [Titre Ier : De la loi pénale (art. 111-1 à 113-14)](#3)
         - [Chapitre Ier : Des principes généraux (art. 111-1 à 111-5)](#4)
         - [Chapitre II : De l'application de la loi pénale dans le temps (art. 112-1 à 112-4)](#5)
-        - [Chapitre III : De l'application de la loi pénale dans l'espace (art. 113-1 à 113-13)](#6)
+        - [Chapitre III : De l'application de la loi pénale dans l'espace (art. 113-1 à 113-14)](#6)
           - [Section 1 : Des infractions commises ou réputées commises sur le territoire de la République (art. 113-2 à 113-5)](#7)
-          - [Section 2 : Des infractions commises hors du territoire de la République (art. 113-6 à 113-13)](#8)
+          - [Section 2 : Des infractions commises hors du territoire de la République (art. 113-6 à 113-14)](#8)
       - [Titre II : De la responsabilité pénale (art. 121-1 à 122-9)](#9)
         - [Chapitre Ier : Dispositions générales (art. 121-1 à 121-7)](#10)
         - [Chapitre II : Des causes d'irresponsabilité ou d'atténuation de la responsabilité (art. 122-1 à 122-9)](#11)
@@ -1024,6 +1024,52 @@ IV commis à l'étranger par un Français ou par une personne résidant habituel
 _Créé par_:
 
   - Loi n°2012-1432 du 21 décembre 2012 - art. 2
+
+
+###### Article 113-14
+
+Par dérogation au deuxième alinéa de l'article 113-6, la loi pénale française est applicable en toutes circonstances, et la
+seconde phrase de l'article 113-8 n'est pas applicable, aux infractions suivantes commises à l'étranger par un Français ou
+par une personne résidant habituellement ou exerçant tout ou partie de son activité économique sur le territoire français,
+lorsqu'elles portent atteinte aux recettes perçues, aux dépenses exposées ou aux avoirs qui relèvent du budget de l'Union
+européenne, des budgets des institutions, organes et organismes de l'Union européenne ou des budgets gérés et contrôlés
+directement par eux : 
+
+1° Délits d'escroquerie prévus à la section 1ère du chapitre III du titre Ier du livre III ; 
+
+2° Délits d'abus de confiance prévus à la section 1ère du chapitre IV du titre Ier du livre III ; 
+
+3° Délits de soustraction, détournement ou destruction de biens prévus aux articles 432-15 et 433-4 ; 
+
+4° Délits de corruption prévus aux articles 432-11 et 433-1, ainsi que, sans préjudice de l'article 435-11-2, aux articles
+435-1 et 435-3 ; 
+
+5° Délits de contrebande, d'importation ou d'exportation frauduleuse prévus à l'article 414-2 du code des douanes ; 
+
+6° Délits de blanchiment prévus à la section 1ère du chapitre IV du titre II du livre III des délits mentionnés au présent
+article. 
+
+Pour la poursuite de la personne qui s'est rendue coupable sur le territoire français, comme complice, d'une infraction
+prévue aux 1° à 6° commise à l'étranger et portant atteinte aux intérêts financiers de l'Union européenne mentionnés au
+premier alinéa du présent article, les conditions prévues à l'article 113-5 ne sont pas applicables.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Ordonnance n°2019-963 du 18 septembre 2019 - art. 1
+
+_Cite_:
+
+  - Code pénal - art. 113-6
+  - Code pénal - art. 113-8
+  - Code pénal - art. 432-11 (V)
+  - Code pénal - art. 432-15 (V)
+  - Code pénal - art. 433-1 (V)
+  - Code pénal - art. 433-4 (V)
+  - Code pénal - art. 435-1 (V)
+  - Code pénal - art. 435-11-2
+  - Code pénal - art. 435-3
 
 
 ### Titre II : De la responsabilité pénale<a id=9></a>
@@ -25157,6 +25203,24 @@ _Modifié par_:
   - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 
+###### Article 314-1-1
+
+Les peines sont portées à cinq ans d'emprisonnement lorsque l'abus de confiance porte atteinte aux recettes perçues, aux
+dépenses exposées ou aux avoirs qui relèvent du budget de l'Union européenne, des budgets des institutions, organes et
+organismes de l'Union européenne ou des budgets gérés et contrôlés directement par eux.
+
+Les peines sont portées à sept ans d'emprisonnement et à 750 000 € d'amende lorsque l'infraction prévue au présent article
+est commise en bande organisée.
+
+La tentative des infractions prévues par le présent article est punie des mêmes peines.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Ordonnance n°2019-963 du 18 septembre 2019 - art. 2
+
+
 ###### Article 314-2
 
 Les peines sont portées à sept ans d'emprisonnement et à 750 000 euros d'amende lorsque l'abus de confiance est réalisé :
@@ -30861,17 +30925,21 @@ _Modifié par_:
 
 ###### Article 432-11
 
-Est puni de dix ans d'emprisonnement et      d'une amende de 1 000 000 €, dont le montant peut être porté au double du
-produit tiré de l'infraction, le fait, par une personne dépositaire de l'autorité publique, chargée d'une mission de service
-public, ou investie d'un mandat électif public, de solliciter ou d'agréer, sans droit, à tout moment, directement ou
-indirectement, des offres, des promesses, des dons, des présents ou des avantages quelconques pour elle-même ou pour
-autrui : 
+Est puni de dix ans d'emprisonnement et d'une amende de 1 000 000 €, dont le montant peut être porté au double du produit
+tiré de l'infraction, le fait, par une personne dépositaire de l'autorité publique, chargée d'une mission de service public,
+ou investie d'un mandat électif public, de solliciter ou d'agréer, sans droit, à tout moment, directement ou indirectement,
+des offres, des promesses, des dons, des présents ou des avantages quelconques pour elle-même ou pour autrui :
 
 1° Soit pour accomplir ou avoir accompli, pour s'abstenir ou s'être abstenue d'accomplir un acte de sa fonction, de sa
-mission ou de son mandat ou facilité par sa fonction, sa mission ou son mandat ; 
+mission ou de son mandat ou facilité par sa fonction, sa mission ou son mandat ;
 
 2° Soit pour abuser ou avoir abusé de son influence réelle ou supposée en vue de faire obtenir d'une autorité ou d'une
 administration publique des distinctions, des emplois, des marchés ou toute autre décision favorable.
+
+La peine d'amende est portée à 2 000 000 € ou, s'il excède ce montant, au double du produit de l'infraction, lorsque les
+infractions prévues au présent article portent atteinte aux recettes perçues, aux dépenses exposées ou aux avoirs qui
+relèvent du budget de l'Union européenne, des budgets des institutions, organes et organismes de l'Union européenne ou des
+budgets gérés et contrôlés directement par eux et qu'elles sont commises en bande organisée.
 
 **Liens relatifs à cet article**
 
@@ -30898,6 +30966,7 @@ _Cité par_:
   - Code de procédure pénale - art. 706-1-3 (Ab)
   - Code des assurances - art. L322-2 (M)
   - Code du service national - art. L120 (V)
+  - Code pénal - art. 113-14 (V)
   - Code pénal - art. 432-17 (V)
   - Loi n°1849-08-09 du 9 août 1849 - art. 8 (Ab)
 
@@ -30907,7 +30976,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2013-1117 du 6 décembre 2013 - art. 6
+  - Ordonnance n°2019-963 du 18 septembre 2019 - art. 2
 
 
 ###### Article 432-11-1
@@ -31190,10 +31259,15 @@ _Modifié par_:
 Le fait, par une personne dépositaire de l'autorité publique ou chargée d'une mission de service public, un comptable public,
 un dépositaire public ou l'un de ses subordonnés, de détruire, détourner ou soustraire un acte ou un titre, ou des fonds
 publics ou privés, ou effets, pièces ou titres en tenant lieu, ou tout autre objet qui lui a été remis en raison de ses
-fonctions ou de sa mission, est puni de dix ans d'emprisonnement et      d'une amende de 1 000 000 €, dont le montant peut
-être porté au double du produit de l'infraction. 
+fonctions ou de sa mission, est puni de dix ans d'emprisonnement et d'une amende de 1 000 000 €, dont le montant peut être
+porté au double du produit de l'infraction.
 
-La tentative du délit prévu à l'alinéa qui précède est punie des mêmes peines.
+La peine d'amende est portée à 2 000 000 € ou, s'il excède ce montant, au double du produit de l'infraction, lorsque
+l'infraction prévue au premier alinéa porte atteinte aux recettes perçues, aux dépenses exposées ou aux avoirs qui relèvent
+du budget de l'Union européenne, des budgets des institutions, organes et organismes de l'Union européenne ou des budgets
+gérés et contrôlés directement par eux et qu'elle est commise en bande organisée.
+
+La tentative des délits prévus aux alinéas qui précèdent est punie des mêmes peines.
 
 **Liens relatifs à cet article**
 
@@ -31213,6 +31287,7 @@ _Cité par_:
   - Code du patrimoine - art. L214-10 (V)
   - Code du patrimoine. - art. L214-2 (V)
   - Code du patrimoine. - art. L214-3 (V)
+  - Code pénal - art. 113-14 (V)
   - Code pénal - art. 432-16 (V)
   - Code pénal - art. 432-17 (V)
 
@@ -31222,7 +31297,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2013-1117 du 6 décembre 2013 - art. 6
+  - Ordonnance n°2019-963 du 18 septembre 2019 - art. 2
 
 
 ###### Article 432-16
@@ -31326,6 +31401,11 @@ des offres, des promesses, des dons, des présents ou des avantages quelconques,
 ou avoir accompli, pour s'abstenir ou s'être abstenue d'accomplir un acte mentionné au 1° ou pour abuser ou avoir abusé de
 son influence dans les conditions mentionnées au 2°.
 
+La peine d'amende est portée à 2 000 000 € ou, s'il excède ce montant, au double du produit de l'infraction, lorsque les
+infractions prévues au présent article portent atteinte aux recettes perçues, aux dépenses exposées ou aux avoirs qui
+relèvent du budget de l'Union européenne, des budgets des institutions, organes et organismes de l'Union européenne ou des
+budgets gérés et contrôlés directement par eux et qu'elles sont commises en bande organisée.
+
 **Liens relatifs à cet article**
 
 _Cité par_:
@@ -31369,6 +31449,7 @@ _Cité par_:
   - Code général des collectivités territoriales - art. L1414-4 (VD)
   - Code monétaire et financier - art. R151-10 (VD)
   - Code monétaire et financier - art. R153-10 (VT)
+  - Code pénal - art. 113-14 (V)
   - Code pénal - art. 131-26-2 (V)
   - Code pénal - art. 433-22 (V)
   - Code pénal - art. 433-23 (V)
@@ -31381,7 +31462,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2013-1117 du 6 décembre 2013 - art. 6
+  - Ordonnance n°2019-963 du 18 septembre 2019 - art. 2
 
 
 ###### Article 433-2
@@ -31525,18 +31606,18 @@ titres en tenant lieu ou tout autre objet, qui ont été remis, en raison de ses
 l'autorité publique ou chargée d'une mission de service public, à un comptable public, à un dépositaire public ou à l'un de
 ses subordonnés, est puni de sept ans d'emprisonnement et de 100 000 euros d'amende.
 
-La tentative du délit prévu à l'alinéa précédent est punie des mêmes peines.
+La peine d'amende est portée à 750 000 €, lorsque l'infraction prévue au premier alinéa porte atteinte aux recettes perçues,
+aux dépenses exposées ou aux avoirs qui relèvent du budget de l'Union européenne, des budgets des institutions, organes et
+organismes de l'Union européenne ou des budgets gérés et contrôlés directement par eux et qu'elle est commise en bande
+organisée.
+
+La tentative des délits prévus aux alinéas qui précèdent est punie des mêmes peines.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Loi n°92-686 1992-07-22
-
-**Liens**:
-
-  - SPEC_APPLI: Loi n°92-686 1992-07-22 art. 1
-  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
+  - Loi n°92-686 du 22 juillet 1992
 
 _Cité par_:
 
@@ -31546,12 +31627,13 @@ _Cité par_:
   - Code de l'entrée et du séjour des étrangers et ... - art. R311-15 (V)
   - Code du patrimoine - art. L214-10 (V)
   - Code du patrimoine. - art. L214-3 (V)
+  - Code pénal - art. 113-14 (V)
   - Code pénal - art. 433-23 (V)
   - Code électoral - art. L7 (Ab)
 
 _Modifié par_:
 
-  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+  - Ordonnance n°2019-963 du 18 septembre 2019 - art. 2
 
 
 ##### Section 4 : De l'outrage<a id=224></a>
@@ -34232,13 +34314,18 @@ _Cite_:
 
 ###### Article 435-1
 
-Est puni de dix ans d'emprisonnement et      d'une amende de 1 000 000 €, dont le montant peut être porté au double du
-produit tiré de l'infraction, le fait, par une personne dépositaire de l'autorité publique, chargée d'une mission de service
-public ou investie d'un mandat électif public dans un Etat étranger ou au sein d'une organisation internationale publique, de
+Est puni de dix ans d'emprisonnement et d'une amende de 1 000 000 €, dont le montant peut être porté au double du produit
+tiré de l'infraction, le fait, par une personne dépositaire de l'autorité publique, chargée d'une mission de service public
+ou investie d'un mandat électif public dans un Etat étranger ou au sein d'une organisation internationale publique, de
 solliciter ou d'agréer, sans droit, à tout moment, directement ou indirectement, des offres, des promesses, des dons, des
 présents ou des avantages quelconques, pour elle-même ou pour autrui, pour accomplir ou avoir accompli, pour s'abstenir ou
 s'être abstenue d'accomplir un acte de sa fonction, de sa mission ou de son mandat ou facilité par sa fonction, sa mission ou
 son mandat.
+
+La peine d'amende est portée à 2 000 000 € ou, s'il excède ce montant, au double du produit de l'infraction, lorsque les
+infractions prévues au présent article portent atteinte aux recettes perçues, aux dépenses exposées ou aux avoirs qui
+relèvent du budget de l'Union européenne, des budgets des institutions, organes et organismes de l'Union européenne ou des
+budgets gérés et contrôlés directement par eux et qu'elles sont commises en bande organisée.
 
 **Liens relatifs à cet article**
 
@@ -34248,7 +34335,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2013-1117 du 6 décembre 2013 - art. 6
+  - Ordonnance n°2019-963 du 18 septembre 2019 - art. 2
 
 _Cité par_:
 
@@ -34259,6 +34346,7 @@ _Cité par_:
   - Code de procédure pénale - art. 706-1 (VT)
   - Code de procédure pénale - art. 706-1-1 (V)
   - Code de procédure pénale - art. 706-1-3 (Ab)
+  - Code pénal - art. 113-14 (V)
   - Code pénal - art. 131-26-2 (V)
   - Code pénal - art. 435-6 (Ab)
   - Code pénal - art. 435-6-1 (V)
@@ -34295,18 +34383,23 @@ _Cité par_:
 
 ###### Article 435-3
 
-Est puni de dix ans d'emprisonnement et      d'une amende de 1 000 000 €, dont le montant peut être porté au double du
-produit tiré de l'infraction, le fait, par quiconque, de proposer, sans droit, à tout moment, directement ou indirectement, à
-une personne dépositaire de l'autorité publique, chargée d'une mission de service public ou investie d'un mandat électif
-public dans un Etat étranger ou au sein d'une organisation internationale publique, des offres, des promesses, des dons, des
+Est puni de dix ans d'emprisonnement et d'une amende de 1 000 000 €, dont le montant peut être porté au double du produit
+tiré de l'infraction, le fait, par quiconque, de proposer, sans droit, à tout moment, directement ou indirectement, à une
+personne dépositaire de l'autorité publique, chargée d'une mission de service public ou investie d'un mandat électif public
+dans un Etat étranger ou au sein d'une organisation internationale publique, des offres, des promesses, des dons, des
 présents ou des avantages quelconques, pour elle-même ou pour autrui, pour qu'elle accomplisse ou s'abstienne d'accomplir, ou
 parce qu'elle a accompli ou s'est abstenue d'accomplir un acte de sa fonction, de sa mission ou de son mandat, ou facilité
-par sa fonction, sa mission ou son mandat. 
+par sa fonction, sa mission ou son mandat.
 
 Est puni des mêmes peines le fait, par quiconque, de céder à une personne visée au premier alinéa qui sollicite, sans droit,
 à tout moment, directement ou indirectement, des offres, des promesses, des dons, des présents ou des avantages quelconques,
 pour elle-même ou pour autrui, pour accomplir ou avoir accompli, pour s'abstenir ou s'être abstenue d'accomplir un acte visé
 audit alinéa.
+
+La peine d'amende est portée à 2 000 000 € ou, s'il excède ce montant, au double du produit de l'infraction, lorsque les
+infractions prévues au présent article portent atteinte aux recettes perçues, aux dépenses exposées ou aux avoirs qui
+relèvent du budget de l'Union européenne, des budgets des institutions, organes et organismes de l'Union européenne ou des
+budgets gérés et contrôlés directement par eux et qu'elles sont commises en bande organisée.
 
 **Liens relatifs à cet article**
 
@@ -34331,7 +34424,7 @@ _Cité par_:
   - Code de la commande publique - art. L2341-1 (VD)
   - Code de la commande publique - art. L3123-1 (V)
   - Code de procédure pénale - art. 41-1-2 (VD)
-  - Code de procédure pénale - art. 689-8 (M)
+  - Code de procédure pénale - art. 689-8 (V)
   - Code général des collectivités territoriales - art. L1414-4 (VD)
   - Code monétaire et financier - art. R151-10 (VD)
   - Code pénal - art. 113-14 (V)
@@ -34340,7 +34433,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2013-1117 du 6 décembre 2013 - art. 6
+  - Ordonnance n°2019-963 du 18 septembre 2019 - art. 2
 
 
 ###### Article 435-4
@@ -39121,10 +39214,9 @@ _Cité par_:
 ###### Article 711-1
 
 Sous réserve des adaptations prévues au présent titre, les livres Ier à V sont applicables, dans leur rédaction résultant de
-la l'ordonnance n° 2018-1125 du 12 décembre 2018 prise en application de l'article 32 de la loi n° 2018-493 du 20 juin 2018
-relative à la protection des données personnelles et portant modification de la loi n° 78-17 du 6 janvier 1978 relative à
-l'informatique, aux fichiers et aux libertés et diverses dispositions concernant la protection des données à caractère
-personnel, en Nouvelle-Calédonie, en Polynésie française et dans les îles Wallis et Futuna.
+l'ordonnance n° 2019-963 du 18 septembre 2019 relative à la lutte contre la fraude portant atteinte aux intérêts financiers
+de l'Union européenne au moyen du droit pénal, en Nouvelle-Calédonie, en Polynésie française et dans les îles Wallis et
+Futuna.
 
 **Nota:**
 
@@ -39140,7 +39232,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Ordonnance n°2018-1125 du 12 décembre 2018 - art. 13
+  - Ordonnance n°2019-963 du 18 septembre 2019 - art. 4 (V)
 
 _Cité par_:
 
