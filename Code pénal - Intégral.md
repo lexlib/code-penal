@@ -1,5 +1,5 @@
 # Code pénal  
-Version Consolidée au 2019-09-20
+Version Consolidée au 2019-11-09
 ## Contenu: 
   - [Partie législative (art. 111-1 à 727-3)](#1)
     - [Livre Ier : Dispositions générales (art. 111-1 à 133-17)](#2)
@@ -42440,11 +42440,11 @@ _Créé par_:
 
 ###### Article R226-1
 
-La liste d'appareils et de dispositifs techniques prévue par l'article 226-3 est établie par arrêté du Premier ministre. 
+La liste d'appareils et de dispositifs techniques prévue par l'article 226-3 est établie par arrêté du Premier ministre.
 
 Par dérogation aux dispositions de l'article 1er du décret n° 97-34 du 15 janvier 1997 relatif à la déconcentration des
 décisions administratives individuelles, les autorisations prévues aux articles R. 226-3 et R. 226-7 sont délivrées par le
-Premier ministre.
+directeur général de l'Agence nationale de la sécurité des systèmes d'information.
 
 **Liens relatifs à cet article**
 
@@ -42466,12 +42466,12 @@ _Cité par_:
   - Code pénal - art. R226-10 (V)
   - Code pénal - art. R226-2 (V)
   - Code pénal - art. R226-3 (V)
-  - Code pénal - art. R226-7 (M)
+  - Code pénal - art. R226-7 (V)
   - Code pénal - art. R625-9 (V)
 
 _Modifié par_:
 
-  - Décret n°2016-67 du 29 janvier 2016 - art. 6
+  - Décret n°2019-1139 du 7 novembre 2019 - art. 1
 
 
 ###### Article R226-2
@@ -42549,8 +42549,8 @@ _Cite_:
 ###### Article R226-3
 
 La fabrication, l'importation, l'exposition, l'offre, la location ou la vente de tout appareil ou dispositif technique
-figurant sur la liste mentionnée à l'article R. 226-1 est soumise à une autorisation délivrée par le Premier ministre, après
-avis de la commission mentionnée à l'article R. 226-2.
+figurant sur la liste mentionnée à l'article R. 226-1 est soumise à une autorisation, après avis de la commission mentionnée
+à l'article R. 226-2.
 
 **Liens relatifs à cet article**
 
@@ -42584,7 +42584,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2016-67 du 29 janvier 2016 - art. 6
+  - Décret n°2019-1139 du 7 novembre 2019 - art. 1
 
 
 ###### Article R226-4
@@ -42672,7 +42672,7 @@ _Modifié par_:
 ###### Article R226-7
 
 L'acquisition ou la détention de tout appareil ou dispositif technique figurant sur la liste mentionnée à l'article R. 226-1
-est soumise à une autorisation délivrée par le Premier ministre, après avis de la commission mentionnée à l'article R. 226-2.
+est soumise à une autorisation, après avis de la commission mentionnée à l'article R. 226-2.
 
 **Liens relatifs à cet article**
 
@@ -42695,11 +42695,11 @@ _Cité par_:
   - Code pénal - art. R226-11 (V)
   - Code pénal - art. R226-12 (V)
   - Code pénal - art. R226-2 (V)
-  - Code pénal - art. R226-9 (V)
+  - Code pénal - art. R226-9 (M)
 
 _Modifié par_:
 
-  - Décret n°2016-67 du 29 janvier 2016 - art. 6
+  - Décret n°2019-1139 du 7 novembre 2019 - art. 1
 
 
 ###### Article R226-8
