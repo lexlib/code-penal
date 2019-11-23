@@ -1,5 +1,5 @@
 # Code pénal  
-Version Consolidée au 2019-11-09
+Version Consolidée au 2019-11-24
 ## Contenu: 
   - [Partie législative (art. 111-1 à 727-3)](#1)
     - [Livre Ier : Dispositions générales (art. 111-1 à 133-17)](#2)
@@ -438,7 +438,7 @@ dans les conflits armés (art. 461-7)](#270)
     - [Livre VII : Dispositions relatives à l'outre-mer (art. R711-1 à R722-7)](#434)
       - [Titre Ier : Dispositions applicables dans les territoires d'outre-mer et en Nouvelle-Calédonie (art. R711-1 à R716-1)](#435)
         - [Chapitre Ier : Dispositions générales (art. R711-1 à R711-3)](#436)
-        - [Chapitre II : Adaptation du livre Ier (art. R712-1 à R712-8)](#437)
+        - [Chapitre II : Adaptation du livre Ier (art. D712-9 à R712-8)](#437)
         - [Chapitre VI : Adaptation du livre V (art. R716-1)](#438)
       - [Titre II : Dispositions particulières au Département de Mayotte (art. R721-1 à R722-7)](#439)
         - [Chapitre Ier : Dispositions générales (art. R721-1)](#440)
@@ -45994,6 +45994,27 @@ _Cite_:
 
 
 #### Chapitre II : Adaptation du livre Ier<a id=437></a>
+
+###### Article D712-9
+
+En leur qualité d'institutions coutumières de la Nouvelle-Calédonie et en application de l'article 712-1-A, le sénat
+coutumier et les conseils coutumiers sont habilités à mettre en œuvre des travaux d'intérêt général.
+
+A ce titre, ils peuvent demander, conformément à l'article R. 131-17, l'inscription de travaux sur la liste prévue par
+l'article 131-36.
+
+Il en est de même des tribus habilitées à cet effet selon la procédure prévue à l'article R. 712-4.
+
+La tribu sollicitant l'habilitation auprès du juge d'application des peines compétent accompagne sa demande, des informations
+relatives à son lieu d'établissement, et aux nom, prénoms, date et lieu de naissance, nationalité, profession et domicile de
+son responsable ou représentant. Elle l'informe de toute modification des éléments communiqués à l'occasion de sa demande.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2019-1217 du 21 novembre 2019 - art. 1
+
 
 ###### Article R712-1
 
