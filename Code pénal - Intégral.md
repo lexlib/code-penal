@@ -1,5 +1,5 @@
 # Code pénal  
-Version Consolidée au 2019-12-08
+Version Consolidée au 2019-12-21
 ## Contenu: 
   - [Partie législative (art. 111-1 à 727-3)](#1)
     - [Livre Ier : Dispositions générales (art. 111-1 à 133-17)](#2)
@@ -413,7 +413,7 @@ dans les conflits armés (art. 461-7)](#270)
         - [Chapitre IV : Des contraventions de la 4e classe contre la nation, l'Etat ou la paix publique (art. R644-1 à R644-4)](#409)
           - [Section 1 : De l'accès sans autorisation à un terrain, une construction, un engin ou un appareil militaires (art. R644-1)](#410)
           - [Section 2 : Des entraves à la libre circulation sur la voie publique (art. R644-2)](#411)
-          - [Section 3 : De la violation des dispositions réglementant les professions exercées dans les lieux publics (art. R644-3)](#412)
+          - [Section 3 : De l'acquisition de produits du tabac manufacturé vendus à la sauvette (art. R644-3)](#412)
           - [Section 4 : De la participation à une manifestation interdite sur la voie publique (art. R644-4)](#413)
         - [Chapitre V : Des contraventions de la 5e classe contre la nation, l'Etat ou la paix publique (art. R645-1 à R645-15)](#414)
           - [Section 1 : Du port ou de l'exhibition d'uniformes, insignes ou emblèmes rappelant ceux d'organisations ou de personnes responsables de crimes contre l'humanité (art. R645-1)](#415)
@@ -45228,26 +45228,18 @@ _Cité par_:
   - Code pénal - art. R633-6 (V)
 
 
-##### Section 3 : De la violation des dispositions réglementant les professions exercées dans les lieux publics<a id=412></a>
+##### Section 3 : De l'acquisition de produits du tabac manufacturé vendus à la sauvette<a id=412></a>
 
 ###### Article R644-3
 
-Le fait, sans autorisation ou déclaration régulière, d'offrir, de mettre en vente ou d'exposer en vue de la vente des
-marchandises ou d'exercer toute autre profession dans les lieux publics en violation des dispositions réglementaires sur la
-police de ces lieux est puni de l'amende prévue pour les contraventions de la 4e classe. 
-
-Les personnes coupables de la contravention prévue au présent article encourent également la peine complémentaire de
-confiscation de la chose qui a servi ou était destinée à commettre l'infraction ou de la chose qui en est le produit. 
-
-Les personnes morales déclarées responsables pénalement, dans les conditions prévues par l'article 121-2, de l'infraction
-définie au présent article encourent, outre l'amende suivant les modalités prévues par l'article 131-41, la peine de
-confiscation de la chose qui a servi ou était destinée à commettre l'infraction ou de la chose qui en est le produit.
+L'acquisition de produits du tabac manufacturé vendus à la sauvette est punie de l'amende prévue pour les contraventions de
+la 4e classe.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Décret n°2010-671 du 18 juin 2010 - art. 4
+  - Décret n°2019-1396 du 18 décembre 2019 - art. 1
 
 _Cité par_:
 
@@ -45918,7 +45910,7 @@ _Cite_:
 Sous réserve des adaptations prévues au présent titre, les livres Ier à VI de la deuxième partie du présent code (Décrets en
 Conseil d'Etat), à l'exception des articles R. 321-1 à R. 321-12, R. 633-1 à R. 633-5, 
 R. 635-3 à R. 635-7 et R. 645-6, sont applicables en Nouvelle-Calédonie et dans les territoires de la Polynésie française et
-des îles Wallis et Futuna dans leur rédaction résultant du décret n° 2019-536 du 29 mai 2019.
+des îles Wallis et Futuna dans leur rédaction résultant du décret n° 2019-1396 du 18 décembre 2019.
 
 **Liens relatifs à cet article**
 
@@ -45935,15 +45927,15 @@ _Cite_:
   - Code pénal - art. R635-3
   - Code pénal - art. R645-6
 
-_Modifié par_:
-
-  - Décret n°2019-536 du 29 mai 2019 - art. 158
-
 _Cité par_:
 
   - Décret n°2019-1396 du 18 décembre 2019 - art. 3
   - Décret n°2020-128 du 18 février 2020 - art. 7
   - Code pénal - art. R711-3 (VD)
+
+_Modifié par_:
+
+  - Décret n°2019-1396 du 18 décembre 2019 - art. 3
 
 
 ###### Article R711-2
