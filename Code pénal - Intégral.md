@@ -1,5 +1,5 @@
 # Code pénal  
-Version Consolidée au 2019-12-27
+Version Consolidée au 2019-12-30
 ## Contenu: 
   - [Partie législative (art. 111-1 à 727-3)](#1)
     - [Livre Ier : Dispositions générales (art. 111-1 à 133-17)](#2)
@@ -9782,6 +9782,9 @@ la vie, d'agressions sexuelles ou d'atteintes sexuelles ;
 
 18° Accomplir un stage de citoyenneté ;
 
+18° bis Respecter l'interdiction de se rapprocher d'une victime de violences commises au sein du couple prévue à l'article
+132-45-1 du présent code contrôlée par un dispositif électronique mobile anti-rapprochement ;
+
 19° En cas d'infraction commise soit contre son conjoint, son concubin ou son partenaire lié par un pacte civil de
 solidarité, soit contre ses enfants ou ceux de son conjoint, concubin ou partenaire, résider hors du domicile ou de la
 résidence du couple et, le cas échéant, s'abstenir de paraître dans ce domicile ou cette résidence ou aux abords immédiats de
@@ -9854,11 +9857,64 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2016-1547 du 18 novembre 2016 - art. 34 (V)
+  - Loi n°2019-1480 du 28 décembre 2019 - art. 10
 
 _Cite_:
 
   - Code de la santé publique - art. L3413-1
+
+
+###### Article 132-45-1
+
+En cas d'infraction punie d'au moins trois ans d'emprisonnement commise contre son conjoint, son concubin ou son partenaire
+lié par un pacte civil de solidarité, y compris lorsqu'ils ne cohabitent pas, ou commise par l'ancien conjoint ou concubin de
+la victime ou par la personne ayant été liée à elle par un pacte civil de solidarité, la juridiction peut, à la demande ou
+avec le consentement exprès de la victime, qui peut être recueilli par tout moyen :
+
+1° Interdire au condamné de se rapprocher de la victime à moins d'une certaine distance fixée par la décision ;
+
+2° Et, afin d'assurer le respect de cette interdiction, astreindre le condamné au port, pendant toute la durée de la mesure,
+d'un bracelet intégrant un émetteur permettant à tout moment de déterminer à distance sa localisation sur l'ensemble du
+territoire national et permettant de déterminer s'il s'approche de la victime à qui a été attribué un dispositif électronique
+permettant également de déterminer sa localisation.
+
+Le condamné est avisé que la pose du bracelet ne peut être effectuée sans son consentement mais que le fait de la refuser
+constitue une violation des obligations qui lui incombent et peut donner lieu à la révocation de la mesure. Ce dispositif est
+homologué par le ministre de la justice. Sa mise en œuvre doit garantir le respect de la dignité, de l'intégrité et de la vie
+privée de la personne et ne doit pas entraver son insertion sociale.
+
+Un décret en Conseil d'Etat précise les modalités d'application du présent article. Ce décret en Conseil d'Etat, pris après
+avis de la Commission nationale de l'informatique et des libertés, autorise la mise en œuvre d'un traitement automatisé de
+données à caractère personnel assurant le contrôle à distance de la localisation du condamné et de la victime ; ce décret
+peut étendre les finalités du traitement prévu à l'article 763-13 du code de procédure pénale. Les personnes contribuant au
+contrôle à distance, qui ne peut conduire à imposer la présence du condamné dans certains lieux, peuvent être des personnes
+privées habilitées dans des conditions prévues par ce décret.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°92-683 du 22 juillet 1992
+
+_Cité par_:
+
+  - Décret n°2000-35 du 17 janvier 2000 - art. 1 (Ab)
+  - CODE DE PROCEDURE PENALE - art. D129 (V)
+  - CODE DE PROCEDURE PENALE - art. D136 (V)
+  - CODE DE PROCEDURE PENALE - art. D138 (V)
+  - CODE DE PROCEDURE PENALE - art. D142 (V)
+  - CODE DE PROCEDURE PENALE - art. D147-2 (V)
+  - Code de la santé publique - art. L3711-1 (V)
+  - Code de procédure pénale - art. 15-3-2 (V)
+  - Code de procédure pénale - art. R60-1 (Ab)
+
+_Modifié par_:
+
+  - Loi n°2019-1480 du 28 décembre 2019 - art. 10
+
+_Cite_:
+
+  - Code de procédure pénale - art. 763-13
 
 
 ###### Article 132-46
@@ -12320,14 +12376,14 @@ _Cite_:
 
 En cas de condamnation pour un crime ou un délit prévu à la présente section, commis par le père ou la mère sur la personne
 de son enfant ou de l'autre parent, la juridiction de jugement se prononce sur le retrait total ou partiel de l'autorité
-parentale, en application des articles 378, 379 et 379-1 du code civil. Si les poursuites ont lieu devant la cour d'assises,
-celle-ci statue sur cette question sans l'assistance des jurés.
+parentale ou sur le retrait de l'exercice de cette autorité, en application des articles 378, 379 et 379-1 du code civil. Si
+les poursuites ont lieu devant la cour d'assises, celle-ci statue sur cette question sans l'assistance des jurés.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Loi n°2016-297 du 14 mars 2016 - art. 39
+  - Loi n°2019-1480 du 28 décembre 2019 - art. 8
 
 _Cite_:
 
@@ -14190,16 +14246,16 @@ _Anciens textes_:
 ###### Article 222-18-3
 
 Lorsqu'elles sont commises par le conjoint ou le concubin de la victime ou le partenaire lié à la victime par un pacte civil
-de solidarité, les menaces prévues au premier alinéa de l'article 222-17 sont punies de deux ans d'emprisonnement et de 30
+de solidarité, les menaces prévues au premier alinéa de l'article 222-17 sont punies de trois ans d'emprisonnement et de 45
 000 € d'amende, celles prévues au second alinéa du même article et au premier alinéa de l'article 222-18 sont punies de cinq
 ans d'emprisonnement et de 75 000 € d'amende et celles prévues au second alinéa de l'article 222-18 sont punies de sept ans
 d'emprisonnement et de 100 000 € d'amende.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°2010-769 du 9 juillet 2010 - art. 6 (V)
+  - Loi n°2019-1480 du 28 décembre 2019 - art. 10
 
 _Cité par_:
 
@@ -15071,11 +15127,12 @@ _Cite_:
 
 ###### Article 222-31-2
 
-Lorsque le viol  incestueux ou l'agression sexuelle incestueuse est commis contre un mineur par une personne titulaire sur
+Lorsque le viol incestueux ou l'agression sexuelle incestueuse est commis contre un mineur par une personne titulaire sur
 celui-ci de l'autorité parentale, la juridiction de jugement doit se prononcer sur le retrait total ou partiel de cette
-autorité en application des articles 378 et 379-1 du code civil. 
+autorité ou sur le retrait de l'exercice de cette autorité en application des articles 378 et 379-1 du code civil.
 
-Elle peut alors statuer sur le retrait de cette autorité en ce qu'elle concerne les frères et sœurs mineurs de la victime. 
+Elle peut alors statuer sur le retrait de cette autorité ou sur le retrait de l'exercice de cette autorité en ce qu'elle
+concerne les frères et sœurs mineurs de la victime.
 
 Si les poursuites ont lieu devant la cour d'assises, celle-ci statue sur cette question sans l'assistance des jurés.
 
@@ -15083,7 +15140,7 @@ Si les poursuites ont lieu devant la cour d'assises, celle-ci statue sur cette q
 
 _Modifié par_:
 
-  - Loi n°2016-297 du 14 mars 2016 - art. 44 (V)
+  - Loi n°2019-1480 du 28 décembre 2019 - art. 8
 
 _Cite_:
 
@@ -16024,14 +16081,14 @@ _Cite_:
 
 En cas de condamnation pour un crime ou un délit prévu aux sections 1, 3 ou 3 bis, commis par le père ou la mère sur la
 personne de son enfant ou de l'autre parent, la juridiction de jugement se prononce sur le retrait total ou partiel de
-l'autorité parentale, en application des articles 378, 379 et 379-1 du code civil. Si les poursuites ont lieu devant la cour
-d'assises, celle-ci statue sur cette question sans l'assistance des jurés.
+l'autorité parentale ou sur le retrait de l'exercice de cette autorité, en application des articles 378, 379 et 379-1 du code
+civil. Si les poursuites ont lieu devant la cour d'assises, celle-ci statue sur cette question sans l'assistance des jurés.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Loi n°2016-297 du 14 mars 2016 - art. 39
+  - Loi n°2019-1480 du 28 décembre 2019 - art. 8
 
 _Cite_:
 
@@ -22449,28 +22506,24 @@ _Cite_:
 
 ###### Article 227-10
 
-Si la personne coupable des faits définis par les articles 227-5 et 227-7 a été déchue de l'autorité parentale, ces faits
-sont punis de trois ans d'emprisonnement et de 45 000 euros d'amende.
+Si la personne coupable des faits définis par les articles 227-5 et 227-7 a été déchue de l'autorité parentale ou a fait
+l'objet d'une décision de retrait de l'exercice de cette autorité, ces faits sont punis de trois ans d'emprisonnement et de
+45 000 euros d'amende.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Loi n°92-684 1992-07-22
-
-**Liens**:
-
-  - SPEC_APPLI: Loi n°92-684 1992-07-22 art. 1
-  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
+  - Loi n°92-684 du 22 juillet 1992
 
 _Modifié par_:
 
-  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+  - Loi n°2019-1480 du 28 décembre 2019 - art. 8
 
 _Cite_:
 
-  - Code pénal - art. 227-5 (V)
-  - Code pénal - art. 227-7 (V)
+  - Code pénal - art. 227-5
+  - Code pénal - art. 227-7
 
 
 ###### Article 227-11
@@ -23254,10 +23307,11 @@ _Cite_:
 ###### Article 227-27-3
 
 Lorsque l'atteinte sexuelle incestueuse est commise par une personne titulaire de l'autorité parentale sur le mineur, la
-juridiction de jugement doit se prononcer sur le retrait total ou partiel de cette autorité en application des articles 378
-et 379-1 du code civil. 
+juridiction de jugement doit se prononcer sur le retrait total ou partiel de cette autorité ou sur le retrait de l'exercice
+de cette autorité en application des articles 378 et 379-1 du code civil.
 
-Elle peut alors statuer sur le retrait de cette autorité en ce qu'elle concerne les frères et sœurs mineurs de la victime. 
+Elle peut alors statuer sur le retrait de cette autorité ou sur le retrait de l'exercice de cette autorité en ce qu'elle
+concerne les frères et sœurs mineurs de la victime.
 
 Si les poursuites ont lieu devant la cour d'assises, celle-ci statue sur cette question sans l'assistance des jurés.
 
@@ -23265,7 +23319,7 @@ Si les poursuites ont lieu devant la cour d'assises, celle-ci statue sur cette q
 
 _Modifié par_:
 
-  - Loi n°2016-297 du 14 mars 2016 - art. 44 (V)
+  - Loi n°2019-1480 du 28 décembre 2019 - art. 8
 
 _Cite_:
 
@@ -29284,19 +29338,19 @@ _Cite_:
 
 Le fait, par une personne ayant autorité sur un mineur, de faire participer ce mineur à un groupement formé ou à une entente
 établie en vue de la préparation, caractérisée par un ou plusieurs faits matériels, d'un des actes de terrorisme mentionnés
-aux articles 421-1 et 421-2 est puni de quinze ans de réclusion criminelle et de 225 000 € d'amende. 
+aux articles 421-1 et 421-2 est puni de quinze ans de réclusion criminelle et de 225 000 € d'amende.
 
 Lorsque le fait est commis par une personne titulaire de l'autorité parentale sur le mineur, la juridiction de jugement se
-prononce sur le retrait total ou partiel de l'autorité parentale en application des articles 378 et 379-1 du code civil. Elle
-peut alors statuer sur le retrait de l'autorité parentale en ce qu'elle concerne les autres enfants mineurs de cette
-personne. Si les poursuites ont lieu devant la cour d'assises, celle-ci statue sur cette question sans l'assistance des
-jurés.
+prononce sur le retrait total ou partiel de l'autorité parentale ou sur le retrait de l'exercice de cette autorité en
+application des articles 378 et 379-1 du code civil. Elle peut alors statuer sur le retrait de l'autorité parentale ou de
+l'exercice de cette autorité en ce qu'elle concerne les autres enfants mineurs de cette personne. Si les poursuites ont lieu
+devant la cour d'assises, celle-ci statue sur cette question sans l'assistance des jurés.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°2017-1510 du 30 octobre 2017 - art. 10
+  - Loi n°2019-1480 du 28 décembre 2019 - art. 8
 
 _Cite_:
 
@@ -39219,15 +39273,16 @@ _Cité par_:
 ###### Article 711-1
 
 Sous réserve des adaptations prévues au présent titre, les livres Ier à V sont applicables, dans leur rédaction résultant de
-l'ordonnance n° 2019-963 du 18 septembre 2019 relative à la lutte contre la fraude portant atteinte aux intérêts financiers
-de l'Union européenne au moyen du droit pénal, en Nouvelle-Calédonie, en Polynésie française et dans les îles Wallis et
-Futuna.
+l'ordonnance n° 2019-1015 du 2 octobre 2019, en Nouvelle-Calédonie, en Polynésie française et dans les îles Wallis et Futuna.
+
+Sous réserve des adaptations prévues au présent titre, les livres Ier à V du présent code sont applicables, dans leur
+rédaction résultant de la loi n° 2019-1480 du 28 décembre 2019 visant à agir contre les violences au sein de la famille, en
+Nouvelle-Calédonie, en Polynésie française et dans les îles Wallis et Futuna.
 
 **Nota:**
 
-Conformément à l'article 29 de l’ordonnance n° 2018-1125 du 12 décembre 2018, ces dispositions entrent en vigueur en même
-temps que le décret n° 2019-536 du 29 mai 2019 pris pour l'application de la loi n° 78-17 du 6 janvier 1978 relative à
-l'informatique, aux fichiers et aux libertés au 1er juin 2019.
+Conformément à l'article 50 de l’ordonnance n° 2019-1015 du 2 octobre 2019, ces dispositions entrent en vigueur le 1er
+janvier 2020.
 
 **Liens relatifs à cet article**
 
@@ -39237,7 +39292,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Ordonnance n°2019-963 du 18 septembre 2019 - art. 4 (V)
+  - Loi n°2019-1480 du 28 décembre 2019 - art. 19 (V)
 
 _Cité par_:
 
