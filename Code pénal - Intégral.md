@@ -1,5 +1,5 @@
 # Code pénal  
-Version Consolidée au 2019-08-03
+Version Consolidée au 2020-01-01
 ## Contenu: 
   - [Partie législative (art. 111-1 à 727-3)](#1)
     - [Livre Ier : Dispositions générales (art. 111-1 à 133-17)](#2)
@@ -45668,30 +45668,36 @@ _Modifié par_:
 Pour l'application du présent code aux territoires visés à l'article R. 711-1, les termes énumérés ci-après sont remplacés
 comme suit :
 
-- " tribunal de grande instance " ou " tribunal d'instance " par " tribunal de première instance " ;
+- " tribunal judiciaire " par " tribunal de première instance " ;
 
 - " département " par " territoire " ;
 
 - " préfet " et " sous-préfet " par " représentant de l'Etat dans le territoire " ;
 
-- " Banque de France " par " Institut d'émission d'outre-mer ". 
+- " Banque de France " par " Institut d'émission d'outre-mer ".
 
 De même, les références à des dispositions non applicables dans ces territoires sont remplacées par les références aux
 dispositions ayant le même objet applicables localement.
+
+**Nota:**
+
+<font color="black">Conformément à l’article 36 du décret n° 2019-913 du 30 août 2019, ces dispositions entrent en vigueur le
+1
+    <sup>er</sup> janvier 2020.</font>
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Ordonnance 96-267 1996-03-28
+  - Ordonnance n°96-267 du 28 mars 1996
 
 _Modifié par_:
 
-  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+  - Décret n°2019-913 du 30 août 2019 - art. 18
 
 _Cite_:
 
-  - Code pénal - art. R711-1 (V)
+  - Code pénal - art. R711-1
 
 
 #### Chapitre II : Adaptation du livre Ier<a id=437></a>
@@ -45923,16 +45929,22 @@ _Modifié par_:
 
 ###### Article R722-3
 
-La première phrase du troisième alinéa de l'article R. 131-13 est rédigée comme suit : 
+La première phrase du troisième alinéa de l'article R. 131-13 est rédigée comme suit :
 
-" Le juge de l'application des peines communique sa décision d'habilitation au président du tribunal de première instance, au
-procureur de la République et aux organismes ou services locaux de prévention de la délinquance. "
+" Le juge de l'application des peines communique sa décision d'habilitation au président du tribunal judiciaire, au procureur
+de la République et aux organismes ou services locaux de prévention de la délinquance. "
+
+**Nota:**
+
+<font color="black">Conformément à l’article 36 du décret n° 2019-913 du 30 août 2019, ces dispositions entrent en vigueur le
+1
+    <sup>er</sup> janvier 2020.</font>
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Décret n°2010-671 du 18 juin 2010 - art. 8 (V)
+  - Décret n°2019-913 du 30 août 2019 - art. 18
 
 _Cite_:
 
