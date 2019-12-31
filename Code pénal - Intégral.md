@@ -1,5 +1,5 @@
 # Code pénal  
-Version Consolidée au 2019-12-30
+Version Consolidée au 2020-01-01
 ## Contenu: 
   - [Partie législative (art. 111-1 à 727-3)](#1)
     - [Livre Ier : Dispositions générales (art. 111-1 à 133-17)](#2)
@@ -36547,16 +36547,21 @@ _Modifié par_:
 
 Est puni de cinq ans d'emprisonnement et d'une amende de 500 000 €, dont le montant peut être porté au double du produit tiré
 de l'infraction, le fait, par quiconque, de proposer, sans droit, à tout moment, directement ou indirectement, à un acteur
-d'une manifestation sportive donnant lieu à des paris, des offres, des promesses, des présents, des dons ou des avantages
-quelconques, pour lui-même ou pour autrui, pour que cet acteur, par un acte ou une abstention, modifie le déroulement normal
-et équitable de cette manifestation ou parce que cet acteur, par un acte ou une abstention, a modifié le déroulement normal
-et équitable de cette manifestation.
+d'une manifestation sportive ou d'une course hippique donnant lieu à des paris, des offres, des promesses, des présents, des
+dons ou des avantages quelconques, pour lui-même ou pour autrui, pour que cet acteur, par un acte ou une abstention, modifie
+le déroulement normal et équitable de cette manifestation ou de cette course ou parce que cet acteur, par un acte ou une
+abstention, a modifié le déroulement normal et équitable de cette manifestation ou de cette course.
+
+**Nota:**
+
+Conformément à l'article 50 de l’ordonnance n° 2019-1015 du 2 octobre 2019, ces dispositions entrent en vigueur le 1er
+janvier 2020.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Loi n°2018-202 du 26 mars 2018 - art. 26
+  - Ordonnance n°2019-1015 du 2 octobre 2019 - art. 33
 
 _Cité par_:
 
@@ -36599,16 +36604,21 @@ _Cité par_:
 ###### Article 445-2-1
 
 Est puni de cinq ans d'emprisonnement et d'une amende de 500 000 €, dont le montant peut être porté au double du produit tiré
-de l'infraction, le fait, par un acteur d'une manifestation sportive donnant lieu à des paris, de solliciter ou d'agréer de
-quiconque, sans droit, à tout moment, directement ou indirectement, des offres, des promesses, des présents, des dons ou des
-avantages quelconques, pour lui-même ou pour autrui, pour modifier ou pour avoir modifié, par un acte ou une abstention, le
-déroulement normal et équitable de cette manifestation.
+de l'infraction, le fait, par un acteur d'une manifestation sportive ou d'une course hippique donnant lieu à des paris, de
+solliciter ou d'agréer de quiconque, sans droit, à tout moment, directement ou indirectement, des offres, des promesses, des
+présents, des dons ou des avantages quelconques, pour lui-même ou pour autrui, pour modifier ou pour avoir modifié, par un
+acte ou une abstention, le déroulement normal et équitable de cette manifestation ou de cette course.
+
+**Nota:**
+
+Conformément à l'article 50 de l’ordonnance n° 2019-1015 du 2 octobre 2019, ces dispositions entrent en vigueur le 1er
+janvier 2020.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Loi n°2018-202 du 26 mars 2018 - art. 26
+  - Ordonnance n°2019-1015 du 2 octobre 2019 - art. 33
 
 _Cité par_:
 
@@ -40255,40 +40265,41 @@ _Cite_:
 
 ###### Article 726-1
 
-L'article 511-3 est ainsi rédigé : 
+L'article 511-3 est ainsi rédigé :
 
 " Art. 511-3.-Le fait de prélever un organe sur une personne vivante majeure sans avoir recueilli son consentement ou sans
 l'avoir préalablement éclairée sur les risques et les conséquences de l'acte est puni de sept ans d'emprisonnement et de 100
-000 euros d'amende. 
+000 euros d'amende.
 
 " Est puni des mêmes peines le fait de prélever un organe sur un donneur vivant mineur ou sur un donneur vivant majeur
 faisant l'objet d'une mesure de protection légale. Toutefois, un prélèvement de moelle osseuse sur un mineur au profit de son
 frère ou de sa soeur peut être autorisé par un comité médical constitué dans les conditions fixées par la réglementation
 applicable localement, sous réserve du consentement de chacun des titulaires de l'autorité parentale ou du représentant légal
-du mineur. 
+du mineur.
 
-" Les consentements prévus aux alinéas précédents sont exprimés devant le président du tribunal de première instance ou le
-magistrat désigné par lui. Ils peuvent être révoqués sans forme à tout moment. 
+" Les consentements prévus aux alinéas précédents sont exprimés devant le président du tribunal judiciaire ou le magistrat
+désigné par lui. Ils peuvent être révoqués sans forme à tout moment.
 
-" En cas d'urgence, le consentement est recueilli par tout moyen par le procureur de la République. 
+" En cas d'urgence, le consentement est recueilli par tout moyen par le procureur de la République.
 
 " Le comité médical s'assure que le mineur a été informé du prélèvement envisagé en vue d'exprimer sa volonté, si celui-ci y
 est apte. Le refus du mineur fait obstacle au prélèvement. "
 
+**Nota:**
+
+Conformément à l’article 36 de l’ordonnance n° 2019-964 du 18 septembre 2019, les présentes dispositions entrent en vigueur
+le 1
+  <sup>er</sup> janvier 2020.
+
 **Liens relatifs à cet article**
-
-**Liens**:
-
-  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
-  - PILOTE_SUIVEUR: Code de la santé publique - art. L1517-7 (V)
 
 _Codifié par_:
 
-  - Ordonnance 96-267 1996-03-28
+  - Ordonnance n°96-267 du 28 mars 1996
 
 _Modifié par_:
 
-  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+  - Ordonnance n°2019-964 du 18 septembre 2019 - art. 16
 
 _Cité par_:
 
@@ -40298,9 +40309,13 @@ _Nouveaux textes_:
 
   - Code de la santé publique - art. L1517-7 (MMN)
 
+**Liens**:
+
+  - PILOTE_SUIVEUR: Code de la santé publique - art. L1517-7 (V)
+
 _Cite_:
 
-  - Code pénal - art. 511-3 (V)
+  - Code pénal - art. 511-3
 
 
 ###### Article 726-2
@@ -41292,8 +41307,8 @@ Pour les personnes morales de droit privé chargées d'une mission de service pu
 Pour les associations, la demande comporte : 
 
 1° La copie du Journal officiel portant publication de la déclaration de l'association ou, pour les associations déclarées
-dans les départements du Bas-Rhin, du Haut-Rhin et de la Moselle, une copie du registre des associations du tribunal
-d'instance ; 
+dans les départements du Bas-Rhin, du Haut-Rhin et de la Moselle, une copie du registre des associations du   tribunal
+judiciaire ; 
 
 2° Un exemplaire des statuts et, s'il y a lieu, du règlement intérieur de l'association ; 
 
@@ -41308,6 +41323,11 @@ d'administration et du bureau de l'association ainsi que, le cas échéant, ceux
 6° Les pièces financières qui doivent comprendre les comptes du dernier exercice, le budget de l'exercice courant et un bilan
 ou un état de l'actif mobilier et immobilier et du passif.
 
+**Nota:**
+
+Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, les présentes dispositions entrent en vigueur le 1er
+janvier 2020.
+
 **Liens relatifs à cet article**
 
 _Cité par_:
@@ -41315,28 +41335,23 @@ _Cité par_:
   - Décret n°76-1073 du 22 novembre 1976 - art. 5 (V)
   - Décret n°76-1073 du 22 novembre 1976 - art. 6 (V)
   - Décret n°2017-1018 du 10 mai 2017 - art. 2
-  - Code de procédure pénale - art. D48-5-1 (V)
+  - Code de procédure pénale - art. D48-5-1 (VD)
   - Code de procédure pénale - art. R15-33-42 (V)
   - Code pénal - art. R131-15 (V)
   - Code pénal - art. R131-16-1 (V)
   - Code pénal - art. R712-3 (V)
 
-**Liens**:
-
-  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
-
 _Codifié par_:
 
-  - Décret n°93-726 1993-03-29
+  - Décret n°93-726 du 29 mars 1993
 
 _Modifié par_:
 
-  - Décret n°2007-1388 2007-09-26 art. 2 I, II JORF 28 septembre 2007
-  - Décret n°2007-1388 du 26 septembre 2007 - art. 2 () JORF 28 septembre 2007
+  - Décret n°2019-966 du 18 septembre 2019 - art. 8
 
 _Cite_:
 
-  - Code pénal - art. 131-8 (V)
+  - Code pénal - art. 131-8
 
 
 ###### Article R131-13
@@ -41344,23 +41359,28 @@ _Cite_:
 Le juge de l'application des peines procède à toutes diligences qu'il juge utiles. Il peut, notamment, consulter le conseil
 départemental de prévention de la délinquance et de lutte contre la drogue, les dérives sectaires et les violences faites aux
 femmes qui dispose alors d'un délai de deux mois pour donner son avis. Il communique ensuite au procureur de la République la
-demande d'habilitation et les éléments d'information recueillis par lui.
+demande d'habilitation et les éléments d'information recueillis par lui. 
 
 Au vu de l'avis du procureur de la République ou un mois au plus tôt après lui avoir communiqué la demande d'habilitation, le
-juge de l'application des peines statue sur celle-ci.
+juge de l'application des peines statue sur celle-ci. 
 
-Le juge de l'application des peines communique sa décision d'habilitation au président du tribunal de grande instance, au
-procureur de la République et au conseil départemental mentionné au premier alinéa. Il informe de cette décision l'assemblée
-générale des magistrats du siège et du parquet du tribunal ou, dans les tribunaux où sa constitution est obligatoire, la
-commission restreinte, lors de sa prochaine réunion.
+Le juge de l'application des peines communique sa décision d'habilitation au président du   tribunal judiciaire, au procureur
+de la République et au conseil départemental mentionné au premier alinéa. Il informe de cette décision l'assemblée générale
+des magistrats du siège et du parquet du tribunal ou, dans les tribunaux où sa constitution est obligatoire, la commission
+restreinte, lors de sa prochaine réunion. 
 
 L'habilitation accordée est valable pour une durée de cinq ans.
+
+**Nota:**
+
+Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, les présentes dispositions entrent en vigueur le 1er
+janvier 2020.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Décret n°2018-329 du 3 mai 2018 - art. 8
+  - Décret n°2019-966 du 18 septembre 2019 - art. 8
 
 _Cité par_:
 
@@ -41396,20 +41416,25 @@ _Cite_:
 
 ###### Article R131-16
 
-Le président du tribunal de grande instance ou le procureur de la République peut saisir l'assemblée générale des magistrats
-du siège et du parquet ou, dans les tribunaux où sa constitution est obligatoire, la commission restreinte, aux fins de
-retrait de l'habilitation. L'assemblée générale ou la commission statue à la majorité des membres présents au vu des
-observations du représentant de la personne morale concernée et après rapport du juge de l'application des peines. 
+Le président du   tribunal judiciaire ou le procureur de la République peut saisir l'assemblée générale des magistrats du
+siège et du parquet ou, dans les tribunaux où sa constitution est obligatoire, la commission restreinte, aux fins de retrait
+de l'habilitation. L'assemblée générale ou la commission statue à la majorité des membres présents au vu des observations du
+représentant de la personne morale concernée et après rapport du juge de l'application des peines. 
 
 En cas d'urgence, le juge de l'application des peines peut, sur proposition ou après avis conforme du procureur de la
 République, retirer provisoirement l'habilitation jusqu'à la décision de la prochaine assemblée générale ou commission
 restreinte.
 
+**Nota:**
+
+Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, les présentes dispositions entrent en vigueur le 1er
+janvier 2020.
+
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Décret n°2010-671 du 18 juin 2010 - art. 2
+  - Décret n°2019-966 du 18 septembre 2019 - art. 8
 
 
 ###### Article R131-16-1
@@ -41505,14 +41530,19 @@ _Cité par_:
 
 Après que le procureur de la République a donné son avis ou dix jours au plus tôt après l'avoir saisi, le juge de
 l'application des peines prend sa décision en tenant compte de l'utilité sociale des travaux proposés et des perspectives
-d'insertion sociale ou professionnelle qu'ils offrent aux condamnés. Il communique sa décision au président du tribunal de
-grande instance, au procureur de la République et au conseil départemental mentionné à l'article R. 131-18.
+d'insertion sociale ou professionnelle qu'ils offrent aux condamnés. Il communique sa décision au président du   tribunal
+judiciaire, au procureur de la République et au conseil départemental mentionné à l'article R. 131-18.
+
+**Nota:**
+
+Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, les présentes dispositions entrent en vigueur le 1er
+janvier 2020.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Décret n°2010-671 du 18 juin 2010 - art. 2
+  - Décret n°2019-966 du 18 septembre 2019 - art. 8
 
 _Cite_:
 
@@ -41897,14 +41927,19 @@ _Nouveaux textes_:
 
 Le stage de citoyenneté est organisé en sessions collectives, continues ou discontinues, composées d'un ou plusieurs modules
 de formation adaptés à la personnalité des condamnés et à la nature de l'infraction commise. Pour les mineurs, les modules
-sont en outre adaptés à leur âge.
+sont en outre adaptés à leur âge. 
 
 Les stages sont mis en oeuvre sous le contrôle du délégué du procureur de la République du lieu d'exécution de la peine. Ils
-peuvent également être mis en oeuvre sous le contrôle du service pénitentiaire d'insertion ou de probation.
+peuvent également être mis en oeuvre sous le contrôle du service pénitentiaire d'insertion ou de probation. 
 
 Le contenu du stage de citoyenneté fait l'objet d'un projet élaboré par la personne ou le service chargé de procéder au
-contrôle de sa mise en oeuvre. Ce projet est validé par le procureur de la République après avis du président du tribunal de
-grande instance.
+contrôle de sa mise en oeuvre. Ce projet est validé par le procureur de la République après avis du président du   tribunal
+judiciaire.
+
+**Nota:**
+
+Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, les présentes dispositions entrent en vigueur le 1er
+janvier 2020.
 
 **Liens relatifs à cet article**
 
@@ -41914,7 +41949,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2015-1272 du 13 octobre 2015 - art. 4
+  - Décret n°2019-966 du 18 septembre 2019 - art. 8
 
 
 ###### Article R131-38
@@ -46007,30 +46042,36 @@ _Modifié par_:
 Pour l'application du présent code aux territoires visés à l'article R. 711-1, les termes énumérés ci-après sont remplacés
 comme suit :
 
-- " tribunal de grande instance " ou " tribunal d'instance " par " tribunal de première instance " ;
+- " tribunal judiciaire " par " tribunal de première instance " ;
 
 - " département " par " territoire " ;
 
 - " préfet " et " sous-préfet " par " représentant de l'Etat dans le territoire " ;
 
-- " Banque de France " par " Institut d'émission d'outre-mer ". 
+- " Banque de France " par " Institut d'émission d'outre-mer ".
 
 De même, les références à des dispositions non applicables dans ces territoires sont remplacées par les références aux
 dispositions ayant le même objet applicables localement.
+
+**Nota:**
+
+<font color="black">Conformément à l’article 36 du décret n° 2019-913 du 30 août 2019, ces dispositions entrent en vigueur le
+1
+    <sup>er</sup> janvier 2020.</font>
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Ordonnance 96-267 1996-03-28
+  - Ordonnance n°96-267 du 28 mars 1996
 
 _Modifié par_:
 
-  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+  - Décret n°2019-913 du 30 août 2019 - art. 18
 
 _Cite_:
 
-  - Code pénal - art. R711-1 (V)
+  - Code pénal - art. R711-1
 
 
 #### Chapitre II : Adaptation du livre Ier<a id=437></a>
@@ -46283,16 +46324,22 @@ _Modifié par_:
 
 ###### Article R722-3
 
-La première phrase du troisième alinéa de l'article R. 131-13 est rédigée comme suit : 
+La première phrase du troisième alinéa de l'article R. 131-13 est rédigée comme suit :
 
-" Le juge de l'application des peines communique sa décision d'habilitation au président du tribunal de première instance, au
-procureur de la République et aux organismes ou services locaux de prévention de la délinquance. "
+" Le juge de l'application des peines communique sa décision d'habilitation au président du tribunal judiciaire, au procureur
+de la République et aux organismes ou services locaux de prévention de la délinquance. "
+
+**Nota:**
+
+<font color="black">Conformément à l’article 36 du décret n° 2019-913 du 30 août 2019, ces dispositions entrent en vigueur le
+1
+    <sup>er</sup> janvier 2020.</font>
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Décret n°2010-671 du 18 juin 2010 - art. 8 (V)
+  - Décret n°2019-913 du 30 août 2019 - art. 18
 
 _Cite_:
 
