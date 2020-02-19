@@ -1,5 +1,5 @@
 # Code pénal  
-Version Consolidée au 2020-01-01
+Version Consolidée au 2020-02-20
 ## Contenu: 
   - [Partie législative (art. 111-1 à 727-3)](#1)
     - [Livre Ier : Dispositions générales (art. 111-1 à 133-17)](#2)
@@ -45992,7 +45992,7 @@ _Cite_:
 Sous réserve des adaptations prévues au présent titre, les livres Ier à VI de la deuxième partie du présent code (Décrets en
 Conseil d'Etat), à l'exception des articles R. 321-1 à R. 321-12, R. 633-1 à R. 633-5, 
 R. 635-3 à R. 635-7 et R. 645-6, sont applicables en Nouvelle-Calédonie et dans les territoires de la Polynésie française et
-des îles Wallis et Futuna dans leur rédaction résultant du décret n° 2019-1396 du 18 décembre 2019.
+des îles Wallis et Futuna dans leur rédaction résultant du décret n° 2020-128 du 18 février 2020.
 
 **Liens relatifs à cet article**
 
@@ -46000,24 +46000,23 @@ _Codifié par_:
 
   - Ordonnance n°96-267 du 28 mars 1996
 
-_Cite_:
-
-  - Décret n°2015-337 du 25 mars 2015
-  - Décret n°2015-1272 du 13 octobre 2015
-  - Code pénal - art. R321-1
-  - Code pénal - art. R633-1
-  - Code pénal - art. R635-3
-  - Code pénal - art. R645-6
-
 _Cité par_:
 
   - Décret n°2019-1396 du 18 décembre 2019 - art. 3
   - Décret n°2020-128 du 18 février 2020 - art. 7
   - Code pénal - art. R711-3 (VD)
 
+_Cite_:
+
+  - Décret n°2020-128 du 18 février 2020
+  - Code pénal - art. R321-1
+  - Code pénal - art. R633-1
+  - Code pénal - art. R635-3
+  - Code pénal - art. R645-6
+
 _Modifié par_:
 
-  - Décret n°2019-1396 du 18 décembre 2019 - art. 3
+  - Décret n°2020-128 du 18 février 2020 - art. 7
 
 
 ###### Article R711-2
