@@ -1,5 +1,5 @@
 # Code pénal  
-Version Consolidée au 2020-03-25
+Version Consolidée au 2020-10-01
 ## Contenu: 
   - [Partie législative (art. 111-1 à 727-3)](#1)
     - [Livre Ier : Dispositions générales (art. 111-1 à 133-17)](#2)
@@ -2160,19 +2160,21 @@ _Codifié par_:
 ###### Article 122-8
 
 Les mineurs capables de discernement sont pénalement responsables des crimes, délits ou contraventions dont ils ont été
-reconnus coupables, dans des conditions fixées par une loi particulière qui détermine les mesures de protection,
-d'assistance, de surveillance et d'éducation dont ils peuvent faire l'objet.
+reconnus coupables, en tenant compte de l'atténuation de responsabilité dont ils bénéficient en raison de leur âge, dans des
+conditions fixées par le code de la justice pénale des mineurs.
 
-Cette loi détermine également les sanctions éducatives qui peuvent être prononcées à l'encontre des mineurs de dix à dix-huit
-ans ainsi que les peines auxquelles peuvent être condamnés les mineurs de treize à dix-huit ans, en tenant compte de
-l'atténuation de responsabilité dont ils bénéficient en raison de leur âge.
+**Nota:**
+
+Conformément à l'article 10 de l'ordonnance n° 2019-950 du 11 septembre 2019, les dispositions du code de la justice pénale
+des mineurs, relatives à la procédure pénale, sont applicables aux poursuites engagées à compter de son entrée en vigueur.
+Les poursuites engagées avant cette date se poursuivent jusqu'à leur terme conformément aux dispositions du code de procédure
+pénale et de l'ordonnance n° 45-174 du 2 février 1945 relative à l'enfance délinquante dans leur version applicable avant
+cette date.
+
+Toutefois, les dispositions du code de la justice pénale des mineurs relatives aux mesures de sûreté s'appliquent
+immédiatement lorsqu'elles sont plus favorables aux mineurs à l'encontre desquels ces poursuites sont engagées.
 
 **Liens relatifs à cet article**
-
-**Liens**:
-
-  - SPEC_APPLI: Loi n°92-683 1992-07-22 art. 1
-  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
 
 _Codifié par_:
 
@@ -2180,7 +2182,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2002-1138 du 9 septembre 2002 - art. 11 () JORF 10 septembre 2002
+  - Ordonnance n°2019-950 du 11 septembre 2019 - art. 3
 
 
 ###### Article 122-9
@@ -39195,16 +39197,19 @@ _Cité par_:
 ###### Article 711-1
 
 Sous réserve des adaptations prévues au présent titre, les livres Ier à V sont applicables, dans leur rédaction résultant de
-l'ordonnance n° 2019-1015 du 2 octobre 2019, en Nouvelle-Calédonie, en Polynésie française et dans les îles Wallis et Futuna.
-
-Sous réserve des adaptations prévues au présent titre, les livres Ier à V du présent code sont applicables, dans leur
-rédaction résultant de la loi n° 2019-1480 du 28 décembre 2019 visant à agir contre les violences au sein de la famille, en
+l'ordonnance n° 2019-950 du 11 septembre 2019 portant partie législative du code de la justice pénale des mineurs, en
 Nouvelle-Calédonie, en Polynésie française et dans les îles Wallis et Futuna.
 
 **Nota:**
 
-Conformément à l'article 50 de l’ordonnance n° 2019-1015 du 2 octobre 2019, ces dispositions entrent en vigueur le 1er
-janvier 2020.
+Conformément à l'article 10 de l'ordonnance n° 2019-950 du 11 septembre 2019, les dispositions du code de la justice pénale
+des mineurs, relatives à la procédure pénale, sont applicables aux poursuites engagées à compter de son entrée en vigueur.
+Les poursuites engagées avant cette date se poursuivent jusqu'à leur terme conformément aux dispositions du code de procédure
+pénale et de l'ordonnance n° 45-174 du 2 février 1945 relative à l'enfance délinquante dans leur version applicable avant
+cette date.
+
+Toutefois, les dispositions du code de la justice pénale des mineurs relatives aux mesures de sûreté s'appliquent
+immédiatement lorsqu'elles sont plus favorables aux mineurs à l'encontre desquels ces poursuites sont engagées.
 
 **Liens relatifs à cet article**
 
@@ -39214,7 +39219,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2019-1480 du 28 décembre 2019 - art. 19 (V)
+  - Ordonnance n°2019-950 du 11 septembre 2019 - art. 8 (VD)
 
 _Cité par_:
 
